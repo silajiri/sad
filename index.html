@@ -108,7 +108,7 @@ function formsHtml(v,sp){
   else txt=f.stock.map((s,i)=>f.prices[i]?'<span class="'+(s?'ok':'no')+'" title="'+(s?'skladem':'není skladem')+'">'+FORMS[i]+' '+f.prices[i]+' Kč</span>':'').filter(Boolean).join(' · ');
   return '<div><b>'+(f.kind==='kontejner'?'V kontejneru':'Prostokořenné')+'</b>'+(f.pod?' · podnož '+esc(f.pod):'')+'<br>'+txt+'</div>'}).join('')}
 const NOUN={jablone:'jabloň',hrusne:'hrušeň',svestky:'švestka',renklody:'renklóda',tresne:'třešeň',visne:'višeň',broskvone:'broskvoň',merunky:'meruňka',oresaky:'ořešák',ostatni:'',rybizy:'',ostruziny:''};
-function none(name,q){return '<div class="none"><span>🌱</span>Fotka plodů zatím chybí<br>'+(q?'<a href="https://www.google.com/search?tbm=isch&q='+q+'" target="_blank" rel="noopener">hledat fotky</a>':'')+'</div>'}
+function none(name,q){return '<div class="none"><span>🌱</span>Fotka plodů zatím chybí<br>'+(q?'<a href="https://www.google.com/search?tbm=isch&q='+q+'" target="_blank" rel="noopener">fotky (Google)</a> · <a href="https://obrazky.cz/?q='+q+'" target="_blank" rel="noopener">Seznam</a> · <a href="https://cs.wikipedia.org/w/index.php?search='+encodeURIComponent(name)+'" target="_blank" rel="noopener">Wikipedie</a>':'')+'</div>'}
 window.none=none;
 function card(v,sp){
  const d=v.d,x=v.v;
