@@ -1,0 +1,733 @@
+- generic [active] [ref=f27e1]:
+  - banner [ref=f27e2]:
+    - generic [ref=f27e3]:
+      - link [ref=f27e4] [cursor=pointer]:
+        - /url: /?FORM=Z9FD1
+        - heading "Back to Bing search" [level=1] [ref=f27e5]
+      - search [ref=f27e6]:
+        - button "Search" [ref=f27e9] [cursor=pointer]
+        - searchbox "Enter your search here – Search suggestions will show as you type" [ref=f27e10]: hruška Kočičí hlava plody
+        - button "Search using voice" [ref=f27e14] [cursor=pointer]
+        - button "Search using an image" [ref=f27e17] [cursor=pointer]
+    - complementary "Account Rewards and Preferences" [ref=f27e18]:
+      - button "Microsoft Rewards" [ref=f27e19] [cursor=pointer]:
+        - generic [ref=f27e20]: Rewards
+      - link [ref=f27e36] [cursor=pointer]:
+        - /url: javascript:void(0)
+        - button "Sign in" [ref=f27e39]
+      - button "Settings and quick links" [ref=f27e40] [cursor=pointer]
+    - navigation "Search Filter" [ref=f27e41]:
+      - list [ref=f27e42]:
+        - listitem [ref=f27e43]:
+          - link "All" [ref=f27e44] [cursor=pointer]:
+            - /url: /search?q=hru%c5%a1ka+Ko%c4%8di%c4%8d%c3%ad+hlava+plody&FORM=HDRSC1
+        - listitem [ref=f27e45]:
+          - link "Search" [ref=f27e46] [cursor=pointer]:
+            - /url: /copilotsearch?q=hru%c5%a1ka+Ko%c4%8di%c4%8d%c3%ad+hlava+plody&FORM=CSSCOP
+        - listitem [ref=f27e49]:
+          - link "Web Mode" [ref=f27e50] [cursor=pointer]:
+            - /url: /search?q=hru%c5%a1ka+Ko%c4%8di%c4%8d%c3%ad+hlava+plody&webscp=1&FORM=HDRWSC
+        - listitem [ref=f27e51]:
+          - link "Images" [ref=f27e52] [cursor=pointer]:
+            - /url: /images?FORM=HDRSC3
+        - listitem [ref=f27e53]:
+          - list [ref=f27e54]:
+            - listitem [ref=f27e55]:
+              - link "Create" [ref=f27e56] [cursor=pointer]:
+                - /url: /images/create/ai-image-generator?FORM=IRPGEN
+            - listitem [ref=f27e61]:
+              - link "Collections" [ref=f27e62] [cursor=pointer]:
+                - /url: /saves?FORM=IRPCOL
+        - listitem [ref=f27e66]:
+          - link "Videos" [ref=f27e67] [cursor=pointer]:
+            - /url: /videos/search?q=hru%c5%a1ka+Ko%c4%8di%c4%8d%c3%ad+hlava+plody&FORM=HDRSC4
+        - listitem [ref=f27e68]:
+          - link "Maps" [ref=f27e69] [cursor=pointer]:
+            - /url: /maps?q=hru%c5%a1ka+Ko%c4%8di%c4%8d%c3%ad+hlava+plody&FORM=HDRSC6
+        - listitem [ref=f27e70]:
+          - link "News" [ref=f27e71] [cursor=pointer]:
+            - /url: /news/search?q=hru%c5%a1ka+Ko%c4%8di%c4%8d%c3%ad+hlava+plody&FORM=HDRSC7
+        - listitem [ref=f27e72]:
+          - link "Copilot" [ref=f27e73] [cursor=pointer]:
+            - /url: /chat?prompt=hru%c5%a1ka+Ko%c4%8di%c4%8d%c3%ad+hlava+plody&sendquery=1&FORM=SCCODX
+        - listitem [ref=f27e74]:
+          - button "More" [ref=f27e75] [cursor=pointer]
+      - generic [ref=f27e79]:
+        - generic [ref=f27e80]:
+          - list:
+            - listitem [ref=f27e81]:
+              - generic [ref=f27e82]: "SafeSearch:"
+            - listitem [ref=f27e83]:
+              - button "Moderate SafeSearch:" [ref=f27e84] [cursor=pointer]:
+                - generic [ref=f27e85]: Moderate
+        - button "Filter" [ref=f27e88] [cursor=pointer]
+  - main [ref=f27e91]:
+    - navigation [aria-hidden] [ref=f27e92]:
+      - generic [ref=f27e96]:
+        - link [ref=f27e98] [cursor=pointer]:
+          - /url: /images/search?q=Kocici+Odysea&FORM=IRMHRS
+          - strong [ref=f27e101]: Kocici Odysea
+        - link [ref=f27e103] [cursor=pointer]:
+          - /url: /images/search?q=Kocici+Zachod&FORM=IRMHRS
+          - strong [ref=f27e106]: Kocici Zachod
+        - link [ref=f27e108] [cursor=pointer]:
+          - /url: /images/search?q=OCI+Hlava&FORM=IRMHRS
+          - generic [ref=f27e110]:
+            - strong [ref=f27e111]: OCI
+            - text: Hlava
+        - link [ref=f27e113] [cursor=pointer]:
+          - /url: /images/search?q=Kocici+Valecnici&FORM=IRMHRS
+          - strong [ref=f27e116]: Kocici Valecnici
+        - link [ref=f27e118] [cursor=pointer]:
+          - /url: /images/search?q=Kocicka+Omalovanka&FORM=IRMHRS
+          - strong [ref=f27e121]: Kocicka Omalovanka
+        - link [ref=f27e123] [cursor=pointer]:
+          - /url: /images/search?q=Zv%c3%ad%c5%99ec%c3%ad+Ko%c5%beich&FORM=IRMHRS
+          - strong [ref=f27e126]: Zvířecí Kožich
+        - link [ref=f27e128] [cursor=pointer]:
+          - /url: /images/search?q=Ko%c4%8di%c4%8di+Hlavy+Dla%c5%beba&FORM=IRMHRS
+          - strong [ref=f27e131]: Kočiči Hlavy Dlažba
+        - link [ref=f27e133] [cursor=pointer]:
+          - /url: /images/search?q=Blaha+Kokotia+Hlava&FORM=IRMHRS
+          - generic [ref=f27e135]:
+            - strong [ref=f27e136]: Blaha Kokotia
+            - text: Hlava
+    - generic "Suggested searches" [ref=f27e140]:
+      - navigation [ref=f27e141]:
+        - region "Carousel" [ref=f27e142]:
+          - list [ref=f27e146]:
+            - listitem [ref=f27e147]:
+              - link [ref=f27e148] [cursor=pointer]:
+                - /url: /images/search?q=Kocici+Odysea&FORM=RESTAB
+                - img "Kocici Odysea" [ref=f27e150]
+                - strong [ref=f27e153]: Kocici Odysea
+            - listitem [ref=f27e154]:
+              - link [ref=f27e155] [cursor=pointer]:
+                - /url: /images/search?q=Kocici+Zachod&FORM=RESTAB
+                - img "Kocici Zachod" [ref=f27e157]
+                - strong [ref=f27e160]: Kocici Zachod
+            - listitem [ref=f27e161]:
+              - link [ref=f27e162] [cursor=pointer]:
+                - /url: /images/search?q=OCI+Hlava&FORM=RESTAB
+                - img "OCI Hlava" [ref=f27e164]
+                - generic [aria-hidden] [ref=f27e166]:
+                  - strong [ref=f27e167]: OCI
+                  - text: Hlava
+            - listitem [ref=f27e168]:
+              - link [ref=f27e169] [cursor=pointer]:
+                - /url: /images/search?q=Kocici+Valecnici&FORM=RESTAB
+                - img "Kocici Valecnici" [ref=f27e171]
+                - strong [ref=f27e174]: Kocici Valecnici
+            - listitem [ref=f27e175]:
+              - link [ref=f27e176] [cursor=pointer]:
+                - /url: /images/search?q=Kocicka+Omalovanka&FORM=RESTAB
+                - img "Kocicka Omalovanka" [ref=f27e178]
+                - strong [ref=f27e181]: Kocicka Omalovanka
+            - listitem [ref=f27e182]:
+              - link [ref=f27e183] [cursor=pointer]:
+                - /url: /images/search?q=Zv%c3%ad%c5%99ec%c3%ad+Ko%c5%beich&FORM=RESTAB
+                - img "Zvířecí Kožich" [ref=f27e185]
+                - strong [ref=f27e188]: Zvířecí Kožich
+            - listitem [ref=f27e189]:
+              - link [ref=f27e190] [cursor=pointer]:
+                - /url: /images/search?q=Ko%c4%8di%c4%8di+Hlavy+Dla%c5%beba&FORM=RESTAB
+                - img "Kočiči Hlavy Dlažba" [ref=f27e192]
+                - strong [ref=f27e195]: Kočiči Hlavy Dlažba
+            - listitem [ref=f27e196]:
+              - link [ref=f27e197] [cursor=pointer]:
+                - /url: /images/search?q=Blaha+Kokotia+Hlava&FORM=RESTAB
+                - img "Blaha Kokotia Hlava" [ref=f27e199]
+                - generic [aria-hidden] [ref=f27e201]:
+                  - strong [ref=f27e202]: Blaha Kokotia
+                  - text: Hlava
+          - button "Scroll right" [ref=f27e203] [cursor=pointer]
+    - generic [ref=f27e207]:
+      - list [ref=f27e208]:
+        - listitem [ref=f27e209]:
+          - generic [ref=f27e210]:
+            - generic [ref=f27e211]:
+              - link "Image result for hruška Kočičí hlava plody" [ref=f27e212] [cursor=pointer]:
+                - /url: /images/search?view=detailV2&ccid=mboMwOpz&id=544AF5162D4843F8A4E8727AF35C0E0A804B934C&thid=OIP.mboMwOpz_QXD5jFp2fSoggHaE7&mediaurl=https%3a%2f%2fhnojik.sk%2fwp-content%2fuploads%2f2024%2f05%2fyoung-pears-on-a-tree-close-up-.jpg&cdnurl=https%3a%2f%2fth.bing.com%2fth%2fid%2fR.99ba0cc0ea73fd05c3e63169d9f4a882%3frik%3dTJNLgAoOXPN6cg%26pid%3dImgRaw%26r%3d0&exph=1333&expw=2000&q=hru%c5%a1ka+Ko%c4%8di%c4%8d%c3%ad+hlava+plody&FORM=IRPRST&ck=FA9E35C3497C3FA1335023FBD527C0A7&selectedIndex=0&itb=0
+                - generic [ref=f27e214]:
+                  - img "Image result for hruška Kočičí hlava plody" [ref=f27e216]
+                  - generic:
+                    - img "Image result for hruška Kočičí hlava plody"
+                    - img "Image result for hruška Kočičí hlava plody"
+                    - img "Image result for hruška Kočičí hlava plody"
+              - link "Gallery" [ref=f27e217] [cursor=pointer]:
+                - /url: /images/search?view=detailV2&ccid=mboMwOpz&id=544AF5162D4843F8A4E8727AF35C0E0A804B934C&thid=OIP.mboMwOpz_QXD5jFp2fSoggHaE7&mediaurl=https%3a%2f%2fhnojik.sk%2fwp-content%2fuploads%2f2024%2f05%2fyoung-pears-on-a-tree-close-up-.jpg&cdnurl=https%3a%2f%2fth.bing.com%2fth%2fid%2fR.99ba0cc0ea73fd05c3e63169d9f4a882%3frik%3dTJNLgAoOXPN6cg%26pid%3dImgRaw%26r%3d0&exph=1333&expw=2000&q=hru%c5%a1ka+Ko%c4%8di%c4%8d%c3%ad+hlava+plody&FORM=IRPRST&ck=FA9E35C3497C3FA1335023FBD527C0A7&selectedIndex=0&itb=0
+              - generic:
+                - generic: 2000×1333
+                - generic:
+                  - link "hnojik.sk":
+                    - /url: https://hnojik.sk/hruska/
+            - generic [ref=f27e219]:
+              - link "Hruška - Najlepšie odrody, rez a ochrana | Hnojík.SK" [ref=f27e220] [cursor=pointer]:
+                - /url: /images/search?view=detailV2&ccid=mboMwOpz&id=544AF5162D4843F8A4E8727AF35C0E0A804B934C&thid=OIP.mboMwOpz_QXD5jFp2fSoggHaE7&mediaurl=https%3a%2f%2fhnojik.sk%2fwp-content%2fuploads%2f2024%2f05%2fyoung-pears-on-a-tree-close-up-.jpg&cdnurl=https%3a%2f%2fth.bing.com%2fth%2fid%2fR.99ba0cc0ea73fd05c3e63169d9f4a882%3frik%3dTJNLgAoOXPN6cg%26pid%3dImgRaw%26r%3d0&exph=1333&expw=2000&q=hru%c5%a1ka+Ko%c4%8di%c4%8d%c3%ad+hlava+plody&FORM=IRPRST&ck=FA9E35C3497C3FA1335023FBD527C0A7&selectedIndex=0&itb=0
+              - generic:
+                - generic:
+                  - list:
+                    - listitem:
+                      - link "Hruška - Najlepšie odrody, rez a ochrana | Hnojík.SK" [ref=f27e221] [cursor=pointer]:
+                        - /url: /images/search?view=detailV2&ccid=mboMwOpz&id=544AF5162D4843F8A4E8727AF35C0E0A804B934C&thid=OIP.mboMwOpz_QXD5jFp2fSoggHaE7&mediaurl=https%3a%2f%2fhnojik.sk%2fwp-content%2fuploads%2f2024%2f05%2fyoung-pears-on-a-tree-close-up-.jpg&cdnurl=https%3a%2f%2fth.bing.com%2fth%2fid%2fR.99ba0cc0ea73fd05c3e63169d9f4a882%3frik%3dTJNLgAoOXPN6cg%26pid%3dImgRaw%26r%3d0&exph=1333&expw=2000&q=hru%c5%a1ka+Ko%c4%8di%c4%8d%c3%ad+hlava+plody&FORM=IRPRST&ck=FA9E35C3497C3FA1335023FBD527C0A7&selectedIndex=0&itb=0
+        - listitem [ref=f27e222]:
+          - generic [ref=f27e223]:
+            - link "Image result for hruška Kočičí hlava plody" [ref=f27e225] [cursor=pointer]:
+              - /url: /images/search?view=detailV2&ccid=TbYufYON&id=93786C1FA337143D6A15A17E3A29851470BCE895&thid=OIP.TbYufYONHTNSvfdx39JjawAAAA&mediaurl=https%3a%2f%2fwww.rostlinky.cz%2fmedia%2fwysiwyg%2fBlogy%2fBlog_clanok_280x375%2fhrusky-pestovanie.jpg&cdnurl=https%3a%2f%2fth.bing.com%2fth%2fid%2fR.4db62e7d838d1d3352bdf771dfd2636b%3frik%3dlei8cBSFKTp%252boQ%26pid%3dImgRaw%26r%3d0&exph=315&expw=420&q=hru%c5%a1ka+Ko%c4%8di%c4%8d%c3%ad+hlava+plody&FORM=IRPRST&ck=2C368941D49EC47713FB1A90118C3E24&selectedIndex=1&itb=0
+              - img "Image result for hruška Kočičí hlava plody" [ref=f27e227]
+            - generic [ref=f27e228]:
+              - link "Pěstování hrušní - sladká pochoutka ze zahrady | rostlinky.cz" [ref=f27e229] [cursor=pointer]:
+                - /url: /images/search?view=detailV2&ccid=TbYufYON&id=93786C1FA337143D6A15A17E3A29851470BCE895&thid=OIP.TbYufYONHTNSvfdx39JjawAAAA&mediaurl=https%3a%2f%2fwww.rostlinky.cz%2fmedia%2fwysiwyg%2fBlogy%2fBlog_clanok_280x375%2fhrusky-pestovanie.jpg&cdnurl=https%3a%2f%2fth.bing.com%2fth%2fid%2fR.4db62e7d838d1d3352bdf771dfd2636b%3frik%3dlei8cBSFKTp%252boQ%26pid%3dImgRaw%26r%3d0&exph=315&expw=420&q=hru%c5%a1ka+Ko%c4%8di%c4%8d%c3%ad+hlava+plody&FORM=IRPRST&ck=2C368941D49EC47713FB1A90118C3E24&selectedIndex=1&itb=0
+              - generic:
+                - generic:
+                  - list:
+                    - listitem:
+                      - link "Pěstování hrušní - sladká pochoutka ze zahrady | rostlinky.cz" [ref=f27e230] [cursor=pointer]:
+                        - /url: /images/search?view=detailV2&ccid=TbYufYON&id=93786C1FA337143D6A15A17E3A29851470BCE895&thid=OIP.TbYufYONHTNSvfdx39JjawAAAA&mediaurl=https%3a%2f%2fwww.rostlinky.cz%2fmedia%2fwysiwyg%2fBlogy%2fBlog_clanok_280x375%2fhrusky-pestovanie.jpg&cdnurl=https%3a%2f%2fth.bing.com%2fth%2fid%2fR.4db62e7d838d1d3352bdf771dfd2636b%3frik%3dlei8cBSFKTp%252boQ%26pid%3dImgRaw%26r%3d0&exph=315&expw=420&q=hru%c5%a1ka+Ko%c4%8di%c4%8d%c3%ad+hlava+plody&FORM=IRPRST&ck=2C368941D49EC47713FB1A90118C3E24&selectedIndex=1&itb=0
+        - listitem [ref=f27e231]:
+          - generic [ref=f27e232]:
+            - link "Image result for hruška Kočičí hlava plody" [ref=f27e234] [cursor=pointer]:
+              - /url: /images/search?view=detailV2&ccid=AEIuByvd&id=3F864D0C4B70B80A45938EC052FF8C9C6BEC3B42&thid=OIP.AEIuByvdAnKPV3bxrA0lwgHaI4&mediaurl=https%3a%2f%2fwww.novochag.ru%2fupload%2fimg_cache%2ff7c%2ff7c70fca851963a34c8309089a91202f_cropped_510x612.webp&cdnurl=https%3a%2f%2fth.bing.com%2fth%2fid%2fR.00422e072bdd02728f5776f1ac0d25c2%3frik%3dQjvsa5yM%252f1LAjg%26pid%3dImgRaw%26r%3d0&exph=612&expw=510&q=hru%c5%a1ka+Ko%c4%8di%c4%8d%c3%ad+hlava+plody&FORM=IRPRST&ck=E1099455994A2B6444DF514C0F6E6AB7&selectedIndex=2&itb=0
+              - img "Image result for hruška Kočičí hlava plody" [ref=f27e236]
+            - generic [ref=f27e237]:
+              - link "Jak vypadá hruška?" [ref=f27e238] [cursor=pointer]:
+                - /url: /images/search?view=detailV2&ccid=AEIuByvd&id=3F864D0C4B70B80A45938EC052FF8C9C6BEC3B42&thid=OIP.AEIuByvdAnKPV3bxrA0lwgHaI4&mediaurl=https%3a%2f%2fwww.novochag.ru%2fupload%2fimg_cache%2ff7c%2ff7c70fca851963a34c8309089a91202f_cropped_510x612.webp&cdnurl=https%3a%2f%2fth.bing.com%2fth%2fid%2fR.00422e072bdd02728f5776f1ac0d25c2%3frik%3dQjvsa5yM%252f1LAjg%26pid%3dImgRaw%26r%3d0&exph=612&expw=510&q=hru%c5%a1ka+Ko%c4%8di%c4%8d%c3%ad+hlava+plody&FORM=IRPRST&ck=E1099455994A2B6444DF514C0F6E6AB7&selectedIndex=2&itb=0
+              - generic:
+                - generic:
+                  - list:
+                    - listitem:
+                      - link "Jak vypadá hruška?" [ref=f27e239] [cursor=pointer]:
+                        - /url: /images/search?view=detailV2&ccid=AEIuByvd&id=3F864D0C4B70B80A45938EC052FF8C9C6BEC3B42&thid=OIP.AEIuByvdAnKPV3bxrA0lwgHaI4&mediaurl=https%3a%2f%2fwww.novochag.ru%2fupload%2fimg_cache%2ff7c%2ff7c70fca851963a34c8309089a91202f_cropped_510x612.webp&cdnurl=https%3a%2f%2fth.bing.com%2fth%2fid%2fR.00422e072bdd02728f5776f1ac0d25c2%3frik%3dQjvsa5yM%252f1LAjg%26pid%3dImgRaw%26r%3d0&exph=612&expw=510&q=hru%c5%a1ka+Ko%c4%8di%c4%8d%c3%ad+hlava+plody&FORM=IRPRST&ck=E1099455994A2B6444DF514C0F6E6AB7&selectedIndex=2&itb=0
+        - listitem [ref=f27e240]:
+          - generic [ref=f27e241]:
+            - link "Image result for hruška Kočičí hlava plody" [ref=f27e243] [cursor=pointer]:
+              - /url: /images/search?view=detailV2&ccid=MqXsS1mP&id=430913964C1645147AE1D4595AAAC30C5A016D44&thid=OIP.MqXsS1mPw6A8JaYsmUXlLgHaJ4&mediaurl=https%3a%2f%2fdam.production02.nmh.nmheagle.sk%2fapi%2fimage%2f1680x2240%2f432%2f43229b80-5100-43db-91f3-2699ded039e1.webp&cdnurl=https%3a%2f%2fth.bing.com%2fth%2fid%2fR.32a5ec4b598fc3a03c25a62c9945e52e%3frik%3dRG0BWgzDqlpZ1A%26pid%3dImgRaw%26r%3d0&exph=2240&expw=1680&q=hru%c5%a1ka+Ko%c4%8di%c4%8d%c3%ad+hlava+plody&FORM=IRPRST&ck=C49A1079C2E2892C7F520DB9C25AA7B9&selectedIndex=3&itb=0
+              - img "Image result for hruška Kočičí hlava plody" [ref=f27e245]
+            - generic [ref=f27e246]:
+              - link "Najzdravšie druhy ovocia, ktoré rastú aj v našich záhradách" [ref=f27e247] [cursor=pointer]:
+                - /url: /images/search?view=detailV2&ccid=MqXsS1mP&id=430913964C1645147AE1D4595AAAC30C5A016D44&thid=OIP.MqXsS1mPw6A8JaYsmUXlLgHaJ4&mediaurl=https%3a%2f%2fdam.production02.nmh.nmheagle.sk%2fapi%2fimage%2f1680x2240%2f432%2f43229b80-5100-43db-91f3-2699ded039e1.webp&cdnurl=https%3a%2f%2fth.bing.com%2fth%2fid%2fR.32a5ec4b598fc3a03c25a62c9945e52e%3frik%3dRG0BWgzDqlpZ1A%26pid%3dImgRaw%26r%3d0&exph=2240&expw=1680&q=hru%c5%a1ka+Ko%c4%8di%c4%8d%c3%ad+hlava+plody&FORM=IRPRST&ck=C49A1079C2E2892C7F520DB9C25AA7B9&selectedIndex=3&itb=0
+              - generic:
+                - generic:
+                  - list:
+                    - listitem:
+                      - link "Najzdravšie druhy ovocia, ktoré rast…" [ref=f27e248] [cursor=pointer]:
+                        - /url: /images/search?view=detailV2&ccid=MqXsS1mP&id=430913964C1645147AE1D4595AAAC30C5A016D44&thid=OIP.MqXsS1mPw6A8JaYsmUXlLgHaJ4&mediaurl=https%3a%2f%2fdam.production02.nmh.nmheagle.sk%2fapi%2fimage%2f1680x2240%2f432%2f43229b80-5100-43db-91f3-2699ded039e1.webp&cdnurl=https%3a%2f%2fth.bing.com%2fth%2fid%2fR.32a5ec4b598fc3a03c25a62c9945e52e%3frik%3dRG0BWgzDqlpZ1A%26pid%3dImgRaw%26r%3d0&exph=2240&expw=1680&q=hru%c5%a1ka+Ko%c4%8di%c4%8d%c3%ad+hlava+plody&FORM=IRPRST&ck=C49A1079C2E2892C7F520DB9C25AA7B9&selectedIndex=3&itb=0
+        - listitem [ref=f27e249]:
+          - generic [ref=f27e250]:
+            - link "Image result for hruška Kočičí hlava plody" [ref=f27e252] [cursor=pointer]:
+              - /url: /images/search?view=detailV2&ccid=UOKzeUDB&id=562EB2912673AC66DF19A9CEAB719D727CF6C54E&thid=OIP.UOKzeUDBF4LQD82tOABmvgHaHa&mediaurl=https%3a%2f%2fzelenydom.com%2fwp-content%2fuploads%2f2023%2f10%2fDizajn-bez-nazvu-4.png&cdnurl=https%3a%2f%2fth.bing.com%2fth%2fid%2fR.50e2b37940c11782d00fcdad380066be%3frik%3dTsX2fHKdcavOqQ%26pid%3dImgRaw%26r%3d0&exph=1080&expw=1080&q=hru%c5%a1ka+Ko%c4%8di%c4%8d%c3%ad+hlava+plody&FORM=IRPRST&ck=149E8D643114FC84A8D0122D3FE42CCE&selectedIndex=4&itb=0
+              - img "Image result for hruška Kočičí hlava plody" [ref=f27e254]
+            - generic [ref=f27e255]:
+              - link "Pestovanie hrušky - Ako na to? (manuál od A po Z)" [ref=f27e256] [cursor=pointer]:
+                - /url: /images/search?view=detailV2&ccid=UOKzeUDB&id=562EB2912673AC66DF19A9CEAB719D727CF6C54E&thid=OIP.UOKzeUDBF4LQD82tOABmvgHaHa&mediaurl=https%3a%2f%2fzelenydom.com%2fwp-content%2fuploads%2f2023%2f10%2fDizajn-bez-nazvu-4.png&cdnurl=https%3a%2f%2fth.bing.com%2fth%2fid%2fR.50e2b37940c11782d00fcdad380066be%3frik%3dTsX2fHKdcavOqQ%26pid%3dImgRaw%26r%3d0&exph=1080&expw=1080&q=hru%c5%a1ka+Ko%c4%8di%c4%8d%c3%ad+hlava+plody&FORM=IRPRST&ck=149E8D643114FC84A8D0122D3FE42CCE&selectedIndex=4&itb=0
+              - generic:
+                - generic:
+                  - list:
+                    - listitem:
+                      - link "Pestovanie hrušky - Ako na to? (manuál od A po Z)" [ref=f27e257] [cursor=pointer]:
+                        - /url: /images/search?view=detailV2&ccid=UOKzeUDB&id=562EB2912673AC66DF19A9CEAB719D727CF6C54E&thid=OIP.UOKzeUDBF4LQD82tOABmvgHaHa&mediaurl=https%3a%2f%2fzelenydom.com%2fwp-content%2fuploads%2f2023%2f10%2fDizajn-bez-nazvu-4.png&cdnurl=https%3a%2f%2fth.bing.com%2fth%2fid%2fR.50e2b37940c11782d00fcdad380066be%3frik%3dTsX2fHKdcavOqQ%26pid%3dImgRaw%26r%3d0&exph=1080&expw=1080&q=hru%c5%a1ka+Ko%c4%8di%c4%8d%c3%ad+hlava+plody&FORM=IRPRST&ck=149E8D643114FC84A8D0122D3FE42CCE&selectedIndex=4&itb=0
+      - list [ref=f27e258]:
+        - listitem [ref=f27e259]:
+          - generic [ref=f27e260]:
+            - link "Image result for hruška Kočičí hlava plody" [ref=f27e262] [cursor=pointer]:
+              - /url: /images/search?view=detailV2&ccid=co2pJMXk&id=EEF54AE97A33D9376FFB65DB53385F70010C7DC2&thid=OIP.co2pJMXkfcemT6NtBKb6_QHaEK&mediaurl=https%3a%2f%2fdam.nmhmedia.sk%2fimage%2f08923910-80ff-4f59-a55a-de80d8bb8acb_dam-url3eu9n4.jpg%2f960%2f540&cdnurl=https%3a%2f%2fth.bing.com%2fth%2fid%2fR.728da924c5e47dc7a64fa36d04a6fafd%3frik%3dwn0MAXBfOFPbZQ%26pid%3dImgRaw%26r%3d0&exph=540&expw=960&q=hru%c5%a1ka+Ko%c4%8di%c4%8d%c3%ad+hlava+plody&FORM=IRPRST&ck=A49FB787B2084CC03482779985620442&selectedIndex=5&itb=0
+              - img "Image result for hruška Kočičí hlava plody" [ref=f27e264]
+            - generic [ref=f27e265]:
+              - link "Prečo opadávajú plody z hrušiek? Aj toto je možná príčina" [ref=f27e266] [cursor=pointer]:
+                - /url: /images/search?view=detailV2&ccid=co2pJMXk&id=EEF54AE97A33D9376FFB65DB53385F70010C7DC2&thid=OIP.co2pJMXkfcemT6NtBKb6_QHaEK&mediaurl=https%3a%2f%2fdam.nmhmedia.sk%2fimage%2f08923910-80ff-4f59-a55a-de80d8bb8acb_dam-url3eu9n4.jpg%2f960%2f540&cdnurl=https%3a%2f%2fth.bing.com%2fth%2fid%2fR.728da924c5e47dc7a64fa36d04a6fafd%3frik%3dwn0MAXBfOFPbZQ%26pid%3dImgRaw%26r%3d0&exph=540&expw=960&q=hru%c5%a1ka+Ko%c4%8di%c4%8d%c3%ad+hlava+plody&FORM=IRPRST&ck=A49FB787B2084CC03482779985620442&selectedIndex=5&itb=0
+              - generic:
+                - generic:
+                  - list:
+                    - listitem:
+                      - link "Prečo opadávajú plody z hrušiek? Aj toto je možná príčina" [ref=f27e267] [cursor=pointer]:
+                        - /url: /images/search?view=detailV2&ccid=co2pJMXk&id=EEF54AE97A33D9376FFB65DB53385F70010C7DC2&thid=OIP.co2pJMXkfcemT6NtBKb6_QHaEK&mediaurl=https%3a%2f%2fdam.nmhmedia.sk%2fimage%2f08923910-80ff-4f59-a55a-de80d8bb8acb_dam-url3eu9n4.jpg%2f960%2f540&cdnurl=https%3a%2f%2fth.bing.com%2fth%2fid%2fR.728da924c5e47dc7a64fa36d04a6fafd%3frik%3dwn0MAXBfOFPbZQ%26pid%3dImgRaw%26r%3d0&exph=540&expw=960&q=hru%c5%a1ka+Ko%c4%8di%c4%8d%c3%ad+hlava+plody&FORM=IRPRST&ck=A49FB787B2084CC03482779985620442&selectedIndex=5&itb=0
+        - listitem [ref=f27e268]:
+          - generic [ref=f27e269]:
+            - generic [ref=f27e270]:
+              - link "Image result for hruška Kočičí hlava plody" [ref=f27e271] [cursor=pointer]:
+                - /url: /images/search?view=detailV2&ccid=Siz6uhGT&id=0389F805E9783AECF2ED74CA3353975FC3C0B832&thid=OIP.Siz6uhGTKA7QjRodfF7MQwHaE8&mediaurl=https%3a%2f%2fpixnio.com%2ffree-images%2f2019%2f06%2f18%2f2019-06-18-11-42-01-1200x800.jpg&cdnurl=https%3a%2f%2fth.bing.com%2fth%2fid%2fR.4a2cfaba1193280ed08d1a1d7c5ecc43%3frik%3dMrjAw1%252bXUzPKdA%26pid%3dImgRaw%26r%3d0&exph=800&expw=1200&q=hru%c5%a1ka+Ko%c4%8di%c4%8d%c3%ad+hlava+plody&FORM=IRPRST&ck=CDD38809EE40DD14B3EF2533BF8D4B55&selectedIndex=6&itb=0
+                - generic [ref=f27e273]:
+                  - img "Image result for hruška Kočičí hlava plody" [ref=f27e275]
+                  - generic:
+                    - img "Image result for hruška Kočičí hlava plody"
+                    - img "Image result for hruška Kočičí hlava plody"
+              - link "Gallery" [ref=f27e276] [cursor=pointer]:
+                - /url: /images/search?view=detailV2&ccid=Siz6uhGT&id=0389F805E9783AECF2ED74CA3353975FC3C0B832&thid=OIP.Siz6uhGTKA7QjRodfF7MQwHaE8&mediaurl=https%3a%2f%2fpixnio.com%2ffree-images%2f2019%2f06%2f18%2f2019-06-18-11-42-01-1200x800.jpg&cdnurl=https%3a%2f%2fth.bing.com%2fth%2fid%2fR.4a2cfaba1193280ed08d1a1d7c5ecc43%3frik%3dMrjAw1%252bXUzPKdA%26pid%3dImgRaw%26r%3d0&exph=800&expw=1200&q=hru%c5%a1ka+Ko%c4%8di%c4%8d%c3%ad+hlava+plody&FORM=IRPRST&ck=CDD38809EE40DD14B3EF2533BF8D4B55&selectedIndex=6&itb=0
+              - generic:
+                - generic: 1200×800
+                - generic:
+                  - link "pixnio.com":
+                    - /url: https://pixnio.com/cs/media/ovocny-sad-organicky-hruska-hrusky-priroda
+            - generic [ref=f27e278]:
+              - 'link "Bezplatný obrázek: ovocný sad, organický, hruška, hrušky, Příroda, list ..." [ref=f27e279] [cursor=pointer]':
+                - /url: /images/search?view=detailV2&ccid=Siz6uhGT&id=0389F805E9783AECF2ED74CA3353975FC3C0B832&thid=OIP.Siz6uhGTKA7QjRodfF7MQwHaE8&mediaurl=https%3a%2f%2fpixnio.com%2ffree-images%2f2019%2f06%2f18%2f2019-06-18-11-42-01-1200x800.jpg&cdnurl=https%3a%2f%2fth.bing.com%2fth%2fid%2fR.4a2cfaba1193280ed08d1a1d7c5ecc43%3frik%3dMrjAw1%252bXUzPKdA%26pid%3dImgRaw%26r%3d0&exph=800&expw=1200&q=hru%c5%a1ka+Ko%c4%8di%c4%8d%c3%ad+hlava+plody&FORM=IRPRST&ck=CDD38809EE40DD14B3EF2533BF8D4B55&selectedIndex=6&itb=0
+              - generic:
+                - generic:
+                  - list:
+                    - listitem:
+                      - 'link "Bezplatný obrázek: ovocný sad, organický, hruška, hrušky, Příroda, list ..." [ref=f27e280] [cursor=pointer]':
+                        - /url: /images/search?view=detailV2&ccid=Siz6uhGT&id=0389F805E9783AECF2ED74CA3353975FC3C0B832&thid=OIP.Siz6uhGTKA7QjRodfF7MQwHaE8&mediaurl=https%3a%2f%2fpixnio.com%2ffree-images%2f2019%2f06%2f18%2f2019-06-18-11-42-01-1200x800.jpg&cdnurl=https%3a%2f%2fth.bing.com%2fth%2fid%2fR.4a2cfaba1193280ed08d1a1d7c5ecc43%3frik%3dMrjAw1%252bXUzPKdA%26pid%3dImgRaw%26r%3d0&exph=800&expw=1200&q=hru%c5%a1ka+Ko%c4%8di%c4%8d%c3%ad+hlava+plody&FORM=IRPRST&ck=CDD38809EE40DD14B3EF2533BF8D4B55&selectedIndex=6&itb=0
+        - listitem [ref=f27e281]:
+          - generic [ref=f27e282]:
+            - link "Image result for hruška Kočičí hlava plody" [ref=f27e284] [cursor=pointer]:
+              - /url: /images/search?view=detailV2&ccid=qFi6YVaY&id=966A59FE014B6195643C86EEE64086B4CBE6F6BA&thid=OIP.qFi6YVaYo8xbe-VVnDTKIAHaEK&mediaurl=https%3a%2f%2fdam.production02.nmh.nmheagle.sk%2fapi%2fimage%2f1680x945%2ffbb%2ffbb6e592-1ba0-11ef-b315-ca36e7882062.webp&cdnurl=https%3a%2f%2fth.bing.com%2fth%2fid%2fR.a858ba615698a3cc5b7be5559c34ca20%3frik%3duvbmy7SGQObuhg%26pid%3dImgRaw%26r%3d0&exph=945&expw=1680&q=hru%c5%a1ka+Ko%c4%8di%c4%8d%c3%ad+hlava+plody&FORM=IRPRST&ck=86E517F4040B985EBDF16C9B8FC6A9DF&selectedIndex=7&itb=0
+              - img "Image result for hruška Kočičí hlava plody" [ref=f27e286]
+            - generic [ref=f27e287]:
+              - 'link "HRUŠKA nie je obyčajné ovocie: Jej vplyv na ZDRAVIE prekvapí" [ref=f27e288] [cursor=pointer]':
+                - /url: /images/search?view=detailV2&ccid=qFi6YVaY&id=966A59FE014B6195643C86EEE64086B4CBE6F6BA&thid=OIP.qFi6YVaYo8xbe-VVnDTKIAHaEK&mediaurl=https%3a%2f%2fdam.production02.nmh.nmheagle.sk%2fapi%2fimage%2f1680x945%2ffbb%2ffbb6e592-1ba0-11ef-b315-ca36e7882062.webp&cdnurl=https%3a%2f%2fth.bing.com%2fth%2fid%2fR.a858ba615698a3cc5b7be5559c34ca20%3frik%3duvbmy7SGQObuhg%26pid%3dImgRaw%26r%3d0&exph=945&expw=1680&q=hru%c5%a1ka+Ko%c4%8di%c4%8d%c3%ad+hlava+plody&FORM=IRPRST&ck=86E517F4040B985EBDF16C9B8FC6A9DF&selectedIndex=7&itb=0
+              - generic:
+                - generic:
+                  - list:
+                    - listitem:
+                      - 'link "HRUŠKA nie je obyčajné ovocie: Jej vplyv na ZDRAVIE prekvapí" [ref=f27e289] [cursor=pointer]':
+                        - /url: /images/search?view=detailV2&ccid=qFi6YVaY&id=966A59FE014B6195643C86EEE64086B4CBE6F6BA&thid=OIP.qFi6YVaYo8xbe-VVnDTKIAHaEK&mediaurl=https%3a%2f%2fdam.production02.nmh.nmheagle.sk%2fapi%2fimage%2f1680x945%2ffbb%2ffbb6e592-1ba0-11ef-b315-ca36e7882062.webp&cdnurl=https%3a%2f%2fth.bing.com%2fth%2fid%2fR.a858ba615698a3cc5b7be5559c34ca20%3frik%3duvbmy7SGQObuhg%26pid%3dImgRaw%26r%3d0&exph=945&expw=1680&q=hru%c5%a1ka+Ko%c4%8di%c4%8d%c3%ad+hlava+plody&FORM=IRPRST&ck=86E517F4040B985EBDF16C9B8FC6A9DF&selectedIndex=7&itb=0
+        - listitem [ref=f27e290]:
+          - generic [ref=f27e291]:
+            - link "Image result for hruška Kočičí hlava plody" [ref=f27e293] [cursor=pointer]:
+              - /url: /images/search?view=detailV2&ccid=PsYUPqPW&id=B80EFC24D67F60DDD064CB8E3175D603CEC3813C&thid=OIP.PsYUPqPWI_f0KFzZpf2tlwHaEq&mediaurl=https%3a%2f%2fwww.rbc.ua%2fstatic%2fimg%2fi%2fm%2fimg_4006_a00995b2dd02ada1e3ef0441ebd90279_650x410.jpg&cdnurl=https%3a%2f%2fth.bing.com%2fth%2fid%2fR.3ec6143ea3d623f7f4285cd9a5fdad97%3frik%3dPIHDzgPWdTGOyw%26pid%3dImgRaw%26r%3d0&exph=410&expw=650&q=hru%c5%a1ka+Ko%c4%8di%c4%8d%c3%ad+hlava+plody&FORM=IRPRST&ck=4C1F6F9E31B8B96C8C800FDBB584B621&selectedIndex=8&itb=0
+              - img "Image result for hruška Kočičí hlava plody" [ref=f27e295]
+            - generic [ref=f27e296]:
+              - link "Jsou divoké hrušky dobré pro tělo, nebo ne - Vlastnosti ovoce | RBC ..." [ref=f27e297] [cursor=pointer]:
+                - /url: /images/search?view=detailV2&ccid=PsYUPqPW&id=B80EFC24D67F60DDD064CB8E3175D603CEC3813C&thid=OIP.PsYUPqPWI_f0KFzZpf2tlwHaEq&mediaurl=https%3a%2f%2fwww.rbc.ua%2fstatic%2fimg%2fi%2fm%2fimg_4006_a00995b2dd02ada1e3ef0441ebd90279_650x410.jpg&cdnurl=https%3a%2f%2fth.bing.com%2fth%2fid%2fR.3ec6143ea3d623f7f4285cd9a5fdad97%3frik%3dPIHDzgPWdTGOyw%26pid%3dImgRaw%26r%3d0&exph=410&expw=650&q=hru%c5%a1ka+Ko%c4%8di%c4%8d%c3%ad+hlava+plody&FORM=IRPRST&ck=4C1F6F9E31B8B96C8C800FDBB584B621&selectedIndex=8&itb=0
+              - generic:
+                - generic:
+                  - list:
+                    - listitem:
+                      - link "Jsou divoké hrušky dobré pro tělo, nebo ne - Vlastnosti ovoce | RBC ..." [ref=f27e298] [cursor=pointer]:
+                        - /url: /images/search?view=detailV2&ccid=PsYUPqPW&id=B80EFC24D67F60DDD064CB8E3175D603CEC3813C&thid=OIP.PsYUPqPWI_f0KFzZpf2tlwHaEq&mediaurl=https%3a%2f%2fwww.rbc.ua%2fstatic%2fimg%2fi%2fm%2fimg_4006_a00995b2dd02ada1e3ef0441ebd90279_650x410.jpg&cdnurl=https%3a%2f%2fth.bing.com%2fth%2fid%2fR.3ec6143ea3d623f7f4285cd9a5fdad97%3frik%3dPIHDzgPWdTGOyw%26pid%3dImgRaw%26r%3d0&exph=410&expw=650&q=hru%c5%a1ka+Ko%c4%8di%c4%8d%c3%ad+hlava+plody&FORM=IRPRST&ck=4C1F6F9E31B8B96C8C800FDBB584B621&selectedIndex=8&itb=0
+      - list [ref=f27e299]:
+        - listitem [ref=f27e300]:
+          - generic [ref=f27e301]:
+            - link "Image result for hruška Kočičí hlava plody" [ref=f27e303] [cursor=pointer]:
+              - /url: /images/search?view=detailV2&ccid=MtZ%2bZzu2&id=6952653FBB2C149A12D2755255F353446B2D3898&thid=OIP.MtZ-Zzu22zewf3bfr9q5zQHaEK&mediaurl=https%3a%2f%2fdam.production02.nmh.nmheagle.sk%2fapi%2fimage%2f1680x945%2f6bb%2f6bb3e03b-1b9d-11ef-b315-ca36e7882062.webp&cdnurl=https%3a%2f%2fth.bing.com%2fth%2fid%2fR.32d67e673bb6db37b07f76dfafdab9cd%3frik%3dmDgta0RT81VSdQ%26pid%3dImgRaw%26r%3d0&exph=945&expw=1680&q=hru%c5%a1ka+Ko%c4%8di%c4%8d%c3%ad+hlava+plody&FORM=IRPRST&ck=F7DB5D57AE43F05C32B253818DC978FE&selectedIndex=9&itb=0
+              - img "Image result for hruška Kočičí hlava plody" [ref=f27e305]
+            - generic [ref=f27e306]:
+              - 'link "Hrušky sa naozaj oplatia: Pestujte ich ako profesionál" [ref=f27e307] [cursor=pointer]':
+                - /url: /images/search?view=detailV2&ccid=MtZ%2bZzu2&id=6952653FBB2C149A12D2755255F353446B2D3898&thid=OIP.MtZ-Zzu22zewf3bfr9q5zQHaEK&mediaurl=https%3a%2f%2fdam.production02.nmh.nmheagle.sk%2fapi%2fimage%2f1680x945%2f6bb%2f6bb3e03b-1b9d-11ef-b315-ca36e7882062.webp&cdnurl=https%3a%2f%2fth.bing.com%2fth%2fid%2fR.32d67e673bb6db37b07f76dfafdab9cd%3frik%3dmDgta0RT81VSdQ%26pid%3dImgRaw%26r%3d0&exph=945&expw=1680&q=hru%c5%a1ka+Ko%c4%8di%c4%8d%c3%ad+hlava+plody&FORM=IRPRST&ck=F7DB5D57AE43F05C32B253818DC978FE&selectedIndex=9&itb=0
+              - generic:
+                - generic:
+                  - list:
+                    - listitem:
+                      - 'link "Hrušky sa naozaj oplatia: Pestujte ich ako profesionál" [ref=f27e308] [cursor=pointer]':
+                        - /url: /images/search?view=detailV2&ccid=MtZ%2bZzu2&id=6952653FBB2C149A12D2755255F353446B2D3898&thid=OIP.MtZ-Zzu22zewf3bfr9q5zQHaEK&mediaurl=https%3a%2f%2fdam.production02.nmh.nmheagle.sk%2fapi%2fimage%2f1680x945%2f6bb%2f6bb3e03b-1b9d-11ef-b315-ca36e7882062.webp&cdnurl=https%3a%2f%2fth.bing.com%2fth%2fid%2fR.32d67e673bb6db37b07f76dfafdab9cd%3frik%3dmDgta0RT81VSdQ%26pid%3dImgRaw%26r%3d0&exph=945&expw=1680&q=hru%c5%a1ka+Ko%c4%8di%c4%8d%c3%ad+hlava+plody&FORM=IRPRST&ck=F7DB5D57AE43F05C32B253818DC978FE&selectedIndex=9&itb=0
+        - listitem [ref=f27e309]:
+          - generic [ref=f27e310]:
+            - link "Image result for hruška Kočičí hlava plody" [ref=f27e312] [cursor=pointer]:
+              - /url: /images/search?view=detailV2&ccid=9R%2bPtkbQ&id=E020C6EE0D587F96A99D1266E1CD43C19B4D9C2D&thid=OIP.9R-PtkbQ9tEoGQQ1PQ_i6wHaEK&mediaurl=https%3a%2f%2fsvetlo-tien.sk%2fwp-content%2fuploads%2f2025%2f10%2fhruska-ako-zrele-hrusky-v-kosiku.jpg&cdnurl=https%3a%2f%2fth.bing.com%2fth%2fid%2fR.f51f8fb646d0f6d1281904353d0fe2eb%3frik%3dLZxNm8FDzeFmEg%26pid%3dImgRaw%26r%3d0&exph=675&expw=1200&q=hru%c5%a1ka+Ko%c4%8di%c4%8d%c3%ad+hlava+plody&FORM=IRPRST&ck=86E7E1C806A4C9C2EEDC4E06835F9919&selectedIndex=10&itb=0
+              - img "Image result for hruška Kočičí hlava plody" [ref=f27e314]
+            - generic [ref=f27e315]:
+              - 'link "Hruška: Ako prospieva zdraviu a prečo by si ju mal jesť častejšie ..." [ref=f27e316] [cursor=pointer]':
+                - /url: /images/search?view=detailV2&ccid=9R%2bPtkbQ&id=E020C6EE0D587F96A99D1266E1CD43C19B4D9C2D&thid=OIP.9R-PtkbQ9tEoGQQ1PQ_i6wHaEK&mediaurl=https%3a%2f%2fsvetlo-tien.sk%2fwp-content%2fuploads%2f2025%2f10%2fhruska-ako-zrele-hrusky-v-kosiku.jpg&cdnurl=https%3a%2f%2fth.bing.com%2fth%2fid%2fR.f51f8fb646d0f6d1281904353d0fe2eb%3frik%3dLZxNm8FDzeFmEg%26pid%3dImgRaw%26r%3d0&exph=675&expw=1200&q=hru%c5%a1ka+Ko%c4%8di%c4%8d%c3%ad+hlava+plody&FORM=IRPRST&ck=86E7E1C806A4C9C2EEDC4E06835F9919&selectedIndex=10&itb=0
+              - generic:
+                - generic:
+                  - list:
+                    - listitem:
+                      - 'link "Hruška: Ako prospieva zdraviu a prečo by si ju mal jesť častejšie ..." [ref=f27e317] [cursor=pointer]':
+                        - /url: /images/search?view=detailV2&ccid=9R%2bPtkbQ&id=E020C6EE0D587F96A99D1266E1CD43C19B4D9C2D&thid=OIP.9R-PtkbQ9tEoGQQ1PQ_i6wHaEK&mediaurl=https%3a%2f%2fsvetlo-tien.sk%2fwp-content%2fuploads%2f2025%2f10%2fhruska-ako-zrele-hrusky-v-kosiku.jpg&cdnurl=https%3a%2f%2fth.bing.com%2fth%2fid%2fR.f51f8fb646d0f6d1281904353d0fe2eb%3frik%3dLZxNm8FDzeFmEg%26pid%3dImgRaw%26r%3d0&exph=675&expw=1200&q=hru%c5%a1ka+Ko%c4%8di%c4%8d%c3%ad+hlava+plody&FORM=IRPRST&ck=86E7E1C806A4C9C2EEDC4E06835F9919&selectedIndex=10&itb=0
+        - listitem [ref=f27e318]:
+          - generic [ref=f27e319]:
+            - link "Image result for hruška Kočičí hlava plody" [ref=f27e321] [cursor=pointer]:
+              - /url: /images/search?view=detailV2&ccid=ueo5BIXO&id=38F5E7C593CE29B4234B1341A2BFA185A326A766&thid=OIP.ueo5BIXOzJHqbdSpbL8_4gHaE8&mediaurl=https%3a%2f%2fwww.zahrada.sk%2fwp-content%2fuploads%2f2023%2f06%2fprebierka-plodov-hruska.jpg&cdnurl=https%3a%2f%2fth.bing.com%2fth%2fid%2fR.b9ea390485cecc91ea6dd4a96cbf3fe2%3frik%3dZqcmo4Whv6JBEw%26pid%3dImgRaw%26r%3d0&exph=800&expw=1200&q=hru%c5%a1ka+Ko%c4%8di%c4%8d%c3%ad+hlava+plody&FORM=IRPRST&ck=096C68D4A52F60D54E98077A6AB190C3&selectedIndex=11&itb=0
+              - img "Image result for hruška Kočičí hlava plody" [ref=f27e323]
+            - generic [ref=f27e324]:
+              - 'link "Fotopostup: Ako strihať hrušku a tvarované ovocné stromy - Záhrada.sk" [ref=f27e325] [cursor=pointer]':
+                - /url: /images/search?view=detailV2&ccid=ueo5BIXO&id=38F5E7C593CE29B4234B1341A2BFA185A326A766&thid=OIP.ueo5BIXOzJHqbdSpbL8_4gHaE8&mediaurl=https%3a%2f%2fwww.zahrada.sk%2fwp-content%2fuploads%2f2023%2f06%2fprebierka-plodov-hruska.jpg&cdnurl=https%3a%2f%2fth.bing.com%2fth%2fid%2fR.b9ea390485cecc91ea6dd4a96cbf3fe2%3frik%3dZqcmo4Whv6JBEw%26pid%3dImgRaw%26r%3d0&exph=800&expw=1200&q=hru%c5%a1ka+Ko%c4%8di%c4%8d%c3%ad+hlava+plody&FORM=IRPRST&ck=096C68D4A52F60D54E98077A6AB190C3&selectedIndex=11&itb=0
+              - generic:
+                - generic:
+                  - list:
+                    - listitem:
+                      - 'link "Fotopostup: Ako strihať hrušku a tvarované ovocné stromy - Záhrada.sk" [ref=f27e326] [cursor=pointer]':
+                        - /url: /images/search?view=detailV2&ccid=ueo5BIXO&id=38F5E7C593CE29B4234B1341A2BFA185A326A766&thid=OIP.ueo5BIXOzJHqbdSpbL8_4gHaE8&mediaurl=https%3a%2f%2fwww.zahrada.sk%2fwp-content%2fuploads%2f2023%2f06%2fprebierka-plodov-hruska.jpg&cdnurl=https%3a%2f%2fth.bing.com%2fth%2fid%2fR.b9ea390485cecc91ea6dd4a96cbf3fe2%3frik%3dZqcmo4Whv6JBEw%26pid%3dImgRaw%26r%3d0&exph=800&expw=1200&q=hru%c5%a1ka+Ko%c4%8di%c4%8d%c3%ad+hlava+plody&FORM=IRPRST&ck=096C68D4A52F60D54E98077A6AB190C3&selectedIndex=11&itb=0
+        - listitem [ref=f27e327]:
+          - generic [ref=f27e328]:
+            - link "Image result for hruška Kočičí hlava plody" [ref=f27e330] [cursor=pointer]:
+              - /url: /images/search?view=detailV2&ccid=v%2bVd42F%2b&id=2FCC05A8754E10A4B84F1AD0F99F03C10D85FD86&thid=OIP.v-Vd42F-X5J8EgrdGIu7NQHaFj&mediaurl=https%3a%2f%2fimg.primadoma.cz%2fw_4%2ffa%2fcc%2fthumb%2ffacc604c82ce6cebc27ceb3a6f9330a8.jpg&cdnurl=https%3a%2f%2fth.bing.com%2fth%2fid%2fR.bfe55de3617e5f927c120add188bbb35%3frik%3dhv2FDcEDn%252fnQGg%26pid%3dImgRaw%26r%3d0&exph=420&expw=560&q=hru%c5%a1ka+Ko%c4%8di%c4%8d%c3%ad+hlava+plody&FORM=IRPRST&ck=532E11BBDC38C92D73378ED475D188EE&selectedIndex=12&itb=0
+              - img "Image result for hruška Kočičí hlava plody" [ref=f27e332]
+            - generic [ref=f27e333]:
+              - link "Víte, jaké jsou nejlepší odrůdy hrušek? | Zahrádkářská poradna" [ref=f27e334] [cursor=pointer]:
+                - /url: /images/search?view=detailV2&ccid=v%2bVd42F%2b&id=2FCC05A8754E10A4B84F1AD0F99F03C10D85FD86&thid=OIP.v-Vd42F-X5J8EgrdGIu7NQHaFj&mediaurl=https%3a%2f%2fimg.primadoma.cz%2fw_4%2ffa%2fcc%2fthumb%2ffacc604c82ce6cebc27ceb3a6f9330a8.jpg&cdnurl=https%3a%2f%2fth.bing.com%2fth%2fid%2fR.bfe55de3617e5f927c120add188bbb35%3frik%3dhv2FDcEDn%252fnQGg%26pid%3dImgRaw%26r%3d0&exph=420&expw=560&q=hru%c5%a1ka+Ko%c4%8di%c4%8d%c3%ad+hlava+plody&FORM=IRPRST&ck=532E11BBDC38C92D73378ED475D188EE&selectedIndex=12&itb=0
+              - generic:
+                - generic:
+                  - list:
+                    - listitem:
+                      - link "Víte, jaké jsou nejlepší odrůdy hrušek? | Zahrádkářská poradna" [ref=f27e335] [cursor=pointer]:
+                        - /url: /images/search?view=detailV2&ccid=v%2bVd42F%2b&id=2FCC05A8754E10A4B84F1AD0F99F03C10D85FD86&thid=OIP.v-Vd42F-X5J8EgrdGIu7NQHaFj&mediaurl=https%3a%2f%2fimg.primadoma.cz%2fw_4%2ffa%2fcc%2fthumb%2ffacc604c82ce6cebc27ceb3a6f9330a8.jpg&cdnurl=https%3a%2f%2fth.bing.com%2fth%2fid%2fR.bfe55de3617e5f927c120add188bbb35%3frik%3dhv2FDcEDn%252fnQGg%26pid%3dImgRaw%26r%3d0&exph=420&expw=560&q=hru%c5%a1ka+Ko%c4%8di%c4%8d%c3%ad+hlava+plody&FORM=IRPRST&ck=532E11BBDC38C92D73378ED475D188EE&selectedIndex=12&itb=0
+      - list [ref=f27e336]:
+        - listitem [ref=f27e337]:
+          - generic [ref=f27e338]:
+            - link "Image result for hruška Kočičí hlava plody" [ref=f27e340] [cursor=pointer]:
+              - /url: /images/search?view=detailV2&ccid=vWIl4u7m&id=16E630DAD8E81B89BB2F77330A59D8FC0358D933&thid=OIP.vWIl4u7mT0HmKNU_Kn_T8AHaLy&mediaurl=https%3a%2f%2ffimgs.net%2fhimg%2fo.74596.jpg&cdnurl=https%3a%2f%2fth.bing.com%2fth%2fid%2fR.bd6225e2eee64f41e628d53f2a7fd3f0%3frik%3dM9lYA%252fzYWQozdw%26pid%3dImgRaw%26r%3d0&exph=1273&expw=800&q=hru%c5%a1ka+Ko%c4%8di%c4%8d%c3%ad+hlava+plody&FORM=IRPRST&ck=EB4547EB6EC31C821709E6E5EBB06D4C&selectedIndex=13&itb=0
+              - img "Image result for hruška Kočičí hlava plody" [ref=f27e342]
+            - generic [ref=f27e343]:
+              - link "O struktuře parfémového tónu hrušky ~ Suroviny" [ref=f27e344] [cursor=pointer]:
+                - /url: /images/search?view=detailV2&ccid=vWIl4u7m&id=16E630DAD8E81B89BB2F77330A59D8FC0358D933&thid=OIP.vWIl4u7mT0HmKNU_Kn_T8AHaLy&mediaurl=https%3a%2f%2ffimgs.net%2fhimg%2fo.74596.jpg&cdnurl=https%3a%2f%2fth.bing.com%2fth%2fid%2fR.bd6225e2eee64f41e628d53f2a7fd3f0%3frik%3dM9lYA%252fzYWQozdw%26pid%3dImgRaw%26r%3d0&exph=1273&expw=800&q=hru%c5%a1ka+Ko%c4%8di%c4%8d%c3%ad+hlava+plody&FORM=IRPRST&ck=EB4547EB6EC31C821709E6E5EBB06D4C&selectedIndex=13&itb=0
+              - generic:
+                - generic:
+                  - list:
+                    - listitem:
+                      - link "O struktuře parfémového tó…" [ref=f27e345] [cursor=pointer]:
+                        - /url: /images/search?view=detailV2&ccid=vWIl4u7m&id=16E630DAD8E81B89BB2F77330A59D8FC0358D933&thid=OIP.vWIl4u7mT0HmKNU_Kn_T8AHaLy&mediaurl=https%3a%2f%2ffimgs.net%2fhimg%2fo.74596.jpg&cdnurl=https%3a%2f%2fth.bing.com%2fth%2fid%2fR.bd6225e2eee64f41e628d53f2a7fd3f0%3frik%3dM9lYA%252fzYWQozdw%26pid%3dImgRaw%26r%3d0&exph=1273&expw=800&q=hru%c5%a1ka+Ko%c4%8di%c4%8d%c3%ad+hlava+plody&FORM=IRPRST&ck=EB4547EB6EC31C821709E6E5EBB06D4C&selectedIndex=13&itb=0
+        - listitem [ref=f27e346]:
+          - generic [ref=f27e347]:
+            - link "Image result for hruška Kočičí hlava plody" [ref=f27e349] [cursor=pointer]:
+              - /url: /images/search?view=detailV2&ccid=%2fL7blEc4&id=93786C1FA337143D6A159A60A2159B973BAC3CA4&thid=OIP._L7blEc48VDHGdzSGypONAHaCL&mediaurl=https%3a%2f%2fwww.rostlinky.cz%2fmedia%2fwysiwyg%2fBlogy%2fBlog_top_850x250%2fpestovanie-hrusiek.jpg&cdnurl=https%3a%2f%2fth.bing.com%2fth%2fid%2fR.fcbedb944738f150c719dcd21b2a4e34%3frik%3dpDysO5ebFaJgmg%26pid%3dImgRaw%26r%3d0&exph=250&expw=850&q=hru%c5%a1ka+Ko%c4%8di%c4%8d%c3%ad+hlava+plody&FORM=IRPRST&ck=31AFEE63A66FE9AC8E6C64D6A8447254&selectedIndex=14&itb=0
+              - img "Image result for hruška Kočičí hlava plody" [ref=f27e351]
+            - generic [ref=f27e352]:
+              - link "Pěstování hrušní - sladká pochoutka ze zahrady | rostlinky.cz" [ref=f27e353] [cursor=pointer]:
+                - /url: /images/search?view=detailV2&ccid=%2fL7blEc4&id=93786C1FA337143D6A159A60A2159B973BAC3CA4&thid=OIP._L7blEc48VDHGdzSGypONAHaCL&mediaurl=https%3a%2f%2fwww.rostlinky.cz%2fmedia%2fwysiwyg%2fBlogy%2fBlog_top_850x250%2fpestovanie-hrusiek.jpg&cdnurl=https%3a%2f%2fth.bing.com%2fth%2fid%2fR.fcbedb944738f150c719dcd21b2a4e34%3frik%3dpDysO5ebFaJgmg%26pid%3dImgRaw%26r%3d0&exph=250&expw=850&q=hru%c5%a1ka+Ko%c4%8di%c4%8d%c3%ad+hlava+plody&FORM=IRPRST&ck=31AFEE63A66FE9AC8E6C64D6A8447254&selectedIndex=14&itb=0
+              - generic:
+                - generic:
+                  - list:
+                    - listitem:
+                      - link "Pěstování hrušní - sladká pochoutka ze zahrady | rostlinky.cz" [ref=f27e354] [cursor=pointer]:
+                        - /url: /images/search?view=detailV2&ccid=%2fL7blEc4&id=93786C1FA337143D6A159A60A2159B973BAC3CA4&thid=OIP._L7blEc48VDHGdzSGypONAHaCL&mediaurl=https%3a%2f%2fwww.rostlinky.cz%2fmedia%2fwysiwyg%2fBlogy%2fBlog_top_850x250%2fpestovanie-hrusiek.jpg&cdnurl=https%3a%2f%2fth.bing.com%2fth%2fid%2fR.fcbedb944738f150c719dcd21b2a4e34%3frik%3dpDysO5ebFaJgmg%26pid%3dImgRaw%26r%3d0&exph=250&expw=850&q=hru%c5%a1ka+Ko%c4%8di%c4%8d%c3%ad+hlava+plody&FORM=IRPRST&ck=31AFEE63A66FE9AC8E6C64D6A8447254&selectedIndex=14&itb=0
+        - listitem [ref=f27e355]:
+          - generic [ref=f27e356]:
+            - generic [ref=f27e357]: Related Searches
+            - generic [ref=f27e359]:
+              - link "Coat of Arms" [ref=f27e360] [cursor=pointer]:
+                - /url: /images/search?q=Hruska+Coat+of+Arms&FORM=IRIBIP
+                - generic "Hruska Coat of Arms" [ref=f27e362]: Coat of Arms
+              - link "Shop Logo" [ref=f27e363] [cursor=pointer]:
+                - /url: /images/search?q=Hruska+Shop+Logo&FORM=IRIBIP
+                - generic "Hruska Shop Logo" [ref=f27e365]: Shop Logo
+              - link "Gas Station" [ref=f27e366] [cursor=pointer]:
+                - /url: /images/search?q=Hruska+Gas+Station&FORM=IRIBIP
+                - generic "Hruska Gas Station" [ref=f27e368]: Gas Station
+        - listitem [ref=f27e369]:
+          - generic [ref=f27e370]:
+            - link "Image result for hruška Kočičí hlava plody" [ref=f27e372] [cursor=pointer]:
+              - /url: /images/search?view=detailV2&ccid=4JdCyPBQ&id=83DC9B8A6E3C2A29F55C2EDE02619DB93182F633&thid=OIP.4JdCyPBQ9rAdYVw8Y23_lgHaHa&mediaurl=https%3a%2f%2frevolucnicviceni.cz%2fwp-content%2fuploads%2f2023%2f10%2fhrusky.jpg&cdnurl=https%3a%2f%2fth.bing.com%2fth%2fid%2fR.e09742c8f050f6b01d615c3c636dff96%3frik%3dM%252faCMbmdYQLeLg%26pid%3dImgRaw%26r%3d0&exph=1270&expw=1268&q=hru%c5%a1ka+Ko%c4%8di%c4%8d%c3%ad+hlava+plody&FORM=IRPRST&ck=DA68FF9005F1A74687501392BD97DF71&selectedIndex=15&itb=0
+              - img "Image result for hruška Kočičí hlava plody" [ref=f27e374]
+            - generic [ref=f27e375]:
+              - link "5 opomíjených podzimních potravin, které jsou připraveny zlepšit vaše ..." [ref=f27e376] [cursor=pointer]:
+                - /url: /images/search?view=detailV2&ccid=4JdCyPBQ&id=83DC9B8A6E3C2A29F55C2EDE02619DB93182F633&thid=OIP.4JdCyPBQ9rAdYVw8Y23_lgHaHa&mediaurl=https%3a%2f%2frevolucnicviceni.cz%2fwp-content%2fuploads%2f2023%2f10%2fhrusky.jpg&cdnurl=https%3a%2f%2fth.bing.com%2fth%2fid%2fR.e09742c8f050f6b01d615c3c636dff96%3frik%3dM%252faCMbmdYQLeLg%26pid%3dImgRaw%26r%3d0&exph=1270&expw=1268&q=hru%c5%a1ka+Ko%c4%8di%c4%8d%c3%ad+hlava+plody&FORM=IRPRST&ck=DA68FF9005F1A74687501392BD97DF71&selectedIndex=15&itb=0
+              - generic:
+                - generic:
+                  - list:
+                    - listitem:
+                      - link "5 opomíjených podzimních potravi…" [ref=f27e377] [cursor=pointer]:
+                        - /url: /images/search?view=detailV2&ccid=4JdCyPBQ&id=83DC9B8A6E3C2A29F55C2EDE02619DB93182F633&thid=OIP.4JdCyPBQ9rAdYVw8Y23_lgHaHa&mediaurl=https%3a%2f%2frevolucnicviceni.cz%2fwp-content%2fuploads%2f2023%2f10%2fhrusky.jpg&cdnurl=https%3a%2f%2fth.bing.com%2fth%2fid%2fR.e09742c8f050f6b01d615c3c636dff96%3frik%3dM%252faCMbmdYQLeLg%26pid%3dImgRaw%26r%3d0&exph=1270&expw=1268&q=hru%c5%a1ka+Ko%c4%8di%c4%8d%c3%ad+hlava+plody&FORM=IRPRST&ck=DA68FF9005F1A74687501392BD97DF71&selectedIndex=15&itb=0
+        - listitem [ref=f27e378]:
+          - generic [ref=f27e379]:
+            - link "Image result for hruška Kočičí hlava plody" [ref=f27e381] [cursor=pointer]:
+              - /url: /images/search?view=detailV2&ccid=WCUZ13Kp&id=FEF478BEB239968A88D140B0F419771BB3B9E59F&thid=OIP.WCUZ13KpQnk_Uy_Fcbmf-QHaHa&mediaurl=https%3a%2f%2fodrudy.cz%2fimages%2fvarieties%2fhrusky%2falice.png&cdnurl=https%3a%2f%2fth.bing.com%2fth%2fid%2fR.582519d772a942793f532fc571b99ff9%3frik%3dn%252bW5sxt3GfSwQA%26pid%3dImgRaw%26r%3d0&exph=1024&expw=1024&q=hru%c5%a1ka+Ko%c4%8di%c4%8d%c3%ad+hlava+plody&FORM=IRPRST&ck=A3281600E7CF12DC14BC8F2606F60952&selectedIndex=16&itb=0
+              - img "Image result for hruška Kočičí hlava plody" [ref=f27e383]
+            - generic [ref=f27e384]:
+              - 'link "Odrůdy hrušek: Šťavnaté plody pro každou zahradu | Odrůdy.cz" [ref=f27e385] [cursor=pointer]':
+                - /url: /images/search?view=detailV2&ccid=WCUZ13Kp&id=FEF478BEB239968A88D140B0F419771BB3B9E59F&thid=OIP.WCUZ13KpQnk_Uy_Fcbmf-QHaHa&mediaurl=https%3a%2f%2fodrudy.cz%2fimages%2fvarieties%2fhrusky%2falice.png&cdnurl=https%3a%2f%2fth.bing.com%2fth%2fid%2fR.582519d772a942793f532fc571b99ff9%3frik%3dn%252bW5sxt3GfSwQA%26pid%3dImgRaw%26r%3d0&exph=1024&expw=1024&q=hru%c5%a1ka+Ko%c4%8di%c4%8d%c3%ad+hlava+plody&FORM=IRPRST&ck=A3281600E7CF12DC14BC8F2606F60952&selectedIndex=16&itb=0
+              - generic:
+                - generic:
+                  - list:
+                    - listitem:
+                      - 'link "Odrůdy hrušek: Šťavnaté plody pro …" [ref=f27e386] [cursor=pointer]':
+                        - /url: /images/search?view=detailV2&ccid=WCUZ13Kp&id=FEF478BEB239968A88D140B0F419771BB3B9E59F&thid=OIP.WCUZ13KpQnk_Uy_Fcbmf-QHaHa&mediaurl=https%3a%2f%2fodrudy.cz%2fimages%2fvarieties%2fhrusky%2falice.png&cdnurl=https%3a%2f%2fth.bing.com%2fth%2fid%2fR.582519d772a942793f532fc571b99ff9%3frik%3dn%252bW5sxt3GfSwQA%26pid%3dImgRaw%26r%3d0&exph=1024&expw=1024&q=hru%c5%a1ka+Ko%c4%8di%c4%8d%c3%ad+hlava+plody&FORM=IRPRST&ck=A3281600E7CF12DC14BC8F2606F60952&selectedIndex=16&itb=0
+        - listitem [ref=f27e387]:
+          - generic [ref=f27e388]:
+            - generic [ref=f27e389]:
+              - link "Image result for hruška Kočičí hlava plody" [ref=f27e390] [cursor=pointer]:
+                - /url: /images/search?view=detailV2&ccid=efqH5VPz&id=0147862F337FC94379CA0AAB450ECB186971F152&thid=OIP.efqH5VPzQOFzcbrKAO20SQHaHa&mediaurl=https%3a%2f%2fgarden-team.sk%2fwp-content%2fuploads%2f2024%2f11%2fazijska-hruska-pyrus-pyrifolia-kosui-600x600.jpg&cdnurl=https%3a%2f%2fth.bing.com%2fth%2fid%2fR.79fa87e553f340e17371baca00edb449%3frik%3dUvFxaRjLDkWrCg%26pid%3dImgRaw%26r%3d0&exph=600&expw=600&q=hru%c5%a1ka+Ko%c4%8di%c4%8d%c3%ad+hlava+plody&FORM=IRPRST&ck=0B7838695C6D3B8DCEC18E2796F3C454&selectedIndex=17&itb=0
+                - generic [ref=f27e392]:
+                  - img "Image result for hruška Kočičí hlava plody" [ref=f27e394]
+                  - generic:
+                    - img "Image result for hruška Kočičí hlava plody"
+                    - img "Image result for hruška Kočičí hlava plody"
+              - link "Gallery" [ref=f27e395] [cursor=pointer]:
+                - /url: /images/search?view=detailV2&ccid=efqH5VPz&id=0147862F337FC94379CA0AAB450ECB186971F152&thid=OIP.efqH5VPzQOFzcbrKAO20SQHaHa&mediaurl=https%3a%2f%2fgarden-team.sk%2fwp-content%2fuploads%2f2024%2f11%2fazijska-hruska-pyrus-pyrifolia-kosui-600x600.jpg&cdnurl=https%3a%2f%2fth.bing.com%2fth%2fid%2fR.79fa87e553f340e17371baca00edb449%3frik%3dUvFxaRjLDkWrCg%26pid%3dImgRaw%26r%3d0&exph=600&expw=600&q=hru%c5%a1ka+Ko%c4%8di%c4%8d%c3%ad+hlava+plody&FORM=IRPRST&ck=0B7838695C6D3B8DCEC18E2796F3C454&selectedIndex=17&itb=0
+              - generic:
+                - generic: 600×600
+                - generic:
+                  - link "garden-team.sk":
+                    - /url: https://garden-team.sk/eshop/produkty/ovocne-dreviny-bylinky-a-zelenina/ovocne-stromy/
+            - generic [ref=f27e397]:
+              - link "Ovocné stromy | Záhradníctvo Garden Team" [ref=f27e398] [cursor=pointer]:
+                - /url: /images/search?view=detailV2&ccid=efqH5VPz&id=0147862F337FC94379CA0AAB450ECB186971F152&thid=OIP.efqH5VPzQOFzcbrKAO20SQHaHa&mediaurl=https%3a%2f%2fgarden-team.sk%2fwp-content%2fuploads%2f2024%2f11%2fazijska-hruska-pyrus-pyrifolia-kosui-600x600.jpg&cdnurl=https%3a%2f%2fth.bing.com%2fth%2fid%2fR.79fa87e553f340e17371baca00edb449%3frik%3dUvFxaRjLDkWrCg%26pid%3dImgRaw%26r%3d0&exph=600&expw=600&q=hru%c5%a1ka+Ko%c4%8di%c4%8d%c3%ad+hlava+plody&FORM=IRPRST&ck=0B7838695C6D3B8DCEC18E2796F3C454&selectedIndex=17&itb=0
+              - generic:
+                - generic:
+                  - list:
+                    - listitem:
+                      - link "Ovocné stromy | Záhradníctvo Garden Team" [ref=f27e399] [cursor=pointer]:
+                        - /url: /images/search?view=detailV2&ccid=efqH5VPz&id=0147862F337FC94379CA0AAB450ECB186971F152&thid=OIP.efqH5VPzQOFzcbrKAO20SQHaHa&mediaurl=https%3a%2f%2fgarden-team.sk%2fwp-content%2fuploads%2f2024%2f11%2fazijska-hruska-pyrus-pyrifolia-kosui-600x600.jpg&cdnurl=https%3a%2f%2fth.bing.com%2fth%2fid%2fR.79fa87e553f340e17371baca00edb449%3frik%3dUvFxaRjLDkWrCg%26pid%3dImgRaw%26r%3d0&exph=600&expw=600&q=hru%c5%a1ka+Ko%c4%8di%c4%8d%c3%ad+hlava+plody&FORM=IRPRST&ck=0B7838695C6D3B8DCEC18E2796F3C454&selectedIndex=17&itb=0
+      - list [ref=f27e400]:
+        - listitem [ref=f27e401]:
+          - generic [ref=f27e402]:
+            - link "Image result for hruška Kočičí hlava plody" [ref=f27e404] [cursor=pointer]:
+              - /url: /images/search?view=detailV2&ccid=L8n65nU4&id=FEF478BEB239968A88D1A00E370C8DBEEE27BEF4&thid=OIP.L8n65nU4SP0-c7Nzyd7tDQHaHa&mediaurl=https%3a%2f%2fodrudy.cz%2fimages%2fvarieties%2fhrusky%2fcoscia.png&cdnurl=https%3a%2f%2fth.bing.com%2fth%2fid%2fR.2fc9fae6753848fd3e73b373c9deed0d%3frik%3d9L4n7r6NDDcOoA%26pid%3dImgRaw%26r%3d0&exph=1024&expw=1024&q=hru%c5%a1ka+Ko%c4%8di%c4%8d%c3%ad+hlava+plody&FORM=IRPRST&ck=056C1D84FEE1C3A0B38B43326E3945FA&selectedIndex=18&itb=0
+              - img "Image result for hruška Kočičí hlava plody" [ref=f27e406]
+            - generic [ref=f27e407]:
+              - 'link "Odrůdy hrušek: Šťavnaté plody pro každou zahradu | Odrůdy.cz" [ref=f27e408] [cursor=pointer]':
+                - /url: /images/search?view=detailV2&ccid=L8n65nU4&id=FEF478BEB239968A88D1A00E370C8DBEEE27BEF4&thid=OIP.L8n65nU4SP0-c7Nzyd7tDQHaHa&mediaurl=https%3a%2f%2fodrudy.cz%2fimages%2fvarieties%2fhrusky%2fcoscia.png&cdnurl=https%3a%2f%2fth.bing.com%2fth%2fid%2fR.2fc9fae6753848fd3e73b373c9deed0d%3frik%3d9L4n7r6NDDcOoA%26pid%3dImgRaw%26r%3d0&exph=1024&expw=1024&q=hru%c5%a1ka+Ko%c4%8di%c4%8d%c3%ad+hlava+plody&FORM=IRPRST&ck=056C1D84FEE1C3A0B38B43326E3945FA&selectedIndex=18&itb=0
+              - generic:
+                - generic:
+                  - list:
+                    - listitem:
+                      - 'link "Odrůdy hrušek: Šťavnaté plody pro …" [ref=f27e409] [cursor=pointer]':
+                        - /url: /images/search?view=detailV2&ccid=L8n65nU4&id=FEF478BEB239968A88D1A00E370C8DBEEE27BEF4&thid=OIP.L8n65nU4SP0-c7Nzyd7tDQHaHa&mediaurl=https%3a%2f%2fodrudy.cz%2fimages%2fvarieties%2fhrusky%2fcoscia.png&cdnurl=https%3a%2f%2fth.bing.com%2fth%2fid%2fR.2fc9fae6753848fd3e73b373c9deed0d%3frik%3d9L4n7r6NDDcOoA%26pid%3dImgRaw%26r%3d0&exph=1024&expw=1024&q=hru%c5%a1ka+Ko%c4%8di%c4%8d%c3%ad+hlava+plody&FORM=IRPRST&ck=056C1D84FEE1C3A0B38B43326E3945FA&selectedIndex=18&itb=0
+        - listitem [ref=f27e410]:
+          - generic [ref=f27e411]:
+            - link "Image result for hruška Kočičí hlava plody" [ref=f27e413] [cursor=pointer]:
+              - /url: /images/search?view=detailV2&ccid=B3PjO9HL&id=CD4D33A8980B79EB44E1AF55E7B21C0F7C64C837&thid=OIP.B3PjO9HLjCoRz4Fknc_w1QHaEK&mediaurl=https%3a%2f%2fwww.zahrada.cz%2fclanky%2fwp-content%2fuploads%2f2024%2f03%2fpears-1024x576.webp&cdnurl=https%3a%2f%2fth.bing.com%2fth%2fid%2fR.0773e33bd1cb8c2a11cf81649dcff0d5%3frik%3dN8hkfA8csudVrw%26pid%3dImgRaw%26r%3d0&exph=576&expw=1024&q=hru%c5%a1ka+Ko%c4%8di%c4%8d%c3%ad+hlava+plody&FORM=IRPRST&ck=CBD8F60A9E344D646336994656597B9E&selectedIndex=19&itb=0
+              - img "Image result for hruška Kočičí hlava plody" [ref=f27e415]
+            - generic [ref=f27e416]:
+              - 'link "Hrušky: kompletní návod na pěstování hrušek" [ref=f27e417] [cursor=pointer]':
+                - /url: /images/search?view=detailV2&ccid=B3PjO9HL&id=CD4D33A8980B79EB44E1AF55E7B21C0F7C64C837&thid=OIP.B3PjO9HLjCoRz4Fknc_w1QHaEK&mediaurl=https%3a%2f%2fwww.zahrada.cz%2fclanky%2fwp-content%2fuploads%2f2024%2f03%2fpears-1024x576.webp&cdnurl=https%3a%2f%2fth.bing.com%2fth%2fid%2fR.0773e33bd1cb8c2a11cf81649dcff0d5%3frik%3dN8hkfA8csudVrw%26pid%3dImgRaw%26r%3d0&exph=576&expw=1024&q=hru%c5%a1ka+Ko%c4%8di%c4%8d%c3%ad+hlava+plody&FORM=IRPRST&ck=CBD8F60A9E344D646336994656597B9E&selectedIndex=19&itb=0
+              - generic:
+                - generic:
+                  - list:
+                    - listitem:
+                      - 'link "Hrušky: kompletní návod na pěstování hrušek" [ref=f27e418] [cursor=pointer]':
+                        - /url: /images/search?view=detailV2&ccid=B3PjO9HL&id=CD4D33A8980B79EB44E1AF55E7B21C0F7C64C837&thid=OIP.B3PjO9HLjCoRz4Fknc_w1QHaEK&mediaurl=https%3a%2f%2fwww.zahrada.cz%2fclanky%2fwp-content%2fuploads%2f2024%2f03%2fpears-1024x576.webp&cdnurl=https%3a%2f%2fth.bing.com%2fth%2fid%2fR.0773e33bd1cb8c2a11cf81649dcff0d5%3frik%3dN8hkfA8csudVrw%26pid%3dImgRaw%26r%3d0&exph=576&expw=1024&q=hru%c5%a1ka+Ko%c4%8di%c4%8d%c3%ad+hlava+plody&FORM=IRPRST&ck=CBD8F60A9E344D646336994656597B9E&selectedIndex=19&itb=0
+        - listitem [ref=f27e419]:
+          - generic [ref=f27e420]:
+            - link "Image result for hruška Kočičí hlava plody" [ref=f27e422] [cursor=pointer]:
+              - /url: /images/search?view=detailV2&ccid=oS%2fjCCfG&id=559AE9D383F75BB358B85F4C7FFB3CCE412EC701&thid=OIP.oS_jCCfG23NAOiZ8jEDRygHaHa&mediaurl=https%3a%2f%2fwww.storicko.cz%2fwp-content%2fuploads%2f2026%2f05%2f8zhcp793b-o.jpg&cdnurl=https%3a%2f%2fth.bing.com%2fth%2fid%2fR.a12fe30827c6db73403a267c8c40d1ca%3frik%3dAccuQc48%252b39MXw%26pid%3dImgRaw%26r%3d0&exph=1080&expw=1080&q=hru%c5%a1ka+Ko%c4%8di%c4%8d%c3%ad+hlava+plody&FORM=IRPRST&ck=4B9C4543DC0229E62EC3EF0CCC81DA06&selectedIndex=20&itb=0
+              - img "Image result for hruška Kočičí hlava plody" [ref=f27e424]
+            - generic [ref=f27e425]:
+              - 'link "Zlepšete paměť i trávení: Proč je hruška se slupkou tou nejlepší ..." [ref=f27e426] [cursor=pointer]':
+                - /url: /images/search?view=detailV2&ccid=oS%2fjCCfG&id=559AE9D383F75BB358B85F4C7FFB3CCE412EC701&thid=OIP.oS_jCCfG23NAOiZ8jEDRygHaHa&mediaurl=https%3a%2f%2fwww.storicko.cz%2fwp-content%2fuploads%2f2026%2f05%2f8zhcp793b-o.jpg&cdnurl=https%3a%2f%2fth.bing.com%2fth%2fid%2fR.a12fe30827c6db73403a267c8c40d1ca%3frik%3dAccuQc48%252b39MXw%26pid%3dImgRaw%26r%3d0&exph=1080&expw=1080&q=hru%c5%a1ka+Ko%c4%8di%c4%8d%c3%ad+hlava+plody&FORM=IRPRST&ck=4B9C4543DC0229E62EC3EF0CCC81DA06&selectedIndex=20&itb=0
+              - generic:
+                - generic:
+                  - list:
+                    - listitem:
+                      - 'link "Zlepšete paměť i trávení: Proč je hru…" [ref=f27e427] [cursor=pointer]':
+                        - /url: /images/search?view=detailV2&ccid=oS%2fjCCfG&id=559AE9D383F75BB358B85F4C7FFB3CCE412EC701&thid=OIP.oS_jCCfG23NAOiZ8jEDRygHaHa&mediaurl=https%3a%2f%2fwww.storicko.cz%2fwp-content%2fuploads%2f2026%2f05%2f8zhcp793b-o.jpg&cdnurl=https%3a%2f%2fth.bing.com%2fth%2fid%2fR.a12fe30827c6db73403a267c8c40d1ca%3frik%3dAccuQc48%252b39MXw%26pid%3dImgRaw%26r%3d0&exph=1080&expw=1080&q=hru%c5%a1ka+Ko%c4%8di%c4%8d%c3%ad+hlava+plody&FORM=IRPRST&ck=4B9C4543DC0229E62EC3EF0CCC81DA06&selectedIndex=20&itb=0
+        - listitem [ref=f27e428]:
+          - generic [ref=f27e429]:
+            - link "Image result for hruška Kočičí hlava plody" [ref=f27e431] [cursor=pointer]:
+              - /url: /images/search?view=detailV2&ccid=kg8o%2fVYH&id=047C230B6B1005DAB81F5CF1F16AA75E60F2C62F&thid=OIP.kg8o_VYHDXXLI_n1Vpjt_QHaEK&mediaurl=https%3a%2f%2fkuchynelidlu.cz%2fproductFiles%2f7756%2f1132x637-1-Copy-of-KW-38-22-hrusky-1.jpeg&cdnurl=https%3a%2f%2fth.bing.com%2fth%2fid%2fR.920f28fd56070d75cb23f9f55698edfd%3frik%3dL8byYF6navHxXA%26pid%3dImgRaw%26r%3d0&exph=637&expw=1132&q=hru%c5%a1ka+Ko%c4%8di%c4%8d%c3%ad+hlava+plody&FORM=IRPRST&ck=3073232B177CA5742F1CC6609D9D84F3&selectedIndex=21&itb=0
+              - img "Image result for hruška Kočičí hlava plody" [ref=f27e433]
+            - generic [ref=f27e434]:
+              - link "Hruška a její rozmanité druhy | Kuchyně Lidlu" [ref=f27e435] [cursor=pointer]:
+                - /url: /images/search?view=detailV2&ccid=kg8o%2fVYH&id=047C230B6B1005DAB81F5CF1F16AA75E60F2C62F&thid=OIP.kg8o_VYHDXXLI_n1Vpjt_QHaEK&mediaurl=https%3a%2f%2fkuchynelidlu.cz%2fproductFiles%2f7756%2f1132x637-1-Copy-of-KW-38-22-hrusky-1.jpeg&cdnurl=https%3a%2f%2fth.bing.com%2fth%2fid%2fR.920f28fd56070d75cb23f9f55698edfd%3frik%3dL8byYF6navHxXA%26pid%3dImgRaw%26r%3d0&exph=637&expw=1132&q=hru%c5%a1ka+Ko%c4%8di%c4%8d%c3%ad+hlava+plody&FORM=IRPRST&ck=3073232B177CA5742F1CC6609D9D84F3&selectedIndex=21&itb=0
+              - generic:
+                - generic:
+                  - list:
+                    - listitem:
+                      - link "Hruška a její rozmanité druhy | Kuchyně Lidlu" [ref=f27e436] [cursor=pointer]:
+                        - /url: /images/search?view=detailV2&ccid=kg8o%2fVYH&id=047C230B6B1005DAB81F5CF1F16AA75E60F2C62F&thid=OIP.kg8o_VYHDXXLI_n1Vpjt_QHaEK&mediaurl=https%3a%2f%2fkuchynelidlu.cz%2fproductFiles%2f7756%2f1132x637-1-Copy-of-KW-38-22-hrusky-1.jpeg&cdnurl=https%3a%2f%2fth.bing.com%2fth%2fid%2fR.920f28fd56070d75cb23f9f55698edfd%3frik%3dL8byYF6navHxXA%26pid%3dImgRaw%26r%3d0&exph=637&expw=1132&q=hru%c5%a1ka+Ko%c4%8di%c4%8d%c3%ad+hlava+plody&FORM=IRPRST&ck=3073232B177CA5742F1CC6609D9D84F3&selectedIndex=21&itb=0
+        - listitem [ref=f27e437]:
+          - generic [ref=f27e438]:
+            - link "Image result for hruška Kočičí hlava plody" [ref=f27e440] [cursor=pointer]:
+              - /url: /images/search?view=detailV2&ccid=CmsCmYg4&id=7A1E4C8B5A461FB4EEB21CDC1BF1F18DBFDA0F29&thid=OIP.CmsCmYg4VqQOvChLbiyG_gHaEK&mediaurl=https%3a%2f%2f1gr.cz%2ffotky%2fidnes%2f21%2f021%2fr7%2fIHA89252f_HDCZ06005_AdobeStock.jpg&cdnurl=https%3a%2f%2fth.bing.com%2fth%2fid%2fR.0a6b0299883856a40ebc284b6e2c86fe%3frik%3dKQ%252fav43x8RvcHA%26pid%3dImgRaw%26r%3d0&exph=579&expw=1030&q=hru%c5%a1ka+Ko%c4%8di%c4%8d%c3%ad+hlava+plody&FORM=IRPRST&ck=1A9F8A8B2E5F6534F59648EDF9C0E452&selectedIndex=22&itb=0
+              - img "Image result for hruška Kočičí hlava plody" [ref=f27e442]
+            - generic [ref=f27e443]:
+              - 'link "Sklizeň hrušek podle odrůd: přehled a praktické rady - iDNES.cz" [ref=f27e444] [cursor=pointer]':
+                - /url: /images/search?view=detailV2&ccid=CmsCmYg4&id=7A1E4C8B5A461FB4EEB21CDC1BF1F18DBFDA0F29&thid=OIP.CmsCmYg4VqQOvChLbiyG_gHaEK&mediaurl=https%3a%2f%2f1gr.cz%2ffotky%2fidnes%2f21%2f021%2fr7%2fIHA89252f_HDCZ06005_AdobeStock.jpg&cdnurl=https%3a%2f%2fth.bing.com%2fth%2fid%2fR.0a6b0299883856a40ebc284b6e2c86fe%3frik%3dKQ%252fav43x8RvcHA%26pid%3dImgRaw%26r%3d0&exph=579&expw=1030&q=hru%c5%a1ka+Ko%c4%8di%c4%8d%c3%ad+hlava+plody&FORM=IRPRST&ck=1A9F8A8B2E5F6534F59648EDF9C0E452&selectedIndex=22&itb=0
+              - generic:
+                - generic:
+                  - list:
+                    - listitem:
+                      - 'link "Sklizeň hrušek podle odrůd: přehled a praktické rady - iDNES.cz" [ref=f27e445] [cursor=pointer]':
+                        - /url: /images/search?view=detailV2&ccid=CmsCmYg4&id=7A1E4C8B5A461FB4EEB21CDC1BF1F18DBFDA0F29&thid=OIP.CmsCmYg4VqQOvChLbiyG_gHaEK&mediaurl=https%3a%2f%2f1gr.cz%2ffotky%2fidnes%2f21%2f021%2fr7%2fIHA89252f_HDCZ06005_AdobeStock.jpg&cdnurl=https%3a%2f%2fth.bing.com%2fth%2fid%2fR.0a6b0299883856a40ebc284b6e2c86fe%3frik%3dKQ%252fav43x8RvcHA%26pid%3dImgRaw%26r%3d0&exph=579&expw=1030&q=hru%c5%a1ka+Ko%c4%8di%c4%8d%c3%ad+hlava+plody&FORM=IRPRST&ck=1A9F8A8B2E5F6534F59648EDF9C0E452&selectedIndex=22&itb=0
+      - list [ref=f27e446]:
+        - listitem [ref=f27e447]:
+          - generic [ref=f27e448]:
+            - link "Image result for hruška Kočičí hlava plody" [ref=f27e450] [cursor=pointer]:
+              - /url: /images/search?view=detailV2&ccid=kOI9eWOe&id=562EB2912673AC66DF191FE0346B4356D1214974&thid=OIP.kOI9eWOeSaQ8OLKvIEd7BgHaHa&mediaurl=https%3a%2f%2fzelenydom.com%2fwp-content%2fuploads%2f2023%2f10%2fDizajn-bez-nazvu-7-1.png&cdnurl=https%3a%2f%2fth.bing.com%2fth%2fid%2fR.90e23d79639e49a43c38b2af20477b06%3frik%3ddEkh0VZDazTgHw%26pid%3dImgRaw%26r%3d0&exph=1080&expw=1080&q=hru%c5%a1ka+Ko%c4%8di%c4%8d%c3%ad+hlava+plody&FORM=IRPRST&ck=BE324F4C9A1816AFB907A5A2102EBE17&selectedIndex=23&itb=0
+              - img "Image result for hruška Kočičí hlava plody" [ref=f27e452]
+            - generic [ref=f27e453]:
+              - link "Pestovanie hrušky - Ako na to? (manuál od A po Z)" [ref=f27e454] [cursor=pointer]:
+                - /url: /images/search?view=detailV2&ccid=kOI9eWOe&id=562EB2912673AC66DF191FE0346B4356D1214974&thid=OIP.kOI9eWOeSaQ8OLKvIEd7BgHaHa&mediaurl=https%3a%2f%2fzelenydom.com%2fwp-content%2fuploads%2f2023%2f10%2fDizajn-bez-nazvu-7-1.png&cdnurl=https%3a%2f%2fth.bing.com%2fth%2fid%2fR.90e23d79639e49a43c38b2af20477b06%3frik%3ddEkh0VZDazTgHw%26pid%3dImgRaw%26r%3d0&exph=1080&expw=1080&q=hru%c5%a1ka+Ko%c4%8di%c4%8d%c3%ad+hlava+plody&FORM=IRPRST&ck=BE324F4C9A1816AFB907A5A2102EBE17&selectedIndex=23&itb=0
+              - generic:
+                - generic:
+                  - list:
+                    - listitem:
+                      - link "Pestovanie hrušky - Ako na to? (manuál od A po Z)" [ref=f27e455] [cursor=pointer]:
+                        - /url: /images/search?view=detailV2&ccid=kOI9eWOe&id=562EB2912673AC66DF191FE0346B4356D1214974&thid=OIP.kOI9eWOeSaQ8OLKvIEd7BgHaHa&mediaurl=https%3a%2f%2fzelenydom.com%2fwp-content%2fuploads%2f2023%2f10%2fDizajn-bez-nazvu-7-1.png&cdnurl=https%3a%2f%2fth.bing.com%2fth%2fid%2fR.90e23d79639e49a43c38b2af20477b06%3frik%3ddEkh0VZDazTgHw%26pid%3dImgRaw%26r%3d0&exph=1080&expw=1080&q=hru%c5%a1ka+Ko%c4%8di%c4%8d%c3%ad+hlava+plody&FORM=IRPRST&ck=BE324F4C9A1816AFB907A5A2102EBE17&selectedIndex=23&itb=0
+        - listitem [ref=f27e456]:
+          - generic [ref=f27e457]:
+            - link "Image result for hruška Kočičí hlava plody" [ref=f27e459] [cursor=pointer]:
+              - /url: /images/search?view=detailV2&ccid=HBD7kdg3&id=760EC0E73F0F28658A0E634EBE6B802D33DAF3A7&thid=OIP.HBD7kdg3VMQzuE6hH_lNxAHaLH&mediaurl=https%3a%2f%2fpixnio.com%2ffree-images%2f2020%2f07%2f02%2f2020-07-02-11-50-16-550x825.jpg&cdnurl=https%3a%2f%2fth.bing.com%2fth%2fid%2fR.1c10fb91d83754c433b84ea11ff94dc4%3frik%3dp%252fPaMy2Aa75OYw%26pid%3dImgRaw%26r%3d0&exph=864&expw=576&q=hru%c5%a1ka+Ko%c4%8di%c4%8d%c3%ad+hlava+plody&FORM=IRPRST&ck=666B4E442F21DE4B99B8EDD306BE2473&selectedIndex=24&itb=0
+              - img "Image result for hruška Kočičí hlava plody" [ref=f27e461]
+            - generic [ref=f27e462]:
+              - 'link "Bezplatný obrázek: polovina, organický, hrušky, zralé plody, výseče ..." [ref=f27e463] [cursor=pointer]':
+                - /url: /images/search?view=detailV2&ccid=HBD7kdg3&id=760EC0E73F0F28658A0E634EBE6B802D33DAF3A7&thid=OIP.HBD7kdg3VMQzuE6hH_lNxAHaLH&mediaurl=https%3a%2f%2fpixnio.com%2ffree-images%2f2020%2f07%2f02%2f2020-07-02-11-50-16-550x825.jpg&cdnurl=https%3a%2f%2fth.bing.com%2fth%2fid%2fR.1c10fb91d83754c433b84ea11ff94dc4%3frik%3dp%252fPaMy2Aa75OYw%26pid%3dImgRaw%26r%3d0&exph=864&expw=576&q=hru%c5%a1ka+Ko%c4%8di%c4%8d%c3%ad+hlava+plody&FORM=IRPRST&ck=666B4E442F21DE4B99B8EDD306BE2473&selectedIndex=24&itb=0
+              - generic:
+                - generic:
+                  - list:
+                    - listitem:
+                      - 'link "Bezplatný obrázek: polovi…" [ref=f27e464] [cursor=pointer]':
+                        - /url: /images/search?view=detailV2&ccid=HBD7kdg3&id=760EC0E73F0F28658A0E634EBE6B802D33DAF3A7&thid=OIP.HBD7kdg3VMQzuE6hH_lNxAHaLH&mediaurl=https%3a%2f%2fpixnio.com%2ffree-images%2f2020%2f07%2f02%2f2020-07-02-11-50-16-550x825.jpg&cdnurl=https%3a%2f%2fth.bing.com%2fth%2fid%2fR.1c10fb91d83754c433b84ea11ff94dc4%3frik%3dp%252fPaMy2Aa75OYw%26pid%3dImgRaw%26r%3d0&exph=864&expw=576&q=hru%c5%a1ka+Ko%c4%8di%c4%8d%c3%ad+hlava+plody&FORM=IRPRST&ck=666B4E442F21DE4B99B8EDD306BE2473&selectedIndex=24&itb=0
+        - listitem [ref=f27e465]:
+          - generic [ref=f27e466]:
+            - link "Image result for hruška Kočičí hlava plody" [ref=f27e468] [cursor=pointer]:
+              - /url: /images/search?view=detailV2&ccid=HvD%2bAeIA&id=760EC0E73F0F28658A0E90DDD68E15005024F029&thid=OIP.HvD-AeIAVsN-Y5961EcynQHaE8&mediaurl=https%3a%2f%2fpixnio.com%2ffree-images%2f2020%2f02%2f14%2f2020-02-14-08-35-52.jpg&cdnurl=https%3a%2f%2fth.bing.com%2fth%2fid%2fR.1ef0fe01e20056c37e639f7ad447329d%3frik%3dKfAkUAAVjtbdkA%26pid%3dImgRaw%26r%3d0&exph=4000&expw=6000&q=hru%c5%a1ka+Ko%c4%8di%c4%8d%c3%ad+hlava+plody&FORM=IRPRST&ck=1BE89E5E2A32B8A87D0C816595E57E12&selectedIndex=25&itb=0
+              - img "Image result for hruška Kočičí hlava plody" [ref=f27e470]
+            - generic [ref=f27e471]:
+              - 'link "Bezplatný obrázek: polovina, organický, hrušky, zralé plody, výseče ..." [ref=f27e472] [cursor=pointer]':
+                - /url: /images/search?view=detailV2&ccid=HvD%2bAeIA&id=760EC0E73F0F28658A0E90DDD68E15005024F029&thid=OIP.HvD-AeIAVsN-Y5961EcynQHaE8&mediaurl=https%3a%2f%2fpixnio.com%2ffree-images%2f2020%2f02%2f14%2f2020-02-14-08-35-52.jpg&cdnurl=https%3a%2f%2fth.bing.com%2fth%2fid%2fR.1ef0fe01e20056c37e639f7ad447329d%3frik%3dKfAkUAAVjtbdkA%26pid%3dImgRaw%26r%3d0&exph=4000&expw=6000&q=hru%c5%a1ka+Ko%c4%8di%c4%8d%c3%ad+hlava+plody&FORM=IRPRST&ck=1BE89E5E2A32B8A87D0C816595E57E12&selectedIndex=25&itb=0
+              - generic:
+                - generic:
+                  - list:
+                    - listitem:
+                      - 'link "Bezplatný obrázek: polovina, organický, hrušky, zralé plody, výseče ..." [ref=f27e473] [cursor=pointer]':
+                        - /url: /images/search?view=detailV2&ccid=HvD%2bAeIA&id=760EC0E73F0F28658A0E90DDD68E15005024F029&thid=OIP.HvD-AeIAVsN-Y5961EcynQHaE8&mediaurl=https%3a%2f%2fpixnio.com%2ffree-images%2f2020%2f02%2f14%2f2020-02-14-08-35-52.jpg&cdnurl=https%3a%2f%2fth.bing.com%2fth%2fid%2fR.1ef0fe01e20056c37e639f7ad447329d%3frik%3dKfAkUAAVjtbdkA%26pid%3dImgRaw%26r%3d0&exph=4000&expw=6000&q=hru%c5%a1ka+Ko%c4%8di%c4%8d%c3%ad+hlava+plody&FORM=IRPRST&ck=1BE89E5E2A32B8A87D0C816595E57E12&selectedIndex=25&itb=0
+        - listitem [ref=f27e474]:
+          - generic [ref=f27e475]:
+            - link "Image result for hruška Kočičí hlava plody" [ref=f27e477] [cursor=pointer]:
+              - /url: /images/search?view=detailV2&ccid=pb%2flXbbU&id=760EC0E73F0F28658A0E85AAB7B8D0FD09704555&thid=OIP.pb_lXbbUbXMTNzWVjHcrYAHaE8&mediaurl=https%3a%2f%2fpixnio.com%2ffree-images%2f2020%2f01%2f28%2f2020-01-28-09-04-31-550x367.jpg&cdnurl=https%3a%2f%2fth.bing.com%2fth%2fid%2fR.a5bfe55db6d46d73133735958c772b60%3frik%3dVUVwCf3QuLeqhQ%26pid%3dImgRaw%26r%3d0&exph=384&expw=576&q=hru%c5%a1ka+Ko%c4%8di%c4%8d%c3%ad+hlava+plody&FORM=IRPRST&ck=D9D5299A08157D0968C7261B8AEEE1BC&selectedIndex=26&itb=0
+              - img "Image result for hruška Kočičí hlava plody" [ref=f27e479]
+            - generic [ref=f27e480]:
+              - 'link "Bezplatný obrázek: polovina, organický, hrušky, zralé plody, výseče ..." [ref=f27e481] [cursor=pointer]':
+                - /url: /images/search?view=detailV2&ccid=pb%2flXbbU&id=760EC0E73F0F28658A0E85AAB7B8D0FD09704555&thid=OIP.pb_lXbbUbXMTNzWVjHcrYAHaE8&mediaurl=https%3a%2f%2fpixnio.com%2ffree-images%2f2020%2f01%2f28%2f2020-01-28-09-04-31-550x367.jpg&cdnurl=https%3a%2f%2fth.bing.com%2fth%2fid%2fR.a5bfe55db6d46d73133735958c772b60%3frik%3dVUVwCf3QuLeqhQ%26pid%3dImgRaw%26r%3d0&exph=384&expw=576&q=hru%c5%a1ka+Ko%c4%8di%c4%8d%c3%ad+hlava+plody&FORM=IRPRST&ck=D9D5299A08157D0968C7261B8AEEE1BC&selectedIndex=26&itb=0
+              - generic:
+                - generic:
+                  - list:
+                    - listitem:
+                      - 'link "Bezplatný obrázek: polovina, organický, hrušky, zralé plody, výseče ..." [ref=f27e482] [cursor=pointer]':
+                        - /url: /images/search?view=detailV2&ccid=pb%2flXbbU&id=760EC0E73F0F28658A0E85AAB7B8D0FD09704555&thid=OIP.pb_lXbbUbXMTNzWVjHcrYAHaE8&mediaurl=https%3a%2f%2fpixnio.com%2ffree-images%2f2020%2f01%2f28%2f2020-01-28-09-04-31-550x367.jpg&cdnurl=https%3a%2f%2fth.bing.com%2fth%2fid%2fR.a5bfe55db6d46d73133735958c772b60%3frik%3dVUVwCf3QuLeqhQ%26pid%3dImgRaw%26r%3d0&exph=384&expw=576&q=hru%c5%a1ka+Ko%c4%8di%c4%8d%c3%ad+hlava+plody&FORM=IRPRST&ck=D9D5299A08157D0968C7261B8AEEE1BC&selectedIndex=26&itb=0
+        - listitem [ref=f27e483]:
+          - generic [ref=f27e484]:
+            - link "Image result for hruška Kočičí hlava plody" [ref=f27e486] [cursor=pointer]:
+              - /url: /images/search?view=detailV2&ccid=Wi4sseJM&id=760EC0E73F0F28658A0EEAF43E35EF9E1C2D1AE4&thid=OIP.Wi4sseJM2p04AT0GZpt1ogHaE8&mediaurl=https%3a%2f%2fpixnio.com%2ffree-images%2f2020%2f02%2f07%2f2020-02-07-09-23-31-550x367.jpg&cdnurl=https%3a%2f%2fth.bing.com%2fth%2fid%2fR.5a2e2cb1e24cda9d38013d06669b75a2%3frik%3d5BotHJ7vNT706g%26pid%3dImgRaw%26r%3d0&exph=384&expw=576&q=hru%c5%a1ka+Ko%c4%8di%c4%8d%c3%ad+hlava+plody&FORM=IRPRST&ck=6525FA828F8A59D77CB3E05F2D270DBB&selectedIndex=27&itb=0
+              - img "Image result for hruška Kočičí hlava plody" [ref=f27e488]
+            - generic [ref=f27e489]:
+              - 'link "Bezplatný obrázek: polovina, organický, hrušky, zralé plody, výseče ..." [ref=f27e490] [cursor=pointer]':
+                - /url: /images/search?view=detailV2&ccid=Wi4sseJM&id=760EC0E73F0F28658A0EEAF43E35EF9E1C2D1AE4&thid=OIP.Wi4sseJM2p04AT0GZpt1ogHaE8&mediaurl=https%3a%2f%2fpixnio.com%2ffree-images%2f2020%2f02%2f07%2f2020-02-07-09-23-31-550x367.jpg&cdnurl=https%3a%2f%2fth.bing.com%2fth%2fid%2fR.5a2e2cb1e24cda9d38013d06669b75a2%3frik%3d5BotHJ7vNT706g%26pid%3dImgRaw%26r%3d0&exph=384&expw=576&q=hru%c5%a1ka+Ko%c4%8di%c4%8d%c3%ad+hlava+plody&FORM=IRPRST&ck=6525FA828F8A59D77CB3E05F2D270DBB&selectedIndex=27&itb=0
+              - generic:
+                - generic:
+                  - list:
+                    - listitem:
+                      - 'link "Bezplatný obrázek: polovina, organický, hrušky, zralé plody, výseče ..." [ref=f27e491] [cursor=pointer]':
+                        - /url: /images/search?view=detailV2&ccid=Wi4sseJM&id=760EC0E73F0F28658A0EEAF43E35EF9E1C2D1AE4&thid=OIP.Wi4sseJM2p04AT0GZpt1ogHaE8&mediaurl=https%3a%2f%2fpixnio.com%2ffree-images%2f2020%2f02%2f07%2f2020-02-07-09-23-31-550x367.jpg&cdnurl=https%3a%2f%2fth.bing.com%2fth%2fid%2fR.5a2e2cb1e24cda9d38013d06669b75a2%3frik%3d5BotHJ7vNT706g%26pid%3dImgRaw%26r%3d0&exph=384&expw=576&q=hru%c5%a1ka+Ko%c4%8di%c4%8d%c3%ad+hlava+plody&FORM=IRPRST&ck=6525FA828F8A59D77CB3E05F2D270DBB&selectedIndex=27&itb=0
+      - list [ref=f27e492]:
+        - listitem [ref=f27e493]:
+          - generic [ref=f27e494]:
+            - link "Image result for hruška Kočičí hlava plody" [ref=f27e496] [cursor=pointer]:
+              - /url: /images/search?view=detailV2&ccid=wtqnBQ0g&id=760EC0E73F0F28658A0E580609BE56FD36CBE4BC&thid=OIP.wtqnBQ0gUPGZwm1G_4IQdAHaE8&mediaurl=https%3a%2f%2fpixnio.com%2ffree-images%2f2020%2f02%2f14%2f2020-02-14-08-35-19-550x367.jpg&cdnurl=https%3a%2f%2fth.bing.com%2fth%2fid%2fR.c2daa7050d2050f199c26d46ff821074%3frik%3dvOTLNv1WvgkGWA%26pid%3dImgRaw%26r%3d0&exph=384&expw=576&q=hru%c5%a1ka+Ko%c4%8di%c4%8d%c3%ad+hlava+plody&FORM=IRPRST&ck=A3CC0B246C63ACA84BE51F432DB45623&selectedIndex=28&itb=0
+              - img "Image result for hruška Kočičí hlava plody" [ref=f27e498]
+            - generic [ref=f27e499]:
+              - 'link "Bezplatný obrázek: polovina, organický, hrušky, zralé plody, výseče ..." [ref=f27e500] [cursor=pointer]':
+                - /url: /images/search?view=detailV2&ccid=wtqnBQ0g&id=760EC0E73F0F28658A0E580609BE56FD36CBE4BC&thid=OIP.wtqnBQ0gUPGZwm1G_4IQdAHaE8&mediaurl=https%3a%2f%2fpixnio.com%2ffree-images%2f2020%2f02%2f14%2f2020-02-14-08-35-19-550x367.jpg&cdnurl=https%3a%2f%2fth.bing.com%2fth%2fid%2fR.c2daa7050d2050f199c26d46ff821074%3frik%3dvOTLNv1WvgkGWA%26pid%3dImgRaw%26r%3d0&exph=384&expw=576&q=hru%c5%a1ka+Ko%c4%8di%c4%8d%c3%ad+hlava+plody&FORM=IRPRST&ck=A3CC0B246C63ACA84BE51F432DB45623&selectedIndex=28&itb=0
+              - generic:
+                - generic:
+                  - list:
+                    - listitem:
+                      - 'link "Bezplatný obrázek: polovina, organický, hrušky, zralé plody, výse…" [ref=f27e501] [cursor=pointer]':
+                        - /url: /images/search?view=detailV2&ccid=wtqnBQ0g&id=760EC0E73F0F28658A0E580609BE56FD36CBE4BC&thid=OIP.wtqnBQ0gUPGZwm1G_4IQdAHaE8&mediaurl=https%3a%2f%2fpixnio.com%2ffree-images%2f2020%2f02%2f14%2f2020-02-14-08-35-19-550x367.jpg&cdnurl=https%3a%2f%2fth.bing.com%2fth%2fid%2fR.c2daa7050d2050f199c26d46ff821074%3frik%3dvOTLNv1WvgkGWA%26pid%3dImgRaw%26r%3d0&exph=384&expw=576&q=hru%c5%a1ka+Ko%c4%8di%c4%8d%c3%ad+hlava+plody&FORM=IRPRST&ck=A3CC0B246C63ACA84BE51F432DB45623&selectedIndex=28&itb=0
+        - listitem [ref=f27e502]:
+          - generic [ref=f27e503]:
+            - link "Image result for hruška Kočičí hlava plody" [ref=f27e505] [cursor=pointer]:
+              - /url: /images/search?view=detailV2&ccid=MX2j07lO&id=D5DEF70E3F1CA3D414E6844B249BD4BCC77075D7&thid=OIP.MX2j07lOcjMyy5D5GuQOZQHaEu&mediaurl=https%3a%2f%2fcdn.aukro.cz%2fimages%2fsk1681055112103%2fovoce-zatisi-hruska-plody-sklenena-misa-umelecka-m4884-157408821.jpeg&cdnurl=https%3a%2f%2fth.bing.com%2fth%2fid%2fR.317da3d3b94e723332cb90f91ae40e65%3frik%3d13Vwx7zUmyRLhA%26pid%3dImgRaw%26r%3d0&exph=1021&expw=1600&q=hru%c5%a1ka+Ko%c4%8di%c4%8d%c3%ad+hlava+plody&FORM=IRPRST&ck=89013A51BA46BF8C7616EC78EF269A58&selectedIndex=29&itb=0
+              - img "Image result for hruška Kočičí hlava plody" [ref=f27e507]
+            - generic [ref=f27e508]:
+              - link "Ovoce (zátiší) * hruška, plody, skleněná mísa, umělecká * M4884 | Aukro" [ref=f27e509] [cursor=pointer]:
+                - /url: /images/search?view=detailV2&ccid=MX2j07lO&id=D5DEF70E3F1CA3D414E6844B249BD4BCC77075D7&thid=OIP.MX2j07lOcjMyy5D5GuQOZQHaEu&mediaurl=https%3a%2f%2fcdn.aukro.cz%2fimages%2fsk1681055112103%2fovoce-zatisi-hruska-plody-sklenena-misa-umelecka-m4884-157408821.jpeg&cdnurl=https%3a%2f%2fth.bing.com%2fth%2fid%2fR.317da3d3b94e723332cb90f91ae40e65%3frik%3d13Vwx7zUmyRLhA%26pid%3dImgRaw%26r%3d0&exph=1021&expw=1600&q=hru%c5%a1ka+Ko%c4%8di%c4%8d%c3%ad+hlava+plody&FORM=IRPRST&ck=89013A51BA46BF8C7616EC78EF269A58&selectedIndex=29&itb=0
+              - generic:
+                - generic:
+                  - list:
+                    - listitem:
+                      - link "Ovoce (zátiší) * hruška, plody, skleněná mísa, umělecká * M4884 | …" [ref=f27e510] [cursor=pointer]:
+                        - /url: /images/search?view=detailV2&ccid=MX2j07lO&id=D5DEF70E3F1CA3D414E6844B249BD4BCC77075D7&thid=OIP.MX2j07lOcjMyy5D5GuQOZQHaEu&mediaurl=https%3a%2f%2fcdn.aukro.cz%2fimages%2fsk1681055112103%2fovoce-zatisi-hruska-plody-sklenena-misa-umelecka-m4884-157408821.jpeg&cdnurl=https%3a%2f%2fth.bing.com%2fth%2fid%2fR.317da3d3b94e723332cb90f91ae40e65%3frik%3d13Vwx7zUmyRLhA%26pid%3dImgRaw%26r%3d0&exph=1021&expw=1600&q=hru%c5%a1ka+Ko%c4%8di%c4%8d%c3%ad+hlava+plody&FORM=IRPRST&ck=89013A51BA46BF8C7616EC78EF269A58&selectedIndex=29&itb=0
+        - listitem [ref=f27e511]:
+          - generic [ref=f27e512]:
+            - generic [ref=f27e513]: Related Searches
+            - generic [ref=f27e515]:
+              - link "Gustav Slivensky" [ref=f27e516] [cursor=pointer]:
+                - /url: /images/search?q=Gustav+Slivensky+Hlava&FORM=IRIBEP
+                - generic "Gustav Slivensky Hlava" [ref=f27e518]: Gustav Slivensky
+              - link "Minecraft Zombie" [ref=f27e519] [cursor=pointer]:
+                - /url: /images/search?q=Minecraft+Zombie+Hlava&FORM=IRIBEP
+                - generic "Minecraft Zombie Hlava" [ref=f27e521]: Minecraft Zombie
+              - link "Bruska Na Drahých Kamenů CZ" [ref=f27e522] [cursor=pointer]:
+                - /url: /images/search?q=Hlava+Bruska+Na+Drah%c3%bdch+Kamen%c5%af+CZ&FORM=IRIBEP
+                - generic "Hlava Bruska Na Drahých Kamenů CZ" [ref=f27e524]: Bruska Na Drahých Kamenů CZ
+        - listitem [ref=f27e525]:
+          - generic [ref=f27e526]:
+            - link "Image result for hruška Kočičí hlava plody" [ref=f27e528] [cursor=pointer]:
+              - /url: /images/search?view=detailV2&ccid=pwjZixGB&id=93786C1FA337143D6A15B09A2647179462DA3249&thid=OIP.pwjZixGBUoWZI2BI-cXWeAAAAA&mediaurl=https%3a%2f%2fwww.rostlinky.cz%2fmedia%2fwysiwyg%2fBlogy%2fBlog_clanok_280x375%2fodrody-hrusky.jpg&cdnurl=https%3a%2f%2fth.bing.com%2fth%2fid%2fR.a708d98b1181528599236048f9c5d678%3frik%3dSTLaYpQXRyaasA%26pid%3dImgRaw%26r%3d0&exph=420&expw=420&q=hru%c5%a1ka+Ko%c4%8di%c4%8d%c3%ad+hlava+plody&FORM=IRPRST&ck=A92EE3C8D7A5DB73886E13BA1EA6DEFE&selectedIndex=30&itb=0
+              - img "Image result for hruška Kočičí hlava plody" [ref=f27e530]
+            - generic [ref=f27e531]:
+              - link "Pěstování hrušní - sladká pochoutka ze zahrady | rostlinky.cz" [ref=f27e532] [cursor=pointer]:
+                - /url: /images/search?view=detailV2&ccid=pwjZixGB&id=93786C1FA337143D6A15B09A2647179462DA3249&thid=OIP.pwjZixGBUoWZI2BI-cXWeAAAAA&mediaurl=https%3a%2f%2fwww.rostlinky.cz%2fmedia%2fwysiwyg%2fBlogy%2fBlog_clanok_280x375%2fodrody-hrusky.jpg&cdnurl=https%3a%2f%2fth.bing.com%2fth%2fid%2fR.a708d98b1181528599236048f9c5d678%3frik%3dSTLaYpQXRyaasA%26pid%3dImgRaw%26r%3d0&exph=420&expw=420&q=hru%c5%a1ka+Ko%c4%8di%c4%8d%c3%ad+hlava+plody&FORM=IRPRST&ck=A92EE3C8D7A5DB73886E13BA1EA6DEFE&selectedIndex=30&itb=0
+              - generic:
+                - generic:
+                  - list:
+                    - listitem:
+                      - link "Pěstování hrušní - sladká pochoutka ze …" [ref=f27e533] [cursor=pointer]:
+                        - /url: /images/search?view=detailV2&ccid=pwjZixGB&id=93786C1FA337143D6A15B09A2647179462DA3249&thid=OIP.pwjZixGBUoWZI2BI-cXWeAAAAA&mediaurl=https%3a%2f%2fwww.rostlinky.cz%2fmedia%2fwysiwyg%2fBlogy%2fBlog_clanok_280x375%2fodrody-hrusky.jpg&cdnurl=https%3a%2f%2fth.bing.com%2fth%2fid%2fR.a708d98b1181528599236048f9c5d678%3frik%3dSTLaYpQXRyaasA%26pid%3dImgRaw%26r%3d0&exph=420&expw=420&q=hru%c5%a1ka+Ko%c4%8di%c4%8d%c3%ad+hlava+plody&FORM=IRPRST&ck=A92EE3C8D7A5DB73886E13BA1EA6DEFE&selectedIndex=30&itb=0
+        - listitem [ref=f27e534]:
+          - generic [ref=f27e535]:
+            - link "Image result for hruška Kočičí hlava plody" [ref=f27e537] [cursor=pointer]:
+              - /url: /images/search?view=detailV2&ccid=fXcFFVAM&id=06110CD3C22A15D8C76CA7321FB039AC088B6C9F&thid=OIP.fXcFFVAMXXwssBiUUw3p1gHaEr&mediaurl=https%3a%2f%2fwww.gastroprofesor.cz%2fwp-content%2fuploads%2f2024%2f04%2fg5aa11cda55017074a2efb01afe655431b2c2fb45097d9a08f945806e1506cdf885fcb5625089d2173ff8f3ff9b926f1ab467444515464aebbfe4ae8973625b47_640.jpg&cdnurl=https%3a%2f%2fth.bing.com%2fth%2fid%2fR.7d770515500c5d7c2cb01894530de9d6%3frik%3dn2yLCKw5sB8ypw%26pid%3dImgRaw%26r%3d0&exph=405&expw=640&q=hru%c5%a1ka+Ko%c4%8di%c4%8d%c3%ad+hlava+plody&FORM=IRPRST&ck=671617D5BCC12B3C59354B57A1CEF4FE&selectedIndex=31&itb=0
+              - img "Image result for hruška Kočičí hlava plody" [ref=f27e539]
+            - generic [ref=f27e540]:
+              - 'link "Hruškový Koláč Bez Lepku: Recept na Sladký Zážitek » GastroProfesor.cz" [ref=f27e541] [cursor=pointer]':
+                - /url: /images/search?view=detailV2&ccid=fXcFFVAM&id=06110CD3C22A15D8C76CA7321FB039AC088B6C9F&thid=OIP.fXcFFVAMXXwssBiUUw3p1gHaEr&mediaurl=https%3a%2f%2fwww.gastroprofesor.cz%2fwp-content%2fuploads%2f2024%2f04%2fg5aa11cda55017074a2efb01afe655431b2c2fb45097d9a08f945806e1506cdf885fcb5625089d2173ff8f3ff9b926f1ab467444515464aebbfe4ae8973625b47_640.jpg&cdnurl=https%3a%2f%2fth.bing.com%2fth%2fid%2fR.7d770515500c5d7c2cb01894530de9d6%3frik%3dn2yLCKw5sB8ypw%26pid%3dImgRaw%26r%3d0&exph=405&expw=640&q=hru%c5%a1ka+Ko%c4%8di%c4%8d%c3%ad+hlava+plody&FORM=IRPRST&ck=671617D5BCC12B3C59354B57A1CEF4FE&selectedIndex=31&itb=0
+              - generic:
+                - generic:
+                  - list:
+                    - listitem:
+                      - 'link "Hruškový Koláč Bez Lepku: Recept na Sladký Zážitek » GastroProfesor.cz" [ref=f27e542] [cursor=pointer]':
+                        - /url: /images/search?view=detailV2&ccid=fXcFFVAM&id=06110CD3C22A15D8C76CA7321FB039AC088B6C9F&thid=OIP.fXcFFVAMXXwssBiUUw3p1gHaEr&mediaurl=https%3a%2f%2fwww.gastroprofesor.cz%2fwp-content%2fuploads%2f2024%2f04%2fg5aa11cda55017074a2efb01afe655431b2c2fb45097d9a08f945806e1506cdf885fcb5625089d2173ff8f3ff9b926f1ab467444515464aebbfe4ae8973625b47_640.jpg&cdnurl=https%3a%2f%2fth.bing.com%2fth%2fid%2fR.7d770515500c5d7c2cb01894530de9d6%3frik%3dn2yLCKw5sB8ypw%26pid%3dImgRaw%26r%3d0&exph=405&expw=640&q=hru%c5%a1ka+Ko%c4%8di%c4%8d%c3%ad+hlava+plody&FORM=IRPRST&ck=671617D5BCC12B3C59354B57A1CEF4FE&selectedIndex=31&itb=0
+      - list [ref=f27e543]:
+        - listitem [ref=f27e544]:
+          - generic [ref=f27e545]:
+            - link "Image result for hruška Kočičí hlava plody" [ref=f27e547] [cursor=pointer]:
+              - /url: /images/search?view=detailV2&ccid=y3pV02hN&id=8C0E8F16A801BA6C4E5D8A6A9098E4D41954C6F1&thid=OIP.y3pV02hNIek52Akf5E2RtwHaHa&mediaurl=https%3a%2f%2fwww.darkyhry.cz%2f96162-large_default%2fpolstar-l-35x38cm-kocici-hlava-vykulvoc.jpg&cdnurl=https%3a%2f%2fth.bing.com%2fth%2fid%2fR.cb7a55d3684d21e939d8091fe44d91b7%3frik%3d8cZUGdTkmJBqig%26pid%3dImgRaw%26r%3d0&exph=1000&expw=1000&q=hru%c5%a1ka+Ko%c4%8di%c4%8d%c3%ad+hlava+plody&FORM=IRPRST&ck=627D38E0657FF84F67752B951DBD3DF2&selectedIndex=32&itb=0
+              - img "Image result for hruška Kočičí hlava plody" [ref=f27e549]
+            - generic [ref=f27e550]:
+              - link "Polštář L 35x38cm Kočičí hlava - Vykulvoč | DárkyHry.cz" [ref=f27e551] [cursor=pointer]:
+                - /url: /images/search?view=detailV2&ccid=y3pV02hN&id=8C0E8F16A801BA6C4E5D8A6A9098E4D41954C6F1&thid=OIP.y3pV02hNIek52Akf5E2RtwHaHa&mediaurl=https%3a%2f%2fwww.darkyhry.cz%2f96162-large_default%2fpolstar-l-35x38cm-kocici-hlava-vykulvoc.jpg&cdnurl=https%3a%2f%2fth.bing.com%2fth%2fid%2fR.cb7a55d3684d21e939d8091fe44d91b7%3frik%3d8cZUGdTkmJBqig%26pid%3dImgRaw%26r%3d0&exph=1000&expw=1000&q=hru%c5%a1ka+Ko%c4%8di%c4%8d%c3%ad+hlava+plody&FORM=IRPRST&ck=627D38E0657FF84F67752B951DBD3DF2&selectedIndex=32&itb=0
+              - generic:
+                - generic:
+                  - list:
+                    - listitem:
+                      - link "Polštář L 35x38cm Kočičí hlava - Vykulvo…" [ref=f27e552] [cursor=pointer]:
+                        - /url: /images/search?view=detailV2&ccid=y3pV02hN&id=8C0E8F16A801BA6C4E5D8A6A9098E4D41954C6F1&thid=OIP.y3pV02hNIek52Akf5E2RtwHaHa&mediaurl=https%3a%2f%2fwww.darkyhry.cz%2f96162-large_default%2fpolstar-l-35x38cm-kocici-hlava-vykulvoc.jpg&cdnurl=https%3a%2f%2fth.bing.com%2fth%2fid%2fR.cb7a55d3684d21e939d8091fe44d91b7%3frik%3d8cZUGdTkmJBqig%26pid%3dImgRaw%26r%3d0&exph=1000&expw=1000&q=hru%c5%a1ka+Ko%c4%8di%c4%8d%c3%ad+hlava+plody&FORM=IRPRST&ck=627D38E0657FF84F67752B951DBD3DF2&selectedIndex=32&itb=0
+        - listitem [ref=f27e553]:
+          - generic [ref=f27e554]:
+            - link "Image result for hruška Kočičí hlava plody" [ref=f27e556] [cursor=pointer]:
+              - /url: /images/search?view=detailV2&ccid=LWBJE2v3&id=CD4D33A8980B79EB44E114BEF6967A7FF50245D2&thid=OIP.LWBJE2v3_nLLqzIe9M2NugHaD5&mediaurl=https%3a%2f%2fwww.zahrada.cz%2fclanky%2fwp-content%2fuploads%2f2024%2f03%2fHow-to-Grow-Fruiting-Pear-Trees-FB-1024x538.webp&cdnurl=https%3a%2f%2fth.bing.com%2fth%2fid%2fR.2d6049136bf7fe72cbab321ef4cd8dba%3frik%3d0kUC9X96lva%252bFA%26pid%3dImgRaw%26r%3d0&exph=538&expw=1024&q=hru%c5%a1ka+Ko%c4%8di%c4%8d%c3%ad+hlava+plody&FORM=IRPRST&ck=FB4CC2CFEEEDFBA27A3D1880CC0F327F&selectedIndex=33&itb=0
+              - img "Image result for hruška Kočičí hlava plody" [ref=f27e558]
+            - generic [ref=f27e559]:
+              - 'link "Hrušky: kompletní návod na pěstování hrušek" [ref=f27e560] [cursor=pointer]':
+                - /url: /images/search?view=detailV2&ccid=LWBJE2v3&id=CD4D33A8980B79EB44E114BEF6967A7FF50245D2&thid=OIP.LWBJE2v3_nLLqzIe9M2NugHaD5&mediaurl=https%3a%2f%2fwww.zahrada.cz%2fclanky%2fwp-content%2fuploads%2f2024%2f03%2fHow-to-Grow-Fruiting-Pear-Trees-FB-1024x538.webp&cdnurl=https%3a%2f%2fth.bing.com%2fth%2fid%2fR.2d6049136bf7fe72cbab321ef4cd8dba%3frik%3d0kUC9X96lva%252bFA%26pid%3dImgRaw%26r%3d0&exph=538&expw=1024&q=hru%c5%a1ka+Ko%c4%8di%c4%8d%c3%ad+hlava+plody&FORM=IRPRST&ck=FB4CC2CFEEEDFBA27A3D1880CC0F327F&selectedIndex=33&itb=0
+              - generic:
+                - generic:
+                  - list:
+                    - listitem:
+                      - 'link "Hrušky: kompletní návod na pěstování hrušek" [ref=f27e561] [cursor=pointer]':
+                        - /url: /images/search?view=detailV2&ccid=LWBJE2v3&id=CD4D33A8980B79EB44E114BEF6967A7FF50245D2&thid=OIP.LWBJE2v3_nLLqzIe9M2NugHaD5&mediaurl=https%3a%2f%2fwww.zahrada.cz%2fclanky%2fwp-content%2fuploads%2f2024%2f03%2fHow-to-Grow-Fruiting-Pear-Trees-FB-1024x538.webp&cdnurl=https%3a%2f%2fth.bing.com%2fth%2fid%2fR.2d6049136bf7fe72cbab321ef4cd8dba%3frik%3d0kUC9X96lva%252bFA%26pid%3dImgRaw%26r%3d0&exph=538&expw=1024&q=hru%c5%a1ka+Ko%c4%8di%c4%8d%c3%ad+hlava+plody&FORM=IRPRST&ck=FB4CC2CFEEEDFBA27A3D1880CC0F327F&selectedIndex=33&itb=0
+        - listitem [ref=f27e562]:
+          - generic [ref=f27e563]:
+            - link "Image result for hruška Kočičí hlava plody" [ref=f27e565] [cursor=pointer]:
+              - /url: /images/search?view=detailV2&ccid=Bh6P8x40&id=4EF42D57B3CA76DC69FBEDB800699E6BB557272A&thid=OIP.Bh6P8x40G7xBAKiPOpWOjwHaEE&mediaurl=https%3a%2f%2fimages.gastronom.ru%2fVT6a29AWglJTVfj9qDhoMAXrT5qLP0GvlpzxnoJYS2Q%2fpr%3aarticle-content-image%2fg%3ace%2frs%3aauto%3a0%3a0%3a0%2fL2Ntcy9hbGwtaW1hZ2VzL2ExODBiZTQxLWY0ZmUtNDY1Ni1hNmYwLTllY2EwMWJjOTFkOC5qcGc.webp&cdnurl=https%3a%2f%2fth.bing.com%2fth%2fid%2fR.061e8ff31e341bbc4100a88f3a958e8f%3frik%3dKidXtWueaQC47Q%26pid%3dImgRaw%26r%3d0&exph=660&expw=1200&q=hru%c5%a1ka+Ko%c4%8di%c4%8d%c3%ad+hlava+plody&FORM=IRPRST&ck=55E667BEC6B2812921EA11B892987124&selectedIndex=34&itb=0
+              - img "Image result for hruška Kočičí hlava plody" [ref=f27e567]
+            - generic [ref=f27e568]:
+              - 'link "Jak správně skladovat hrušky: Podrobný průvodce – užitečné zahradnické ..." [ref=f27e569] [cursor=pointer]':
+                - /url: /images/search?view=detailV2&ccid=Bh6P8x40&id=4EF42D57B3CA76DC69FBEDB800699E6BB557272A&thid=OIP.Bh6P8x40G7xBAKiPOpWOjwHaEE&mediaurl=https%3a%2f%2fimages.gastronom.ru%2fVT6a29AWglJTVfj9qDhoMAXrT5qLP0GvlpzxnoJYS2Q%2fpr%3aarticle-content-image%2fg%3ace%2frs%3aauto%3a0%3a0%3a0%2fL2Ntcy9hbGwtaW1hZ2VzL2ExODBiZTQxLWY0ZmUtNDY1Ni1hNmYwLTllY2EwMWJjOTFkOC5qcGc.webp&cdnurl=https%3a%2f%2fth.bing.com%2fth%2fid%2fR.061e8ff31e341bbc4100a88f3a958e8f%3frik%3dKidXtWueaQC47Q%26pid%3dImgRaw%26r%3d0&exph=660&expw=1200&q=hru%c5%a1ka+Ko%c4%8di%c4%8d%c3%ad+hlava+plody&FORM=IRPRST&ck=55E667BEC6B2812921EA11B892987124&selectedIndex=34&itb=0
+              - generic:
+                - generic:
+                  - list:
+                    - listitem:
+                      - 'link "Jak správně skladovat hrušky: Podrobný průvodce – užitečné zahradnické ..." [ref=f27e570] [cursor=pointer]':
+                        - /url: /images/search?view=detailV2&ccid=Bh6P8x40&id=4EF42D57B3CA76DC69FBEDB800699E6BB557272A&thid=OIP.Bh6P8x40G7xBAKiPOpWOjwHaEE&mediaurl=https%3a%2f%2fimages.gastronom.ru%2fVT6a29AWglJTVfj9qDhoMAXrT5qLP0GvlpzxnoJYS2Q%2fpr%3aarticle-content-image%2fg%3ace%2frs%3aauto%3a0%3a0%3a0%2fL2Ntcy9hbGwtaW1hZ2VzL2ExODBiZTQxLWY0ZmUtNDY1Ni1hNmYwLTllY2EwMWJjOTFkOC5qcGc.webp&cdnurl=https%3a%2f%2fth.bing.com%2fth%2fid%2fR.061e8ff31e341bbc4100a88f3a958e8f%3frik%3dKidXtWueaQC47Q%26pid%3dImgRaw%26r%3d0&exph=660&expw=1200&q=hru%c5%a1ka+Ko%c4%8di%c4%8d%c3%ad+hlava+plody&FORM=IRPRST&ck=55E667BEC6B2812921EA11B892987124&selectedIndex=34&itb=0
+  - button "Feedback" [ref=f27e573] [cursor=pointer]
+  - contentinfo [ref=f27e575]:
+    - generic [ref=f27e576]:
+      - generic [ref=f27e577]: © 2026 Microsoft
+      - list:
+        - listitem [ref=f27e578]:
+          - link "Privacy" [ref=f27e579] [cursor=pointer]:
+            - /url: http://go.microsoft.com/fwlink/?LinkId=521839
+        - listitem [ref=f27e580]:
+          - link "Terms" [ref=f27e581] [cursor=pointer]:
+            - /url: http://go.microsoft.com/fwlink/?LinkID=246338
+        - listitem [ref=f27e582]:
+          - link "Advertise" [ref=f27e583] [cursor=pointer]:
+            - /url: https://go.microsoft.com/fwlink/?linkid=868922
+        - listitem [ref=f27e584]:
+          - link "Help" [ref=f27e585] [cursor=pointer]:
+            - /url: https://support.microsoft.com/topic/82d20721-2d6f-4012-a13d-d1910ccf203f
+        - listitem [ref=f27e586]:
+          - button "Feedback" [ref=f27e587] [cursor=pointer]
+  - dialog "Quick Search"
+  - complementary "GIF Autoplay Settings":
+    - generic [ref=f27e588]:
+      - link "Close dialogue" [ref=f27e589] [cursor=pointer]:
+        - /url: javascript:void(0)
+        - img "Close dialogue" [ref=f27e590]
+      - generic [ref=f27e591]: Autoplay all GIFs
+      - generic [ref=f27e592]: Flip the switch to turn them on
+      - button "Autoplay GIFs" [ref=f27e593] [cursor=pointer]

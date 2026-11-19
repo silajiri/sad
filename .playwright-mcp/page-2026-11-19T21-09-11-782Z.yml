@@ -1,0 +1,999 @@
+- generic [active] [ref=f39e1]:
+  - banner [ref=f39e2]:
+    - generic [ref=f39e3]:
+      - link [ref=f39e4] [cursor=pointer]:
+        - /url: /?FORM=Z9FD1
+        - heading "Back to Bing search" [level=1] [ref=f39e5]
+      - search [ref=f39e6]:
+        - button "Search" [ref=f39e9] [cursor=pointer]
+        - searchbox "Enter your search here – Search suggestions will show as you type" [ref=f39e10]: hruška Oharkula OR Šedůvka OR "Muškatelka šedá"
+        - button "Search using voice" [ref=f39e14] [cursor=pointer]
+        - button "Search using an image" [ref=f39e17] [cursor=pointer]
+    - complementary "Account Rewards and Preferences" [ref=f39e18]:
+      - button "Microsoft Rewards" [ref=f39e19] [cursor=pointer]:
+        - generic [ref=f39e20]: Rewards
+      - link [ref=f39e36] [cursor=pointer]:
+        - /url: javascript:void(0)
+        - button "Sign in" [ref=f39e39]
+      - button "Settings and quick links" [ref=f39e40] [cursor=pointer]
+    - navigation "Search Filter" [ref=f39e41]:
+      - list [ref=f39e42]:
+        - listitem [ref=f39e43]:
+          - link "All" [ref=f39e44] [cursor=pointer]:
+            - /url: /search?q=hru%c5%a1ka+Oharkula+OR+%c5%a0ed%c5%afvka+OR+%22Mu%c5%a1katelka+%c5%a1ed%c3%a1%22&FORM=HDRSC1
+        - listitem [ref=f39e45]:
+          - link "Search" [ref=f39e46] [cursor=pointer]:
+            - /url: /copilotsearch?q=hru%c5%a1ka+Oharkula+OR+%c5%a0ed%c5%afvka+OR+%22Mu%c5%a1katelka+%c5%a1ed%c3%a1%22&FORM=CSSCOP
+        - listitem [ref=f39e49]:
+          - link "Web Mode" [ref=f39e50] [cursor=pointer]:
+            - /url: /search?q=hru%c5%a1ka+Oharkula+OR+%c5%a0ed%c5%afvka+OR+%22Mu%c5%a1katelka+%c5%a1ed%c3%a1%22&webscp=1&FORM=HDRWSC
+        - listitem [ref=f39e51]:
+          - link "Images" [ref=f39e52] [cursor=pointer]:
+            - /url: /images?FORM=HDRSC3
+        - listitem [ref=f39e53]:
+          - list [ref=f39e54]:
+            - listitem [ref=f39e55]:
+              - link "Create" [ref=f39e56] [cursor=pointer]:
+                - /url: /images/create/ai-image-generator?FORM=IRPGEN
+            - listitem [ref=f39e61]:
+              - link "Collections" [ref=f39e62] [cursor=pointer]:
+                - /url: /saves?FORM=IRPCOL
+        - listitem [ref=f39e66]:
+          - link "Videos" [ref=f39e67] [cursor=pointer]:
+            - /url: /videos/search?q=hru%c5%a1ka+Oharkula+OR+%c5%a0ed%c5%afvka+OR+%22Mu%c5%a1katelka+%c5%a1ed%c3%a1%22&FORM=HDRSC4
+        - listitem [ref=f39e68]:
+          - link "Maps" [ref=f39e69] [cursor=pointer]:
+            - /url: /maps?q=hru%c5%a1ka+Oharkula+OR+%c5%a0ed%c5%afvka+OR+%22Mu%c5%a1katelka+%c5%a1ed%c3%a1%22&FORM=HDRSC6
+        - listitem [ref=f39e70]:
+          - link "News" [ref=f39e71] [cursor=pointer]:
+            - /url: /news/search?q=hru%c5%a1ka+Oharkula+OR+%c5%a0ed%c5%afvka+OR+%22Mu%c5%a1katelka+%c5%a1ed%c3%a1%22&FORM=HDRSC7
+        - listitem [ref=f39e72]:
+          - link "Copilot" [ref=f39e73] [cursor=pointer]:
+            - /url: /chat?prompt=hru%c5%a1ka+Oharkula+OR+%c5%a0ed%c5%afvka+OR+%22Mu%c5%a1katelka+%c5%a1ed%c3%a1%22&sendquery=1&FORM=SCCODX
+        - listitem [ref=f39e74]:
+          - button "More" [ref=f39e75] [cursor=pointer]
+      - generic [ref=f39e79]:
+        - generic [ref=f39e80]:
+          - list:
+            - listitem [ref=f39e81]:
+              - generic [ref=f39e82]: "SafeSearch:"
+            - listitem [ref=f39e83]:
+              - button "Moderate SafeSearch:" [ref=f39e84] [cursor=pointer]:
+                - generic [ref=f39e85]: Moderate
+        - button "Filter" [ref=f39e88] [cursor=pointer]
+  - main [ref=f39e91]:
+    - navigation [aria-hidden] [ref=f39e92]:
+      - generic [ref=f39e96]:
+        - link [ref=f39e98] [cursor=pointer]:
+          - /url: /images/search?q=Spis+Hruska&FORM=IRMHRS
+          - strong [ref=f39e101]: Spis
+        - link [ref=f39e103] [cursor=pointer]:
+          - /url: /images/search?q=Devin+Hruska&FORM=IRMHRS
+          - strong [ref=f39e106]: Devin Hruska
+        - link [ref=f39e108] [cursor=pointer]:
+          - /url: /images/search?q=Roman+Hruska&FORM=IRMHRS
+          - strong [ref=f39e111]: Roman Hruska
+        - link [ref=f39e113] [cursor=pointer]:
+          - /url: /images/search?q=Ron+Hruska&FORM=IRMHRS
+          - strong [ref=f39e116]: Ron Hruska
+        - link [ref=f39e118] [cursor=pointer]:
+          - /url: /images/search?q=Eric+Hruska&FORM=IRMHRS
+          - strong [ref=f39e121]: Eric Hruska
+        - link [ref=f39e123] [cursor=pointer]:
+          - /url: /images/search?q=Ivan+Hruska&FORM=IRMHRS
+          - strong [ref=f39e126]: Ivan Hruska
+        - link [ref=f39e128] [cursor=pointer]:
+          - /url: /images/search?q=Michelle+Hruska&FORM=IRMHRS
+          - strong [ref=f39e131]: Michelle
+        - link [ref=f39e133] [cursor=pointer]:
+          - /url: /images/search?q=Robin+Hruska&FORM=IRMHRS
+          - strong [ref=f39e136]: Robin Hruska
+        - link [ref=f39e138] [cursor=pointer]:
+          - /url: /images/search?q=Lara+Hruska&FORM=IRMHRS
+          - strong [ref=f39e141]: Lara Hruska
+        - link [ref=f39e143] [cursor=pointer]:
+          - /url: /images/search?q=Rachel+Hruska+Macpherson&FORM=IRMHRS
+          - strong [ref=f39e146]: Rachel Hruska Macpherson
+        - link [ref=f39e148] [cursor=pointer]:
+          - /url: /images/search?q=Hruska+Jana&FORM=IRMHRS
+          - strong [ref=f39e151]: Jana
+        - link [ref=f39e153] [cursor=pointer]:
+          - /url: /images/search?q=Ed+Hruska&FORM=IRMHRS
+          - strong [ref=f39e156]: Ed Hruska
+        - link [ref=f39e158] [cursor=pointer]:
+          - /url: /images/search?q=Andrew+Hruska&FORM=IRMHRS
+          - strong [ref=f39e161]: Andrew Hruska
+        - link [ref=f39e163] [cursor=pointer]:
+          - /url: /images/search?q=Hruska+Letak&FORM=IRMHRS
+          - strong [ref=f39e166]: Letak
+        - link [ref=f39e168] [cursor=pointer]:
+          - /url: /images/search?q=Gina+Hruska&FORM=IRMHRS
+          - strong [ref=f39e171]: Gina Hruska
+        - link [ref=f39e173] [cursor=pointer]:
+          - /url: /images/search?q=Cruiz+Hruska&FORM=IRMHRS
+          - strong [ref=f39e176]: Cruiz
+        - link [ref=f39e178] [cursor=pointer]:
+          - /url: /images/search?q=Rachelle+Hruska+Macpherson&FORM=IRMHRS
+          - strong [ref=f39e181]: Rachelle Hruska Macpherson
+        - link [ref=f39e183] [cursor=pointer]:
+          - /url: /images/search?q=Katrina+Hruska&FORM=IRMHRS
+          - strong [ref=f39e186]: Katrina Hruska
+        - link [ref=f39e188] [cursor=pointer]:
+          - /url: /images/search?q=Bronwen+Hruska&FORM=IRMHRS
+          - strong [ref=f39e191]: Bronwen Hruska
+        - link [ref=f39e193] [cursor=pointer]:
+          - /url: /images/search?q=Zdenek+Hruska&FORM=IRMHRS
+          - strong [ref=f39e196]: Zdenek Hruska
+        - link [ref=f39e198] [cursor=pointer]:
+          - /url: /images/search?q=Sava+Hruska&FORM=IRMHRS
+          - strong [ref=f39e201]: Sava Hruska
+        - link [ref=f39e203] [cursor=pointer]:
+          - /url: /images/search?q=Hruska+Coat+of+Arms&FORM=IRMHRS
+          - strong [ref=f39e206]: Coat of Arms
+        - link [ref=f39e208] [cursor=pointer]:
+          - /url: /images/search?q=Hruska+Building&FORM=IRMHRS
+          - strong [ref=f39e211]: Hruska Building
+        - link [ref=f39e213] [cursor=pointer]:
+          - /url: /images/search?q=Ovoce+Hruska&FORM=IRMHRS
+          - strong [ref=f39e216]: Ovoce
+        - link [ref=f39e218] [cursor=pointer]:
+          - /url: /images/search?q=Molly+Hruska&FORM=IRMHRS
+          - strong [ref=f39e221]: Molly Hruska
+        - link [ref=f39e223] [cursor=pointer]:
+          - /url: /images/search?q=Hruska+Liquor&FORM=IRMHRS
+          - strong [ref=f39e226]: Hruska Liquor
+        - link [ref=f39e228] [cursor=pointer]:
+          - /url: /images/search?q=Ales+Hruska&FORM=IRMHRS
+          - strong [ref=f39e231]: Ales Hruska
+        - link [ref=f39e233] [cursor=pointer]:
+          - /url: /images/search?q=Charlotte+Hruska&FORM=IRMHRS
+          - strong [ref=f39e236]: Charlotte Hruska
+        - link [ref=f39e238] [cursor=pointer]:
+          - /url: /images/search?q=March+Hruska&FORM=IRMHRS
+          - strong [ref=f39e241]: March Hruska
+        - link [ref=f39e243] [cursor=pointer]:
+          - /url: /images/search?q=Hruska+Tisk&FORM=IRMHRS
+          - strong [ref=f39e246]: Hruska Tisk
+        - link [ref=f39e248] [cursor=pointer]:
+          - /url: /images/search?q=Nunez+Hruska&FORM=IRMHRS
+          - strong [ref=f39e251]: Nunez Hruska
+        - link [ref=f39e253] [cursor=pointer]:
+          - /url: /images/search?q=Olimpia+Hruska&FORM=IRMHRS
+          - strong [ref=f39e256]: Olimpia
+        - link [ref=f39e258] [cursor=pointer]:
+          - /url: /images/search?q=Hruska+Tate&FORM=IRMHRS
+          - strong [ref=f39e261]: Hruska Tate
+        - link [ref=f39e263] [cursor=pointer]:
+          - /url: /images/search?q=Mini+Hruska&FORM=IRMHRS
+          - strong [ref=f39e266]: Mini Hruska
+        - link [ref=f39e268] [cursor=pointer]:
+          - /url: /images/search?q=Hruska+Exercises&FORM=IRMHRS
+          - strong [ref=f39e271]: Exercises
+        - link [ref=f39e273] [cursor=pointer]:
+          - /url: /images/search?q=Hruska+Orbit&FORM=IRMHRS
+          - strong [ref=f39e276]: Hruska Orbit
+        - link [ref=f39e278] [cursor=pointer]:
+          - /url: /images/search?q=RJ+Hruska&FORM=IRMHRS
+          - strong [ref=f39e281]: RJ Hruska
+        - link [ref=f39e283] [cursor=pointer]:
+          - /url: /images/search?q=Hruska+Czechia&FORM=IRMHRS
+          - strong [ref=f39e286]: Hruska Czechia
+        - link [ref=f39e288] [cursor=pointer]:
+          - /url: /images/search?q=Hruska+Romania&FORM=IRMHRS
+          - strong [ref=f39e291]: Hruska Romania
+        - link [ref=f39e293] [cursor=pointer]:
+          - /url: /images/search?q=Hruska+Lincoln&FORM=IRMHRS
+          - strong [ref=f39e296]: Hruska Lincoln
+        - link [ref=f39e298] [cursor=pointer]:
+          - /url: /images/search?q=Marlene+Hruska&FORM=IRMHRS
+          - strong [ref=f39e301]: Marlene Hruska
+        - link [ref=f39e303] [cursor=pointer]:
+          - /url: /images/search?q=Ella+Hruska&FORM=IRMHRS
+          - strong [ref=f39e306]: Ella Hruska
+        - link [ref=f39e308] [cursor=pointer]:
+          - /url: /images/search?q=Jergus+Hruska&FORM=IRMHRS
+          - strong [ref=f39e311]: Jergus Hruska
+        - link [ref=f39e313] [cursor=pointer]:
+          - /url: /images/search?q=Lisa+Hruska&FORM=IRMHRS
+          - strong [ref=f39e316]: Lisa
+        - link [ref=f39e318] [cursor=pointer]:
+          - /url: /images/search?q=Tobin+Hruska&FORM=IRMHRS
+          - strong [ref=f39e321]: Tobin Hruska
+    - generic "Suggested searches" [ref=f39e325]:
+      - navigation [ref=f39e326]:
+        - region "Carousel" [ref=f39e327]:
+          - list [ref=f39e331]:
+            - listitem [ref=f39e332]:
+              - link [ref=f39e333] [cursor=pointer]:
+                - /url: /images/search?q=Spis+Hruska&FORM=RESTAB
+                - img "Spis" [ref=f39e335]
+                - strong [ref=f39e338]: Spis
+            - listitem [ref=f39e339]:
+              - link [ref=f39e340] [cursor=pointer]:
+                - /url: /images/search?q=Devin+Hruska&FORM=RESTAB
+                - img "Devin Hruska" [ref=f39e342]
+                - strong [ref=f39e345]: Devin Hruska
+            - listitem [ref=f39e346]:
+              - link [ref=f39e347] [cursor=pointer]:
+                - /url: /images/search?q=Roman+Hruska&FORM=RESTAB
+                - img "Roman Hruska" [ref=f39e349]
+                - strong [ref=f39e352]: Roman Hruska
+            - listitem [ref=f39e353]:
+              - link [ref=f39e354] [cursor=pointer]:
+                - /url: /images/search?q=Ron+Hruska&FORM=RESTAB
+                - img "Ron Hruska" [ref=f39e356]
+                - strong [ref=f39e359]: Ron Hruska
+            - listitem [ref=f39e360]:
+              - link [ref=f39e361] [cursor=pointer]:
+                - /url: /images/search?q=Eric+Hruska&FORM=RESTAB
+                - img "Eric Hruska" [ref=f39e363]
+                - strong [ref=f39e366]: Eric Hruska
+            - listitem [ref=f39e367]:
+              - link [ref=f39e368] [cursor=pointer]:
+                - /url: /images/search?q=Ivan+Hruska&FORM=RESTAB
+                - img "Ivan Hruska" [ref=f39e370]
+                - strong [ref=f39e373]: Ivan Hruska
+            - listitem [ref=f39e374]:
+              - link [ref=f39e375] [cursor=pointer]:
+                - /url: /images/search?q=Michelle+Hruska&FORM=RESTAB
+                - img "Michelle" [ref=f39e377]
+                - strong [ref=f39e380]: Michelle
+            - listitem [ref=f39e381]:
+              - link [ref=f39e382] [cursor=pointer]:
+                - /url: /images/search?q=Robin+Hruska&FORM=RESTAB
+                - img "Robin Hruska" [ref=f39e384]
+                - strong [ref=f39e387]: Robin Hruska
+            - listitem [ref=f39e388]:
+              - 'link "Search for: Lara Hruska" [ref=f39e389] [cursor=pointer]':
+                - /url: /images/search?q=Lara+Hruska&FORM=RESTAB
+                - strong [ref=f39e393]: Lara Hruska
+            - listitem [ref=f39e394]:
+              - 'link "Search for: Rachel Hruska Macpherson" [ref=f39e395] [cursor=pointer]':
+                - /url: /images/search?q=Rachel+Hruska+Macpherson&FORM=RESTAB
+                - strong [ref=f39e399]: Rachel Hruska Macpherson
+            - listitem [ref=f39e400]:
+              - 'link "Search for: Hruska Jana" [ref=f39e401] [cursor=pointer]':
+                - /url: /images/search?q=Hruska+Jana&FORM=RESTAB
+                - strong [ref=f39e405]: Jana
+            - listitem [ref=f39e406]:
+              - 'link "Search for: Ed Hruska" [ref=f39e407] [cursor=pointer]':
+                - /url: /images/search?q=Ed+Hruska&FORM=RESTAB
+                - strong [ref=f39e411]: Ed Hruska
+            - listitem [ref=f39e412]:
+              - 'link "Search for: Andrew Hruska" [ref=f39e413] [cursor=pointer]':
+                - /url: /images/search?q=Andrew+Hruska&FORM=RESTAB
+                - strong [ref=f39e417]: Andrew Hruska
+            - listitem [ref=f39e418]:
+              - 'link "Search for: Hruska Letak" [ref=f39e419] [cursor=pointer]':
+                - /url: /images/search?q=Hruska+Letak&FORM=RESTAB
+                - strong [ref=f39e423]: Letak
+            - listitem [ref=f39e424]:
+              - 'link "Search for: Gina Hruska" [ref=f39e425] [cursor=pointer]':
+                - /url: /images/search?q=Gina+Hruska&FORM=RESTAB
+                - strong [ref=f39e429]: Gina Hruska
+            - listitem [ref=f39e430]:
+              - 'link "Search for: Cruiz Hruska" [ref=f39e431] [cursor=pointer]':
+                - /url: /images/search?q=Cruiz+Hruska&FORM=RESTAB
+                - strong [ref=f39e435]: Cruiz
+            - listitem [ref=f39e436]:
+              - 'link "Search for: Rachelle Hruska Macpherson" [ref=f39e437] [cursor=pointer]':
+                - /url: /images/search?q=Rachelle+Hruska+Macpherson&FORM=RESTAB
+                - strong [ref=f39e441]: Rachelle Hruska Macpherson
+            - listitem [ref=f39e442]:
+              - 'link "Search for: Katrina Hruska" [ref=f39e443] [cursor=pointer]':
+                - /url: /images/search?q=Katrina+Hruska&FORM=RESTAB
+                - strong [ref=f39e447]: Katrina Hruska
+            - listitem [ref=f39e448]:
+              - 'link "Search for: Bronwen Hruska" [ref=f39e449] [cursor=pointer]':
+                - /url: /images/search?q=Bronwen+Hruska&FORM=RESTAB
+                - strong [ref=f39e453]: Bronwen Hruska
+            - listitem [ref=f39e454]:
+              - 'link "Search for: Zdenek Hruska" [ref=f39e455] [cursor=pointer]':
+                - /url: /images/search?q=Zdenek+Hruska&FORM=RESTAB
+                - strong [ref=f39e459]: Zdenek Hruska
+            - listitem [ref=f39e460]:
+              - 'link "Search for: Sava Hruska" [ref=f39e461] [cursor=pointer]':
+                - /url: /images/search?q=Sava+Hruska&FORM=RESTAB
+                - strong [ref=f39e465]: Sava Hruska
+            - listitem [ref=f39e466]:
+              - 'link "Search for: Hruska Coat of Arms" [ref=f39e467] [cursor=pointer]':
+                - /url: /images/search?q=Hruska+Coat+of+Arms&FORM=RESTAB
+                - strong [ref=f39e471]: Coat of Arms
+            - listitem [ref=f39e472]:
+              - 'link "Search for: Hruska Building" [ref=f39e473] [cursor=pointer]':
+                - /url: /images/search?q=Hruska+Building&FORM=RESTAB
+                - strong [ref=f39e477]: Hruska Building
+            - listitem [ref=f39e478]:
+              - 'link "Search for: Ovoce Hruska" [ref=f39e479] [cursor=pointer]':
+                - /url: /images/search?q=Ovoce+Hruska&FORM=RESTAB
+                - strong [ref=f39e483]: Ovoce
+            - listitem [ref=f39e484]:
+              - 'link "Search for: Molly Hruska" [ref=f39e485] [cursor=pointer]':
+                - /url: /images/search?q=Molly+Hruska&FORM=RESTAB
+                - strong [ref=f39e489]: Molly Hruska
+            - listitem [ref=f39e490]:
+              - 'link "Search for: Hruska Liquor" [ref=f39e491] [cursor=pointer]':
+                - /url: /images/search?q=Hruska+Liquor&FORM=RESTAB
+                - strong [ref=f39e495]: Hruska Liquor
+            - listitem [ref=f39e496]:
+              - 'link "Search for: Ales Hruska" [ref=f39e497] [cursor=pointer]':
+                - /url: /images/search?q=Ales+Hruska&FORM=RESTAB
+                - strong [ref=f39e501]: Ales Hruska
+            - listitem [ref=f39e502]:
+              - 'link "Search for: Charlotte Hruska" [ref=f39e503] [cursor=pointer]':
+                - /url: /images/search?q=Charlotte+Hruska&FORM=RESTAB
+                - strong [ref=f39e507]: Charlotte Hruska
+            - listitem [ref=f39e508]:
+              - 'link "Search for: March Hruska" [ref=f39e509] [cursor=pointer]':
+                - /url: /images/search?q=March+Hruska&FORM=RESTAB
+                - strong [ref=f39e513]: March Hruska
+            - listitem [ref=f39e514]:
+              - 'link "Search for: Hruska Tisk" [ref=f39e515] [cursor=pointer]':
+                - /url: /images/search?q=Hruska+Tisk&FORM=RESTAB
+                - strong [ref=f39e519]: Hruska Tisk
+            - listitem [ref=f39e520]:
+              - 'link "Search for: Nunez Hruska" [ref=f39e521] [cursor=pointer]':
+                - /url: /images/search?q=Nunez+Hruska&FORM=RESTAB
+                - strong [ref=f39e525]: Nunez Hruska
+            - listitem [ref=f39e526]:
+              - 'link "Search for: Olimpia Hruska" [ref=f39e527] [cursor=pointer]':
+                - /url: /images/search?q=Olimpia+Hruska&FORM=RESTAB
+                - strong [ref=f39e531]: Olimpia
+            - listitem [ref=f39e532]:
+              - 'link "Search for: Hruska Tate" [ref=f39e533] [cursor=pointer]':
+                - /url: /images/search?q=Hruska+Tate&FORM=RESTAB
+                - strong [ref=f39e537]: Hruska Tate
+            - listitem [ref=f39e538]:
+              - 'link "Search for: Mini Hruska" [ref=f39e539] [cursor=pointer]':
+                - /url: /images/search?q=Mini+Hruska&FORM=RESTAB
+                - strong [ref=f39e543]: Mini Hruska
+            - listitem [ref=f39e544]:
+              - 'link "Search for: Hruska Exercises" [ref=f39e545] [cursor=pointer]':
+                - /url: /images/search?q=Hruska+Exercises&FORM=RESTAB
+                - strong [ref=f39e549]: Exercises
+            - listitem [ref=f39e550]:
+              - 'link "Search for: Hruska Orbit" [ref=f39e551] [cursor=pointer]':
+                - /url: /images/search?q=Hruska+Orbit&FORM=RESTAB
+                - strong [ref=f39e555]: Hruska Orbit
+            - listitem [ref=f39e556]:
+              - 'link "Search for: RJ Hruska" [ref=f39e557] [cursor=pointer]':
+                - /url: /images/search?q=RJ+Hruska&FORM=RESTAB
+                - strong [ref=f39e561]: RJ Hruska
+            - listitem [ref=f39e562]:
+              - 'link "Search for: Hruska Czechia" [ref=f39e563] [cursor=pointer]':
+                - /url: /images/search?q=Hruska+Czechia&FORM=RESTAB
+                - strong [ref=f39e567]: Hruska Czechia
+            - listitem [ref=f39e568]:
+              - 'link "Search for: Hruska Romania" [ref=f39e569] [cursor=pointer]':
+                - /url: /images/search?q=Hruska+Romania&FORM=RESTAB
+                - strong [ref=f39e573]: Hruska Romania
+            - listitem [ref=f39e574]:
+              - 'link "Search for: Hruska Lincoln" [ref=f39e575] [cursor=pointer]':
+                - /url: /images/search?q=Hruska+Lincoln&FORM=RESTAB
+                - strong [ref=f39e579]: Hruska Lincoln
+            - listitem [ref=f39e580]:
+              - 'link "Search for: Marlene Hruska" [ref=f39e581] [cursor=pointer]':
+                - /url: /images/search?q=Marlene+Hruska&FORM=RESTAB
+                - strong [ref=f39e585]: Marlene Hruska
+            - listitem [ref=f39e586]:
+              - 'link "Search for: Ella Hruska" [ref=f39e587] [cursor=pointer]':
+                - /url: /images/search?q=Ella+Hruska&FORM=RESTAB
+                - strong [ref=f39e591]: Ella Hruska
+            - listitem [ref=f39e592]:
+              - 'link "Search for: Jergus Hruska" [ref=f39e593] [cursor=pointer]':
+                - /url: /images/search?q=Jergus+Hruska&FORM=RESTAB
+                - strong [ref=f39e597]: Jergus Hruska
+            - listitem [ref=f39e598]:
+              - 'link "Search for: Lisa Hruska" [ref=f39e599] [cursor=pointer]':
+                - /url: /images/search?q=Lisa+Hruska&FORM=RESTAB
+                - strong [ref=f39e603]: Lisa
+            - listitem [ref=f39e604]:
+              - 'link "Search for: Tobin Hruska" [ref=f39e605] [cursor=pointer]':
+                - /url: /images/search?q=Tobin+Hruska&FORM=RESTAB
+                - strong [ref=f39e609]: Tobin Hruska
+    - generic [ref=f39e612]:
+      - list [ref=f39e613]:
+        - listitem [ref=f39e614]:
+          - generic [ref=f39e615]:
+            - generic [ref=f39e616]:
+              - link "Image result for hruška Oharkula OR Šedůvka OR \"Muškatelka šedá\"" [ref=f39e617] [cursor=pointer]:
+                - /url: /images/search?view=detailV2&ccid=PEYJ6j8r&id=84B40CFB07D521C0D82CC4168998BC4BC7A42F31&thid=OIP.PEYJ6j8rmUVSJvHdFAzLqQHaE8&mediaurl=https%3a%2f%2fwww.prodejstromku.cz%2fimg%2fclanky-nove%2fhrusne%2fmuskatelka.jpg&cdnurl=https%3a%2f%2fth.bing.com%2fth%2fid%2fR.3c4609ea3f2b99455226f1dd140ccba9%3frik%3dMS%252bkx0u8mIkWxA%26pid%3dImgRaw%26r%3d0&exph=340&expw=510&q=hru%c5%a1ka+Oharkula+OR+%c5%a0ed%c5%afvka+OR+%22Mu%c5%a1katelka+%c5%a1ed%c3%a1%22&FORM=IRPRST&ck=5ECAE0DF45E947D2A709497C5D999F95&selectedIndex=0&itb=0
+                - generic [ref=f39e619]:
+                  - img "Image result for hruška Oharkula OR Šedůvka OR \"Muškatelka šedá\"" [ref=f39e621]
+                  - generic:
+                    - img "Image result for hruška Oharkula OR Šedůvka OR \"Muškatelka šedá\""
+                    - img "Image result for hruška Oharkula OR Šedůvka OR \"Muškatelka šedá\""
+              - link "Gallery" [ref=f39e622] [cursor=pointer]:
+                - /url: /images/search?view=detailV2&ccid=PEYJ6j8r&id=84B40CFB07D521C0D82CC4168998BC4BC7A42F31&thid=OIP.PEYJ6j8rmUVSJvHdFAzLqQHaE8&mediaurl=https%3a%2f%2fwww.prodejstromku.cz%2fimg%2fclanky-nove%2fhrusne%2fmuskatelka.jpg&cdnurl=https%3a%2f%2fth.bing.com%2fth%2fid%2fR.3c4609ea3f2b99455226f1dd140ccba9%3frik%3dMS%252bkx0u8mIkWxA%26pid%3dImgRaw%26r%3d0&exph=340&expw=510&q=hru%c5%a1ka+Oharkula+OR+%c5%a0ed%c5%afvka+OR+%22Mu%c5%a1katelka+%c5%a1ed%c3%a1%22&FORM=IRPRST&ck=5ECAE0DF45E947D2A709497C5D999F95&selectedIndex=0&itb=0
+              - generic:
+                - generic: 510×340
+                - generic:
+                  - link "prodejstromku.cz":
+                    - /url: https://www.prodejstromku.cz/prakticke-informace/informace-o-odrudach/stare-a-krajove-odrudy-hrusni/
+            - generic [ref=f39e624]:
+              - link "Staré odrůdy hrušní | Prodej stromků" [ref=f39e625] [cursor=pointer]:
+                - /url: /images/search?view=detailV2&ccid=PEYJ6j8r&id=84B40CFB07D521C0D82CC4168998BC4BC7A42F31&thid=OIP.PEYJ6j8rmUVSJvHdFAzLqQHaE8&mediaurl=https%3a%2f%2fwww.prodejstromku.cz%2fimg%2fclanky-nove%2fhrusne%2fmuskatelka.jpg&cdnurl=https%3a%2f%2fth.bing.com%2fth%2fid%2fR.3c4609ea3f2b99455226f1dd140ccba9%3frik%3dMS%252bkx0u8mIkWxA%26pid%3dImgRaw%26r%3d0&exph=340&expw=510&q=hru%c5%a1ka+Oharkula+OR+%c5%a0ed%c5%afvka+OR+%22Mu%c5%a1katelka+%c5%a1ed%c3%a1%22&FORM=IRPRST&ck=5ECAE0DF45E947D2A709497C5D999F95&selectedIndex=0&itb=0
+              - generic:
+                - generic:
+                  - list:
+                    - listitem:
+                      - link "Staré odrůdy hrušní | Prodej stromků" [ref=f39e626] [cursor=pointer]:
+                        - /url: /images/search?view=detailV2&ccid=PEYJ6j8r&id=84B40CFB07D521C0D82CC4168998BC4BC7A42F31&thid=OIP.PEYJ6j8rmUVSJvHdFAzLqQHaE8&mediaurl=https%3a%2f%2fwww.prodejstromku.cz%2fimg%2fclanky-nove%2fhrusne%2fmuskatelka.jpg&cdnurl=https%3a%2f%2fth.bing.com%2fth%2fid%2fR.3c4609ea3f2b99455226f1dd140ccba9%3frik%3dMS%252bkx0u8mIkWxA%26pid%3dImgRaw%26r%3d0&exph=340&expw=510&q=hru%c5%a1ka+Oharkula+OR+%c5%a0ed%c5%afvka+OR+%22Mu%c5%a1katelka+%c5%a1ed%c3%a1%22&FORM=IRPRST&ck=5ECAE0DF45E947D2A709497C5D999F95&selectedIndex=0&itb=0
+        - listitem [ref=f39e627]:
+          - generic [ref=f39e628]:
+            - link "Image result for hruška Oharkula OR Šedůvka OR \"Muškatelka šedá\"" [ref=f39e630] [cursor=pointer]:
+              - /url: /images/search?view=detailV2&ccid=toGxyRL1&id=391DDBC8253B94F149A8DB5BCFCD95F30AA164E7&thid=OIP.toGxyRL1095VeAXX3QZuDgHaHa&mediaurl=https%3a%2f%2fwww.arbia.cz%2fwp-content%2fuploads%2f2021%2f03%2fmuskatelka_seda.jpg&cdnurl=https%3a%2f%2fth.bing.com%2fth%2fid%2fR.b681b1c912f5d3de557805d7dd066e0e%3frik%3d52ShCvOVzc9b2w%26pid%3dImgRaw%26r%3d0&exph=800&expw=800&q=hru%c5%a1ka+Oharkula+OR+%c5%a0ed%c5%afvka+OR+%22Mu%c5%a1katelka+%c5%a1ed%c3%a1%22&FORM=IRPRST&ck=011229678BFAD65FC5E486335CE12729&selectedIndex=1&itb=0
+              - img "Image result for hruška Oharkula OR Šedůvka OR \"Muškatelka šedá\"" [ref=f39e632]
+            - generic [ref=f39e633]:
+              - link "Muškatelka šedá – Arbia" [ref=f39e634] [cursor=pointer]:
+                - /url: /images/search?view=detailV2&ccid=toGxyRL1&id=391DDBC8253B94F149A8DB5BCFCD95F30AA164E7&thid=OIP.toGxyRL1095VeAXX3QZuDgHaHa&mediaurl=https%3a%2f%2fwww.arbia.cz%2fwp-content%2fuploads%2f2021%2f03%2fmuskatelka_seda.jpg&cdnurl=https%3a%2f%2fth.bing.com%2fth%2fid%2fR.b681b1c912f5d3de557805d7dd066e0e%3frik%3d52ShCvOVzc9b2w%26pid%3dImgRaw%26r%3d0&exph=800&expw=800&q=hru%c5%a1ka+Oharkula+OR+%c5%a0ed%c5%afvka+OR+%22Mu%c5%a1katelka+%c5%a1ed%c3%a1%22&FORM=IRPRST&ck=011229678BFAD65FC5E486335CE12729&selectedIndex=1&itb=0
+              - generic:
+                - generic:
+                  - list:
+                    - listitem:
+                      - link "Muškatelka šedá – Arbia" [ref=f39e635] [cursor=pointer]:
+                        - /url: /images/search?view=detailV2&ccid=toGxyRL1&id=391DDBC8253B94F149A8DB5BCFCD95F30AA164E7&thid=OIP.toGxyRL1095VeAXX3QZuDgHaHa&mediaurl=https%3a%2f%2fwww.arbia.cz%2fwp-content%2fuploads%2f2021%2f03%2fmuskatelka_seda.jpg&cdnurl=https%3a%2f%2fth.bing.com%2fth%2fid%2fR.b681b1c912f5d3de557805d7dd066e0e%3frik%3d52ShCvOVzc9b2w%26pid%3dImgRaw%26r%3d0&exph=800&expw=800&q=hru%c5%a1ka+Oharkula+OR+%c5%a0ed%c5%afvka+OR+%22Mu%c5%a1katelka+%c5%a1ed%c3%a1%22&FORM=IRPRST&ck=011229678BFAD65FC5E486335CE12729&selectedIndex=1&itb=0
+        - listitem [ref=f39e636]:
+          - generic [ref=f39e637]:
+            - link "Image result for hruška Oharkula OR Šedůvka OR \"Muškatelka šedá\"" [ref=f39e639] [cursor=pointer]:
+              - /url: /images/search?view=detailV2&ccid=YSUqQS8u&id=84B40CFB07D521C0D82CB2A9595587A0E0C2811B&thid=OIP.YSUqQS8uvSPrM0bkN96NBAHaE8&mediaurl=https%3a%2f%2fwww.prodejstromku.cz%2fimg%2fclanky-nove%2fhrusne%2fpastornica.jpg&cdnurl=https%3a%2f%2fth.bing.com%2fth%2fid%2fR.61252a412f2ebd23eb3346e437de8d04%3frik%3dG4HC4KCHVVmpsg%26pid%3dImgRaw%26r%3d0&exph=1067&expw=1600&q=hru%c5%a1ka+Oharkula+OR+%c5%a0ed%c5%afvka+OR+%22Mu%c5%a1katelka+%c5%a1ed%c3%a1%22&FORM=IRPRST&ck=2F669B7D7B007D40C38786C0EEDC76CA&selectedIndex=2&itb=0
+              - img "Image result for hruška Oharkula OR Šedůvka OR \"Muškatelka šedá\"" [ref=f39e641]
+            - generic [ref=f39e642]:
+              - link "Staré odrůdy hrušní | Prodej stromků" [ref=f39e643] [cursor=pointer]:
+                - /url: /images/search?view=detailV2&ccid=YSUqQS8u&id=84B40CFB07D521C0D82CB2A9595587A0E0C2811B&thid=OIP.YSUqQS8uvSPrM0bkN96NBAHaE8&mediaurl=https%3a%2f%2fwww.prodejstromku.cz%2fimg%2fclanky-nove%2fhrusne%2fpastornica.jpg&cdnurl=https%3a%2f%2fth.bing.com%2fth%2fid%2fR.61252a412f2ebd23eb3346e437de8d04%3frik%3dG4HC4KCHVVmpsg%26pid%3dImgRaw%26r%3d0&exph=1067&expw=1600&q=hru%c5%a1ka+Oharkula+OR+%c5%a0ed%c5%afvka+OR+%22Mu%c5%a1katelka+%c5%a1ed%c3%a1%22&FORM=IRPRST&ck=2F669B7D7B007D40C38786C0EEDC76CA&selectedIndex=2&itb=0
+              - generic:
+                - generic:
+                  - list:
+                    - listitem:
+                      - link "Staré odrůdy hrušní | Prodej stromků" [ref=f39e644] [cursor=pointer]:
+                        - /url: /images/search?view=detailV2&ccid=YSUqQS8u&id=84B40CFB07D521C0D82CB2A9595587A0E0C2811B&thid=OIP.YSUqQS8uvSPrM0bkN96NBAHaE8&mediaurl=https%3a%2f%2fwww.prodejstromku.cz%2fimg%2fclanky-nove%2fhrusne%2fpastornica.jpg&cdnurl=https%3a%2f%2fth.bing.com%2fth%2fid%2fR.61252a412f2ebd23eb3346e437de8d04%3frik%3dG4HC4KCHVVmpsg%26pid%3dImgRaw%26r%3d0&exph=1067&expw=1600&q=hru%c5%a1ka+Oharkula+OR+%c5%a0ed%c5%afvka+OR+%22Mu%c5%a1katelka+%c5%a1ed%c3%a1%22&FORM=IRPRST&ck=2F669B7D7B007D40C38786C0EEDC76CA&selectedIndex=2&itb=0
+        - listitem [ref=f39e645]:
+          - generic [ref=f39e646]:
+            - link "Image result for hruška Oharkula OR Šedůvka OR \"Muškatelka šedá\"" [ref=f39e648] [cursor=pointer]:
+              - /url: /images/search?view=detailV2&ccid=tb6HroFb&id=AC54DDDCD878832ED862D2831EAF22329C9DC27D&thid=OIP.tb6HroFbP3vUVPyuiPeR2AHaFj&mediaurl=https%3a%2f%2f1gr.cz%2ffotky%2fidnes%2f24%2f072%2fcl6h%2fMCE9bdee0d8b9_162142_1607694.jpg&cdnurl=https%3a%2f%2fth.bing.com%2fth%2fid%2fR.b5be87ae815b3f7bd454fcae88f791d8%3frik%3dfcKdnDIirx6D0g%26pid%3dImgRaw%26r%3d0&exph=472&expw=630&q=hru%c5%a1ka+Oharkula+OR+%c5%a0ed%c5%afvka+OR+%22Mu%c5%a1katelka+%c5%a1ed%c3%a1%22&FORM=IRPRST&ck=0EB39067AAA5BA8043FE8D131D250B57&selectedIndex=3&itb=0
+              - img "Image result for hruška Oharkula OR Šedůvka OR \"Muškatelka šedá\"" [ref=f39e650]
+            - generic [ref=f39e651]:
+              - link "Třešně, višně, meruňky i hrušky, které nekoupíte. Ale vystavují je v Praze" [ref=f39e652] [cursor=pointer]:
+                - /url: /images/search?view=detailV2&ccid=tb6HroFb&id=AC54DDDCD878832ED862D2831EAF22329C9DC27D&thid=OIP.tb6HroFbP3vUVPyuiPeR2AHaFj&mediaurl=https%3a%2f%2f1gr.cz%2ffotky%2fidnes%2f24%2f072%2fcl6h%2fMCE9bdee0d8b9_162142_1607694.jpg&cdnurl=https%3a%2f%2fth.bing.com%2fth%2fid%2fR.b5be87ae815b3f7bd454fcae88f791d8%3frik%3dfcKdnDIirx6D0g%26pid%3dImgRaw%26r%3d0&exph=472&expw=630&q=hru%c5%a1ka+Oharkula+OR+%c5%a0ed%c5%afvka+OR+%22Mu%c5%a1katelka+%c5%a1ed%c3%a1%22&FORM=IRPRST&ck=0EB39067AAA5BA8043FE8D131D250B57&selectedIndex=3&itb=0
+              - generic:
+                - generic:
+                  - list:
+                    - listitem:
+                      - link "Třešně, višně, meruňky i hrušky, které nekoupíte. Ale …" [ref=f39e653] [cursor=pointer]:
+                        - /url: /images/search?view=detailV2&ccid=tb6HroFb&id=AC54DDDCD878832ED862D2831EAF22329C9DC27D&thid=OIP.tb6HroFbP3vUVPyuiPeR2AHaFj&mediaurl=https%3a%2f%2f1gr.cz%2ffotky%2fidnes%2f24%2f072%2fcl6h%2fMCE9bdee0d8b9_162142_1607694.jpg&cdnurl=https%3a%2f%2fth.bing.com%2fth%2fid%2fR.b5be87ae815b3f7bd454fcae88f791d8%3frik%3dfcKdnDIirx6D0g%26pid%3dImgRaw%26r%3d0&exph=472&expw=630&q=hru%c5%a1ka+Oharkula+OR+%c5%a0ed%c5%afvka+OR+%22Mu%c5%a1katelka+%c5%a1ed%c3%a1%22&FORM=IRPRST&ck=0EB39067AAA5BA8043FE8D131D250B57&selectedIndex=3&itb=0
+        - listitem [ref=f39e654]:
+          - generic [ref=f39e655]:
+            - link "Image result for hruška Oharkula OR Šedůvka OR \"Muškatelka šedá\"" [ref=f39e657] [cursor=pointer]:
+              - /url: /images/search?view=detailV2&ccid=%2bAjW%2bIr0&id=84B40CFB07D521C0D82C9A46942ED96559552B4F&thid=OIP.-AjW-Ir00dwVpV6RywHBigHaE8&mediaurl=https%3a%2f%2fwww.prodejstromku.cz%2fimg%2fclanky-nove%2fhrusne%2fhrusne.jpg&cdnurl=https%3a%2f%2fth.bing.com%2fth%2fid%2fR.f808d6f88af4d1dc15a55e91cb01c18a%3frik%3dTytVWWXZLpRGmg%26pid%3dImgRaw%26r%3d0&exph=1067&expw=1600&q=hru%c5%a1ka+Oharkula+OR+%c5%a0ed%c5%afvka+OR+%22Mu%c5%a1katelka+%c5%a1ed%c3%a1%22&FORM=IRPRST&ck=14110B18DA1DD2D98A871A1AF01BE802&selectedIndex=4&itb=0
+              - img "Image result for hruška Oharkula OR Šedůvka OR \"Muškatelka šedá\"" [ref=f39e659]
+            - generic [ref=f39e660]:
+              - link "Staré odrůdy hrušní | Prodej stromků" [ref=f39e661] [cursor=pointer]:
+                - /url: /images/search?view=detailV2&ccid=%2bAjW%2bIr0&id=84B40CFB07D521C0D82C9A46942ED96559552B4F&thid=OIP.-AjW-Ir00dwVpV6RywHBigHaE8&mediaurl=https%3a%2f%2fwww.prodejstromku.cz%2fimg%2fclanky-nove%2fhrusne%2fhrusne.jpg&cdnurl=https%3a%2f%2fth.bing.com%2fth%2fid%2fR.f808d6f88af4d1dc15a55e91cb01c18a%3frik%3dTytVWWXZLpRGmg%26pid%3dImgRaw%26r%3d0&exph=1067&expw=1600&q=hru%c5%a1ka+Oharkula+OR+%c5%a0ed%c5%afvka+OR+%22Mu%c5%a1katelka+%c5%a1ed%c3%a1%22&FORM=IRPRST&ck=14110B18DA1DD2D98A871A1AF01BE802&selectedIndex=4&itb=0
+              - generic:
+                - generic:
+                  - list:
+                    - listitem:
+                      - link "Staré odrůdy hrušní | Prodej stromků" [ref=f39e662] [cursor=pointer]:
+                        - /url: /images/search?view=detailV2&ccid=%2bAjW%2bIr0&id=84B40CFB07D521C0D82C9A46942ED96559552B4F&thid=OIP.-AjW-Ir00dwVpV6RywHBigHaE8&mediaurl=https%3a%2f%2fwww.prodejstromku.cz%2fimg%2fclanky-nove%2fhrusne%2fhrusne.jpg&cdnurl=https%3a%2f%2fth.bing.com%2fth%2fid%2fR.f808d6f88af4d1dc15a55e91cb01c18a%3frik%3dTytVWWXZLpRGmg%26pid%3dImgRaw%26r%3d0&exph=1067&expw=1600&q=hru%c5%a1ka+Oharkula+OR+%c5%a0ed%c5%afvka+OR+%22Mu%c5%a1katelka+%c5%a1ed%c3%a1%22&FORM=IRPRST&ck=14110B18DA1DD2D98A871A1AF01BE802&selectedIndex=4&itb=0
+      - list [ref=f39e663]:
+        - listitem [ref=f39e664]:
+          - generic [ref=f39e665]:
+            - link "Image result for hruška Oharkula OR Šedůvka OR \"Muškatelka šedá\"" [ref=f39e667] [cursor=pointer]:
+              - /url: /images/search?view=detailV2&ccid=XGjJC4F%2b&id=95C7492422E92E99626489DB87791CB024D6CE3A&thid=OIP.XGjJC4F-oKtOFtMfcTT2XAHaE7&mediaurl=https%3a%2f%2faa.ecn.cz%2fimg_upload%2fe6ffb6c50bc1424ab10ecf09e063cd63%2fh-muskatelka-ze-strane-imgp2279.jpg&cdnurl=https%3a%2f%2fth.bing.com%2fth%2fid%2fR.5c68c90b817ea0ab4e16d31f7134f65c%3frik%3dOs7WJLAceYfbiQ%26pid%3dImgRaw%26r%3d0&exph=2000&expw=3008&q=hru%c5%a1ka+Oharkula+OR+%c5%a0ed%c5%afvka+OR+%22Mu%c5%a1katelka+%c5%a1ed%c3%a1%22&FORM=IRPRST&ck=FF2D1849A92D8A750BC11C3B9DE5944A&selectedIndex=5&itb=0
+              - img "Image result for hruška Oharkula OR Šedůvka OR \"Muškatelka šedá\"" [ref=f39e669]
+            - generic [ref=f39e670]:
+              - link "Pěchotní srub Na Trati v Bohumíně ozdobí hrušňová alej - Ekolist.cz" [ref=f39e671] [cursor=pointer]:
+                - /url: /images/search?view=detailV2&ccid=XGjJC4F%2b&id=95C7492422E92E99626489DB87791CB024D6CE3A&thid=OIP.XGjJC4F-oKtOFtMfcTT2XAHaE7&mediaurl=https%3a%2f%2faa.ecn.cz%2fimg_upload%2fe6ffb6c50bc1424ab10ecf09e063cd63%2fh-muskatelka-ze-strane-imgp2279.jpg&cdnurl=https%3a%2f%2fth.bing.com%2fth%2fid%2fR.5c68c90b817ea0ab4e16d31f7134f65c%3frik%3dOs7WJLAceYfbiQ%26pid%3dImgRaw%26r%3d0&exph=2000&expw=3008&q=hru%c5%a1ka+Oharkula+OR+%c5%a0ed%c5%afvka+OR+%22Mu%c5%a1katelka+%c5%a1ed%c3%a1%22&FORM=IRPRST&ck=FF2D1849A92D8A750BC11C3B9DE5944A&selectedIndex=5&itb=0
+              - generic:
+                - generic:
+                  - list:
+                    - listitem:
+                      - link "Pěchotní srub Na Trati v Bohumíně ozdobí hrušňová alej - Ekolist.cz" [ref=f39e672] [cursor=pointer]:
+                        - /url: /images/search?view=detailV2&ccid=XGjJC4F%2b&id=95C7492422E92E99626489DB87791CB024D6CE3A&thid=OIP.XGjJC4F-oKtOFtMfcTT2XAHaE7&mediaurl=https%3a%2f%2faa.ecn.cz%2fimg_upload%2fe6ffb6c50bc1424ab10ecf09e063cd63%2fh-muskatelka-ze-strane-imgp2279.jpg&cdnurl=https%3a%2f%2fth.bing.com%2fth%2fid%2fR.5c68c90b817ea0ab4e16d31f7134f65c%3frik%3dOs7WJLAceYfbiQ%26pid%3dImgRaw%26r%3d0&exph=2000&expw=3008&q=hru%c5%a1ka+Oharkula+OR+%c5%a0ed%c5%afvka+OR+%22Mu%c5%a1katelka+%c5%a1ed%c3%a1%22&FORM=IRPRST&ck=FF2D1849A92D8A750BC11C3B9DE5944A&selectedIndex=5&itb=0
+        - listitem [ref=f39e673]:
+          - generic [ref=f39e674]:
+            - generic [ref=f39e675]:
+              - link "Image result for hruška Oharkula OR Šedůvka OR \"Muškatelka šedá\"" [ref=f39e676] [cursor=pointer]:
+                - /url: /images/search?view=detailV2&ccid=%2fRVMF2ZU&id=1559C718BD17482EDB9DDB4C6A3DAEF7A0F54B0F&thid=OIP._RVMF2ZUp52jig6EjJit4wHaFB&mediaurl=https%3a%2f%2fizahradkar.cz%2fwp-content%2fuploads%2f2022%2f07%2f6-Williams-foto-M.-Vyslouzil.jpg&cdnurl=https%3a%2f%2fth.bing.com%2fth%2fid%2fR.fd154c176654a79da38a0e848c98ade3%3frik%3dD0v1oPeuPWpM2w%26pid%3dImgRaw%26r%3d0&exph=746&expw=1100&q=hru%c5%a1ka+Oharkula+OR+%c5%a0ed%c5%afvka+OR+%22Mu%c5%a1katelka+%c5%a1ed%c3%a1%22&FORM=IRPRST&ck=E646817DE63F8C467DB6CD80AF5F7BB9&selectedIndex=6&itb=0
+                - generic [ref=f39e678]:
+                  - img "Image result for hruška Oharkula OR Šedůvka OR \"Muškatelka šedá\"" [ref=f39e680]
+                  - generic:
+                    - img "Image result for hruška Oharkula OR Šedůvka OR \"Muškatelka šedá\""
+                    - img "Image result for hruška Oharkula OR Šedůvka OR \"Muškatelka šedá\""
+              - link "Gallery" [ref=f39e681] [cursor=pointer]:
+                - /url: /images/search?view=detailV2&ccid=%2fRVMF2ZU&id=1559C718BD17482EDB9DDB4C6A3DAEF7A0F54B0F&thid=OIP._RVMF2ZUp52jig6EjJit4wHaFB&mediaurl=https%3a%2f%2fizahradkar.cz%2fwp-content%2fuploads%2f2022%2f07%2f6-Williams-foto-M.-Vyslouzil.jpg&cdnurl=https%3a%2f%2fth.bing.com%2fth%2fid%2fR.fd154c176654a79da38a0e848c98ade3%3frik%3dD0v1oPeuPWpM2w%26pid%3dImgRaw%26r%3d0&exph=746&expw=1100&q=hru%c5%a1ka+Oharkula+OR+%c5%a0ed%c5%afvka+OR+%22Mu%c5%a1katelka+%c5%a1ed%c3%a1%22&FORM=IRPRST&ck=E646817DE63F8C467DB6CD80AF5F7BB9&selectedIndex=6&itb=0
+              - generic:
+                - generic: 1100×746
+                - generic:
+                  - link "izahradkar.cz":
+                    - /url: https://izahradkar.cz/jsou-k-priprave-kvasu-nejlepsi-pozdni-odrudy-ovoce/
+            - generic [ref=f39e683]:
+              - link "Jsou k přípravě kvasu nejlepší pozdní odrůdy ovoce? | Zahrádkář" [ref=f39e684] [cursor=pointer]:
+                - /url: /images/search?view=detailV2&ccid=%2fRVMF2ZU&id=1559C718BD17482EDB9DDB4C6A3DAEF7A0F54B0F&thid=OIP._RVMF2ZUp52jig6EjJit4wHaFB&mediaurl=https%3a%2f%2fizahradkar.cz%2fwp-content%2fuploads%2f2022%2f07%2f6-Williams-foto-M.-Vyslouzil.jpg&cdnurl=https%3a%2f%2fth.bing.com%2fth%2fid%2fR.fd154c176654a79da38a0e848c98ade3%3frik%3dD0v1oPeuPWpM2w%26pid%3dImgRaw%26r%3d0&exph=746&expw=1100&q=hru%c5%a1ka+Oharkula+OR+%c5%a0ed%c5%afvka+OR+%22Mu%c5%a1katelka+%c5%a1ed%c3%a1%22&FORM=IRPRST&ck=E646817DE63F8C467DB6CD80AF5F7BB9&selectedIndex=6&itb=0
+              - generic:
+                - generic:
+                  - list:
+                    - listitem:
+                      - link "Jsou k přípravě kvasu nejlepší pozdní odrůdy ovoce? | Zahrádkář" [ref=f39e685] [cursor=pointer]:
+                        - /url: /images/search?view=detailV2&ccid=%2fRVMF2ZU&id=1559C718BD17482EDB9DDB4C6A3DAEF7A0F54B0F&thid=OIP._RVMF2ZUp52jig6EjJit4wHaFB&mediaurl=https%3a%2f%2fizahradkar.cz%2fwp-content%2fuploads%2f2022%2f07%2f6-Williams-foto-M.-Vyslouzil.jpg&cdnurl=https%3a%2f%2fth.bing.com%2fth%2fid%2fR.fd154c176654a79da38a0e848c98ade3%3frik%3dD0v1oPeuPWpM2w%26pid%3dImgRaw%26r%3d0&exph=746&expw=1100&q=hru%c5%a1ka+Oharkula+OR+%c5%a0ed%c5%afvka+OR+%22Mu%c5%a1katelka+%c5%a1ed%c3%a1%22&FORM=IRPRST&ck=E646817DE63F8C467DB6CD80AF5F7BB9&selectedIndex=6&itb=0
+        - listitem [ref=f39e686]:
+          - generic [ref=f39e687]:
+            - generic [ref=f39e688]:
+              - link "Image result for hruška Oharkula OR Šedůvka OR \"Muškatelka šedá\"" [ref=f39e689] [cursor=pointer]:
+                - /url: /images/search?view=detailV2&ccid=JO4xp66l&id=0867D457F0BE00743761DA4D3446953DA1594217&thid=OIP.JO4xp66lu5Eq0Rt5oUiqsAHaE8&mediaurl=https%3a%2f%2fgardenerspath.com%2fwp-content%2fuploads%2f2020%2f10%2fBest-Fruiting-Pear-Trees-to-Grow-at-Home-Featured.jpg&cdnurl=https%3a%2f%2fth.bing.com%2fth%2fid%2fR.24ee31a7aea5bb912ad11b79a148aab0%3frik%3dF0JZoT2VRjRN2g%26pid%3dImgRaw%26r%3d0&exph=800&expw=1200&q=hru%c5%a1ka+Oharkula+OR+%c5%a0ed%c5%afvka+OR+%22Mu%c5%a1katelka+%c5%a1ed%c3%a1%22&FORM=IRPRST&ck=348587F18D9F6E3C94AC81F4A752340E&selectedIndex=7&itb=0
+                - generic [ref=f39e691]:
+                  - img "Image result for hruška Oharkula OR Šedůvka OR \"Muškatelka šedá\"" [ref=f39e693]
+                  - generic:
+                    - img "Image result for hruška Oharkula OR Šedůvka OR \"Muškatelka šedá\""
+                    - img "Image result for hruška Oharkula OR Šedůvka OR \"Muškatelka šedá\""
+              - link "Gallery" [ref=f39e694] [cursor=pointer]:
+                - /url: /images/search?view=detailV2&ccid=JO4xp66l&id=0867D457F0BE00743761DA4D3446953DA1594217&thid=OIP.JO4xp66lu5Eq0Rt5oUiqsAHaE8&mediaurl=https%3a%2f%2fgardenerspath.com%2fwp-content%2fuploads%2f2020%2f10%2fBest-Fruiting-Pear-Trees-to-Grow-at-Home-Featured.jpg&cdnurl=https%3a%2f%2fth.bing.com%2fth%2fid%2fR.24ee31a7aea5bb912ad11b79a148aab0%3frik%3dF0JZoT2VRjRN2g%26pid%3dImgRaw%26r%3d0&exph=800&expw=1200&q=hru%c5%a1ka+Oharkula+OR+%c5%a0ed%c5%afvka+OR+%22Mu%c5%a1katelka+%c5%a1ed%c3%a1%22&FORM=IRPRST&ck=348587F18D9F6E3C94AC81F4A752340E&selectedIndex=7&itb=0
+              - generic:
+                - generic: 1200×800
+                - generic:
+                  - link "gardenerspath.com":
+                    - /url: https://gardenerspath.com/plants/fruit-trees/best-pear-varieties/
+            - generic [ref=f39e696]:
+              - link "11 of the Best Fruiting Pear Varieties | Gardener’s Path" [ref=f39e697] [cursor=pointer]:
+                - /url: /images/search?view=detailV2&ccid=JO4xp66l&id=0867D457F0BE00743761DA4D3446953DA1594217&thid=OIP.JO4xp66lu5Eq0Rt5oUiqsAHaE8&mediaurl=https%3a%2f%2fgardenerspath.com%2fwp-content%2fuploads%2f2020%2f10%2fBest-Fruiting-Pear-Trees-to-Grow-at-Home-Featured.jpg&cdnurl=https%3a%2f%2fth.bing.com%2fth%2fid%2fR.24ee31a7aea5bb912ad11b79a148aab0%3frik%3dF0JZoT2VRjRN2g%26pid%3dImgRaw%26r%3d0&exph=800&expw=1200&q=hru%c5%a1ka+Oharkula+OR+%c5%a0ed%c5%afvka+OR+%22Mu%c5%a1katelka+%c5%a1ed%c3%a1%22&FORM=IRPRST&ck=348587F18D9F6E3C94AC81F4A752340E&selectedIndex=7&itb=0
+              - generic:
+                - generic:
+                  - list:
+                    - listitem:
+                      - link "11 of the Best Fruiting Pear Varieties | Gardener’s Path" [ref=f39e698] [cursor=pointer]:
+                        - /url: /images/search?view=detailV2&ccid=JO4xp66l&id=0867D457F0BE00743761DA4D3446953DA1594217&thid=OIP.JO4xp66lu5Eq0Rt5oUiqsAHaE8&mediaurl=https%3a%2f%2fgardenerspath.com%2fwp-content%2fuploads%2f2020%2f10%2fBest-Fruiting-Pear-Trees-to-Grow-at-Home-Featured.jpg&cdnurl=https%3a%2f%2fth.bing.com%2fth%2fid%2fR.24ee31a7aea5bb912ad11b79a148aab0%3frik%3dF0JZoT2VRjRN2g%26pid%3dImgRaw%26r%3d0&exph=800&expw=1200&q=hru%c5%a1ka+Oharkula+OR+%c5%a0ed%c5%afvka+OR+%22Mu%c5%a1katelka+%c5%a1ed%c3%a1%22&FORM=IRPRST&ck=348587F18D9F6E3C94AC81F4A752340E&selectedIndex=7&itb=0
+        - listitem [ref=f39e699]:
+          - generic [ref=f39e700]:
+            - link "Image result for hruška Oharkula OR Šedůvka OR \"Muškatelka šedá\"" [ref=f39e702] [cursor=pointer]:
+              - /url: /images/search?view=detailV2&ccid=YzlTpEfn&id=1559C718BD17482EDB9D4E3168CDE4A905D61943&thid=OIP.YzlTpEfnF0EzHrMuAglorAHaFU&mediaurl=https%3a%2f%2fizahradkar.cz%2fwp-content%2fuploads%2f2022%2f07%2f7-hruska-odrudy-Konference-foto-M.-Vyslouzil.jpg&cdnurl=https%3a%2f%2fth.bing.com%2fth%2fid%2fR.633953a447e71741331eb32e020968ac%3frik%3dQxnWBankzWgxTg%26pid%3dImgRaw%26r%3d0&exph=790&expw=1100&q=hru%c5%a1ka+Oharkula+OR+%c5%a0ed%c5%afvka+OR+%22Mu%c5%a1katelka+%c5%a1ed%c3%a1%22&FORM=IRPRST&ck=8EE2ED107123F28FCAEEF9D8851726D8&selectedIndex=8&itb=0
+              - img "Image result for hruška Oharkula OR Šedůvka OR \"Muškatelka šedá\"" [ref=f39e704]
+            - generic [ref=f39e705]:
+              - link "Jsou k přípravě kvasu nejlepší pozdní odrůdy ovoce? | Zahrádkář" [ref=f39e706] [cursor=pointer]:
+                - /url: /images/search?view=detailV2&ccid=YzlTpEfn&id=1559C718BD17482EDB9D4E3168CDE4A905D61943&thid=OIP.YzlTpEfnF0EzHrMuAglorAHaFU&mediaurl=https%3a%2f%2fizahradkar.cz%2fwp-content%2fuploads%2f2022%2f07%2f7-hruska-odrudy-Konference-foto-M.-Vyslouzil.jpg&cdnurl=https%3a%2f%2fth.bing.com%2fth%2fid%2fR.633953a447e71741331eb32e020968ac%3frik%3dQxnWBankzWgxTg%26pid%3dImgRaw%26r%3d0&exph=790&expw=1100&q=hru%c5%a1ka+Oharkula+OR+%c5%a0ed%c5%afvka+OR+%22Mu%c5%a1katelka+%c5%a1ed%c3%a1%22&FORM=IRPRST&ck=8EE2ED107123F28FCAEEF9D8851726D8&selectedIndex=8&itb=0
+              - generic:
+                - generic:
+                  - list:
+                    - listitem:
+                      - link "Jsou k přípravě kvasu nejlepší pozdní odrůdy ovoce? | Zahrádkář" [ref=f39e707] [cursor=pointer]:
+                        - /url: /images/search?view=detailV2&ccid=YzlTpEfn&id=1559C718BD17482EDB9D4E3168CDE4A905D61943&thid=OIP.YzlTpEfnF0EzHrMuAglorAHaFU&mediaurl=https%3a%2f%2fizahradkar.cz%2fwp-content%2fuploads%2f2022%2f07%2f7-hruska-odrudy-Konference-foto-M.-Vyslouzil.jpg&cdnurl=https%3a%2f%2fth.bing.com%2fth%2fid%2fR.633953a447e71741331eb32e020968ac%3frik%3dQxnWBankzWgxTg%26pid%3dImgRaw%26r%3d0&exph=790&expw=1100&q=hru%c5%a1ka+Oharkula+OR+%c5%a0ed%c5%afvka+OR+%22Mu%c5%a1katelka+%c5%a1ed%c3%a1%22&FORM=IRPRST&ck=8EE2ED107123F28FCAEEF9D8851726D8&selectedIndex=8&itb=0
+      - list [ref=f39e708]:
+        - listitem [ref=f39e709]:
+          - generic [ref=f39e710]:
+            - link "Image result for hruška Oharkula OR Šedůvka OR \"Muškatelka šedá\"" [ref=f39e712] [cursor=pointer]:
+              - /url: /images/search?view=detailV2&ccid=FMDfdQzG&id=7E32FA26C6D3D76F1D0601BD88C6189F6D01598A&thid=OIP.FMDfdQzG-T9NJvXh8hlGMgHaFA&mediaurl=https%3a%2f%2fizahradkar.cz%2fwp-content%2fuploads%2f2023%2f08%2fSpinka-odruda-letni-hrusne-foto-I.-Dvorak.jpg&cdnurl=https%3a%2f%2fth.bing.com%2fth%2fid%2fR.14c0df750cc6f93f4d26f5e1f2194632%3frik%3dilkBbZ8Yxoi9AQ%26pid%3dImgRaw%26r%3d0&exph=812&expw=1200&q=hru%c5%a1ka+Oharkula+OR+%c5%a0ed%c5%afvka+OR+%22Mu%c5%a1katelka+%c5%a1ed%c3%a1%22&FORM=IRPRST&ck=BB870C9B780EECE8F3C9AF1AF14C94B0&selectedIndex=9&itb=0
+              - img "Image result for hruška Oharkula OR Šedůvka OR \"Muškatelka šedá\"" [ref=f39e714]
+            - generic [ref=f39e715]:
+              - link "Letní hrušně, které známe, ale možná nikdy neochutnáme | Zahrádkář" [ref=f39e716] [cursor=pointer]:
+                - /url: /images/search?view=detailV2&ccid=FMDfdQzG&id=7E32FA26C6D3D76F1D0601BD88C6189F6D01598A&thid=OIP.FMDfdQzG-T9NJvXh8hlGMgHaFA&mediaurl=https%3a%2f%2fizahradkar.cz%2fwp-content%2fuploads%2f2023%2f08%2fSpinka-odruda-letni-hrusne-foto-I.-Dvorak.jpg&cdnurl=https%3a%2f%2fth.bing.com%2fth%2fid%2fR.14c0df750cc6f93f4d26f5e1f2194632%3frik%3dilkBbZ8Yxoi9AQ%26pid%3dImgRaw%26r%3d0&exph=812&expw=1200&q=hru%c5%a1ka+Oharkula+OR+%c5%a0ed%c5%afvka+OR+%22Mu%c5%a1katelka+%c5%a1ed%c3%a1%22&FORM=IRPRST&ck=BB870C9B780EECE8F3C9AF1AF14C94B0&selectedIndex=9&itb=0
+              - generic:
+                - generic:
+                  - list:
+                    - listitem:
+                      - link "Letní hrušně, které známe, ale možná nikdy neochutnáme | Zahrádkář" [ref=f39e717] [cursor=pointer]:
+                        - /url: /images/search?view=detailV2&ccid=FMDfdQzG&id=7E32FA26C6D3D76F1D0601BD88C6189F6D01598A&thid=OIP.FMDfdQzG-T9NJvXh8hlGMgHaFA&mediaurl=https%3a%2f%2fizahradkar.cz%2fwp-content%2fuploads%2f2023%2f08%2fSpinka-odruda-letni-hrusne-foto-I.-Dvorak.jpg&cdnurl=https%3a%2f%2fth.bing.com%2fth%2fid%2fR.14c0df750cc6f93f4d26f5e1f2194632%3frik%3dilkBbZ8Yxoi9AQ%26pid%3dImgRaw%26r%3d0&exph=812&expw=1200&q=hru%c5%a1ka+Oharkula+OR+%c5%a0ed%c5%afvka+OR+%22Mu%c5%a1katelka+%c5%a1ed%c3%a1%22&FORM=IRPRST&ck=BB870C9B780EECE8F3C9AF1AF14C94B0&selectedIndex=9&itb=0
+        - listitem [ref=f39e718]:
+          - generic [ref=f39e719]:
+            - link "Image result for hruška Oharkula OR Šedůvka OR \"Muškatelka šedá\"" [ref=f39e721] [cursor=pointer]:
+              - /url: /images/search?view=detailV2&ccid=QNlggt%2bD&id=BA46C5CD1F4BE5C56DDBDA7B265592489E2F3BA6&thid=OIP.QNlggt-DaKwWzja2MB-JBQHaE7&mediaurl=https%3a%2f%2f6048ecec90.cbaul-cdnwnd.com%2fd4878f9c7747938b20af7d6a27b18938%2f200000020-703e171404%2fHrusen+Dielova.jpg&cdnurl=https%3a%2f%2fth.bing.com%2fth%2fid%2fR.40d96082df8368ac16ce36b6301f8905%3frik%3dpjsvnkiSVSZ72g%26pid%3dImgRaw%26r%3d0&exph=319&expw=480&q=hru%c5%a1ka+Oharkula+OR+%c5%a0ed%c5%afvka+OR+%22Mu%c5%a1katelka+%c5%a1ed%c3%a1%22&FORM=IRPRST&ck=C2B2C66573290CECCA14CD1DF4C2721A&selectedIndex=10&itb=0
+              - img "Image result for hruška Oharkula OR Šedůvka OR \"Muškatelka šedá\"" [ref=f39e723]
+            - generic [ref=f39e724]:
+              - 'link "HRUŠNĚ :: ARCHIVNÍ ODRŮDY" [ref=f39e725] [cursor=pointer]':
+                - /url: /images/search?view=detailV2&ccid=QNlggt%2bD&id=BA46C5CD1F4BE5C56DDBDA7B265592489E2F3BA6&thid=OIP.QNlggt-DaKwWzja2MB-JBQHaE7&mediaurl=https%3a%2f%2f6048ecec90.cbaul-cdnwnd.com%2fd4878f9c7747938b20af7d6a27b18938%2f200000020-703e171404%2fHrusen+Dielova.jpg&cdnurl=https%3a%2f%2fth.bing.com%2fth%2fid%2fR.40d96082df8368ac16ce36b6301f8905%3frik%3dpjsvnkiSVSZ72g%26pid%3dImgRaw%26r%3d0&exph=319&expw=480&q=hru%c5%a1ka+Oharkula+OR+%c5%a0ed%c5%afvka+OR+%22Mu%c5%a1katelka+%c5%a1ed%c3%a1%22&FORM=IRPRST&ck=C2B2C66573290CECCA14CD1DF4C2721A&selectedIndex=10&itb=0
+              - generic:
+                - generic:
+                  - list:
+                    - listitem:
+                      - 'link "HRUŠNĚ :: ARCHIVNÍ ODRŮDY" [ref=f39e726] [cursor=pointer]':
+                        - /url: /images/search?view=detailV2&ccid=QNlggt%2bD&id=BA46C5CD1F4BE5C56DDBDA7B265592489E2F3BA6&thid=OIP.QNlggt-DaKwWzja2MB-JBQHaE7&mediaurl=https%3a%2f%2f6048ecec90.cbaul-cdnwnd.com%2fd4878f9c7747938b20af7d6a27b18938%2f200000020-703e171404%2fHrusen+Dielova.jpg&cdnurl=https%3a%2f%2fth.bing.com%2fth%2fid%2fR.40d96082df8368ac16ce36b6301f8905%3frik%3dpjsvnkiSVSZ72g%26pid%3dImgRaw%26r%3d0&exph=319&expw=480&q=hru%c5%a1ka+Oharkula+OR+%c5%a0ed%c5%afvka+OR+%22Mu%c5%a1katelka+%c5%a1ed%c3%a1%22&FORM=IRPRST&ck=C2B2C66573290CECCA14CD1DF4C2721A&selectedIndex=10&itb=0
+        - listitem [ref=f39e727]:
+          - generic [ref=f39e728]:
+            - generic [ref=f39e729]:
+              - link "Image result for hruška Oharkula OR Šedůvka OR \"Muškatelka šedá\"" [ref=f39e730] [cursor=pointer]:
+                - /url: /images/search?view=detailV2&ccid=eJlyZW3q&id=AF3546D2F8DA2ED215D3C8277EA51DF41AADF551&thid=OIP.eJlyZW3qe01qE7rSqqe8PQAAAA&mediaurl=https%3a%2f%2fwww.meluzina.info%2fwp-content%2fuploads%2f2017%2f11%2fH-Zbuzanka-plod-strom.jpg&cdnurl=https%3a%2f%2fth.bing.com%2fth%2fid%2fR.789972656dea7b4d6a13bad2aaa7bc3d%3frik%3dUfWtGvQdpX4nyA%26pid%3dImgRaw%26r%3d0&exph=298&expw=450&q=hru%c5%a1ka+Oharkula+OR+%c5%a0ed%c5%afvka+OR+%22Mu%c5%a1katelka+%c5%a1ed%c3%a1%22&FORM=IRPRST&ck=65D85DE7A445DE8C1FBB50EC6E1BE8BC&selectedIndex=11&itb=0
+                - generic [ref=f39e732]:
+                  - img "Image result for hruška Oharkula OR Šedůvka OR \"Muškatelka šedá\"" [ref=f39e734]
+                  - generic:
+                    - img "Image result for hruška Oharkula OR Šedůvka OR \"Muškatelka šedá\""
+                    - img "Image result for hruška Oharkula OR Šedůvka OR \"Muškatelka šedá\""
+                    - img "Image result for hruška Oharkula OR Šedůvka OR \"Muškatelka šedá\""
+              - link "Gallery" [ref=f39e735] [cursor=pointer]:
+                - /url: /images/search?view=detailV2&ccid=eJlyZW3q&id=AF3546D2F8DA2ED215D3C8277EA51DF41AADF551&thid=OIP.eJlyZW3qe01qE7rSqqe8PQAAAA&mediaurl=https%3a%2f%2fwww.meluzina.info%2fwp-content%2fuploads%2f2017%2f11%2fH-Zbuzanka-plod-strom.jpg&cdnurl=https%3a%2f%2fth.bing.com%2fth%2fid%2fR.789972656dea7b4d6a13bad2aaa7bc3d%3frik%3dUfWtGvQdpX4nyA%26pid%3dImgRaw%26r%3d0&exph=298&expw=450&q=hru%c5%a1ka+Oharkula+OR+%c5%a0ed%c5%afvka+OR+%22Mu%c5%a1katelka+%c5%a1ed%c3%a1%22&FORM=IRPRST&ck=65D85DE7A445DE8C1FBB50EC6E1BE8BC&selectedIndex=11&itb=0
+              - generic:
+                - generic: 450×298
+                - generic:
+                  - link "meluzina.info":
+                    - /url: https://www.meluzina.info/dokumenty/databaze-archivni-odrudy/
+            - generic [ref=f39e737]:
+              - 'link "EC Meluzína | Databáze: Archivní odrůdy" [ref=f39e738] [cursor=pointer]':
+                - /url: /images/search?view=detailV2&ccid=eJlyZW3q&id=AF3546D2F8DA2ED215D3C8277EA51DF41AADF551&thid=OIP.eJlyZW3qe01qE7rSqqe8PQAAAA&mediaurl=https%3a%2f%2fwww.meluzina.info%2fwp-content%2fuploads%2f2017%2f11%2fH-Zbuzanka-plod-strom.jpg&cdnurl=https%3a%2f%2fth.bing.com%2fth%2fid%2fR.789972656dea7b4d6a13bad2aaa7bc3d%3frik%3dUfWtGvQdpX4nyA%26pid%3dImgRaw%26r%3d0&exph=298&expw=450&q=hru%c5%a1ka+Oharkula+OR+%c5%a0ed%c5%afvka+OR+%22Mu%c5%a1katelka+%c5%a1ed%c3%a1%22&FORM=IRPRST&ck=65D85DE7A445DE8C1FBB50EC6E1BE8BC&selectedIndex=11&itb=0
+              - generic:
+                - generic:
+                  - list:
+                    - listitem:
+                      - 'link "EC Meluzína | Databáze: Archivní odrůdy" [ref=f39e739] [cursor=pointer]':
+                        - /url: /images/search?view=detailV2&ccid=eJlyZW3q&id=AF3546D2F8DA2ED215D3C8277EA51DF41AADF551&thid=OIP.eJlyZW3qe01qE7rSqqe8PQAAAA&mediaurl=https%3a%2f%2fwww.meluzina.info%2fwp-content%2fuploads%2f2017%2f11%2fH-Zbuzanka-plod-strom.jpg&cdnurl=https%3a%2f%2fth.bing.com%2fth%2fid%2fR.789972656dea7b4d6a13bad2aaa7bc3d%3frik%3dUfWtGvQdpX4nyA%26pid%3dImgRaw%26r%3d0&exph=298&expw=450&q=hru%c5%a1ka+Oharkula+OR+%c5%a0ed%c5%afvka+OR+%22Mu%c5%a1katelka+%c5%a1ed%c3%a1%22&FORM=IRPRST&ck=65D85DE7A445DE8C1FBB50EC6E1BE8BC&selectedIndex=11&itb=0
+        - listitem [ref=f39e740]:
+          - generic [ref=f39e741]:
+            - link "Image result for hruška Oharkula OR Šedůvka OR \"Muškatelka šedá\"" [ref=f39e743] [cursor=pointer]:
+              - /url: /images/search?view=detailV2&ccid=1vEFBKDB&id=71AAE06F4CEE9802F25A4B3A85C723F4E1266852&thid=OIP.1vEFBKDBtropfZ5XjVvmyAAAAA&mediaurl=https%3a%2f%2fupload.wikimedia.org%2fwikipedia%2fcommons%2fthumb%2fd%2fd6%2fHedrick_(1921)_-_Madeleine.jpg%2f330px-Hedrick_(1921)_-_Madeleine.jpg&cdnurl=https%3a%2f%2fth.bing.com%2fth%2fid%2fR.d6f10504a0c1b6ba297d9e578d5be6c8%3frik%3dUmgm4fQjx4U6Sw%26pid%3dImgRaw%26r%3d0&exph=439&expw=330&q=hru%c5%a1ka+Oharkula+OR+%c5%a0ed%c5%afvka+OR+%22Mu%c5%a1katelka+%c5%a1ed%c3%a1%22&FORM=IRPRST&ck=A269BD311D12AAC109679F00DEE01E27&selectedIndex=12&itb=0
+              - img "Image result for hruška Oharkula OR Šedůvka OR \"Muškatelka šedá\"" [ref=f39e745]
+            - generic [ref=f39e746]:
+              - link "Seznam odrůd hrušek – Wikipedie" [ref=f39e747] [cursor=pointer]:
+                - /url: /images/search?view=detailV2&ccid=1vEFBKDB&id=71AAE06F4CEE9802F25A4B3A85C723F4E1266852&thid=OIP.1vEFBKDBtropfZ5XjVvmyAAAAA&mediaurl=https%3a%2f%2fupload.wikimedia.org%2fwikipedia%2fcommons%2fthumb%2fd%2fd6%2fHedrick_(1921)_-_Madeleine.jpg%2f330px-Hedrick_(1921)_-_Madeleine.jpg&cdnurl=https%3a%2f%2fth.bing.com%2fth%2fid%2fR.d6f10504a0c1b6ba297d9e578d5be6c8%3frik%3dUmgm4fQjx4U6Sw%26pid%3dImgRaw%26r%3d0&exph=439&expw=330&q=hru%c5%a1ka+Oharkula+OR+%c5%a0ed%c5%afvka+OR+%22Mu%c5%a1katelka+%c5%a1ed%c3%a1%22&FORM=IRPRST&ck=A269BD311D12AAC109679F00DEE01E27&selectedIndex=12&itb=0
+              - generic:
+                - generic:
+                  - list:
+                    - listitem:
+                      - link "Seznam odrůd hrušek – Wikipedie" [ref=f39e748] [cursor=pointer]:
+                        - /url: /images/search?view=detailV2&ccid=1vEFBKDB&id=71AAE06F4CEE9802F25A4B3A85C723F4E1266852&thid=OIP.1vEFBKDBtropfZ5XjVvmyAAAAA&mediaurl=https%3a%2f%2fupload.wikimedia.org%2fwikipedia%2fcommons%2fthumb%2fd%2fd6%2fHedrick_(1921)_-_Madeleine.jpg%2f330px-Hedrick_(1921)_-_Madeleine.jpg&cdnurl=https%3a%2f%2fth.bing.com%2fth%2fid%2fR.d6f10504a0c1b6ba297d9e578d5be6c8%3frik%3dUmgm4fQjx4U6Sw%26pid%3dImgRaw%26r%3d0&exph=439&expw=330&q=hru%c5%a1ka+Oharkula+OR+%c5%a0ed%c5%afvka+OR+%22Mu%c5%a1katelka+%c5%a1ed%c3%a1%22&FORM=IRPRST&ck=A269BD311D12AAC109679F00DEE01E27&selectedIndex=12&itb=0
+      - list [ref=f39e749]:
+        - listitem [ref=f39e750]:
+          - generic [ref=f39e751]:
+            - link "Image result for hruška Oharkula OR Šedůvka OR \"Muškatelka šedá\"" [ref=f39e753] [cursor=pointer]:
+              - /url: /images/search?view=detailV2&ccid=iogXGZkm&id=84B40CFB07D521C0D82CB0702ADB0B5C1A5FC476&thid=OIP.iogXGZkmSsBK1p3QJVlQ0AHaFj&mediaurl=https%3a%2f%2fwww.prodejstromku.cz%2fimg%2fclanky-nove%2fhrusne%2fmagdalenka.jpg&cdnurl=https%3a%2f%2fth.bing.com%2fth%2fid%2fR.8a88171999264ac04ad69dd0255950d0%3frik%3ddsRfGlwL2ypwsA%26pid%3dImgRaw%26r%3d0&exph=382&expw=510&q=hru%c5%a1ka+Oharkula+OR+%c5%a0ed%c5%afvka+OR+%22Mu%c5%a1katelka+%c5%a1ed%c3%a1%22&FORM=IRPRST&ck=ED452AB8E83C1C8EB8E96F79C8491BA1&selectedIndex=13&itb=0
+              - img "Image result for hruška Oharkula OR Šedůvka OR \"Muškatelka šedá\"" [ref=f39e755]
+            - generic [ref=f39e756]:
+              - link "Staré odrůdy hrušní | Prodej stromků" [ref=f39e757] [cursor=pointer]:
+                - /url: /images/search?view=detailV2&ccid=iogXGZkm&id=84B40CFB07D521C0D82CB0702ADB0B5C1A5FC476&thid=OIP.iogXGZkmSsBK1p3QJVlQ0AHaFj&mediaurl=https%3a%2f%2fwww.prodejstromku.cz%2fimg%2fclanky-nove%2fhrusne%2fmagdalenka.jpg&cdnurl=https%3a%2f%2fth.bing.com%2fth%2fid%2fR.8a88171999264ac04ad69dd0255950d0%3frik%3ddsRfGlwL2ypwsA%26pid%3dImgRaw%26r%3d0&exph=382&expw=510&q=hru%c5%a1ka+Oharkula+OR+%c5%a0ed%c5%afvka+OR+%22Mu%c5%a1katelka+%c5%a1ed%c3%a1%22&FORM=IRPRST&ck=ED452AB8E83C1C8EB8E96F79C8491BA1&selectedIndex=13&itb=0
+              - generic:
+                - generic:
+                  - list:
+                    - listitem:
+                      - link "Staré odrůdy hrušní | Prodej stromků" [ref=f39e758] [cursor=pointer]:
+                        - /url: /images/search?view=detailV2&ccid=iogXGZkm&id=84B40CFB07D521C0D82CB0702ADB0B5C1A5FC476&thid=OIP.iogXGZkmSsBK1p3QJVlQ0AHaFj&mediaurl=https%3a%2f%2fwww.prodejstromku.cz%2fimg%2fclanky-nove%2fhrusne%2fmagdalenka.jpg&cdnurl=https%3a%2f%2fth.bing.com%2fth%2fid%2fR.8a88171999264ac04ad69dd0255950d0%3frik%3ddsRfGlwL2ypwsA%26pid%3dImgRaw%26r%3d0&exph=382&expw=510&q=hru%c5%a1ka+Oharkula+OR+%c5%a0ed%c5%afvka+OR+%22Mu%c5%a1katelka+%c5%a1ed%c3%a1%22&FORM=IRPRST&ck=ED452AB8E83C1C8EB8E96F79C8491BA1&selectedIndex=13&itb=0
+        - listitem [ref=f39e759]:
+          - generic [ref=f39e760]:
+            - link "Image result for hruška Oharkula OR Šedůvka OR \"Muškatelka šedá\"" [ref=f39e762] [cursor=pointer]:
+              - /url: /images/search?view=detailV2&ccid=scVBpTai&id=AC54DDDCD878832ED862529AE2B789C64DF02DE2&thid=OIP.scVBpTai30lS7k43nwp7wAHaFj&mediaurl=https%3a%2f%2f1gr.cz%2ffotky%2fidnes%2f24%2f072%2fcl6h%2fMCE99c823e501_162108_1976005.jpg&cdnurl=https%3a%2f%2fth.bing.com%2fth%2fid%2fR.b1c541a536a2df4952ee4e379f0a7bc0%3frik%3d4i3wTcaJt%252bKaUg%26pid%3dImgRaw%26r%3d0&exph=472&expw=630&q=hru%c5%a1ka+Oharkula+OR+%c5%a0ed%c5%afvka+OR+%22Mu%c5%a1katelka+%c5%a1ed%c3%a1%22&FORM=IRPRST&ck=FFA8C09A5CFBAC7EDC3623C36DE9B466&selectedIndex=14&itb=0
+              - img "Image result for hruška Oharkula OR Šedůvka OR \"Muškatelka šedá\"" [ref=f39e764]
+            - generic [ref=f39e765]:
+              - link "Třešně, višně, meruňky i hrušky, které nekoupíte. Ale vystavují je v Praze" [ref=f39e766] [cursor=pointer]:
+                - /url: /images/search?view=detailV2&ccid=scVBpTai&id=AC54DDDCD878832ED862529AE2B789C64DF02DE2&thid=OIP.scVBpTai30lS7k43nwp7wAHaFj&mediaurl=https%3a%2f%2f1gr.cz%2ffotky%2fidnes%2f24%2f072%2fcl6h%2fMCE99c823e501_162108_1976005.jpg&cdnurl=https%3a%2f%2fth.bing.com%2fth%2fid%2fR.b1c541a536a2df4952ee4e379f0a7bc0%3frik%3d4i3wTcaJt%252bKaUg%26pid%3dImgRaw%26r%3d0&exph=472&expw=630&q=hru%c5%a1ka+Oharkula+OR+%c5%a0ed%c5%afvka+OR+%22Mu%c5%a1katelka+%c5%a1ed%c3%a1%22&FORM=IRPRST&ck=FFA8C09A5CFBAC7EDC3623C36DE9B466&selectedIndex=14&itb=0
+              - generic:
+                - generic:
+                  - list:
+                    - listitem:
+                      - link "Třešně, višně, meruňky i hrušky, které nekoupíte. Ale v…" [ref=f39e767] [cursor=pointer]:
+                        - /url: /images/search?view=detailV2&ccid=scVBpTai&id=AC54DDDCD878832ED862529AE2B789C64DF02DE2&thid=OIP.scVBpTai30lS7k43nwp7wAHaFj&mediaurl=https%3a%2f%2f1gr.cz%2ffotky%2fidnes%2f24%2f072%2fcl6h%2fMCE99c823e501_162108_1976005.jpg&cdnurl=https%3a%2f%2fth.bing.com%2fth%2fid%2fR.b1c541a536a2df4952ee4e379f0a7bc0%3frik%3d4i3wTcaJt%252bKaUg%26pid%3dImgRaw%26r%3d0&exph=472&expw=630&q=hru%c5%a1ka+Oharkula+OR+%c5%a0ed%c5%afvka+OR+%22Mu%c5%a1katelka+%c5%a1ed%c3%a1%22&FORM=IRPRST&ck=FFA8C09A5CFBAC7EDC3623C36DE9B466&selectedIndex=14&itb=0
+        - listitem [ref=f39e768]:
+          - generic [ref=f39e769]:
+            - generic [ref=f39e770]: Related Searches
+            - generic [ref=f39e772]:
+              - link "Coat of Arms" [ref=f39e773] [cursor=pointer]:
+                - /url: /images/search?q=Hruska+Coat+of+Arms&FORM=IRIBIP
+                - generic "Hruska Coat of Arms" [ref=f39e775]: Coat of Arms
+              - link "Shop Logo" [ref=f39e776] [cursor=pointer]:
+                - /url: /images/search?q=Hruska+Shop+Logo&FORM=IRIBIP
+                - generic "Hruska Shop Logo" [ref=f39e778]: Shop Logo
+              - link "Gas Station" [ref=f39e779] [cursor=pointer]:
+                - /url: /images/search?q=Hruska+Gas+Station&FORM=IRIBIP
+                - generic "Hruska Gas Station" [ref=f39e781]: Gas Station
+        - listitem [ref=f39e782]:
+          - generic [ref=f39e783]:
+            - link "Image result for hruška Oharkula OR Šedůvka OR \"Muškatelka šedá\"" [ref=f39e785] [cursor=pointer]:
+              - /url: /images/search?view=detailV2&ccid=8loKIVSw&id=FC94C6EB0C52217C9FD229014FECB5D367CD9CA0&thid=OIP.8loKIVSw34mWiXosT5NbtgHaDn&mediaurl=https%3a%2f%2fodrudy.cz%2fimages%2fvarieties%2fhrusky%2fmuskatelka-seda.jpg&cdnurl=https%3a%2f%2fth.bing.com%2fth%2fid%2fR.f25a0a2154b0df8996897a2c4f935bb6%3frik%3doJzNZ9O17E8BKQ%26pid%3dImgRaw%26r%3d0&exph=626&expw=1280&q=hru%c5%a1ka+Oharkula+OR+%c5%a0ed%c5%afvka+OR+%22Mu%c5%a1katelka+%c5%a1ed%c3%a1%22&FORM=IRPRST&ck=4AAFD8E2AFF005ECF993F3EF2767EF25&selectedIndex=15&itb=0
+              - img "Image result for hruška Oharkula OR Šedůvka OR \"Muškatelka šedá\"" [ref=f39e787]
+            - generic [ref=f39e788]:
+              - 'link "Muškatelka šedá: Vzácná historická odrůda s kořenitými plody | Odrůdy.cz" [ref=f39e789] [cursor=pointer]':
+                - /url: /images/search?view=detailV2&ccid=8loKIVSw&id=FC94C6EB0C52217C9FD229014FECB5D367CD9CA0&thid=OIP.8loKIVSw34mWiXosT5NbtgHaDn&mediaurl=https%3a%2f%2fodrudy.cz%2fimages%2fvarieties%2fhrusky%2fmuskatelka-seda.jpg&cdnurl=https%3a%2f%2fth.bing.com%2fth%2fid%2fR.f25a0a2154b0df8996897a2c4f935bb6%3frik%3doJzNZ9O17E8BKQ%26pid%3dImgRaw%26r%3d0&exph=626&expw=1280&q=hru%c5%a1ka+Oharkula+OR+%c5%a0ed%c5%afvka+OR+%22Mu%c5%a1katelka+%c5%a1ed%c3%a1%22&FORM=IRPRST&ck=4AAFD8E2AFF005ECF993F3EF2767EF25&selectedIndex=15&itb=0
+              - generic:
+                - generic:
+                  - list:
+                    - listitem:
+                      - 'link "Muškatelka šedá: Vzácná historická odrůda s kořenitými plody | Odrůdy.cz" [ref=f39e790] [cursor=pointer]':
+                        - /url: /images/search?view=detailV2&ccid=8loKIVSw&id=FC94C6EB0C52217C9FD229014FECB5D367CD9CA0&thid=OIP.8loKIVSw34mWiXosT5NbtgHaDn&mediaurl=https%3a%2f%2fodrudy.cz%2fimages%2fvarieties%2fhrusky%2fmuskatelka-seda.jpg&cdnurl=https%3a%2f%2fth.bing.com%2fth%2fid%2fR.f25a0a2154b0df8996897a2c4f935bb6%3frik%3doJzNZ9O17E8BKQ%26pid%3dImgRaw%26r%3d0&exph=626&expw=1280&q=hru%c5%a1ka+Oharkula+OR+%c5%a0ed%c5%afvka+OR+%22Mu%c5%a1katelka+%c5%a1ed%c3%a1%22&FORM=IRPRST&ck=4AAFD8E2AFF005ECF993F3EF2767EF25&selectedIndex=15&itb=0
+        - listitem [ref=f39e791]:
+          - generic [ref=f39e792]:
+            - link "Image result for hruška Oharkula OR Šedůvka OR \"Muškatelka šedá\"" [ref=f39e794] [cursor=pointer]:
+              - /url: /images/search?view=detailV2&ccid=n6YBO%2fld&id=AC54DDDCD878832ED862AA070B664792C68E8DD7&thid=OIP.n6YBO_ldW3u6JTwvfhO1_wHaFj&mediaurl=https%3a%2f%2f1gr.cz%2ffotky%2fidnes%2f24%2f072%2fcl6h%2fMCE9f5c3f062d_162153_2702198.jpg&cdnurl=https%3a%2f%2fth.bing.com%2fth%2fid%2fR.9fa6013bf95d5b7bba253c2f7e13b5ff%3frik%3d142OxpJHZgsHqg%26pid%3dImgRaw%26r%3d0&exph=472&expw=630&q=hru%c5%a1ka+Oharkula+OR+%c5%a0ed%c5%afvka+OR+%22Mu%c5%a1katelka+%c5%a1ed%c3%a1%22&FORM=IRPRST&ck=23F6E04C83EA05F8D50F9226AE34DF8A&selectedIndex=16&itb=0
+              - img "Image result for hruška Oharkula OR Šedůvka OR \"Muškatelka šedá\"" [ref=f39e796]
+            - generic [ref=f39e797]:
+              - link "Třešně, višně, meruňky i hrušky, které nekoupíte. Ale vystavují je v Praze" [ref=f39e798] [cursor=pointer]:
+                - /url: /images/search?view=detailV2&ccid=n6YBO%2fld&id=AC54DDDCD878832ED862AA070B664792C68E8DD7&thid=OIP.n6YBO_ldW3u6JTwvfhO1_wHaFj&mediaurl=https%3a%2f%2f1gr.cz%2ffotky%2fidnes%2f24%2f072%2fcl6h%2fMCE9f5c3f062d_162153_2702198.jpg&cdnurl=https%3a%2f%2fth.bing.com%2fth%2fid%2fR.9fa6013bf95d5b7bba253c2f7e13b5ff%3frik%3d142OxpJHZgsHqg%26pid%3dImgRaw%26r%3d0&exph=472&expw=630&q=hru%c5%a1ka+Oharkula+OR+%c5%a0ed%c5%afvka+OR+%22Mu%c5%a1katelka+%c5%a1ed%c3%a1%22&FORM=IRPRST&ck=23F6E04C83EA05F8D50F9226AE34DF8A&selectedIndex=16&itb=0
+              - generic:
+                - generic:
+                  - list:
+                    - listitem:
+                      - link "Třešně, višně, meruňky i hrušky, které nekoupíte. Ale v…" [ref=f39e799] [cursor=pointer]:
+                        - /url: /images/search?view=detailV2&ccid=n6YBO%2fld&id=AC54DDDCD878832ED862AA070B664792C68E8DD7&thid=OIP.n6YBO_ldW3u6JTwvfhO1_wHaFj&mediaurl=https%3a%2f%2f1gr.cz%2ffotky%2fidnes%2f24%2f072%2fcl6h%2fMCE9f5c3f062d_162153_2702198.jpg&cdnurl=https%3a%2f%2fth.bing.com%2fth%2fid%2fR.9fa6013bf95d5b7bba253c2f7e13b5ff%3frik%3d142OxpJHZgsHqg%26pid%3dImgRaw%26r%3d0&exph=472&expw=630&q=hru%c5%a1ka+Oharkula+OR+%c5%a0ed%c5%afvka+OR+%22Mu%c5%a1katelka+%c5%a1ed%c3%a1%22&FORM=IRPRST&ck=23F6E04C83EA05F8D50F9226AE34DF8A&selectedIndex=16&itb=0
+      - list [ref=f39e800]:
+        - listitem [ref=f39e801]:
+          - generic [ref=f39e802]:
+            - link "Image result for hruška Oharkula OR Šedůvka OR \"Muškatelka šedá\"" [ref=f39e804] [cursor=pointer]:
+              - /url: /images/search?view=detailV2&ccid=CxwqBJR%2b&id=CD07B1122A6A53DDA9B4767D46E732D0FBCCB94B&thid=OIP.CxwqBJR-v3wemGACsHG49QHaJ4&mediaurl=https%3a%2f%2fwww.zahrada.sk%2fwp-content%2fuploads%2f2025%2f08%2fKrvavka_hruska_skolka_biele_karpaty.jpg&cdnurl=https%3a%2f%2fth.bing.com%2fth%2fid%2fR.0b1c2a04947ebf7c1e986002b071b8f5%3frik%3dS7nM%252b9Ay50Z9dg%26pid%3dImgRaw%26r%3d0&exph=1200&expw=900&q=hru%c5%a1ka+Oharkula+OR+%c5%a0ed%c5%afvka+OR+%22Mu%c5%a1katelka+%c5%a1ed%c3%a1%22&FORM=IRPRST&ck=2E02235CFD8DCADB9C74841AF84EAE24&selectedIndex=17&itb=0
+              - img "Image result for hruška Oharkula OR Šedůvka OR \"Muškatelka šedá\"" [ref=f39e806]
+            - generic [ref=f39e807]:
+              - link "Európska alebo ázijská hruška? Pýtali sme sa ovocinárov - Záhrada.sk" [ref=f39e808] [cursor=pointer]:
+                - /url: /images/search?view=detailV2&ccid=CxwqBJR%2b&id=CD07B1122A6A53DDA9B4767D46E732D0FBCCB94B&thid=OIP.CxwqBJR-v3wemGACsHG49QHaJ4&mediaurl=https%3a%2f%2fwww.zahrada.sk%2fwp-content%2fuploads%2f2025%2f08%2fKrvavka_hruska_skolka_biele_karpaty.jpg&cdnurl=https%3a%2f%2fth.bing.com%2fth%2fid%2fR.0b1c2a04947ebf7c1e986002b071b8f5%3frik%3dS7nM%252b9Ay50Z9dg%26pid%3dImgRaw%26r%3d0&exph=1200&expw=900&q=hru%c5%a1ka+Oharkula+OR+%c5%a0ed%c5%afvka+OR+%22Mu%c5%a1katelka+%c5%a1ed%c3%a1%22&FORM=IRPRST&ck=2E02235CFD8DCADB9C74841AF84EAE24&selectedIndex=17&itb=0
+              - generic:
+                - generic:
+                  - list:
+                    - listitem:
+                      - link "Európska alebo ázijská hruška…" [ref=f39e809] [cursor=pointer]:
+                        - /url: /images/search?view=detailV2&ccid=CxwqBJR%2b&id=CD07B1122A6A53DDA9B4767D46E732D0FBCCB94B&thid=OIP.CxwqBJR-v3wemGACsHG49QHaJ4&mediaurl=https%3a%2f%2fwww.zahrada.sk%2fwp-content%2fuploads%2f2025%2f08%2fKrvavka_hruska_skolka_biele_karpaty.jpg&cdnurl=https%3a%2f%2fth.bing.com%2fth%2fid%2fR.0b1c2a04947ebf7c1e986002b071b8f5%3frik%3dS7nM%252b9Ay50Z9dg%26pid%3dImgRaw%26r%3d0&exph=1200&expw=900&q=hru%c5%a1ka+Oharkula+OR+%c5%a0ed%c5%afvka+OR+%22Mu%c5%a1katelka+%c5%a1ed%c3%a1%22&FORM=IRPRST&ck=2E02235CFD8DCADB9C74841AF84EAE24&selectedIndex=17&itb=0
+        - listitem [ref=f39e810]:
+          - generic [ref=f39e811]:
+            - link "Image result for hruška Oharkula OR Šedůvka OR \"Muškatelka šedá\"" [ref=f39e813] [cursor=pointer]:
+              - /url: /images/search?view=detailV2&ccid=K%2f7FxoDk&id=7728F794EF2429E5E8BCF6ABD4A19D39EE3A082A&thid=OIP.K_7FxoDkfvIhtTOwN9CbbwHaHR&mediaurl=https%3a%2f%2fvojanovysady.cz%2fwp-content%2fuploads%2f2024%2f03%2fvojanovy-sady_panel-8_img-2.jpg&cdnurl=https%3a%2f%2fth.bing.com%2fth%2fid%2fR.2bfec5c680e47ef221b533b037d09b6f%3frik%3dKgg67jmdodSr9g%26pid%3dImgRaw%26r%3d0&exph=629&expw=640&q=hru%c5%a1ka+Oharkula+OR+%c5%a0ed%c5%afvka+OR+%22Mu%c5%a1katelka+%c5%a1ed%c3%a1%22&FORM=IRPRST&ck=B09875ECB684ED3B456EB57254A6F355&selectedIndex=18&itb=0
+              - img "Image result for hruška Oharkula OR Šedůvka OR \"Muškatelka šedá\"" [ref=f39e815]
+            - generic [ref=f39e816]:
+              - link "Panel 8 English - Vojanovy sady spol. s r.o." [ref=f39e817] [cursor=pointer]:
+                - /url: /images/search?view=detailV2&ccid=K%2f7FxoDk&id=7728F794EF2429E5E8BCF6ABD4A19D39EE3A082A&thid=OIP.K_7FxoDkfvIhtTOwN9CbbwHaHR&mediaurl=https%3a%2f%2fvojanovysady.cz%2fwp-content%2fuploads%2f2024%2f03%2fvojanovy-sady_panel-8_img-2.jpg&cdnurl=https%3a%2f%2fth.bing.com%2fth%2fid%2fR.2bfec5c680e47ef221b533b037d09b6f%3frik%3dKgg67jmdodSr9g%26pid%3dImgRaw%26r%3d0&exph=629&expw=640&q=hru%c5%a1ka+Oharkula+OR+%c5%a0ed%c5%afvka+OR+%22Mu%c5%a1katelka+%c5%a1ed%c3%a1%22&FORM=IRPRST&ck=B09875ECB684ED3B456EB57254A6F355&selectedIndex=18&itb=0
+              - generic:
+                - generic:
+                  - list:
+                    - listitem:
+                      - link "Panel 8 English - Vojanovy sady spol. s r.o." [ref=f39e818] [cursor=pointer]:
+                        - /url: /images/search?view=detailV2&ccid=K%2f7FxoDk&id=7728F794EF2429E5E8BCF6ABD4A19D39EE3A082A&thid=OIP.K_7FxoDkfvIhtTOwN9CbbwHaHR&mediaurl=https%3a%2f%2fvojanovysady.cz%2fwp-content%2fuploads%2f2024%2f03%2fvojanovy-sady_panel-8_img-2.jpg&cdnurl=https%3a%2f%2fth.bing.com%2fth%2fid%2fR.2bfec5c680e47ef221b533b037d09b6f%3frik%3dKgg67jmdodSr9g%26pid%3dImgRaw%26r%3d0&exph=629&expw=640&q=hru%c5%a1ka+Oharkula+OR+%c5%a0ed%c5%afvka+OR+%22Mu%c5%a1katelka+%c5%a1ed%c3%a1%22&FORM=IRPRST&ck=B09875ECB684ED3B456EB57254A6F355&selectedIndex=18&itb=0
+        - listitem [ref=f39e819]:
+          - generic [ref=f39e820]:
+            - link "Image result for hruška Oharkula OR Šedůvka OR \"Muškatelka šedá\"" [ref=f39e822] [cursor=pointer]:
+              - /url: /images/search?view=detailV2&ccid=K5GTeKtp&id=D91D715B95AAAA783B781018726F614DB2239A56&thid=OIP.K5GTeKtp05mFH5ldxxM-pgHaEK&mediaurl=https%3a%2f%2fdam.production02.nmh.nmheagle.sk%2fapi%2fimage%2f1680x945%2f867%2f86728da7-1b9d-11ef-b315-ca36e7882062.webp&cdnurl=https%3a%2f%2fth.bing.com%2fth%2fid%2fR.2b919378ab69d399851f995dc7133ea6%3frik%3dVpojsk1hb3IYEA%26pid%3dImgRaw%26r%3d0&exph=945&expw=1680&q=hru%c5%a1ka+Oharkula+OR+%c5%a0ed%c5%afvka+OR+%22Mu%c5%a1katelka+%c5%a1ed%c3%a1%22&FORM=IRPRST&ck=D069899A5970136190B13FC9E03B8BFA&selectedIndex=19&itb=0
+              - img "Image result for hruška Oharkula OR Šedůvka OR \"Muškatelka šedá\"" [ref=f39e824]
+            - generic [ref=f39e825]:
+              - link "Viete, ako sušiť hrušky? Ponúkame vám praktické rady" [ref=f39e826] [cursor=pointer]:
+                - /url: /images/search?view=detailV2&ccid=K5GTeKtp&id=D91D715B95AAAA783B781018726F614DB2239A56&thid=OIP.K5GTeKtp05mFH5ldxxM-pgHaEK&mediaurl=https%3a%2f%2fdam.production02.nmh.nmheagle.sk%2fapi%2fimage%2f1680x945%2f867%2f86728da7-1b9d-11ef-b315-ca36e7882062.webp&cdnurl=https%3a%2f%2fth.bing.com%2fth%2fid%2fR.2b919378ab69d399851f995dc7133ea6%3frik%3dVpojsk1hb3IYEA%26pid%3dImgRaw%26r%3d0&exph=945&expw=1680&q=hru%c5%a1ka+Oharkula+OR+%c5%a0ed%c5%afvka+OR+%22Mu%c5%a1katelka+%c5%a1ed%c3%a1%22&FORM=IRPRST&ck=D069899A5970136190B13FC9E03B8BFA&selectedIndex=19&itb=0
+              - generic:
+                - generic:
+                  - list:
+                    - listitem:
+                      - link "Viete, ako sušiť hrušky? Ponúkame vám praktické rady" [ref=f39e827] [cursor=pointer]:
+                        - /url: /images/search?view=detailV2&ccid=K5GTeKtp&id=D91D715B95AAAA783B781018726F614DB2239A56&thid=OIP.K5GTeKtp05mFH5ldxxM-pgHaEK&mediaurl=https%3a%2f%2fdam.production02.nmh.nmheagle.sk%2fapi%2fimage%2f1680x945%2f867%2f86728da7-1b9d-11ef-b315-ca36e7882062.webp&cdnurl=https%3a%2f%2fth.bing.com%2fth%2fid%2fR.2b919378ab69d399851f995dc7133ea6%3frik%3dVpojsk1hb3IYEA%26pid%3dImgRaw%26r%3d0&exph=945&expw=1680&q=hru%c5%a1ka+Oharkula+OR+%c5%a0ed%c5%afvka+OR+%22Mu%c5%a1katelka+%c5%a1ed%c3%a1%22&FORM=IRPRST&ck=D069899A5970136190B13FC9E03B8BFA&selectedIndex=19&itb=0
+        - listitem [ref=f39e828]:
+          - generic [ref=f39e829]:
+            - link "Image result for hruška Oharkula OR Šedůvka OR \"Muškatelka šedá\"" [ref=f39e831] [cursor=pointer]:
+              - /url: /images/search?view=detailV2&ccid=D5qskUBc&id=BA46C5CD1F4BE5C56DDBE9FB18D79B6E3F728C52&thid=OIP.D5qskUBcD_Gqt9KvcjK_WwHaE8&mediaurl=https%3a%2f%2f6048ecec90.cbaul-cdnwnd.com%2fd4878f9c7747938b20af7d6a27b18938%2f200000009-b402bb504b%2fHrusen+kvet.jpg&cdnurl=https%3a%2f%2fth.bing.com%2fth%2fid%2fR.0f9aac91405c0ff1aab7d2af7232bf5b%3frik%3dUoxyP26b1xj76Q%26pid%3dImgRaw%26r%3d0&exph=320&expw=480&q=hru%c5%a1ka+Oharkula+OR+%c5%a0ed%c5%afvka+OR+%22Mu%c5%a1katelka+%c5%a1ed%c3%a1%22&FORM=IRPRST&ck=11A0B60823A5487F2349878EEAD45C9E&selectedIndex=20&itb=0
+              - img "Image result for hruška Oharkula OR Šedůvka OR \"Muškatelka šedá\"" [ref=f39e833]
+            - generic [ref=f39e834]:
+              - 'link "HRUŠNĚ :: ARCHIVNÍ ODRŮDY" [ref=f39e835] [cursor=pointer]':
+                - /url: /images/search?view=detailV2&ccid=D5qskUBc&id=BA46C5CD1F4BE5C56DDBE9FB18D79B6E3F728C52&thid=OIP.D5qskUBcD_Gqt9KvcjK_WwHaE8&mediaurl=https%3a%2f%2f6048ecec90.cbaul-cdnwnd.com%2fd4878f9c7747938b20af7d6a27b18938%2f200000009-b402bb504b%2fHrusen+kvet.jpg&cdnurl=https%3a%2f%2fth.bing.com%2fth%2fid%2fR.0f9aac91405c0ff1aab7d2af7232bf5b%3frik%3dUoxyP26b1xj76Q%26pid%3dImgRaw%26r%3d0&exph=320&expw=480&q=hru%c5%a1ka+Oharkula+OR+%c5%a0ed%c5%afvka+OR+%22Mu%c5%a1katelka+%c5%a1ed%c3%a1%22&FORM=IRPRST&ck=11A0B60823A5487F2349878EEAD45C9E&selectedIndex=20&itb=0
+              - generic:
+                - generic:
+                  - list:
+                    - listitem:
+                      - 'link "HRUŠNĚ :: ARCHIVNÍ ODRŮDY" [ref=f39e836] [cursor=pointer]':
+                        - /url: /images/search?view=detailV2&ccid=D5qskUBc&id=BA46C5CD1F4BE5C56DDBE9FB18D79B6E3F728C52&thid=OIP.D5qskUBcD_Gqt9KvcjK_WwHaE8&mediaurl=https%3a%2f%2f6048ecec90.cbaul-cdnwnd.com%2fd4878f9c7747938b20af7d6a27b18938%2f200000009-b402bb504b%2fHrusen+kvet.jpg&cdnurl=https%3a%2f%2fth.bing.com%2fth%2fid%2fR.0f9aac91405c0ff1aab7d2af7232bf5b%3frik%3dUoxyP26b1xj76Q%26pid%3dImgRaw%26r%3d0&exph=320&expw=480&q=hru%c5%a1ka+Oharkula+OR+%c5%a0ed%c5%afvka+OR+%22Mu%c5%a1katelka+%c5%a1ed%c3%a1%22&FORM=IRPRST&ck=11A0B60823A5487F2349878EEAD45C9E&selectedIndex=20&itb=0
+        - listitem [ref=f39e837]:
+          - generic [ref=f39e838]:
+            - link "Image result for hruška Oharkula OR Šedůvka OR \"Muškatelka šedá\"" [ref=f39e840] [cursor=pointer]:
+              - /url: /images/search?view=detailV2&ccid=PuAAYAF6&id=4C315B74DE8A1EB403C82B9B1E4892D7F59CEEC6&thid=OIP.PuAAYAF6S3uXeO09osl4NQHaKb&mediaurl=https%3a%2f%2fwww.palenice-pistovice.cz%2fwp-content%2fuploads%2f2023%2f08%2fhruska-1454x2048.png&cdnurl=https%3a%2f%2fth.bing.com%2fth%2fid%2fR.3ee00060017a4b7b9778ed3da2c97835%3frik%3dxu6c9deSSB6bKw%26pid%3dImgRaw%26r%3d0&exph=1920&expw=1363&q=hru%c5%a1ka+Oharkula+OR+%c5%a0ed%c5%afvka+OR+%22Mu%c5%a1katelka+%c5%a1ed%c3%a1%22&FORM=IRPRST&ck=407EB59A36039F08CC2810F30B748A4A&selectedIndex=21&itb=1
+              - img "Image result for hruška Oharkula OR Šedůvka OR \"Muškatelka šedá\"" [ref=f39e842]
+            - generic [ref=f39e843]:
+              - link "Příklady k zakládání jednotlivých kvasů | Pálenice Pístovice" [ref=f39e844] [cursor=pointer]:
+                - /url: /images/search?view=detailV2&ccid=PuAAYAF6&id=4C315B74DE8A1EB403C82B9B1E4892D7F59CEEC6&thid=OIP.PuAAYAF6S3uXeO09osl4NQHaKb&mediaurl=https%3a%2f%2fwww.palenice-pistovice.cz%2fwp-content%2fuploads%2f2023%2f08%2fhruska-1454x2048.png&cdnurl=https%3a%2f%2fth.bing.com%2fth%2fid%2fR.3ee00060017a4b7b9778ed3da2c97835%3frik%3dxu6c9deSSB6bKw%26pid%3dImgRaw%26r%3d0&exph=1920&expw=1363&q=hru%c5%a1ka+Oharkula+OR+%c5%a0ed%c5%afvka+OR+%22Mu%c5%a1katelka+%c5%a1ed%c3%a1%22&FORM=IRPRST&ck=407EB59A36039F08CC2810F30B748A4A&selectedIndex=21&itb=1
+              - generic:
+                - generic:
+                  - list:
+                    - listitem:
+                      - link "Příklady k zakládání jedno…" [ref=f39e845] [cursor=pointer]:
+                        - /url: /images/search?view=detailV2&ccid=PuAAYAF6&id=4C315B74DE8A1EB403C82B9B1E4892D7F59CEEC6&thid=OIP.PuAAYAF6S3uXeO09osl4NQHaKb&mediaurl=https%3a%2f%2fwww.palenice-pistovice.cz%2fwp-content%2fuploads%2f2023%2f08%2fhruska-1454x2048.png&cdnurl=https%3a%2f%2fth.bing.com%2fth%2fid%2fR.3ee00060017a4b7b9778ed3da2c97835%3frik%3dxu6c9deSSB6bKw%26pid%3dImgRaw%26r%3d0&exph=1920&expw=1363&q=hru%c5%a1ka+Oharkula+OR+%c5%a0ed%c5%afvka+OR+%22Mu%c5%a1katelka+%c5%a1ed%c3%a1%22&FORM=IRPRST&ck=407EB59A36039F08CC2810F30B748A4A&selectedIndex=21&itb=1
+        - listitem [ref=f39e846]:
+          - generic [ref=f39e847]:
+            - link "Image result for hruška Oharkula OR Šedůvka OR \"Muškatelka šedá\"" [ref=f39e849] [cursor=pointer]:
+              - /url: /images/search?view=detailV2&ccid=gj%2bA4xA9&id=3620BBE7484D573B463C087F5DA4425FD569BC3E&thid=OIP.gj-A4xA9fbaohhZVQ7OEAAHaLF&mediaurl=https%3a%2f%2fimage.smedata.sk%2fimage%2fw625-h0%2f1ef98211-9e64-60ba-8be1-6fc52bc0cd6d.jpg&cdnurl=https%3a%2f%2fth.bing.com%2fth%2fid%2fR.823f80e3103d7db6a886165543b38400%3frik%3dPrxp1V9CpF1%252fCA%26pid%3dImgRaw%26r%3d0&exph=936&expw=625&q=hru%c5%a1ka+Oharkula+OR+%c5%a0ed%c5%afvka+OR+%22Mu%c5%a1katelka+%c5%a1ed%c3%a1%22&FORM=IRPRST&ck=9B921DB83601ABD919412FEF3BE24DA8&selectedIndex=22&itb=0
+              - img "Image result for hruška Oharkula OR Šedůvka OR \"Muškatelka šedá\"" [ref=f39e851]
+            - generic [ref=f39e852]:
+              - 'link "Ovocinár Janko Veselý: Ozajstné umenie je dopestovať statnú hrušku s ..." [ref=f39e853] [cursor=pointer]':
+                - /url: /images/search?view=detailV2&ccid=gj%2bA4xA9&id=3620BBE7484D573B463C087F5DA4425FD569BC3E&thid=OIP.gj-A4xA9fbaohhZVQ7OEAAHaLF&mediaurl=https%3a%2f%2fimage.smedata.sk%2fimage%2fw625-h0%2f1ef98211-9e64-60ba-8be1-6fc52bc0cd6d.jpg&cdnurl=https%3a%2f%2fth.bing.com%2fth%2fid%2fR.823f80e3103d7db6a886165543b38400%3frik%3dPrxp1V9CpF1%252fCA%26pid%3dImgRaw%26r%3d0&exph=936&expw=625&q=hru%c5%a1ka+Oharkula+OR+%c5%a0ed%c5%afvka+OR+%22Mu%c5%a1katelka+%c5%a1ed%c3%a1%22&FORM=IRPRST&ck=9B921DB83601ABD919412FEF3BE24DA8&selectedIndex=22&itb=0
+              - generic:
+                - generic:
+                  - list:
+                    - listitem:
+                      - 'link "Ovocinár Janko Veselý: Ozajst…" [ref=f39e854] [cursor=pointer]':
+                        - /url: /images/search?view=detailV2&ccid=gj%2bA4xA9&id=3620BBE7484D573B463C087F5DA4425FD569BC3E&thid=OIP.gj-A4xA9fbaohhZVQ7OEAAHaLF&mediaurl=https%3a%2f%2fimage.smedata.sk%2fimage%2fw625-h0%2f1ef98211-9e64-60ba-8be1-6fc52bc0cd6d.jpg&cdnurl=https%3a%2f%2fth.bing.com%2fth%2fid%2fR.823f80e3103d7db6a886165543b38400%3frik%3dPrxp1V9CpF1%252fCA%26pid%3dImgRaw%26r%3d0&exph=936&expw=625&q=hru%c5%a1ka+Oharkula+OR+%c5%a0ed%c5%afvka+OR+%22Mu%c5%a1katelka+%c5%a1ed%c3%a1%22&FORM=IRPRST&ck=9B921DB83601ABD919412FEF3BE24DA8&selectedIndex=22&itb=0
+      - list [ref=f39e855]:
+        - listitem [ref=f39e856]:
+          - generic [ref=f39e857]:
+            - link "Image result for hruška Oharkula OR Šedůvka OR \"Muškatelka šedá\"" [ref=f39e859] [cursor=pointer]:
+              - /url: /images/search?view=detailV2&ccid=l2t6MMVs&id=1559C718BD17482EDB9D3C70EAD0029B9A7F0A32&thid=OIP.l2t6MMVs-S8Bb2xvlTrNdAHaFL&mediaurl=https%3a%2f%2fizahradkar.cz%2fwp-content%2fuploads%2f2022%2f07%2f3-plody-Opal-foto-M.-Vyslouzil.jpg&cdnurl=https%3a%2f%2fth.bing.com%2fth%2fid%2fR.976b7a30c56cf92f016f6c6f953acd74%3frik%3dMgp%252fmpsC0OpwPA%26pid%3dImgRaw%26r%3d0&exph=770&expw=1100&q=hru%c5%a1ka+Oharkula+OR+%c5%a0ed%c5%afvka+OR+%22Mu%c5%a1katelka+%c5%a1ed%c3%a1%22&FORM=IRPRST&ck=8A981C4D43043CCB298A508D8AF439B8&selectedIndex=23&itb=0
+              - img "Image result for hruška Oharkula OR Šedůvka OR \"Muškatelka šedá\"" [ref=f39e861]
+            - generic [ref=f39e862]:
+              - link "Jsou k přípravě kvasu nejlepší pozdní odrůdy ovoce? | Zahrádkář" [ref=f39e863] [cursor=pointer]:
+                - /url: /images/search?view=detailV2&ccid=l2t6MMVs&id=1559C718BD17482EDB9D3C70EAD0029B9A7F0A32&thid=OIP.l2t6MMVs-S8Bb2xvlTrNdAHaFL&mediaurl=https%3a%2f%2fizahradkar.cz%2fwp-content%2fuploads%2f2022%2f07%2f3-plody-Opal-foto-M.-Vyslouzil.jpg&cdnurl=https%3a%2f%2fth.bing.com%2fth%2fid%2fR.976b7a30c56cf92f016f6c6f953acd74%3frik%3dMgp%252fmpsC0OpwPA%26pid%3dImgRaw%26r%3d0&exph=770&expw=1100&q=hru%c5%a1ka+Oharkula+OR+%c5%a0ed%c5%afvka+OR+%22Mu%c5%a1katelka+%c5%a1ed%c3%a1%22&FORM=IRPRST&ck=8A981C4D43043CCB298A508D8AF439B8&selectedIndex=23&itb=0
+              - generic:
+                - generic:
+                  - list:
+                    - listitem:
+                      - link "Jsou k přípravě kvasu nejlepší pozdní odrůdy ovoce? | Zahrádkář" [ref=f39e864] [cursor=pointer]:
+                        - /url: /images/search?view=detailV2&ccid=l2t6MMVs&id=1559C718BD17482EDB9D3C70EAD0029B9A7F0A32&thid=OIP.l2t6MMVs-S8Bb2xvlTrNdAHaFL&mediaurl=https%3a%2f%2fizahradkar.cz%2fwp-content%2fuploads%2f2022%2f07%2f3-plody-Opal-foto-M.-Vyslouzil.jpg&cdnurl=https%3a%2f%2fth.bing.com%2fth%2fid%2fR.976b7a30c56cf92f016f6c6f953acd74%3frik%3dMgp%252fmpsC0OpwPA%26pid%3dImgRaw%26r%3d0&exph=770&expw=1100&q=hru%c5%a1ka+Oharkula+OR+%c5%a0ed%c5%afvka+OR+%22Mu%c5%a1katelka+%c5%a1ed%c3%a1%22&FORM=IRPRST&ck=8A981C4D43043CCB298A508D8AF439B8&selectedIndex=23&itb=0
+        - listitem [ref=f39e865]:
+          - generic [ref=f39e866]:
+            - link "Image result for hruška Oharkula OR Šedůvka OR \"Muškatelka šedá\"" [ref=f39e868] [cursor=pointer]:
+              - /url: /images/search?view=detailV2&ccid=L3mzfnfw&id=46C72B5977E788F67DFCA00211DF7102E12088F5&thid=OIP.L3mzfnfwDNZArCTgSkA7_AAAAA&mediaurl=https%3a%2f%2fth.bing.com%2fth%2fid%2fR.2f79b37e77f00cd640ac24e04a403bfc%3frik%3d9Ygg4QJx3xECoA%26riu%3dhttp%253a%252f%252fwww.ibotky.cz%252fimg%252feditor%252fimages%252fDSC_0869.JPG%26ehk%3dEoTslgYpZmSi92TGZHJZ6jFI5hGXf07hOEZsoZuCB9s%253d%26risl%3d%26pid%3dImgRaw%26r%3d0&exph=640&expw=425&q=hru%c5%a1ka+Oharkula+OR+%c5%a0ed%c5%afvka+OR+%22Mu%c5%a1katelka+%c5%a1ed%c3%a1%22&FORM=IRPRST&ck=F112F620ED3FB831EF6D8091514CF305&selectedIndex=24&itb=0
+              - img "Image result for hruška Oharkula OR Šedůvka OR \"Muškatelka šedá\"" [ref=f39e870]
+            - generic [ref=f39e871]:
+              - link "Aktuální přehled hrušní ve fruticetu naleznete v databázi florius" [ref=f39e872] [cursor=pointer]:
+                - /url: /images/search?view=detailV2&ccid=L3mzfnfw&id=46C72B5977E788F67DFCA00211DF7102E12088F5&thid=OIP.L3mzfnfwDNZArCTgSkA7_AAAAA&mediaurl=https%3a%2f%2fth.bing.com%2fth%2fid%2fR.2f79b37e77f00cd640ac24e04a403bfc%3frik%3d9Ygg4QJx3xECoA%26riu%3dhttp%253a%252f%252fwww.ibotky.cz%252fimg%252feditor%252fimages%252fDSC_0869.JPG%26ehk%3dEoTslgYpZmSi92TGZHJZ6jFI5hGXf07hOEZsoZuCB9s%253d%26risl%3d%26pid%3dImgRaw%26r%3d0&exph=640&expw=425&q=hru%c5%a1ka+Oharkula+OR+%c5%a0ed%c5%afvka+OR+%22Mu%c5%a1katelka+%c5%a1ed%c3%a1%22&FORM=IRPRST&ck=F112F620ED3FB831EF6D8091514CF305&selectedIndex=24&itb=0
+              - generic:
+                - generic:
+                  - list:
+                    - listitem:
+                      - link "Aktuální přehled hrušní ve frutic…" [ref=f39e873] [cursor=pointer]:
+                        - /url: /images/search?view=detailV2&ccid=L3mzfnfw&id=46C72B5977E788F67DFCA00211DF7102E12088F5&thid=OIP.L3mzfnfwDNZArCTgSkA7_AAAAA&mediaurl=https%3a%2f%2fth.bing.com%2fth%2fid%2fR.2f79b37e77f00cd640ac24e04a403bfc%3frik%3d9Ygg4QJx3xECoA%26riu%3dhttp%253a%252f%252fwww.ibotky.cz%252fimg%252feditor%252fimages%252fDSC_0869.JPG%26ehk%3dEoTslgYpZmSi92TGZHJZ6jFI5hGXf07hOEZsoZuCB9s%253d%26risl%3d%26pid%3dImgRaw%26r%3d0&exph=640&expw=425&q=hru%c5%a1ka+Oharkula+OR+%c5%a0ed%c5%afvka+OR+%22Mu%c5%a1katelka+%c5%a1ed%c3%a1%22&FORM=IRPRST&ck=F112F620ED3FB831EF6D8091514CF305&selectedIndex=24&itb=0
+        - listitem [ref=f39e874]:
+          - generic [ref=f39e875]:
+            - link "Image result for hruška Oharkula OR Šedůvka OR \"Muškatelka šedá\"" [ref=f39e877] [cursor=pointer]:
+              - /url: /images/search?view=detailV2&ccid=mK%2f3k2eQ&id=7ED69F387625967D0B039B5CC343E92E0847F0E2&thid=OIP.mK_3k2eQPhBucLDBtc7jNwHaFj&mediaurl=https%3a%2f%2fwww.mykoweb.cz%2fshare%2fcache%2fimage%2fatlas_lightbox%2foutsidebox%2fatlas-hlavni%2f2072.jpg&cdnurl=https%3a%2f%2fth.bing.com%2fth%2fid%2fR.98aff79367903e106e70b0c1b5cee337%3frik%3d4vBHCC7pQ8Ncmw%26pid%3dImgRaw%26r%3d0&exph=900&expw=1200&q=hru%c5%a1ka+Oharkula+OR+%c5%a0ed%c5%afvka+OR+%22Mu%c5%a1katelka+%c5%a1ed%c3%a1%22&FORM=IRPRST&ck=878DBAEF2CDFC02BF290A29CC3BCC534&selectedIndex=25&itb=0
+              - img "Image result for hruška Oharkula OR Šedůvka OR \"Muškatelka šedá\"" [ref=f39e879]
+            - generic [ref=f39e880]:
+              - link "Tricholoma fucatum - čirůvka peřestá - Mykoweb" [ref=f39e881] [cursor=pointer]:
+                - /url: /images/search?view=detailV2&ccid=mK%2f3k2eQ&id=7ED69F387625967D0B039B5CC343E92E0847F0E2&thid=OIP.mK_3k2eQPhBucLDBtc7jNwHaFj&mediaurl=https%3a%2f%2fwww.mykoweb.cz%2fshare%2fcache%2fimage%2fatlas_lightbox%2foutsidebox%2fatlas-hlavni%2f2072.jpg&cdnurl=https%3a%2f%2fth.bing.com%2fth%2fid%2fR.98aff79367903e106e70b0c1b5cee337%3frik%3d4vBHCC7pQ8Ncmw%26pid%3dImgRaw%26r%3d0&exph=900&expw=1200&q=hru%c5%a1ka+Oharkula+OR+%c5%a0ed%c5%afvka+OR+%22Mu%c5%a1katelka+%c5%a1ed%c3%a1%22&FORM=IRPRST&ck=878DBAEF2CDFC02BF290A29CC3BCC534&selectedIndex=25&itb=0
+              - generic:
+                - generic:
+                  - list:
+                    - listitem:
+                      - link "Tricholoma fucatum - čirůvka peřestá - Mykoweb" [ref=f39e882] [cursor=pointer]:
+                        - /url: /images/search?view=detailV2&ccid=mK%2f3k2eQ&id=7ED69F387625967D0B039B5CC343E92E0847F0E2&thid=OIP.mK_3k2eQPhBucLDBtc7jNwHaFj&mediaurl=https%3a%2f%2fwww.mykoweb.cz%2fshare%2fcache%2fimage%2fatlas_lightbox%2foutsidebox%2fatlas-hlavni%2f2072.jpg&cdnurl=https%3a%2f%2fth.bing.com%2fth%2fid%2fR.98aff79367903e106e70b0c1b5cee337%3frik%3d4vBHCC7pQ8Ncmw%26pid%3dImgRaw%26r%3d0&exph=900&expw=1200&q=hru%c5%a1ka+Oharkula+OR+%c5%a0ed%c5%afvka+OR+%22Mu%c5%a1katelka+%c5%a1ed%c3%a1%22&FORM=IRPRST&ck=878DBAEF2CDFC02BF290A29CC3BCC534&selectedIndex=25&itb=0
+        - listitem [ref=f39e883]:
+          - generic [ref=f39e884]:
+            - link "Image result for hruška Oharkula OR Šedůvka OR \"Muškatelka šedá\"" [ref=f39e886] [cursor=pointer]:
+              - /url: /images/search?view=detailV2&ccid=a8ztLRpA&id=07BE95B2BC4384AB9BE70A55BE0FA6D7EC8577C0&thid=OIP.a8ztLRpAIAuY9qxAIpBMvQHaNK&mediaurl=https%3a%2f%2fkapradi.org%2fwp-content%2fuploads%2f2023%2f05%2f20230531_113114-scaled.jpg&cdnurl=https%3a%2f%2fth.bing.com%2fth%2fid%2fR.6bcced2d1a40200b98f6ac4022904cbd%3frik%3dwHeF7NemD75VCg%26pid%3dImgRaw%26r%3d0&exph=2560&expw=1440&q=hru%c5%a1ka+Oharkula+OR+%c5%a0ed%c5%afvka+OR+%22Mu%c5%a1katelka+%c5%a1ed%c3%a1%22&FORM=IRPRST&ck=20943B0DBC73C0DEAF9977A8854EDA19&selectedIndex=26&itb=0
+              - img "Image result for hruška Oharkula OR Šedůvka OR \"Muškatelka šedá\"" [ref=f39e888]
+            - generic [ref=f39e889]:
+              - link "Co tu kvete?" [ref=f39e890] [cursor=pointer]:
+                - /url: /images/search?view=detailV2&ccid=a8ztLRpA&id=07BE95B2BC4384AB9BE70A55BE0FA6D7EC8577C0&thid=OIP.a8ztLRpAIAuY9qxAIpBMvQHaNK&mediaurl=https%3a%2f%2fkapradi.org%2fwp-content%2fuploads%2f2023%2f05%2f20230531_113114-scaled.jpg&cdnurl=https%3a%2f%2fth.bing.com%2fth%2fid%2fR.6bcced2d1a40200b98f6ac4022904cbd%3frik%3dwHeF7NemD75VCg%26pid%3dImgRaw%26r%3d0&exph=2560&expw=1440&q=hru%c5%a1ka+Oharkula+OR+%c5%a0ed%c5%afvka+OR+%22Mu%c5%a1katelka+%c5%a1ed%c3%a1%22&FORM=IRPRST&ck=20943B0DBC73C0DEAF9977A8854EDA19&selectedIndex=26&itb=0
+              - generic:
+                - generic:
+                  - list:
+                    - listitem:
+                      - link "Co tu kvete?" [ref=f39e891] [cursor=pointer]:
+                        - /url: /images/search?view=detailV2&ccid=a8ztLRpA&id=07BE95B2BC4384AB9BE70A55BE0FA6D7EC8577C0&thid=OIP.a8ztLRpAIAuY9qxAIpBMvQHaNK&mediaurl=https%3a%2f%2fkapradi.org%2fwp-content%2fuploads%2f2023%2f05%2f20230531_113114-scaled.jpg&cdnurl=https%3a%2f%2fth.bing.com%2fth%2fid%2fR.6bcced2d1a40200b98f6ac4022904cbd%3frik%3dwHeF7NemD75VCg%26pid%3dImgRaw%26r%3d0&exph=2560&expw=1440&q=hru%c5%a1ka+Oharkula+OR+%c5%a0ed%c5%afvka+OR+%22Mu%c5%a1katelka+%c5%a1ed%c3%a1%22&FORM=IRPRST&ck=20943B0DBC73C0DEAF9977A8854EDA19&selectedIndex=26&itb=0
+        - listitem [ref=f39e892]:
+          - generic [ref=f39e893]:
+            - generic [ref=f39e894]:
+              - link "Image result for hruška Oharkula OR Šedůvka OR \"Muškatelka šedá\"" [ref=f39e895] [cursor=pointer]:
+                - /url: /images/search?view=detailV2&ccid=9CWyjITa&id=7707F5508C6711B6CB38D013E651417EE18DE8BC&thid=OIP.9CWyjITaxrkiacnQeHn3YQHaHa&mediaurl=https%3a%2f%2flookaside.fbsbx.com%2flookaside%2fcrawler%2fmedia%2f%3fmedia_id%3d1298783702250264&cdnurl=https%3a%2f%2fth.bing.com%2fth%2fid%2fR.f425b28c84dac6b92269c9d07879f761%3frik%3dvOiN4X5BUeYT0A%26pid%3dImgRaw%26r%3d0&exph=960&expw=960&q=hru%c5%a1ka+Oharkula+OR+%c5%a0ed%c5%afvka+OR+%22Mu%c5%a1katelka+%c5%a1ed%c3%a1%22&FORM=IRPRST&ck=DFE2F822B3A1197A1F07C1692D55B9EE&selectedIndex=27&itb=0
+                - generic [ref=f39e897]:
+                  - img "Image result for hruška Oharkula OR Šedůvka OR \"Muškatelka šedá\"" [ref=f39e899]
+                  - generic:
+                    - img "Image result for hruška Oharkula OR Šedůvka OR \"Muškatelka šedá\""
+                    - img "Image result for hruška Oharkula OR Šedůvka OR \"Muškatelka šedá\""
+              - link "Gallery" [ref=f39e900] [cursor=pointer]:
+                - /url: /images/search?view=detailV2&ccid=9CWyjITa&id=7707F5508C6711B6CB38D013E651417EE18DE8BC&thid=OIP.9CWyjITaxrkiacnQeHn3YQHaHa&mediaurl=https%3a%2f%2flookaside.fbsbx.com%2flookaside%2fcrawler%2fmedia%2f%3fmedia_id%3d1298783702250264&cdnurl=https%3a%2f%2fth.bing.com%2fth%2fid%2fR.f425b28c84dac6b92269c9d07879f761%3frik%3dvOiN4X5BUeYT0A%26pid%3dImgRaw%26r%3d0&exph=960&expw=960&q=hru%c5%a1ka+Oharkula+OR+%c5%a0ed%c5%afvka+OR+%22Mu%c5%a1katelka+%c5%a1ed%c3%a1%22&FORM=IRPRST&ck=DFE2F822B3A1197A1F07C1692D55B9EE&selectedIndex=27&itb=0
+              - generic:
+                - generic: 960×960
+                - generic:
+                  - link "www.facebook.com":
+                    - /url: https://www.facebook.com/KrasnaZahrada/
+            - generic [ref=f39e902]:
+              - link "Zahrada u rozkvetlé střemchy" [ref=f39e903] [cursor=pointer]:
+                - /url: /images/search?view=detailV2&ccid=9CWyjITa&id=7707F5508C6711B6CB38D013E651417EE18DE8BC&thid=OIP.9CWyjITaxrkiacnQeHn3YQHaHa&mediaurl=https%3a%2f%2flookaside.fbsbx.com%2flookaside%2fcrawler%2fmedia%2f%3fmedia_id%3d1298783702250264&cdnurl=https%3a%2f%2fth.bing.com%2fth%2fid%2fR.f425b28c84dac6b92269c9d07879f761%3frik%3dvOiN4X5BUeYT0A%26pid%3dImgRaw%26r%3d0&exph=960&expw=960&q=hru%c5%a1ka+Oharkula+OR+%c5%a0ed%c5%afvka+OR+%22Mu%c5%a1katelka+%c5%a1ed%c3%a1%22&FORM=IRPRST&ck=DFE2F822B3A1197A1F07C1692D55B9EE&selectedIndex=27&itb=0
+              - generic:
+                - generic:
+                  - list:
+                    - listitem:
+                      - link "Zahrada u rozkvetlé střemchy" [ref=f39e904] [cursor=pointer]:
+                        - /url: /images/search?view=detailV2&ccid=9CWyjITa&id=7707F5508C6711B6CB38D013E651417EE18DE8BC&thid=OIP.9CWyjITaxrkiacnQeHn3YQHaHa&mediaurl=https%3a%2f%2flookaside.fbsbx.com%2flookaside%2fcrawler%2fmedia%2f%3fmedia_id%3d1298783702250264&cdnurl=https%3a%2f%2fth.bing.com%2fth%2fid%2fR.f425b28c84dac6b92269c9d07879f761%3frik%3dvOiN4X5BUeYT0A%26pid%3dImgRaw%26r%3d0&exph=960&expw=960&q=hru%c5%a1ka+Oharkula+OR+%c5%a0ed%c5%afvka+OR+%22Mu%c5%a1katelka+%c5%a1ed%c3%a1%22&FORM=IRPRST&ck=DFE2F822B3A1197A1F07C1692D55B9EE&selectedIndex=27&itb=0
+        - listitem [ref=f39e905]:
+          - generic [ref=f39e906]:
+            - link "Image result for hruška Oharkula OR Šedůvka OR \"Muškatelka šedá\"" [ref=f39e908] [cursor=pointer]:
+              - /url: /images/search?view=detailV2&ccid=ej81MVBq&id=7503FD7FD8FE052A4E4DBBFD8E63D0D1ABAF0B62&thid=OIP.ej81MVBqoLBx1mVBQmoc-QHaHa&mediaurl=https%3a%2f%2fwww.arbia.cz%2fwp-content%2fuploads%2f2021%2f03%2fcacanska_rodna.jpg&cdnurl=https%3a%2f%2fth.bing.com%2fth%2fid%2fR.7a3f3531506aa0b071d66541426a1cf9%3frik%3dYguvq9HQY479uw%26pid%3dImgRaw%26r%3d0&exph=800&expw=800&q=hru%c5%a1ka+Oharkula+OR+%c5%a0ed%c5%afvka+OR+%22Mu%c5%a1katelka+%c5%a1ed%c3%a1%22&FORM=IRPRST&ck=29C6D8E31AD0C2E725CDDC4F61BB91E1&selectedIndex=28&itb=0
+              - img "Image result for hruška Oharkula OR Šedůvka OR \"Muškatelka šedá\"" [ref=f39e910]
+            - generic [ref=f39e911]:
+              - link "Čačanská rodna – Arbia" [ref=f39e912] [cursor=pointer]:
+                - /url: /images/search?view=detailV2&ccid=ej81MVBq&id=7503FD7FD8FE052A4E4DBBFD8E63D0D1ABAF0B62&thid=OIP.ej81MVBqoLBx1mVBQmoc-QHaHa&mediaurl=https%3a%2f%2fwww.arbia.cz%2fwp-content%2fuploads%2f2021%2f03%2fcacanska_rodna.jpg&cdnurl=https%3a%2f%2fth.bing.com%2fth%2fid%2fR.7a3f3531506aa0b071d66541426a1cf9%3frik%3dYguvq9HQY479uw%26pid%3dImgRaw%26r%3d0&exph=800&expw=800&q=hru%c5%a1ka+Oharkula+OR+%c5%a0ed%c5%afvka+OR+%22Mu%c5%a1katelka+%c5%a1ed%c3%a1%22&FORM=IRPRST&ck=29C6D8E31AD0C2E725CDDC4F61BB91E1&selectedIndex=28&itb=0
+              - generic:
+                - generic:
+                  - list:
+                    - listitem:
+                      - link "Čačanská rodna – Arbia" [ref=f39e913] [cursor=pointer]:
+                        - /url: /images/search?view=detailV2&ccid=ej81MVBq&id=7503FD7FD8FE052A4E4DBBFD8E63D0D1ABAF0B62&thid=OIP.ej81MVBqoLBx1mVBQmoc-QHaHa&mediaurl=https%3a%2f%2fwww.arbia.cz%2fwp-content%2fuploads%2f2021%2f03%2fcacanska_rodna.jpg&cdnurl=https%3a%2f%2fth.bing.com%2fth%2fid%2fR.7a3f3531506aa0b071d66541426a1cf9%3frik%3dYguvq9HQY479uw%26pid%3dImgRaw%26r%3d0&exph=800&expw=800&q=hru%c5%a1ka+Oharkula+OR+%c5%a0ed%c5%afvka+OR+%22Mu%c5%a1katelka+%c5%a1ed%c3%a1%22&FORM=IRPRST&ck=29C6D8E31AD0C2E725CDDC4F61BB91E1&selectedIndex=28&itb=0
+      - list [ref=f39e914]:
+        - listitem [ref=f39e915]:
+          - generic [ref=f39e916]:
+            - link "Image result for hruška Oharkula OR Šedůvka OR \"Muškatelka šedá\"" [ref=f39e918] [cursor=pointer]:
+              - /url: /images/search?view=detailV2&ccid=ZCBZmmIU&id=DB8DDC53B9F21EC09B8496358F636014C4DA61F4&thid=OIP.ZCBZmmIUT80OhD-x4n4oBQHaEQ&mediaurl=https%3a%2f%2fwww.zahradnictvi-flos.cz%2fadmin%2fupload%2fimages-cache%2f65280%2ffit888x600.jpg%3fv%3d9e8f1527aa7ec955&cdnurl=https%3a%2f%2fth.bing.com%2fth%2fid%2fR.6420599a62144fcd0e843fb1e27e2805%3frik%3d9GHaxBRgY481lg%26pid%3dImgRaw%26r%3d0&exph=277&expw=481&q=hru%c5%a1ka+Oharkula+OR+%c5%a0ed%c5%afvka+OR+%22Mu%c5%a1katelka+%c5%a1ed%c3%a1%22&FORM=IRPRST&ck=9143C58E280FE299E4D410FAC5AF28F6&selectedIndex=29&itb=0
+              - img "Image result for hruška Oharkula OR Šedůvka OR \"Muškatelka šedá\"" [ref=f39e920]
+            - generic [ref=f39e921]:
+              - link "Angrešt žlutý 'Dukát' - Grossularia uva-crispa 'Dukát' | Zahradnictví FLOS" [ref=f39e922] [cursor=pointer]:
+                - /url: /images/search?view=detailV2&ccid=ZCBZmmIU&id=DB8DDC53B9F21EC09B8496358F636014C4DA61F4&thid=OIP.ZCBZmmIUT80OhD-x4n4oBQHaEQ&mediaurl=https%3a%2f%2fwww.zahradnictvi-flos.cz%2fadmin%2fupload%2fimages-cache%2f65280%2ffit888x600.jpg%3fv%3d9e8f1527aa7ec955&cdnurl=https%3a%2f%2fth.bing.com%2fth%2fid%2fR.6420599a62144fcd0e843fb1e27e2805%3frik%3d9GHaxBRgY481lg%26pid%3dImgRaw%26r%3d0&exph=277&expw=481&q=hru%c5%a1ka+Oharkula+OR+%c5%a0ed%c5%afvka+OR+%22Mu%c5%a1katelka+%c5%a1ed%c3%a1%22&FORM=IRPRST&ck=9143C58E280FE299E4D410FAC5AF28F6&selectedIndex=29&itb=0
+              - generic:
+                - generic:
+                  - list:
+                    - listitem:
+                      - link "Angrešt žlutý 'Dukát' - Grossularia uva-crispa 'Dukát' | Zahradnictví FLOS" [ref=f39e923] [cursor=pointer]:
+                        - /url: /images/search?view=detailV2&ccid=ZCBZmmIU&id=DB8DDC53B9F21EC09B8496358F636014C4DA61F4&thid=OIP.ZCBZmmIUT80OhD-x4n4oBQHaEQ&mediaurl=https%3a%2f%2fwww.zahradnictvi-flos.cz%2fadmin%2fupload%2fimages-cache%2f65280%2ffit888x600.jpg%3fv%3d9e8f1527aa7ec955&cdnurl=https%3a%2f%2fth.bing.com%2fth%2fid%2fR.6420599a62144fcd0e843fb1e27e2805%3frik%3d9GHaxBRgY481lg%26pid%3dImgRaw%26r%3d0&exph=277&expw=481&q=hru%c5%a1ka+Oharkula+OR+%c5%a0ed%c5%afvka+OR+%22Mu%c5%a1katelka+%c5%a1ed%c3%a1%22&FORM=IRPRST&ck=9143C58E280FE299E4D410FAC5AF28F6&selectedIndex=29&itb=0
+        - listitem [ref=f39e924]:
+          - generic [ref=f39e925]:
+            - generic [ref=f39e926]: Related Searches
+            - generic [ref=f39e928]:
+              - link "Clip Art" [ref=f39e929] [cursor=pointer]:
+                - /url: /images/search?q=Hruska+Clip+Art&FORM=IRIBEP
+                - generic "Hruska Clip Art" [ref=f39e931]: Clip Art
+              - link "Krasanka" [ref=f39e932] [cursor=pointer]:
+                - /url: /images/search?q=Krasanka+Hruska&FORM=IRIBEP
+                - generic "Krasanka Hruska" [ref=f39e934]: Krasanka
+              - link "Di Color" [ref=f39e935] [cursor=pointer]:
+                - /url: /images/search?q=Hruska+Di+Color&FORM=IRIBEP
+                - generic "Hruska Di Color" [ref=f39e937]: Di Color
+        - listitem [ref=f39e938]:
+          - generic [ref=f39e939]:
+            - link "Image result for hruška Oharkula OR Šedůvka OR \"Muškatelka šedá\"" [ref=f39e941] [cursor=pointer]:
+              - /url: /images/search?view=detailV2&ccid=cWO%2fLWpK&id=A3A452D9930C81ACC806259843ECEB0E13C67A67&thid=OIP.cWO_LWpKcnsoQC_do1mQGQHaEd&mediaurl=https%3a%2f%2flookaside.fbsbx.com%2flookaside%2fcrawler%2fmedia%2f%3fmedia_id%3d1273861767670851&cdnurl=https%3a%2f%2fth.bing.com%2fth%2fid%2fR.7163bf2d6a4a727b28402fdda3599019%3frik%3dZ3rGEw7r7EOYJQ%26pid%3dImgRaw%26r%3d0&exph=1233&expw=2048&q=hru%c5%a1ka+Oharkula+OR+%c5%a0ed%c5%afvka+OR+%22Mu%c5%a1katelka+%c5%a1ed%c3%a1%22&FORM=IRPRST&ck=FB817552EA18849C0028C50EFAE5195F&selectedIndex=30&itb=0
+              - img "Image result for hruška Oharkula OR Šedůvka OR \"Muškatelka šedá\"" [ref=f39e943]
+            - generic [ref=f39e944]:
+              - link "Zahradní centrum Florcenter... - Zahradní centrum Florcenter" [ref=f39e945] [cursor=pointer]:
+                - /url: /images/search?view=detailV2&ccid=cWO%2fLWpK&id=A3A452D9930C81ACC806259843ECEB0E13C67A67&thid=OIP.cWO_LWpKcnsoQC_do1mQGQHaEd&mediaurl=https%3a%2f%2flookaside.fbsbx.com%2flookaside%2fcrawler%2fmedia%2f%3fmedia_id%3d1273861767670851&cdnurl=https%3a%2f%2fth.bing.com%2fth%2fid%2fR.7163bf2d6a4a727b28402fdda3599019%3frik%3dZ3rGEw7r7EOYJQ%26pid%3dImgRaw%26r%3d0&exph=1233&expw=2048&q=hru%c5%a1ka+Oharkula+OR+%c5%a0ed%c5%afvka+OR+%22Mu%c5%a1katelka+%c5%a1ed%c3%a1%22&FORM=IRPRST&ck=FB817552EA18849C0028C50EFAE5195F&selectedIndex=30&itb=0
+              - generic:
+                - generic:
+                  - list:
+                    - listitem:
+                      - link "Zahradní centrum Florcenter... - Zahradní centrum Florcenter" [ref=f39e946] [cursor=pointer]:
+                        - /url: /images/search?view=detailV2&ccid=cWO%2fLWpK&id=A3A452D9930C81ACC806259843ECEB0E13C67A67&thid=OIP.cWO_LWpKcnsoQC_do1mQGQHaEd&mediaurl=https%3a%2f%2flookaside.fbsbx.com%2flookaside%2fcrawler%2fmedia%2f%3fmedia_id%3d1273861767670851&cdnurl=https%3a%2f%2fth.bing.com%2fth%2fid%2fR.7163bf2d6a4a727b28402fdda3599019%3frik%3dZ3rGEw7r7EOYJQ%26pid%3dImgRaw%26r%3d0&exph=1233&expw=2048&q=hru%c5%a1ka+Oharkula+OR+%c5%a0ed%c5%afvka+OR+%22Mu%c5%a1katelka+%c5%a1ed%c3%a1%22&FORM=IRPRST&ck=FB817552EA18849C0028C50EFAE5195F&selectedIndex=30&itb=0
+        - listitem [ref=f39e947]:
+          - generic [ref=f39e948]:
+            - link "Image result for hruška Oharkula OR Šedůvka OR \"Muškatelka šedá\"" [ref=f39e950] [cursor=pointer]:
+              - /url: /images/search?view=detailV2&ccid=hz3zu%2b4B&id=07BE95B2BC4384AB9BE77686278BE393E0DB207E&thid=OIP.hz3zu-4BR-qv3IAuXYgMowHaEK&mediaurl=https%3a%2f%2fkapradi.org%2fwp-content%2fuploads%2f2023%2f05%2f20230503_152336_resized-1024x576.jpg&cdnurl=https%3a%2f%2fth.bing.com%2fth%2fid%2fR.873df3bbee0147eaafdc802e5d880ca3%3frik%3dfiDb4JPjiyeGdg%26pid%3dImgRaw%26r%3d0&exph=576&expw=1024&q=hru%c5%a1ka+Oharkula+OR+%c5%a0ed%c5%afvka+OR+%22Mu%c5%a1katelka+%c5%a1ed%c3%a1%22&FORM=IRPRST&ck=4D4D3B88FA2BDB091C3221DCFE72DE00&selectedIndex=31&itb=0
+              - img "Image result for hruška Oharkula OR Šedůvka OR \"Muškatelka šedá\"" [ref=f39e952]
+            - generic [ref=f39e953]:
+              - link "Co tu kvete?" [ref=f39e954] [cursor=pointer]:
+                - /url: /images/search?view=detailV2&ccid=hz3zu%2b4B&id=07BE95B2BC4384AB9BE77686278BE393E0DB207E&thid=OIP.hz3zu-4BR-qv3IAuXYgMowHaEK&mediaurl=https%3a%2f%2fkapradi.org%2fwp-content%2fuploads%2f2023%2f05%2f20230503_152336_resized-1024x576.jpg&cdnurl=https%3a%2f%2fth.bing.com%2fth%2fid%2fR.873df3bbee0147eaafdc802e5d880ca3%3frik%3dfiDb4JPjiyeGdg%26pid%3dImgRaw%26r%3d0&exph=576&expw=1024&q=hru%c5%a1ka+Oharkula+OR+%c5%a0ed%c5%afvka+OR+%22Mu%c5%a1katelka+%c5%a1ed%c3%a1%22&FORM=IRPRST&ck=4D4D3B88FA2BDB091C3221DCFE72DE00&selectedIndex=31&itb=0
+              - generic:
+                - generic:
+                  - list:
+                    - listitem:
+                      - link "Co tu kvete?" [ref=f39e955] [cursor=pointer]:
+                        - /url: /images/search?view=detailV2&ccid=hz3zu%2b4B&id=07BE95B2BC4384AB9BE77686278BE393E0DB207E&thid=OIP.hz3zu-4BR-qv3IAuXYgMowHaEK&mediaurl=https%3a%2f%2fkapradi.org%2fwp-content%2fuploads%2f2023%2f05%2f20230503_152336_resized-1024x576.jpg&cdnurl=https%3a%2f%2fth.bing.com%2fth%2fid%2fR.873df3bbee0147eaafdc802e5d880ca3%3frik%3dfiDb4JPjiyeGdg%26pid%3dImgRaw%26r%3d0&exph=576&expw=1024&q=hru%c5%a1ka+Oharkula+OR+%c5%a0ed%c5%afvka+OR+%22Mu%c5%a1katelka+%c5%a1ed%c3%a1%22&FORM=IRPRST&ck=4D4D3B88FA2BDB091C3221DCFE72DE00&selectedIndex=31&itb=0
+      - list [ref=f39e956]:
+        - listitem [ref=f39e957]:
+          - generic [ref=f39e958]:
+            - link "Image result for hruška Oharkula OR Šedůvka OR \"Muškatelka šedá\"" [ref=f39e960] [cursor=pointer]:
+              - /url: /images/search?view=detailV2&ccid=2BTDJ0Cb&id=A3A452D9930C81ACC8063B8F893C90CC55FB1584&thid=OIP.2BTDJ0CbhiVME2PoaL2yQQHaHa&mediaurl=https%3a%2f%2flookaside.fbsbx.com%2flookaside%2fcrawler%2fmedia%2f%3fmedia_id%3d1657164628954436&cdnurl=https%3a%2f%2fth.bing.com%2fth%2fid%2fR.d814c327409b86254c1363e868bdb241%3frik%3dhBX7VcyQPImPOw%26pid%3dImgRaw%26r%3d0&exph=1440&expw=1440&q=hru%c5%a1ka+Oharkula+OR+%c5%a0ed%c5%afvka+OR+%22Mu%c5%a1katelka+%c5%a1ed%c3%a1%22&FORM=IRPRST&ck=889D47A985B8238EB3C96A206126AA0F&selectedIndex=32&itb=0
+              - img "Image result for hruška Oharkula OR Šedůvka OR \"Muškatelka šedá\"" [ref=f39e962]
+            - generic [ref=f39e963]:
+              - link "Zahradní centrum Florcenter... - Zahradní centrum Florcenter" [ref=f39e964] [cursor=pointer]:
+                - /url: /images/search?view=detailV2&ccid=2BTDJ0Cb&id=A3A452D9930C81ACC8063B8F893C90CC55FB1584&thid=OIP.2BTDJ0CbhiVME2PoaL2yQQHaHa&mediaurl=https%3a%2f%2flookaside.fbsbx.com%2flookaside%2fcrawler%2fmedia%2f%3fmedia_id%3d1657164628954436&cdnurl=https%3a%2f%2fth.bing.com%2fth%2fid%2fR.d814c327409b86254c1363e868bdb241%3frik%3dhBX7VcyQPImPOw%26pid%3dImgRaw%26r%3d0&exph=1440&expw=1440&q=hru%c5%a1ka+Oharkula+OR+%c5%a0ed%c5%afvka+OR+%22Mu%c5%a1katelka+%c5%a1ed%c3%a1%22&FORM=IRPRST&ck=889D47A985B8238EB3C96A206126AA0F&selectedIndex=32&itb=0
+              - generic:
+                - generic:
+                  - list:
+                    - listitem:
+                      - link "Zahradní centrum Florcenter... - Zahradní …" [ref=f39e965] [cursor=pointer]:
+                        - /url: /images/search?view=detailV2&ccid=2BTDJ0Cb&id=A3A452D9930C81ACC8063B8F893C90CC55FB1584&thid=OIP.2BTDJ0CbhiVME2PoaL2yQQHaHa&mediaurl=https%3a%2f%2flookaside.fbsbx.com%2flookaside%2fcrawler%2fmedia%2f%3fmedia_id%3d1657164628954436&cdnurl=https%3a%2f%2fth.bing.com%2fth%2fid%2fR.d814c327409b86254c1363e868bdb241%3frik%3dhBX7VcyQPImPOw%26pid%3dImgRaw%26r%3d0&exph=1440&expw=1440&q=hru%c5%a1ka+Oharkula+OR+%c5%a0ed%c5%afvka+OR+%22Mu%c5%a1katelka+%c5%a1ed%c3%a1%22&FORM=IRPRST&ck=889D47A985B8238EB3C96A206126AA0F&selectedIndex=32&itb=0
+        - listitem [ref=f39e966]:
+          - generic [ref=f39e967]:
+            - link "Image result for hruška Oharkula OR Šedůvka OR \"Muškatelka šedá\"" [ref=f39e969] [cursor=pointer]:
+              - /url: /images/search?view=detailV2&ccid=1gKB7mpt&id=B5871D2DB20DCFB44CD33123215069B8221B2845&thid=OIP.1gKB7mpt8w3_UtW8vrlbRwHaFj&mediaurl=https%3a%2f%2fopukapribyslav.cz%2fwp-content%2fuploads%2f2021%2f04%2fIMG_20201031_123257-1024x768.jpg&cdnurl=https%3a%2f%2fth.bing.com%2fth%2fid%2fR.d60281ee6a6df30dff52d5bcbeb95b47%3frik%3dRSgbIrhpUCEjMQ%26pid%3dImgRaw%26r%3d0&exph=768&expw=1024&q=hru%c5%a1ka+Oharkula+OR+%c5%a0ed%c5%afvka+OR+%22Mu%c5%a1katelka+%c5%a1ed%c3%a1%22&FORM=IRPRST&ck=7DC735C084B32A185E3F6890EFE1E770&selectedIndex=33&itb=0
+              - img "Image result for hruška Oharkula OR Šedůvka OR \"Muškatelka šedá\"" [ref=f39e971]
+            - generic [ref=f39e972]:
+              - link "Projekty – Opuka Přibyslav" [ref=f39e973] [cursor=pointer]:
+                - /url: /images/search?view=detailV2&ccid=1gKB7mpt&id=B5871D2DB20DCFB44CD33123215069B8221B2845&thid=OIP.1gKB7mpt8w3_UtW8vrlbRwHaFj&mediaurl=https%3a%2f%2fopukapribyslav.cz%2fwp-content%2fuploads%2f2021%2f04%2fIMG_20201031_123257-1024x768.jpg&cdnurl=https%3a%2f%2fth.bing.com%2fth%2fid%2fR.d60281ee6a6df30dff52d5bcbeb95b47%3frik%3dRSgbIrhpUCEjMQ%26pid%3dImgRaw%26r%3d0&exph=768&expw=1024&q=hru%c5%a1ka+Oharkula+OR+%c5%a0ed%c5%afvka+OR+%22Mu%c5%a1katelka+%c5%a1ed%c3%a1%22&FORM=IRPRST&ck=7DC735C084B32A185E3F6890EFE1E770&selectedIndex=33&itb=0
+              - generic:
+                - generic:
+                  - list:
+                    - listitem:
+                      - link "Projekty – Opuka Přibyslav" [ref=f39e974] [cursor=pointer]:
+                        - /url: /images/search?view=detailV2&ccid=1gKB7mpt&id=B5871D2DB20DCFB44CD33123215069B8221B2845&thid=OIP.1gKB7mpt8w3_UtW8vrlbRwHaFj&mediaurl=https%3a%2f%2fopukapribyslav.cz%2fwp-content%2fuploads%2f2021%2f04%2fIMG_20201031_123257-1024x768.jpg&cdnurl=https%3a%2f%2fth.bing.com%2fth%2fid%2fR.d60281ee6a6df30dff52d5bcbeb95b47%3frik%3dRSgbIrhpUCEjMQ%26pid%3dImgRaw%26r%3d0&exph=768&expw=1024&q=hru%c5%a1ka+Oharkula+OR+%c5%a0ed%c5%afvka+OR+%22Mu%c5%a1katelka+%c5%a1ed%c3%a1%22&FORM=IRPRST&ck=7DC735C084B32A185E3F6890EFE1E770&selectedIndex=33&itb=0
+        - listitem [ref=f39e975]:
+          - generic [ref=f39e976]:
+            - link "Image result for hruška Oharkula OR Šedůvka OR \"Muškatelka šedá\"" [ref=f39e978] [cursor=pointer]:
+              - /url: /images/search?view=detailV2&ccid=R5%2fuFVsE&id=D288EAEAF6D9DA94EDA947DE422C1677E54EF4A2&thid=OIP.R5_uFVsEPgfJzX_11Q2p9QHaHa&mediaurl=https%3a%2f%2fen.excaliburshop.com%2fuploads%2fitem%2f10269%2ftemplate%2f108%2fimages%2f0-agnes-hruskovice-muskatelka-0-5l-45-102715.jpg&cdnurl=https%3a%2f%2fth.bing.com%2fth%2fid%2fR.479fee155b043e07c9cd7ff5d50da9f5%3frik%3dovRO5XcWLELeRw%26pid%3dImgRaw%26r%3d0&exph=800&expw=800&q=hru%c5%a1ka+Oharkula+OR+%c5%a0ed%c5%afvka+OR+%22Mu%c5%a1katelka+%c5%a1ed%c3%a1%22&FORM=IRPRST&ck=90FD38D1C095A40BDBFC5C842135C8EF&selectedIndex=34&itb=0
+              - img "Image result for hruška Oharkula OR Šedůvka OR \"Muškatelka šedá\"" [ref=f39e980]
+            - generic [ref=f39e981]:
+              - link "Agnes Pear Muškatelka 0,5l 45% | Excaliburshop" [ref=f39e982] [cursor=pointer]:
+                - /url: /images/search?view=detailV2&ccid=R5%2fuFVsE&id=D288EAEAF6D9DA94EDA947DE422C1677E54EF4A2&thid=OIP.R5_uFVsEPgfJzX_11Q2p9QHaHa&mediaurl=https%3a%2f%2fen.excaliburshop.com%2fuploads%2fitem%2f10269%2ftemplate%2f108%2fimages%2f0-agnes-hruskovice-muskatelka-0-5l-45-102715.jpg&cdnurl=https%3a%2f%2fth.bing.com%2fth%2fid%2fR.479fee155b043e07c9cd7ff5d50da9f5%3frik%3dovRO5XcWLELeRw%26pid%3dImgRaw%26r%3d0&exph=800&expw=800&q=hru%c5%a1ka+Oharkula+OR+%c5%a0ed%c5%afvka+OR+%22Mu%c5%a1katelka+%c5%a1ed%c3%a1%22&FORM=IRPRST&ck=90FD38D1C095A40BDBFC5C842135C8EF&selectedIndex=34&itb=0
+              - generic:
+                - generic:
+                  - list:
+                    - listitem:
+                      - link "Agnes Pear Muškatelka 0,5l 45% | Excaliburshop" [ref=f39e983] [cursor=pointer]:
+                        - /url: /images/search?view=detailV2&ccid=R5%2fuFVsE&id=D288EAEAF6D9DA94EDA947DE422C1677E54EF4A2&thid=OIP.R5_uFVsEPgfJzX_11Q2p9QHaHa&mediaurl=https%3a%2f%2fen.excaliburshop.com%2fuploads%2fitem%2f10269%2ftemplate%2f108%2fimages%2f0-agnes-hruskovice-muskatelka-0-5l-45-102715.jpg&cdnurl=https%3a%2f%2fth.bing.com%2fth%2fid%2fR.479fee155b043e07c9cd7ff5d50da9f5%3frik%3dovRO5XcWLELeRw%26pid%3dImgRaw%26r%3d0&exph=800&expw=800&q=hru%c5%a1ka+Oharkula+OR+%c5%a0ed%c5%afvka+OR+%22Mu%c5%a1katelka+%c5%a1ed%c3%a1%22&FORM=IRPRST&ck=90FD38D1C095A40BDBFC5C842135C8EF&selectedIndex=34&itb=0
+  - button "Feedback" [ref=f39e986] [cursor=pointer]
+  - contentinfo [ref=f39e988]:
+    - generic [ref=f39e989]:
+      - generic [ref=f39e990]: © 2026 Microsoft
+      - list:
+        - listitem [ref=f39e991]:
+          - link "Privacy" [ref=f39e992] [cursor=pointer]:
+            - /url: http://go.microsoft.com/fwlink/?LinkId=521839
+        - listitem [ref=f39e993]:
+          - link "Terms" [ref=f39e994] [cursor=pointer]:
+            - /url: http://go.microsoft.com/fwlink/?LinkID=246338
+        - listitem [ref=f39e995]:
+          - link "Advertise" [ref=f39e996] [cursor=pointer]:
+            - /url: https://go.microsoft.com/fwlink/?linkid=868922
+        - listitem [ref=f39e997]:
+          - link "Help" [ref=f39e998] [cursor=pointer]:
+            - /url: https://support.microsoft.com/topic/82d20721-2d6f-4012-a13d-d1910ccf203f
+        - listitem [ref=f39e999]:
+          - button "Feedback" [ref=f39e1000] [cursor=pointer]
+  - dialog "Quick Search"

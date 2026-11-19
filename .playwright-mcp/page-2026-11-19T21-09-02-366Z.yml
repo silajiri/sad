@@ -1,0 +1,1108 @@
+- generic [active] [ref=f35e1]:
+  - banner [ref=f35e2]:
+    - generic [ref=f35e3]:
+      - link [ref=f35e4] [cursor=pointer]:
+        - /url: /?FORM=Z9FD1
+        - heading "Back to Bing search" [level=1] [ref=f35e5]
+      - search [ref=f35e6]:
+        - button "Search" [ref=f35e9] [cursor=pointer]
+        - searchbox "Enter your search here – Search suggestions will show as you type" [ref=f35e10]: hruška Škaredka plody
+        - button "Search using voice" [ref=f35e14] [cursor=pointer]
+        - button "Search using an image" [ref=f35e17] [cursor=pointer]
+    - complementary "Account Rewards and Preferences" [ref=f35e18]:
+      - button "Microsoft Rewards" [ref=f35e19] [cursor=pointer]:
+        - generic [ref=f35e20]: Rewards
+      - link [ref=f35e36] [cursor=pointer]:
+        - /url: javascript:void(0)
+        - button "Sign in" [ref=f35e39]
+      - button "Settings and quick links" [ref=f35e40] [cursor=pointer]
+    - navigation "Search Filter" [ref=f35e41]:
+      - list [ref=f35e42]:
+        - listitem [ref=f35e43]:
+          - link "All" [ref=f35e44] [cursor=pointer]:
+            - /url: /search?q=hru%c5%a1ka+%c5%a0karedka+plody&FORM=HDRSC1
+        - listitem [ref=f35e45]:
+          - link "Search" [ref=f35e46] [cursor=pointer]:
+            - /url: /copilotsearch?q=hru%c5%a1ka+%c5%a0karedka+plody&FORM=CSSCOP
+        - listitem [ref=f35e49]:
+          - link "Web Mode" [ref=f35e50] [cursor=pointer]:
+            - /url: /search?q=hru%c5%a1ka+%c5%a0karedka+plody&webscp=1&FORM=HDRWSC
+        - listitem [ref=f35e51]:
+          - link "Images" [ref=f35e52] [cursor=pointer]:
+            - /url: /images?FORM=HDRSC3
+        - listitem [ref=f35e53]:
+          - list [ref=f35e54]:
+            - listitem [ref=f35e55]:
+              - link "Create" [ref=f35e56] [cursor=pointer]:
+                - /url: /images/create/ai-image-generator?FORM=IRPGEN
+            - listitem [ref=f35e61]:
+              - link "Collections" [ref=f35e62] [cursor=pointer]:
+                - /url: /saves?FORM=IRPCOL
+        - listitem [ref=f35e66]:
+          - link "Videos" [ref=f35e67] [cursor=pointer]:
+            - /url: /videos/search?q=hru%c5%a1ka+%c5%a0karedka+plody&FORM=HDRSC4
+        - listitem [ref=f35e68]:
+          - link "Maps" [ref=f35e69] [cursor=pointer]:
+            - /url: /maps?q=hru%c5%a1ka+%c5%a0karedka+plody&FORM=HDRSC6
+        - listitem [ref=f35e70]:
+          - link "News" [ref=f35e71] [cursor=pointer]:
+            - /url: /news/search?q=hru%c5%a1ka+%c5%a0karedka+plody&FORM=HDRSC7
+        - listitem [ref=f35e72]:
+          - link "Copilot" [ref=f35e73] [cursor=pointer]:
+            - /url: /chat?prompt=hru%c5%a1ka+%c5%a0karedka+plody&sendquery=1&FORM=SCCODX
+        - listitem [ref=f35e74]:
+          - button "More" [ref=f35e75] [cursor=pointer]
+      - generic [ref=f35e79]:
+        - generic [ref=f35e80]:
+          - list:
+            - listitem [ref=f35e81]:
+              - generic [ref=f35e82]: "SafeSearch:"
+            - listitem [ref=f35e83]:
+              - button "Moderate SafeSearch:" [ref=f35e84] [cursor=pointer]:
+                - generic [ref=f35e85]: Moderate
+        - button "Filter" [ref=f35e88] [cursor=pointer]
+  - main [ref=f35e91]:
+    - navigation [aria-hidden] [ref=f35e92]:
+      - generic [ref=f35e96]:
+        - link [ref=f35e98] [cursor=pointer]:
+          - /url: /images/search?q=Morske+Plody&FORM=IRMHRS
+          - strong [ref=f35e101]: Morske
+        - link [ref=f35e103] [cursor=pointer]:
+          - /url: /images/search?q=Lesn%c3%a9+Plody&FORM=IRMHRS
+          - strong [ref=f35e106]: Lesné
+        - link [ref=f35e108] [cursor=pointer]:
+          - /url: /images/search?q=Meiosis+Ploidy&FORM=IRMHRS
+          - strong [ref=f35e111]: Meiosis
+        - link [ref=f35e113] [cursor=pointer]:
+          - /url: /images/search?q=Plody+V+Cestine&FORM=IRMHRS
+          - strong [ref=f35e116]: Cestine
+        - link [ref=f35e118] [cursor=pointer]:
+          - /url: /images/search?q=Su%c5%a1en%c3%a9+Plody&FORM=IRMHRS
+          - strong [ref=f35e121]: Sušené
+        - link [ref=f35e123] [cursor=pointer]:
+          - /url: /images/search?q=S%c3%ad%c5%a5ka+Na+Plody&FORM=IRMHRS
+          - strong [ref=f35e126]: Síťka
+        - link [ref=f35e128] [cursor=pointer]:
+          - /url: /images/search?q=Dub+Plody&FORM=IRMHRS
+          - strong [ref=f35e131]: Dub
+        - link [ref=f35e133] [cursor=pointer]:
+          - /url: /images/search?q=Cesky+Les+Plody&FORM=IRMHRS
+          - generic [ref=f35e135]:
+            - strong [ref=f35e136]: Cesky Les
+            - text: Plody
+        - link [ref=f35e138] [cursor=pointer]:
+          - /url: /images/search?q=Penny+Nanuky+Lesni+Plody&FORM=IRMHRS
+          - strong [ref=f35e141]: Penny Nanuky Lesni
+        - link [ref=f35e143] [cursor=pointer]:
+          - /url: /images/search?q=Neprav%c3%a9+Plody&FORM=IRMHRS
+          - strong [ref=f35e146]: Nepravé
+        - link [ref=f35e148] [cursor=pointer]:
+          - /url: /images/search?q=Plody+D%c4%9blwn%c3%ad&FORM=IRMHRS
+          - strong [ref=f35e151]: Dělwní
+        - link [ref=f35e153] [cursor=pointer]:
+          - /url: /images/search?q=Plody+Buku&FORM=IRMHRS
+          - strong [ref=f35e156]: Buku
+        - link [ref=f35e158] [cursor=pointer]:
+          - /url: /images/search?q=Mi%c5%99%c3%adkovit%c3%a9+Plody&FORM=IRMHRS
+          - strong [ref=f35e161]: Miříkovité
+        - link [ref=f35e163] [cursor=pointer]:
+          - /url: /images/search?q=Dub+Bile+Plody&FORM=IRMHRS
+          - strong [ref=f35e166]: Dub Bile
+        - link [ref=f35e168] [cursor=pointer]:
+          - /url: /images/search?q=Plody+Kridlatky&FORM=IRMHRS
+          - strong [ref=f35e171]: Kridlatky
+        - link [ref=f35e173] [cursor=pointer]:
+          - /url: /images/search?q=Nepukave+Plody&FORM=IRMHRS
+          - strong [ref=f35e176]: Nepukave
+        - link [ref=f35e178] [cursor=pointer]:
+          - /url: /images/search?q=%c5%a0%c3%adpky+Plody&FORM=IRMHRS
+          - strong [ref=f35e181]: Šípky
+        - link [ref=f35e183] [cursor=pointer]:
+          - /url: /images/search?q=Plod+Paprata&FORM=IRMHRS
+          - strong [ref=f35e186]: Plod Paprata
+        - link [ref=f35e188] [cursor=pointer]:
+          - /url: /images/search?q=Podebradka+Lesni+Plody&FORM=IRMHRS
+          - strong [ref=f35e191]: Podebradka Lesni
+        - link [ref=f35e193] [cursor=pointer]:
+          - /url: /images/search?q=Mo%c5%99sk%c3%a9+Plody+Pralinky&FORM=IRMHRS
+          - strong [ref=f35e196]: Pralinky
+        - link [ref=f35e198] [cursor=pointer]:
+          - /url: /images/search?q=%c5%a0%c3%adpky+Plody+Kreslen%c3%a9&FORM=IRMHRS
+          - generic [ref=f35e200]:
+            - text: Šípky Plody
+            - strong [ref=f35e201]: Kreslené
+        - link [ref=f35e203] [cursor=pointer]:
+          - /url: /images/search?q=Plod+D%c3%adt%c4%9bte&FORM=IRMHRS
+          - strong [ref=f35e206]: Plod Dítěte
+        - link [ref=f35e208] [cursor=pointer]:
+          - /url: /images/search?q=Muchovnik+Plody&FORM=IRMHRS
+          - strong [ref=f35e211]: Muchovnik
+        - link [ref=f35e213] [cursor=pointer]:
+          - /url: /images/search?q=Stromy+a+Plody+Gastan&FORM=IRMHRS
+          - generic [ref=f35e215]:
+            - strong [ref=f35e216]: Stromy a
+            - text: Plody Gastan
+        - link [ref=f35e218] [cursor=pointer]:
+          - /url: /images/search?q=Plody+V+Cestine+Deti&FORM=IRMHRS
+          - generic [ref=f35e220]:
+            - text: Plody
+            - strong [ref=f35e221]: V Cestine Deti
+        - link [ref=f35e223] [cursor=pointer]:
+          - /url: /images/search?q=Ananasovn%c3%adk+V%c3%bd%c5%a1ka+Plody&FORM=IRMHRS
+          - generic [ref=f35e225]:
+            - strong [ref=f35e226]: Ananasovník Výška
+            - text: Plody
+        - link [ref=f35e228] [cursor=pointer]:
+          - /url: /images/search?q=Druhy+Plod%c5%af&FORM=IRMHRS
+          - strong [ref=f35e231]: Druhy Plodů
+        - link [ref=f35e233] [cursor=pointer]:
+          - /url: /images/search?q=Strom+Ve+Stredozemi+Pukave+Plody+Obsahuji+Lepkavou+Silici&FORM=IRMHRS
+          - generic [ref=f35e235]:
+            - strong [ref=f35e236]: Strom Ve Stredozemi Pukave
+            - text: Plody Obsahuji Lepkavou Silici
+        - link [ref=f35e238] [cursor=pointer]:
+          - /url: /images/search?q=Plod+Mlesnika&FORM=IRMHRS
+          - strong [ref=f35e241]: Plod Mlesnika
+        - link [ref=f35e243] [cursor=pointer]:
+          - /url: /images/search?q=Platy+Na+Kutnohorsku&FORM=IRMHRS
+          - strong [ref=f35e246]: Platy Na Kutnohorsku
+        - link [ref=f35e248] [cursor=pointer]:
+          - /url: /images/search?q=Morske+Plodz&FORM=IRMHRS
+          - strong [ref=f35e251]: Morske Plodz
+        - link [ref=f35e253] [cursor=pointer]:
+          - /url: /images/search?q=8Tygodnie+Plod&FORM=IRMHRS
+          - strong [ref=f35e256]: 8Tygodnie Plod
+        - link [ref=f35e258] [cursor=pointer]:
+          - /url: /images/search?q=Jaro+Plody&FORM=IRMHRS
+          - generic [ref=f35e260]:
+            - strong [ref=f35e261]: Jaro
+            - text: Plody
+        - link [ref=f35e263] [cursor=pointer]:
+          - /url: /images/search?q=Orion+Morske+Plody&FORM=IRMHRS
+          - generic [ref=f35e265]:
+            - strong [ref=f35e266]: Orion Morske
+            - text: Plody
+        - link [ref=f35e268] [cursor=pointer]:
+          - /url: /images/search?q=Diferent+Fruit+Trays&FORM=IRMHRS
+          - strong [ref=f35e271]: Diferent Fruit Trays
+        - link [ref=f35e273] [cursor=pointer]:
+          - /url: /images/search?q=Stromy+a+Gulate+Plody&FORM=IRMHRS
+          - generic [ref=f35e275]:
+            - strong [ref=f35e276]: Stromy a Gulate
+            - text: Plody
+        - link [ref=f35e278] [cursor=pointer]:
+          - /url: /images/search?q=Ostru%c5%beiny+Napaden%c3%a9+Plody&FORM=IRMHRS
+          - generic [ref=f35e280]:
+            - strong [ref=f35e281]: Ostružiny Napadené
+            - text: Plody
+        - link [ref=f35e283] [cursor=pointer]:
+          - /url: /images/search?q=Tupesy+Hody&FORM=IRMHRS
+          - strong [ref=f35e286]: Tupesy Hody
+        - link [ref=f35e288] [cursor=pointer]:
+          - /url: /images/search?q=Vla%c5%a1sk%c3%bd+O%c5%99ech+Velk%c3%a9+Plody&FORM=IRMHRS
+          - generic [ref=f35e290]:
+            - strong [ref=f35e291]: Vlašský Ořech Velké
+            - text: Plody
+        - link [ref=f35e293] [cursor=pointer]:
+          - /url: /images/search?q=Stromy+a+Plody&FORM=IRMHRS
+          - strong [ref=f35e296]: Stromy
+        - link [ref=f35e298] [cursor=pointer]:
+          - /url: /images/search?q=Tekvica+Plody&FORM=IRMHRS
+          - generic [ref=f35e300]:
+            - strong [ref=f35e301]: Tekvica
+            - text: Plody
+        - link [ref=f35e303] [cursor=pointer]:
+          - /url: /images/search?q=Olody+Pukav%c3%a9&FORM=IRMHRS
+          - strong [ref=f35e306]: Olody Pukavé
+        - link [ref=f35e308] [cursor=pointer]:
+          - /url: /images/search?q=Plody+September&FORM=IRMHRS
+          - generic [ref=f35e310]:
+            - text: Plody
+            - strong [ref=f35e311]: September
+        - link [ref=f35e313] [cursor=pointer]:
+          - /url: /images/search?q=Plody+Dvojzubec&FORM=IRMHRS
+          - generic [ref=f35e315]:
+            - text: Plody
+            - strong [ref=f35e316]: Dvojzubec
+        - link [ref=f35e318] [cursor=pointer]:
+          - /url: /images/search?q=Mo%c5%99sk%c3%a9+Plody+Pizza&FORM=IRMHRS
+          - generic [ref=f35e320]:
+            - text: Mořské Plody
+            - strong [ref=f35e321]: Pizza
+        - link [ref=f35e323] [cursor=pointer]:
+          - /url: /images/search?q=Bez+Drzewo&FORM=IRMHRS
+          - strong [ref=f35e326]: Bez Drzewo
+        - link [ref=f35e328] [cursor=pointer]:
+          - /url: /images/search?q=Plody+Podobn%c3%a9+Bor%c5%afvk%c3%a1m&FORM=IRMHRS
+          - generic [ref=f35e330]:
+            - text: Plody
+            - strong [ref=f35e331]: Podobné Borůvkám
+        - link [ref=f35e333] [cursor=pointer]:
+          - /url: /images/search?q=Orion+Morske+Plody+Bonboniera&FORM=IRMHRS
+          - generic [ref=f35e335]:
+            - strong [ref=f35e336]: Orion Morske
+            - text: Plody Bonboniera
+        - link [ref=f35e338] [cursor=pointer]:
+          - /url: /images/search?q=Ker+Cervene+Plody+Zahrada+Hlosina&FORM=IRMHRS
+          - generic [ref=f35e340]:
+            - text: Ker Cervene Plody
+            - strong [ref=f35e341]: Zahrada Hlosina
+        - link [ref=f35e343] [cursor=pointer]:
+          - /url: /images/search?q=Robusta+Plod&FORM=IRMHRS
+          - strong [ref=f35e346]: Robusta Plod
+    - generic "Suggested searches" [ref=f35e350]:
+      - navigation [ref=f35e351]:
+        - region "Carousel" [ref=f35e352]:
+          - list [ref=f35e356]:
+            - listitem [ref=f35e357]:
+              - link [ref=f35e358] [cursor=pointer]:
+                - /url: /images/search?q=Morske+Plody&FORM=RESTAB
+                - img "Morske" [ref=f35e360]
+                - strong [ref=f35e363]: Morske
+            - listitem [ref=f35e364]:
+              - link [ref=f35e365] [cursor=pointer]:
+                - /url: /images/search?q=Lesn%c3%a9+Plody&FORM=RESTAB
+                - img "Lesné" [ref=f35e367]
+                - strong [ref=f35e370]: Lesné
+            - listitem [ref=f35e371]:
+              - link [ref=f35e372] [cursor=pointer]:
+                - /url: /images/search?q=Meiosis+Ploidy&FORM=RESTAB
+                - img "Meiosis" [ref=f35e374]
+                - strong [ref=f35e377]: Meiosis
+            - listitem [ref=f35e378]:
+              - link [ref=f35e379] [cursor=pointer]:
+                - /url: /images/search?q=Plody+V+Cestine&FORM=RESTAB
+                - img "Cestine" [ref=f35e381]
+                - strong [ref=f35e384]: Cestine
+            - listitem [ref=f35e385]:
+              - link [ref=f35e386] [cursor=pointer]:
+                - /url: /images/search?q=Su%c5%a1en%c3%a9+Plody&FORM=RESTAB
+                - img "Sušené" [ref=f35e388]
+                - strong [ref=f35e391]: Sušené
+            - listitem [ref=f35e392]:
+              - link [ref=f35e393] [cursor=pointer]:
+                - /url: /images/search?q=S%c3%ad%c5%a5ka+Na+Plody&FORM=RESTAB
+                - img "Síťka" [ref=f35e395]
+                - strong [ref=f35e398]: Síťka
+            - listitem [ref=f35e399]:
+              - link [ref=f35e400] [cursor=pointer]:
+                - /url: /images/search?q=Dub+Plody&FORM=RESTAB
+                - img "Dub" [ref=f35e402]
+                - strong [ref=f35e405]: Dub
+            - listitem [ref=f35e406]:
+              - link [ref=f35e407] [cursor=pointer]:
+                - /url: /images/search?q=Cesky+Les+Plody&FORM=RESTAB
+                - img "Cesky Les Plody" [ref=f35e409]
+                - generic [aria-hidden] [ref=f35e411]:
+                  - strong [ref=f35e412]: Cesky Les
+                  - text: Plody
+            - listitem [ref=f35e413]:
+              - link [ref=f35e414] [cursor=pointer]:
+                - /url: /images/search?q=Penny+Nanuky+Lesni+Plody&FORM=RESTAB
+                - img "Penny Nanuky Lesni" [ref=f35e416]
+                - strong [ref=f35e419]: Penny Nanuky Lesni
+            - listitem [ref=f35e420]:
+              - 'link "Search for: Nepravé Plody" [ref=f35e421] [cursor=pointer]':
+                - /url: /images/search?q=Neprav%c3%a9+Plody&FORM=RESTAB
+                - strong [ref=f35e425]: Nepravé
+            - listitem [ref=f35e426]:
+              - 'link "Search for: Plody Dělwní" [ref=f35e427] [cursor=pointer]':
+                - /url: /images/search?q=Plody+D%c4%9blwn%c3%ad&FORM=RESTAB
+                - strong [ref=f35e431]: Dělwní
+            - listitem [ref=f35e432]:
+              - 'link "Search for: Plody Buku" [ref=f35e433] [cursor=pointer]':
+                - /url: /images/search?q=Plody+Buku&FORM=RESTAB
+                - strong [ref=f35e437]: Buku
+            - listitem [ref=f35e438]:
+              - 'link "Search for: Miříkovité Plody" [ref=f35e439] [cursor=pointer]':
+                - /url: /images/search?q=Mi%c5%99%c3%adkovit%c3%a9+Plody&FORM=RESTAB
+                - strong [ref=f35e443]: Miříkovité
+            - listitem [ref=f35e444]:
+              - 'link "Search for: Dub Bile Plody" [ref=f35e445] [cursor=pointer]':
+                - /url: /images/search?q=Dub+Bile+Plody&FORM=RESTAB
+                - strong [ref=f35e449]: Dub Bile
+            - listitem [ref=f35e450]:
+              - 'link "Search for: Plody Kridlatky" [ref=f35e451] [cursor=pointer]':
+                - /url: /images/search?q=Plody+Kridlatky&FORM=RESTAB
+                - strong [ref=f35e455]: Kridlatky
+            - listitem [ref=f35e456]:
+              - 'link "Search for: Nepukave Plody" [ref=f35e457] [cursor=pointer]':
+                - /url: /images/search?q=Nepukave+Plody&FORM=RESTAB
+                - strong [ref=f35e461]: Nepukave
+            - listitem [ref=f35e462]:
+              - 'link "Search for: Šípky Plody" [ref=f35e463] [cursor=pointer]':
+                - /url: /images/search?q=%c5%a0%c3%adpky+Plody&FORM=RESTAB
+                - strong [ref=f35e467]: Šípky
+            - listitem [ref=f35e468]:
+              - 'link "Search for: Plod Paprata" [ref=f35e469] [cursor=pointer]':
+                - /url: /images/search?q=Plod+Paprata&FORM=RESTAB
+                - strong [ref=f35e473]: Plod Paprata
+            - listitem [ref=f35e474]:
+              - 'link "Search for: Podebradka Lesni Plody" [ref=f35e475] [cursor=pointer]':
+                - /url: /images/search?q=Podebradka+Lesni+Plody&FORM=RESTAB
+                - strong [ref=f35e479]: Podebradka Lesni
+            - listitem [ref=f35e480]:
+              - 'link "Search for: Mořské Plody Pralinky" [ref=f35e481] [cursor=pointer]':
+                - /url: /images/search?q=Mo%c5%99sk%c3%a9+Plody+Pralinky&FORM=RESTAB
+                - strong [ref=f35e485]: Pralinky
+            - listitem [ref=f35e486]:
+              - 'link "Search for: Šípky Plody Kreslené" [ref=f35e487] [cursor=pointer]':
+                - /url: /images/search?q=%c5%a0%c3%adpky+Plody+Kreslen%c3%a9&FORM=RESTAB
+                - generic [aria-hidden] [ref=f35e490]:
+                  - text: Šípky Plody
+                  - strong [ref=f35e491]: Kreslené
+            - listitem [ref=f35e492]:
+              - 'link "Search for: Plod Dítěte" [ref=f35e493] [cursor=pointer]':
+                - /url: /images/search?q=Plod+D%c3%adt%c4%9bte&FORM=RESTAB
+                - strong [ref=f35e497]: Plod Dítěte
+            - listitem [ref=f35e498]:
+              - 'link "Search for: Muchovnik Plody" [ref=f35e499] [cursor=pointer]':
+                - /url: /images/search?q=Muchovnik+Plody&FORM=RESTAB
+                - strong [ref=f35e503]: Muchovnik
+            - listitem [ref=f35e504]:
+              - 'link "Search for: Stromy a Plody Gastan" [ref=f35e505] [cursor=pointer]':
+                - /url: /images/search?q=Stromy+a+Plody+Gastan&FORM=RESTAB
+                - generic [aria-hidden] [ref=f35e508]:
+                  - strong [ref=f35e509]: Stromy a
+                  - text: Plody Gastan
+            - listitem [ref=f35e510]:
+              - 'link "Search for: Plody V Cestine Deti" [ref=f35e511] [cursor=pointer]':
+                - /url: /images/search?q=Plody+V+Cestine+Deti&FORM=RESTAB
+                - generic [aria-hidden] [ref=f35e514]:
+                  - text: Plody
+                  - strong [ref=f35e515]: V Cestine Deti
+            - listitem [ref=f35e516]:
+              - 'link "Search for: Ananasovník Výška Plody" [ref=f35e517] [cursor=pointer]':
+                - /url: /images/search?q=Ananasovn%c3%adk+V%c3%bd%c5%a1ka+Plody&FORM=RESTAB
+                - generic [aria-hidden] [ref=f35e520]:
+                  - strong [ref=f35e521]: Ananasovník Výška
+                  - text: Plody
+            - listitem [ref=f35e522]:
+              - 'link "Search for: Druhy Plodů" [ref=f35e523] [cursor=pointer]':
+                - /url: /images/search?q=Druhy+Plod%c5%af&FORM=RESTAB
+                - strong [ref=f35e527]: Druhy Plodů
+            - listitem [ref=f35e528]:
+              - 'link "Search for: Strom Ve Stredozemi Pukave Plody Obsahuji Lepkavou Silici" [ref=f35e529] [cursor=pointer]':
+                - /url: /images/search?q=Strom+Ve+Stredozemi+Pukave+Plody+Obsahuji+Lepkavou+Silici&FORM=RESTAB
+                - generic [aria-hidden] [ref=f35e532]:
+                  - strong [ref=f35e533]: Strom Ve Stredozemi Pukave
+                  - text: Plody Obsahuji Lepkavou Silici
+            - listitem [ref=f35e534]:
+              - 'link "Search for: Plod Mlesnika" [ref=f35e535] [cursor=pointer]':
+                - /url: /images/search?q=Plod+Mlesnika&FORM=RESTAB
+                - strong [ref=f35e539]: Plod Mlesnika
+            - listitem [ref=f35e540]:
+              - 'link "Search for: Platy Na Kutnohorsku" [ref=f35e541] [cursor=pointer]':
+                - /url: /images/search?q=Platy+Na+Kutnohorsku&FORM=RESTAB
+                - strong [ref=f35e545]: Platy Na Kutnohorsku
+            - listitem [ref=f35e546]:
+              - 'link "Search for: Morske Plodz" [ref=f35e547] [cursor=pointer]':
+                - /url: /images/search?q=Morske+Plodz&FORM=RESTAB
+                - strong [ref=f35e551]: Morske Plodz
+            - listitem [ref=f35e552]:
+              - 'link "Search for: 8Tygodnie Plod" [ref=f35e553] [cursor=pointer]':
+                - /url: /images/search?q=8Tygodnie+Plod&FORM=RESTAB
+                - strong [ref=f35e557]: 8Tygodnie Plod
+            - listitem [ref=f35e558]:
+              - 'link "Search for: Jaro Plody" [ref=f35e559] [cursor=pointer]':
+                - /url: /images/search?q=Jaro+Plody&FORM=RESTAB
+                - generic [aria-hidden] [ref=f35e562]:
+                  - strong [ref=f35e563]: Jaro
+                  - text: Plody
+            - listitem [ref=f35e564]:
+              - 'link "Search for: Orion Morske Plody" [ref=f35e565] [cursor=pointer]':
+                - /url: /images/search?q=Orion+Morske+Plody&FORM=RESTAB
+                - generic [aria-hidden] [ref=f35e568]:
+                  - strong [ref=f35e569]: Orion Morske
+                  - text: Plody
+            - listitem [ref=f35e570]:
+              - 'link "Search for: Diferent Fruit Trays" [ref=f35e571] [cursor=pointer]':
+                - /url: /images/search?q=Diferent+Fruit+Trays&FORM=RESTAB
+                - strong [ref=f35e575]: Diferent Fruit Trays
+            - listitem [ref=f35e576]:
+              - 'link "Search for: Stromy a Gulate Plody" [ref=f35e577] [cursor=pointer]':
+                - /url: /images/search?q=Stromy+a+Gulate+Plody&FORM=RESTAB
+                - generic [aria-hidden] [ref=f35e580]:
+                  - strong [ref=f35e581]: Stromy a Gulate
+                  - text: Plody
+            - listitem [ref=f35e582]:
+              - 'link "Search for: Ostružiny Napadené Plody" [ref=f35e583] [cursor=pointer]':
+                - /url: /images/search?q=Ostru%c5%beiny+Napaden%c3%a9+Plody&FORM=RESTAB
+                - generic [aria-hidden] [ref=f35e586]:
+                  - strong [ref=f35e587]: Ostružiny Napadené
+                  - text: Plody
+            - listitem [ref=f35e588]:
+              - 'link "Search for: Tupesy Hody" [ref=f35e589] [cursor=pointer]':
+                - /url: /images/search?q=Tupesy+Hody&FORM=RESTAB
+                - strong [ref=f35e593]: Tupesy Hody
+            - listitem [ref=f35e594]:
+              - 'link "Search for: Vlašský Ořech Velké Plody" [ref=f35e595] [cursor=pointer]':
+                - /url: /images/search?q=Vla%c5%a1sk%c3%bd+O%c5%99ech+Velk%c3%a9+Plody&FORM=RESTAB
+                - generic [aria-hidden] [ref=f35e598]:
+                  - strong [ref=f35e599]: Vlašský Ořech Velké
+                  - text: Plody
+            - listitem [ref=f35e600]:
+              - 'link "Search for: Stromy a Plody" [ref=f35e601] [cursor=pointer]':
+                - /url: /images/search?q=Stromy+a+Plody&FORM=RESTAB
+                - strong [ref=f35e605]: Stromy
+            - listitem [ref=f35e606]:
+              - 'link "Search for: Tekvica Plody" [ref=f35e607] [cursor=pointer]':
+                - /url: /images/search?q=Tekvica+Plody&FORM=RESTAB
+                - generic [aria-hidden] [ref=f35e610]:
+                  - strong [ref=f35e611]: Tekvica
+                  - text: Plody
+            - listitem [ref=f35e612]:
+              - 'link "Search for: Olody Pukavé" [ref=f35e613] [cursor=pointer]':
+                - /url: /images/search?q=Olody+Pukav%c3%a9&FORM=RESTAB
+                - strong [ref=f35e617]: Olody Pukavé
+            - listitem [ref=f35e618]:
+              - 'link "Search for: Plody September" [ref=f35e619] [cursor=pointer]':
+                - /url: /images/search?q=Plody+September&FORM=RESTAB
+                - generic [aria-hidden] [ref=f35e622]:
+                  - text: Plody
+                  - strong [ref=f35e623]: September
+            - listitem [ref=f35e624]:
+              - 'link "Search for: Plody Dvojzubec" [ref=f35e625] [cursor=pointer]':
+                - /url: /images/search?q=Plody+Dvojzubec&FORM=RESTAB
+                - generic [aria-hidden] [ref=f35e628]:
+                  - text: Plody
+                  - strong [ref=f35e629]: Dvojzubec
+            - listitem [ref=f35e630]:
+              - 'link "Search for: Mořské Plody Pizza" [ref=f35e631] [cursor=pointer]':
+                - /url: /images/search?q=Mo%c5%99sk%c3%a9+Plody+Pizza&FORM=RESTAB
+                - generic [aria-hidden] [ref=f35e634]:
+                  - text: Mořské Plody
+                  - strong [ref=f35e635]: Pizza
+            - listitem [ref=f35e636]:
+              - 'link "Search for: Bez Drzewo" [ref=f35e637] [cursor=pointer]':
+                - /url: /images/search?q=Bez+Drzewo&FORM=RESTAB
+                - strong [ref=f35e641]: Bez Drzewo
+            - listitem [ref=f35e642]:
+              - 'link "Search for: Plody Podobné Borůvkám" [ref=f35e643] [cursor=pointer]':
+                - /url: /images/search?q=Plody+Podobn%c3%a9+Bor%c5%afvk%c3%a1m&FORM=RESTAB
+                - generic [aria-hidden] [ref=f35e646]:
+                  - text: Plody
+                  - strong [ref=f35e647]: Podobné Borůvkám
+            - listitem [ref=f35e648]:
+              - 'link "Search for: Orion Morske Plody Bonboniera" [ref=f35e649] [cursor=pointer]':
+                - /url: /images/search?q=Orion+Morske+Plody+Bonboniera&FORM=RESTAB
+                - generic [aria-hidden] [ref=f35e652]:
+                  - strong [ref=f35e653]: Orion Morske
+                  - text: Plody Bonboniera
+            - listitem [ref=f35e654]:
+              - 'link "Search for: Ker Cervene Plody Zahrada Hlosina" [ref=f35e655] [cursor=pointer]':
+                - /url: /images/search?q=Ker+Cervene+Plody+Zahrada+Hlosina&FORM=RESTAB
+                - generic [aria-hidden] [ref=f35e658]:
+                  - text: Ker Cervene Plody
+                  - strong [ref=f35e659]: Zahrada Hlosina
+            - listitem [ref=f35e660]:
+              - 'link "Search for: Robusta Plod" [ref=f35e661] [cursor=pointer]':
+                - /url: /images/search?q=Robusta+Plod&FORM=RESTAB
+                - strong [ref=f35e665]: Robusta Plod
+    - generic [ref=f35e668]:
+      - list [ref=f35e669]:
+        - listitem [ref=f35e670]:
+          - generic [ref=f35e671]:
+            - generic [ref=f35e672]:
+              - link "Image result for hruška Škaredka plody" [ref=f35e673] [cursor=pointer]:
+                - /url: /images/search?view=detailV2&ccid=mboMwOpz&id=544AF5162D4843F8A4E8727AF35C0E0A804B934C&thid=OIP.mboMwOpz_QXD5jFp2fSoggHaE7&mediaurl=https%3a%2f%2fhnojik.sk%2fwp-content%2fuploads%2f2024%2f05%2fyoung-pears-on-a-tree-close-up-.jpg&cdnurl=https%3a%2f%2fth.bing.com%2fth%2fid%2fR.99ba0cc0ea73fd05c3e63169d9f4a882%3frik%3dTJNLgAoOXPN6cg%26pid%3dImgRaw%26r%3d0&exph=1333&expw=2000&q=hru%c5%a1ka+%c5%a0karedka+plody&FORM=IRPRST&ck=FA9E35C3497C3FA1335023FBD527C0A7&selectedIndex=0&itb=0
+                - generic [ref=f35e675]:
+                  - img "Image result for hruška Škaredka plody" [ref=f35e677]
+                  - generic:
+                    - img "Image result for hruška Škaredka plody"
+                    - img "Image result for hruška Škaredka plody"
+                    - img "Image result for hruška Škaredka plody"
+              - link "Gallery" [ref=f35e678] [cursor=pointer]:
+                - /url: /images/search?view=detailV2&ccid=mboMwOpz&id=544AF5162D4843F8A4E8727AF35C0E0A804B934C&thid=OIP.mboMwOpz_QXD5jFp2fSoggHaE7&mediaurl=https%3a%2f%2fhnojik.sk%2fwp-content%2fuploads%2f2024%2f05%2fyoung-pears-on-a-tree-close-up-.jpg&cdnurl=https%3a%2f%2fth.bing.com%2fth%2fid%2fR.99ba0cc0ea73fd05c3e63169d9f4a882%3frik%3dTJNLgAoOXPN6cg%26pid%3dImgRaw%26r%3d0&exph=1333&expw=2000&q=hru%c5%a1ka+%c5%a0karedka+plody&FORM=IRPRST&ck=FA9E35C3497C3FA1335023FBD527C0A7&selectedIndex=0&itb=0
+              - generic:
+                - generic: 2000×1333
+                - generic:
+                  - link "hnojik.sk":
+                    - /url: https://hnojik.sk/hruska/
+            - generic [ref=f35e680]:
+              - link "Hruška - Najlepšie odrody, rez a ochrana | Hnojík.SK" [ref=f35e681] [cursor=pointer]:
+                - /url: /images/search?view=detailV2&ccid=mboMwOpz&id=544AF5162D4843F8A4E8727AF35C0E0A804B934C&thid=OIP.mboMwOpz_QXD5jFp2fSoggHaE7&mediaurl=https%3a%2f%2fhnojik.sk%2fwp-content%2fuploads%2f2024%2f05%2fyoung-pears-on-a-tree-close-up-.jpg&cdnurl=https%3a%2f%2fth.bing.com%2fth%2fid%2fR.99ba0cc0ea73fd05c3e63169d9f4a882%3frik%3dTJNLgAoOXPN6cg%26pid%3dImgRaw%26r%3d0&exph=1333&expw=2000&q=hru%c5%a1ka+%c5%a0karedka+plody&FORM=IRPRST&ck=FA9E35C3497C3FA1335023FBD527C0A7&selectedIndex=0&itb=0
+              - generic:
+                - generic:
+                  - list:
+                    - listitem:
+                      - link "Hruška - Najlepšie odrody, rez a ochrana | Hnojík.SK" [ref=f35e682] [cursor=pointer]:
+                        - /url: /images/search?view=detailV2&ccid=mboMwOpz&id=544AF5162D4843F8A4E8727AF35C0E0A804B934C&thid=OIP.mboMwOpz_QXD5jFp2fSoggHaE7&mediaurl=https%3a%2f%2fhnojik.sk%2fwp-content%2fuploads%2f2024%2f05%2fyoung-pears-on-a-tree-close-up-.jpg&cdnurl=https%3a%2f%2fth.bing.com%2fth%2fid%2fR.99ba0cc0ea73fd05c3e63169d9f4a882%3frik%3dTJNLgAoOXPN6cg%26pid%3dImgRaw%26r%3d0&exph=1333&expw=2000&q=hru%c5%a1ka+%c5%a0karedka+plody&FORM=IRPRST&ck=FA9E35C3497C3FA1335023FBD527C0A7&selectedIndex=0&itb=0
+        - listitem [ref=f35e683]:
+          - generic [ref=f35e684]:
+            - generic [ref=f35e685]:
+              - link "Image result for hruška Škaredka plody" [ref=f35e686] [cursor=pointer]:
+                - /url: /images/search?view=detailV2&ccid=b2pslkKs&id=4FB8DED6B9D06C2B6EA2B6895F557BAC4D9A8EE6&thid=OIP.b2pslkKsG3owGjU0uU3_6AHaE8&mediaurl=https%3a%2f%2fwww.prodejstromku.cz%2fgallery%2f1504%2f5c2fab1b8af8d5.785506517.jpg&cdnurl=https%3a%2f%2fth.bing.com%2fth%2fid%2fR.6f6a6c9642ac1b7a301a3534b94dffe8%3frik%3d5o6aTax7VV%252bJtg%26pid%3dImgRaw%26r%3d0&exph=534&expw=800&q=hru%c5%a1ka+%c5%a0karedka+plody&FORM=IRPRST&ck=8050B27BC0D43F3EAD600B000EEAB0CC&selectedIndex=1&itb=0
+                - generic [ref=f35e688]:
+                  - img "Image result for hruška Škaredka plody" [ref=f35e690]
+                  - generic:
+                    - img "Image result for hruška Škaredka plody"
+                    - img "Image result for hruška Škaredka plody"
+                    - img "Image result for hruška Škaredka plody"
+              - link "Gallery" [ref=f35e691] [cursor=pointer]:
+                - /url: /images/search?view=detailV2&ccid=b2pslkKs&id=4FB8DED6B9D06C2B6EA2B6895F557BAC4D9A8EE6&thid=OIP.b2pslkKsG3owGjU0uU3_6AHaE8&mediaurl=https%3a%2f%2fwww.prodejstromku.cz%2fgallery%2f1504%2f5c2fab1b8af8d5.785506517.jpg&cdnurl=https%3a%2f%2fth.bing.com%2fth%2fid%2fR.6f6a6c9642ac1b7a301a3534b94dffe8%3frik%3d5o6aTax7VV%252bJtg%26pid%3dImgRaw%26r%3d0&exph=534&expw=800&q=hru%c5%a1ka+%c5%a0karedka+plody&FORM=IRPRST&ck=8050B27BC0D43F3EAD600B000EEAB0CC&selectedIndex=1&itb=0
+              - generic:
+                - generic: 800×534
+                - generic:
+                  - link "prodejstromku.cz":
+                    - /url: https://www.prodejstromku.cz/o-nas/fotogalerie/starsi-odrudy-hrusni/
+            - generic [ref=f35e693]:
+              - link "Starší odrůdy hrušní | Prodej stromků" [ref=f35e694] [cursor=pointer]:
+                - /url: /images/search?view=detailV2&ccid=b2pslkKs&id=4FB8DED6B9D06C2B6EA2B6895F557BAC4D9A8EE6&thid=OIP.b2pslkKsG3owGjU0uU3_6AHaE8&mediaurl=https%3a%2f%2fwww.prodejstromku.cz%2fgallery%2f1504%2f5c2fab1b8af8d5.785506517.jpg&cdnurl=https%3a%2f%2fth.bing.com%2fth%2fid%2fR.6f6a6c9642ac1b7a301a3534b94dffe8%3frik%3d5o6aTax7VV%252bJtg%26pid%3dImgRaw%26r%3d0&exph=534&expw=800&q=hru%c5%a1ka+%c5%a0karedka+plody&FORM=IRPRST&ck=8050B27BC0D43F3EAD600B000EEAB0CC&selectedIndex=1&itb=0
+              - generic:
+                - generic:
+                  - list:
+                    - listitem:
+                      - link "Starší odrůdy hrušní | Prodej stromků" [ref=f35e695] [cursor=pointer]:
+                        - /url: /images/search?view=detailV2&ccid=b2pslkKs&id=4FB8DED6B9D06C2B6EA2B6895F557BAC4D9A8EE6&thid=OIP.b2pslkKsG3owGjU0uU3_6AHaE8&mediaurl=https%3a%2f%2fwww.prodejstromku.cz%2fgallery%2f1504%2f5c2fab1b8af8d5.785506517.jpg&cdnurl=https%3a%2f%2fth.bing.com%2fth%2fid%2fR.6f6a6c9642ac1b7a301a3534b94dffe8%3frik%3d5o6aTax7VV%252bJtg%26pid%3dImgRaw%26r%3d0&exph=534&expw=800&q=hru%c5%a1ka+%c5%a0karedka+plody&FORM=IRPRST&ck=8050B27BC0D43F3EAD600B000EEAB0CC&selectedIndex=1&itb=0
+        - listitem [ref=f35e696]:
+          - generic [ref=f35e697]:
+            - link "Image result for hruška Škaredka plody" [ref=f35e699] [cursor=pointer]:
+              - /url: /images/search?view=detailV2&ccid=Siz6uhGT&id=0389F805E9783AECF2ED74CA3353975FC3C0B832&thid=OIP.Siz6uhGTKA7QjRodfF7MQwHaE8&mediaurl=https%3a%2f%2fpixnio.com%2ffree-images%2f2019%2f06%2f18%2f2019-06-18-11-42-01-1200x800.jpg&cdnurl=https%3a%2f%2fth.bing.com%2fth%2fid%2fR.4a2cfaba1193280ed08d1a1d7c5ecc43%3frik%3dMrjAw1%252bXUzPKdA%26pid%3dImgRaw%26r%3d0&exph=800&expw=1200&q=hru%c5%a1ka+%c5%a0karedka+plody&FORM=IRPRST&ck=CDD38809EE40DD14B3EF2533BF8D4B55&selectedIndex=2&itb=0
+              - img "Image result for hruška Škaredka plody" [ref=f35e701]
+            - generic [ref=f35e702]:
+              - 'link "Bezplatný obrázek: ovocný sad, organický, hruška, hrušky, Příroda, list ..." [ref=f35e703] [cursor=pointer]':
+                - /url: /images/search?view=detailV2&ccid=Siz6uhGT&id=0389F805E9783AECF2ED74CA3353975FC3C0B832&thid=OIP.Siz6uhGTKA7QjRodfF7MQwHaE8&mediaurl=https%3a%2f%2fpixnio.com%2ffree-images%2f2019%2f06%2f18%2f2019-06-18-11-42-01-1200x800.jpg&cdnurl=https%3a%2f%2fth.bing.com%2fth%2fid%2fR.4a2cfaba1193280ed08d1a1d7c5ecc43%3frik%3dMrjAw1%252bXUzPKdA%26pid%3dImgRaw%26r%3d0&exph=800&expw=1200&q=hru%c5%a1ka+%c5%a0karedka+plody&FORM=IRPRST&ck=CDD38809EE40DD14B3EF2533BF8D4B55&selectedIndex=2&itb=0
+              - generic:
+                - generic:
+                  - list:
+                    - listitem:
+                      - 'link "Bezplatný obrázek: ovocný sad, organický, hruška, hrušky, Příroda, list ..." [ref=f35e704] [cursor=pointer]':
+                        - /url: /images/search?view=detailV2&ccid=Siz6uhGT&id=0389F805E9783AECF2ED74CA3353975FC3C0B832&thid=OIP.Siz6uhGTKA7QjRodfF7MQwHaE8&mediaurl=https%3a%2f%2fpixnio.com%2ffree-images%2f2019%2f06%2f18%2f2019-06-18-11-42-01-1200x800.jpg&cdnurl=https%3a%2f%2fth.bing.com%2fth%2fid%2fR.4a2cfaba1193280ed08d1a1d7c5ecc43%3frik%3dMrjAw1%252bXUzPKdA%26pid%3dImgRaw%26r%3d0&exph=800&expw=1200&q=hru%c5%a1ka+%c5%a0karedka+plody&FORM=IRPRST&ck=CDD38809EE40DD14B3EF2533BF8D4B55&selectedIndex=2&itb=0
+        - listitem [ref=f35e705]:
+          - generic [ref=f35e706]:
+            - link "Image result for hruška Škaredka plody" [ref=f35e708] [cursor=pointer]:
+              - /url: /images/search?view=detailV2&ccid=gkDsGGWt&id=2A6995C2040BD34FA562595E7616162277E5945A&thid=OIP.gkDsGGWtLlYbW3ZnrfDERQHaJ4&mediaurl=https%3a%2f%2fdomovstromov.sk%2fcdn%2fshop%2ffiles%2fhruska-Spinka-2.jpg%3fv%3d1757437428%26width%3d1780&cdnurl=https%3a%2f%2fth.bing.com%2fth%2fid%2fR.8240ec1865ad2e561b5b7667adf0c445%3frik%3dWpTldyIWFnZeWQ%26pid%3dImgRaw%26r%3d0&exph=2040&expw=1530&q=hru%c5%a1ka+%c5%a0karedka+plody&FORM=IRPRST&ck=B82966BEC58FAF6EA54AFD0FCBF53C1D&selectedIndex=3&itb=0
+              - img "Image result for hruška Škaredka plody" [ref=f35e710]
+            - generic [ref=f35e711]:
+              - link "Hruška Špinka – DomovStromov.sk" [ref=f35e712] [cursor=pointer]:
+                - /url: /images/search?view=detailV2&ccid=gkDsGGWt&id=2A6995C2040BD34FA562595E7616162277E5945A&thid=OIP.gkDsGGWtLlYbW3ZnrfDERQHaJ4&mediaurl=https%3a%2f%2fdomovstromov.sk%2fcdn%2fshop%2ffiles%2fhruska-Spinka-2.jpg%3fv%3d1757437428%26width%3d1780&cdnurl=https%3a%2f%2fth.bing.com%2fth%2fid%2fR.8240ec1865ad2e561b5b7667adf0c445%3frik%3dWpTldyIWFnZeWQ%26pid%3dImgRaw%26r%3d0&exph=2040&expw=1530&q=hru%c5%a1ka+%c5%a0karedka+plody&FORM=IRPRST&ck=B82966BEC58FAF6EA54AFD0FCBF53C1D&selectedIndex=3&itb=0
+              - generic:
+                - generic:
+                  - list:
+                    - listitem:
+                      - link "Hruška Špinka – DomovStromov.sk" [ref=f35e713] [cursor=pointer]:
+                        - /url: /images/search?view=detailV2&ccid=gkDsGGWt&id=2A6995C2040BD34FA562595E7616162277E5945A&thid=OIP.gkDsGGWtLlYbW3ZnrfDERQHaJ4&mediaurl=https%3a%2f%2fdomovstromov.sk%2fcdn%2fshop%2ffiles%2fhruska-Spinka-2.jpg%3fv%3d1757437428%26width%3d1780&cdnurl=https%3a%2f%2fth.bing.com%2fth%2fid%2fR.8240ec1865ad2e561b5b7667adf0c445%3frik%3dWpTldyIWFnZeWQ%26pid%3dImgRaw%26r%3d0&exph=2040&expw=1530&q=hru%c5%a1ka+%c5%a0karedka+plody&FORM=IRPRST&ck=B82966BEC58FAF6EA54AFD0FCBF53C1D&selectedIndex=3&itb=0
+      - list [ref=f35e714]:
+        - listitem [ref=f35e715]:
+          - generic [ref=f35e716]:
+            - link "Image result for hruška Škaredka plody" [ref=f35e718] [cursor=pointer]:
+              - /url: /images/search?view=detailV2&ccid=AEIuByvd&id=84003F68C9AAF8A95F218EC052FF8C9C6BEC3B42&thid=OIP.AEIuByvdAnKPV3bxrA0lwgHaI4&mediaurl=https%3a%2f%2fwww.novochag.ru%2fupload%2fimg_cache%2ff7c%2ff7c70fca851963a34c8309089a91202f_cropped_510x612.webp&cdnurl=https%3a%2f%2fth.bing.com%2fth%2fid%2fR.00422e072bdd02728f5776f1ac0d25c2%3frik%3dQjvsa5yM%252f1LAjg%26pid%3dImgRaw%26r%3d0&exph=612&expw=510&q=hru%c5%a1ka+%c5%a0karedka+plody&FORM=IRPRST&ck=EEFD84743A616F1686948F92FA674CA3&selectedIndex=4&itb=0
+              - img "Image result for hruška Škaredka plody" [ref=f35e720]
+            - generic [ref=f35e721]:
+              - link "Která odrůda hrušek je nejlepší?" [ref=f35e722] [cursor=pointer]:
+                - /url: /images/search?view=detailV2&ccid=AEIuByvd&id=84003F68C9AAF8A95F218EC052FF8C9C6BEC3B42&thid=OIP.AEIuByvdAnKPV3bxrA0lwgHaI4&mediaurl=https%3a%2f%2fwww.novochag.ru%2fupload%2fimg_cache%2ff7c%2ff7c70fca851963a34c8309089a91202f_cropped_510x612.webp&cdnurl=https%3a%2f%2fth.bing.com%2fth%2fid%2fR.00422e072bdd02728f5776f1ac0d25c2%3frik%3dQjvsa5yM%252f1LAjg%26pid%3dImgRaw%26r%3d0&exph=612&expw=510&q=hru%c5%a1ka+%c5%a0karedka+plody&FORM=IRPRST&ck=EEFD84743A616F1686948F92FA674CA3&selectedIndex=4&itb=0
+              - generic:
+                - generic:
+                  - list:
+                    - listitem:
+                      - link "Která odrůda hrušek je nejlepší?" [ref=f35e723] [cursor=pointer]:
+                        - /url: /images/search?view=detailV2&ccid=AEIuByvd&id=84003F68C9AAF8A95F218EC052FF8C9C6BEC3B42&thid=OIP.AEIuByvdAnKPV3bxrA0lwgHaI4&mediaurl=https%3a%2f%2fwww.novochag.ru%2fupload%2fimg_cache%2ff7c%2ff7c70fca851963a34c8309089a91202f_cropped_510x612.webp&cdnurl=https%3a%2f%2fth.bing.com%2fth%2fid%2fR.00422e072bdd02728f5776f1ac0d25c2%3frik%3dQjvsa5yM%252f1LAjg%26pid%3dImgRaw%26r%3d0&exph=612&expw=510&q=hru%c5%a1ka+%c5%a0karedka+plody&FORM=IRPRST&ck=EEFD84743A616F1686948F92FA674CA3&selectedIndex=4&itb=0
+        - listitem [ref=f35e724]:
+          - generic [ref=f35e725]:
+            - link "Image result for hruška Škaredka plody" [ref=f35e727] [cursor=pointer]:
+              - /url: /images/search?view=detailV2&ccid=a3rmF62%2b&id=2B4DF4FF4C205DE90B786CA4D14EA48F135460AA&thid=OIP.a3rmF62-uKHwHn0q86m_6AHaE8&mediaurl=https%3a%2f%2fplenum.sk%2fwp-content%2fuploads%2f2026%2f04%2fhruska-strom.jpg&cdnurl=https%3a%2f%2fth.bing.com%2fth%2fid%2fR.6b7ae617adbeb8a1f01e7d2af3a9bfe8%3frik%3dqmBUE4%252bkTtGkbA%26pid%3dImgRaw%26r%3d0&exph=1000&expw=1500&q=hru%c5%a1ka+%c5%a0karedka+plody&FORM=IRPRST&ck=6412916753F7BD10A943B9B8F65EBC50&selectedIndex=5&itb=0
+              - img "Image result for hruška Škaredka plody" [ref=f35e729]
+            - generic [ref=f35e730]:
+              - link "Máte v záhrade hrušku? Ak v apríli neurobíte túto jednu vec, na sladké ..." [ref=f35e731] [cursor=pointer]:
+                - /url: /images/search?view=detailV2&ccid=a3rmF62%2b&id=2B4DF4FF4C205DE90B786CA4D14EA48F135460AA&thid=OIP.a3rmF62-uKHwHn0q86m_6AHaE8&mediaurl=https%3a%2f%2fplenum.sk%2fwp-content%2fuploads%2f2026%2f04%2fhruska-strom.jpg&cdnurl=https%3a%2f%2fth.bing.com%2fth%2fid%2fR.6b7ae617adbeb8a1f01e7d2af3a9bfe8%3frik%3dqmBUE4%252bkTtGkbA%26pid%3dImgRaw%26r%3d0&exph=1000&expw=1500&q=hru%c5%a1ka+%c5%a0karedka+plody&FORM=IRPRST&ck=6412916753F7BD10A943B9B8F65EBC50&selectedIndex=5&itb=0
+              - generic:
+                - generic:
+                  - list:
+                    - listitem:
+                      - link "Máte v záhrade hrušku? Ak v apríli neurobíte túto jednu vec, na slad…" [ref=f35e732] [cursor=pointer]:
+                        - /url: /images/search?view=detailV2&ccid=a3rmF62%2b&id=2B4DF4FF4C205DE90B786CA4D14EA48F135460AA&thid=OIP.a3rmF62-uKHwHn0q86m_6AHaE8&mediaurl=https%3a%2f%2fplenum.sk%2fwp-content%2fuploads%2f2026%2f04%2fhruska-strom.jpg&cdnurl=https%3a%2f%2fth.bing.com%2fth%2fid%2fR.6b7ae617adbeb8a1f01e7d2af3a9bfe8%3frik%3dqmBUE4%252bkTtGkbA%26pid%3dImgRaw%26r%3d0&exph=1000&expw=1500&q=hru%c5%a1ka+%c5%a0karedka+plody&FORM=IRPRST&ck=6412916753F7BD10A943B9B8F65EBC50&selectedIndex=5&itb=0
+        - listitem [ref=f35e733]:
+          - generic [ref=f35e734]:
+            - link "Image result for hruška Škaredka plody" [ref=f35e736] [cursor=pointer]:
+              - /url: /images/search?view=detailV2&ccid=HyMSpB2j&id=9AA1925EC3F0AD1FFE9A1372B1478B5BFDB2EC6F&thid=OIP.HyMSpB2jIT9ICOpTz_a1zgHaEL&mediaurl=https%3a%2f%2fresizer.mail.ru%2fp%2f2e0c01e1-abef-5b8c-b2d0-c2f6cd005ec8%2fdpr%3a128%2fAQAG6ei1swCyGnSJEcSgdkzXfpZ-QEHr6lDm9ZFoLPAjqLyUnKk7K1awJ8yzZuF1dhwqzTpeSA9Ra0yshf9zcZXgbUM.jpg&cdnurl=https%3a%2f%2fth.bing.com%2fth%2fid%2fR.1f2312a41da3213f4808ea53cff6b5ce%3frik%3db%252byy%252fVuLR7FyEw%26pid%3dImgRaw%26r%3d0&exph=563&expw=998&q=hru%c5%a1ka+%c5%a0karedka+plody&FORM=IRPRST&ck=46C6157F42031436E422148F82FA1FFC&selectedIndex=6&itb=0
+              - img "Image result for hruška Škaredka plody" [ref=f35e738]
+            - generic [ref=f35e739]:
+              - link "Prořezávání hrušek na podzim pro začátečníky na obrázcích krok za ..." [ref=f35e740] [cursor=pointer]:
+                - /url: /images/search?view=detailV2&ccid=HyMSpB2j&id=9AA1925EC3F0AD1FFE9A1372B1478B5BFDB2EC6F&thid=OIP.HyMSpB2jIT9ICOpTz_a1zgHaEL&mediaurl=https%3a%2f%2fresizer.mail.ru%2fp%2f2e0c01e1-abef-5b8c-b2d0-c2f6cd005ec8%2fdpr%3a128%2fAQAG6ei1swCyGnSJEcSgdkzXfpZ-QEHr6lDm9ZFoLPAjqLyUnKk7K1awJ8yzZuF1dhwqzTpeSA9Ra0yshf9zcZXgbUM.jpg&cdnurl=https%3a%2f%2fth.bing.com%2fth%2fid%2fR.1f2312a41da3213f4808ea53cff6b5ce%3frik%3db%252byy%252fVuLR7FyEw%26pid%3dImgRaw%26r%3d0&exph=563&expw=998&q=hru%c5%a1ka+%c5%a0karedka+plody&FORM=IRPRST&ck=46C6157F42031436E422148F82FA1FFC&selectedIndex=6&itb=0
+              - generic:
+                - generic:
+                  - list:
+                    - listitem:
+                      - link "Prořezávání hrušek na podzim pro začátečníky na obrázcích krok za ..." [ref=f35e741] [cursor=pointer]:
+                        - /url: /images/search?view=detailV2&ccid=HyMSpB2j&id=9AA1925EC3F0AD1FFE9A1372B1478B5BFDB2EC6F&thid=OIP.HyMSpB2jIT9ICOpTz_a1zgHaEL&mediaurl=https%3a%2f%2fresizer.mail.ru%2fp%2f2e0c01e1-abef-5b8c-b2d0-c2f6cd005ec8%2fdpr%3a128%2fAQAG6ei1swCyGnSJEcSgdkzXfpZ-QEHr6lDm9ZFoLPAjqLyUnKk7K1awJ8yzZuF1dhwqzTpeSA9Ra0yshf9zcZXgbUM.jpg&cdnurl=https%3a%2f%2fth.bing.com%2fth%2fid%2fR.1f2312a41da3213f4808ea53cff6b5ce%3frik%3db%252byy%252fVuLR7FyEw%26pid%3dImgRaw%26r%3d0&exph=563&expw=998&q=hru%c5%a1ka+%c5%a0karedka+plody&FORM=IRPRST&ck=46C6157F42031436E422148F82FA1FFC&selectedIndex=6&itb=0
+        - listitem [ref=f35e742]:
+          - generic [ref=f35e743]:
+            - link "Image result for hruška Škaredka plody" [ref=f35e745] [cursor=pointer]:
+              - /url: /images/search?view=detailV2&ccid=%2b68W%2b%2b6T&id=D168AB03841F33DB76264E9D8EAF184F5543D78F&thid=OIP.-68W--6TU7YfuDBK7vQZRgHaFv&mediaurl=https%3a%2f%2fwww.zahrada.cz%2fclanky%2fwp-content%2fuploads%2f2024%2f08%2fimage-509.webp&cdnurl=https%3a%2f%2fth.bing.com%2fth%2fid%2fR.fbaf16fbee9353b61fb8304aeef41946%3frik%3dj9dDVU8Yr46dTg%26pid%3dImgRaw%26r%3d0&exph=744&expw=960&q=hru%c5%a1ka+%c5%a0karedka+plody&FORM=IRPRST&ck=F4BDADD5105A62645AB812ECE1100A2A&selectedIndex=7&itb=0
+              - img "Image result for hruška Škaredka plody" [ref=f35e747]
+            - generic [ref=f35e748]:
+              - 'link "Pěstování hrušek: tajemství úspěšné sklizně hrušek" [ref=f35e749] [cursor=pointer]':
+                - /url: /images/search?view=detailV2&ccid=%2b68W%2b%2b6T&id=D168AB03841F33DB76264E9D8EAF184F5543D78F&thid=OIP.-68W--6TU7YfuDBK7vQZRgHaFv&mediaurl=https%3a%2f%2fwww.zahrada.cz%2fclanky%2fwp-content%2fuploads%2f2024%2f08%2fimage-509.webp&cdnurl=https%3a%2f%2fth.bing.com%2fth%2fid%2fR.fbaf16fbee9353b61fb8304aeef41946%3frik%3dj9dDVU8Yr46dTg%26pid%3dImgRaw%26r%3d0&exph=744&expw=960&q=hru%c5%a1ka+%c5%a0karedka+plody&FORM=IRPRST&ck=F4BDADD5105A62645AB812ECE1100A2A&selectedIndex=7&itb=0
+              - generic:
+                - generic:
+                  - list:
+                    - listitem:
+                      - 'link "Pěstování hrušek: tajemství úspěšné sklizně hrušek" [ref=f35e750] [cursor=pointer]':
+                        - /url: /images/search?view=detailV2&ccid=%2b68W%2b%2b6T&id=D168AB03841F33DB76264E9D8EAF184F5543D78F&thid=OIP.-68W--6TU7YfuDBK7vQZRgHaFv&mediaurl=https%3a%2f%2fwww.zahrada.cz%2fclanky%2fwp-content%2fuploads%2f2024%2f08%2fimage-509.webp&cdnurl=https%3a%2f%2fth.bing.com%2fth%2fid%2fR.fbaf16fbee9353b61fb8304aeef41946%3frik%3dj9dDVU8Yr46dTg%26pid%3dImgRaw%26r%3d0&exph=744&expw=960&q=hru%c5%a1ka+%c5%a0karedka+plody&FORM=IRPRST&ck=F4BDADD5105A62645AB812ECE1100A2A&selectedIndex=7&itb=0
+        - listitem [ref=f35e751]:
+          - generic [ref=f35e752]:
+            - link "Image result for hruška Škaredka plody" [ref=f35e754] [cursor=pointer]:
+              - /url: /images/search?view=detailV2&ccid=qFi6YVaY&id=966A59FE014B6195643C86EEE64086B4CBE6F6BA&thid=OIP.qFi6YVaYo8xbe-VVnDTKIAHaEK&mediaurl=https%3a%2f%2fdam.production02.nmh.nmheagle.sk%2fapi%2fimage%2f1680x945%2ffbb%2ffbb6e592-1ba0-11ef-b315-ca36e7882062.webp&cdnurl=https%3a%2f%2fth.bing.com%2fth%2fid%2fR.a858ba615698a3cc5b7be5559c34ca20%3frik%3duvbmy7SGQObuhg%26pid%3dImgRaw%26r%3d0&exph=945&expw=1680&q=hru%c5%a1ka+%c5%a0karedka+plody&FORM=IRPRST&ck=86E517F4040B985EBDF16C9B8FC6A9DF&selectedIndex=8&itb=0
+              - img "Image result for hruška Škaredka plody" [ref=f35e756]
+            - generic [ref=f35e757]:
+              - 'link "HRUŠKA nie je obyčajné ovocie: Jej vplyv na ZDRAVIE prekvapí" [ref=f35e758] [cursor=pointer]':
+                - /url: /images/search?view=detailV2&ccid=qFi6YVaY&id=966A59FE014B6195643C86EEE64086B4CBE6F6BA&thid=OIP.qFi6YVaYo8xbe-VVnDTKIAHaEK&mediaurl=https%3a%2f%2fdam.production02.nmh.nmheagle.sk%2fapi%2fimage%2f1680x945%2ffbb%2ffbb6e592-1ba0-11ef-b315-ca36e7882062.webp&cdnurl=https%3a%2f%2fth.bing.com%2fth%2fid%2fR.a858ba615698a3cc5b7be5559c34ca20%3frik%3duvbmy7SGQObuhg%26pid%3dImgRaw%26r%3d0&exph=945&expw=1680&q=hru%c5%a1ka+%c5%a0karedka+plody&FORM=IRPRST&ck=86E517F4040B985EBDF16C9B8FC6A9DF&selectedIndex=8&itb=0
+              - generic:
+                - generic:
+                  - list:
+                    - listitem:
+                      - 'link "HRUŠKA nie je obyčajné ovocie: Jej vplyv na ZDRAVIE prekvapí" [ref=f35e759] [cursor=pointer]':
+                        - /url: /images/search?view=detailV2&ccid=qFi6YVaY&id=966A59FE014B6195643C86EEE64086B4CBE6F6BA&thid=OIP.qFi6YVaYo8xbe-VVnDTKIAHaEK&mediaurl=https%3a%2f%2fdam.production02.nmh.nmheagle.sk%2fapi%2fimage%2f1680x945%2ffbb%2ffbb6e592-1ba0-11ef-b315-ca36e7882062.webp&cdnurl=https%3a%2f%2fth.bing.com%2fth%2fid%2fR.a858ba615698a3cc5b7be5559c34ca20%3frik%3duvbmy7SGQObuhg%26pid%3dImgRaw%26r%3d0&exph=945&expw=1680&q=hru%c5%a1ka+%c5%a0karedka+plody&FORM=IRPRST&ck=86E517F4040B985EBDF16C9B8FC6A9DF&selectedIndex=8&itb=0
+      - list [ref=f35e760]:
+        - listitem [ref=f35e761]:
+          - generic [ref=f35e762]:
+            - link "Image result for hruška Škaredka plody" [ref=f35e764] [cursor=pointer]:
+              - /url: /images/search?view=detailV2&ccid=xP9odtpm&id=56A444BAD8552237D21D9F25EBB045DB5ABB2C5D&thid=OIP.xP9odtpmedGqpq333YP1UgHaD4&mediaurl=https%3a%2f%2fstatic-images.zoznam.sk%2fimage%2ffetch%2fq_92%2cw_1200%2ch_630%2cc_fill%2fh_108%2cg_north_east%2cx_0%2cy_30%2cl_vysetrenie_watermark%2fhttps%3a%2f%2fimg.topky.sk%2fvysetrenie%2f1280px%2f6274207.jpg&cdnurl=https%3a%2f%2fth.bing.com%2fth%2fid%2fR.c4ff6876da6679d1aaa6adf7dd83f552%3frik%3dXSy7WttFsOslnw%26pid%3dImgRaw%26r%3d0&exph=630&expw=1200&q=hru%c5%a1ka+%c5%a0karedka+plody&FORM=IRPRST&ck=7E7133A18C13D920155D8BD2D7CD19CE&selectedIndex=9&itb=0
+              - img "Image result for hruška Škaredka plody" [ref=f35e766]
+            - generic [ref=f35e767]:
+              - 'link "Hruška a jej zdravotné benefity: Pre TOTO by mala byť súčasťou ..." [ref=f35e768] [cursor=pointer]':
+                - /url: /images/search?view=detailV2&ccid=xP9odtpm&id=56A444BAD8552237D21D9F25EBB045DB5ABB2C5D&thid=OIP.xP9odtpmedGqpq333YP1UgHaD4&mediaurl=https%3a%2f%2fstatic-images.zoznam.sk%2fimage%2ffetch%2fq_92%2cw_1200%2ch_630%2cc_fill%2fh_108%2cg_north_east%2cx_0%2cy_30%2cl_vysetrenie_watermark%2fhttps%3a%2f%2fimg.topky.sk%2fvysetrenie%2f1280px%2f6274207.jpg&cdnurl=https%3a%2f%2fth.bing.com%2fth%2fid%2fR.c4ff6876da6679d1aaa6adf7dd83f552%3frik%3dXSy7WttFsOslnw%26pid%3dImgRaw%26r%3d0&exph=630&expw=1200&q=hru%c5%a1ka+%c5%a0karedka+plody&FORM=IRPRST&ck=7E7133A18C13D920155D8BD2D7CD19CE&selectedIndex=9&itb=0
+              - generic:
+                - generic:
+                  - list:
+                    - listitem:
+                      - 'link "Hruška a jej zdravotné benefity: Pre TOTO by mala byť súčasťou ..." [ref=f35e769] [cursor=pointer]':
+                        - /url: /images/search?view=detailV2&ccid=xP9odtpm&id=56A444BAD8552237D21D9F25EBB045DB5ABB2C5D&thid=OIP.xP9odtpmedGqpq333YP1UgHaD4&mediaurl=https%3a%2f%2fstatic-images.zoznam.sk%2fimage%2ffetch%2fq_92%2cw_1200%2ch_630%2cc_fill%2fh_108%2cg_north_east%2cx_0%2cy_30%2cl_vysetrenie_watermark%2fhttps%3a%2f%2fimg.topky.sk%2fvysetrenie%2f1280px%2f6274207.jpg&cdnurl=https%3a%2f%2fth.bing.com%2fth%2fid%2fR.c4ff6876da6679d1aaa6adf7dd83f552%3frik%3dXSy7WttFsOslnw%26pid%3dImgRaw%26r%3d0&exph=630&expw=1200&q=hru%c5%a1ka+%c5%a0karedka+plody&FORM=IRPRST&ck=7E7133A18C13D920155D8BD2D7CD19CE&selectedIndex=9&itb=0
+        - listitem [ref=f35e770]:
+          - generic [ref=f35e771]:
+            - link "Image result for hruška Škaredka plody" [ref=f35e773] [cursor=pointer]:
+              - /url: /images/search?view=detailV2&ccid=co2pJMXk&id=EEF54AE97A33D9376FFB65DB53385F70010C7DC2&thid=OIP.co2pJMXkfcemT6NtBKb6_QHaEK&mediaurl=https%3a%2f%2fdam.nmhmedia.sk%2fimage%2f08923910-80ff-4f59-a55a-de80d8bb8acb_dam-url3eu9n4.jpg%2f960%2f540&cdnurl=https%3a%2f%2fth.bing.com%2fth%2fid%2fR.728da924c5e47dc7a64fa36d04a6fafd%3frik%3dwn0MAXBfOFPbZQ%26pid%3dImgRaw%26r%3d0&exph=540&expw=960&q=hru%c5%a1ka+%c5%a0karedka+plody&FORM=IRPRST&ck=A49FB787B2084CC03482779985620442&selectedIndex=10&itb=0
+              - img "Image result for hruška Škaredka plody" [ref=f35e775]
+            - generic [ref=f35e776]:
+              - link "Prečo opadávajú plody z hrušiek? Aj toto je možná príčina" [ref=f35e777] [cursor=pointer]:
+                - /url: /images/search?view=detailV2&ccid=co2pJMXk&id=EEF54AE97A33D9376FFB65DB53385F70010C7DC2&thid=OIP.co2pJMXkfcemT6NtBKb6_QHaEK&mediaurl=https%3a%2f%2fdam.nmhmedia.sk%2fimage%2f08923910-80ff-4f59-a55a-de80d8bb8acb_dam-url3eu9n4.jpg%2f960%2f540&cdnurl=https%3a%2f%2fth.bing.com%2fth%2fid%2fR.728da924c5e47dc7a64fa36d04a6fafd%3frik%3dwn0MAXBfOFPbZQ%26pid%3dImgRaw%26r%3d0&exph=540&expw=960&q=hru%c5%a1ka+%c5%a0karedka+plody&FORM=IRPRST&ck=A49FB787B2084CC03482779985620442&selectedIndex=10&itb=0
+              - generic:
+                - generic:
+                  - list:
+                    - listitem:
+                      - link "Prečo opadávajú plody z hrušiek? Aj toto je možná príčina" [ref=f35e778] [cursor=pointer]:
+                        - /url: /images/search?view=detailV2&ccid=co2pJMXk&id=EEF54AE97A33D9376FFB65DB53385F70010C7DC2&thid=OIP.co2pJMXkfcemT6NtBKb6_QHaEK&mediaurl=https%3a%2f%2fdam.nmhmedia.sk%2fimage%2f08923910-80ff-4f59-a55a-de80d8bb8acb_dam-url3eu9n4.jpg%2f960%2f540&cdnurl=https%3a%2f%2fth.bing.com%2fth%2fid%2fR.728da924c5e47dc7a64fa36d04a6fafd%3frik%3dwn0MAXBfOFPbZQ%26pid%3dImgRaw%26r%3d0&exph=540&expw=960&q=hru%c5%a1ka+%c5%a0karedka+plody&FORM=IRPRST&ck=A49FB787B2084CC03482779985620442&selectedIndex=10&itb=0
+        - listitem [ref=f35e779]:
+          - generic [ref=f35e780]:
+            - link "Image result for hruška Škaredka plody" [ref=f35e782] [cursor=pointer]:
+              - /url: /images/search?view=detailV2&ccid=BiUfSiOq&id=FEDE6B8458A4C5CC520E0AD13EA78A30FE623061&thid=OIP.BiUfSiOqXvNJmnS3MhZW7wHaJ4&mediaurl=https%3a%2f%2fmojdom.zoznam.sk%2fwp-content%2fuploads%2f2025%2f10%2fStare-odrody-hrusiek-4.jpg&cdnurl=https%3a%2f%2fth.bing.com%2fth%2fid%2fR.06251f4a23aa5ef3499a74b7321656ef%3frik%3dYTBi%252fjCKpz7RCg%26pid%3dImgRaw%26r%3d0&exph=1200&expw=900&q=hru%c5%a1ka+%c5%a0karedka+plody&FORM=IRPRST&ck=726B918446355F21160CA26F57CCA22C&selectedIndex=11&itb=0
+              - img "Image result for hruška Škaredka plody" [ref=f35e784]
+            - generic [ref=f35e785]:
+              - link "6 tradičných odrôd hrušiek, ktoré existujú stáročia. Sú i na Slovensku ..." [ref=f35e786] [cursor=pointer]:
+                - /url: /images/search?view=detailV2&ccid=BiUfSiOq&id=FEDE6B8458A4C5CC520E0AD13EA78A30FE623061&thid=OIP.BiUfSiOqXvNJmnS3MhZW7wHaJ4&mediaurl=https%3a%2f%2fmojdom.zoznam.sk%2fwp-content%2fuploads%2f2025%2f10%2fStare-odrody-hrusiek-4.jpg&cdnurl=https%3a%2f%2fth.bing.com%2fth%2fid%2fR.06251f4a23aa5ef3499a74b7321656ef%3frik%3dYTBi%252fjCKpz7RCg%26pid%3dImgRaw%26r%3d0&exph=1200&expw=900&q=hru%c5%a1ka+%c5%a0karedka+plody&FORM=IRPRST&ck=726B918446355F21160CA26F57CCA22C&selectedIndex=11&itb=0
+              - generic:
+                - generic:
+                  - list:
+                    - listitem:
+                      - link "6 tradičných odrôd hrušiek, …" [ref=f35e787] [cursor=pointer]:
+                        - /url: /images/search?view=detailV2&ccid=BiUfSiOq&id=FEDE6B8458A4C5CC520E0AD13EA78A30FE623061&thid=OIP.BiUfSiOqXvNJmnS3MhZW7wHaJ4&mediaurl=https%3a%2f%2fmojdom.zoznam.sk%2fwp-content%2fuploads%2f2025%2f10%2fStare-odrody-hrusiek-4.jpg&cdnurl=https%3a%2f%2fth.bing.com%2fth%2fid%2fR.06251f4a23aa5ef3499a74b7321656ef%3frik%3dYTBi%252fjCKpz7RCg%26pid%3dImgRaw%26r%3d0&exph=1200&expw=900&q=hru%c5%a1ka+%c5%a0karedka+plody&FORM=IRPRST&ck=726B918446355F21160CA26F57CCA22C&selectedIndex=11&itb=0
+        - listitem [ref=f35e788]:
+          - generic [ref=f35e789]:
+            - link "Image result for hruška Škaredka plody" [ref=f35e791] [cursor=pointer]:
+              - /url: /images/search?view=detailV2&ccid=wR11AF3p&id=019B11C6196BA5DC5D8126BBC6974502FF525EE4&thid=OIP.wR11AF3pxrroMc-3nB3EYQHaJQ&mediaurl=https%3a%2f%2fwww.stlpovitestromy.sk%2fimage%2fcache%2fcatalog%2fhrusky%2fwilliams-hruska-plody-960x1200.png&cdnurl=https%3a%2f%2fth.bing.com%2fth%2fid%2fR.c11d75005de9c6bae831cfb79c1dc461%3frik%3d5F5S%252fwJFl8a7Jg%26pid%3dImgRaw%26r%3d0&exph=1200&expw=960&q=hru%c5%a1ka+%c5%a0karedka+plody&FORM=IRPRST&ck=84217997BA11242D7C642EEBCA5E02F8&selectedIndex=12&itb=0
+              - img "Image result for hruška Škaredka plody" [ref=f35e793]
+            - generic [ref=f35e794]:
+              - link "Hruška obyčajná ´WILLIAMS´ |180-230 cm | stlpovitestromceky.sk" [ref=f35e795] [cursor=pointer]:
+                - /url: /images/search?view=detailV2&ccid=wR11AF3p&id=019B11C6196BA5DC5D8126BBC6974502FF525EE4&thid=OIP.wR11AF3pxrroMc-3nB3EYQHaJQ&mediaurl=https%3a%2f%2fwww.stlpovitestromy.sk%2fimage%2fcache%2fcatalog%2fhrusky%2fwilliams-hruska-plody-960x1200.png&cdnurl=https%3a%2f%2fth.bing.com%2fth%2fid%2fR.c11d75005de9c6bae831cfb79c1dc461%3frik%3d5F5S%252fwJFl8a7Jg%26pid%3dImgRaw%26r%3d0&exph=1200&expw=960&q=hru%c5%a1ka+%c5%a0karedka+plody&FORM=IRPRST&ck=84217997BA11242D7C642EEBCA5E02F8&selectedIndex=12&itb=0
+              - generic:
+                - generic:
+                  - list:
+                    - listitem:
+                      - link "Hruška obyčajná ´WILLIAMS´ |18…" [ref=f35e796] [cursor=pointer]:
+                        - /url: /images/search?view=detailV2&ccid=wR11AF3p&id=019B11C6196BA5DC5D8126BBC6974502FF525EE4&thid=OIP.wR11AF3pxrroMc-3nB3EYQHaJQ&mediaurl=https%3a%2f%2fwww.stlpovitestromy.sk%2fimage%2fcache%2fcatalog%2fhrusky%2fwilliams-hruska-plody-960x1200.png&cdnurl=https%3a%2f%2fth.bing.com%2fth%2fid%2fR.c11d75005de9c6bae831cfb79c1dc461%3frik%3d5F5S%252fwJFl8a7Jg%26pid%3dImgRaw%26r%3d0&exph=1200&expw=960&q=hru%c5%a1ka+%c5%a0karedka+plody&FORM=IRPRST&ck=84217997BA11242D7C642EEBCA5E02F8&selectedIndex=12&itb=0
+        - listitem [ref=f35e797]:
+          - generic [ref=f35e798]:
+            - link "Image result for hruška Škaredka plody" [ref=f35e800] [cursor=pointer]:
+              - /url: /images/search?view=detailV2&ccid=pwjZixGB&id=93786C1FA337143D6A15B09A2647179462DA3249&thid=OIP.pwjZixGBUoWZI2BI-cXWeAAAAA&mediaurl=https%3a%2f%2fwww.rostlinky.cz%2fmedia%2fwysiwyg%2fBlogy%2fBlog_clanok_280x375%2fodrody-hrusky.jpg&cdnurl=https%3a%2f%2fth.bing.com%2fth%2fid%2fR.a708d98b1181528599236048f9c5d678%3frik%3dSTLaYpQXRyaasA%26pid%3dImgRaw%26r%3d0&exph=420&expw=420&q=hru%c5%a1ka+%c5%a0karedka+plody&FORM=IRPRST&ck=A92EE3C8D7A5DB73886E13BA1EA6DEFE&selectedIndex=13&itb=0
+              - img "Image result for hruška Škaredka plody" [ref=f35e802]
+            - generic [ref=f35e803]:
+              - link "Pěstování hrušní - sladká pochoutka ze zahrady | rostlinky.cz" [ref=f35e804] [cursor=pointer]:
+                - /url: /images/search?view=detailV2&ccid=pwjZixGB&id=93786C1FA337143D6A15B09A2647179462DA3249&thid=OIP.pwjZixGBUoWZI2BI-cXWeAAAAA&mediaurl=https%3a%2f%2fwww.rostlinky.cz%2fmedia%2fwysiwyg%2fBlogy%2fBlog_clanok_280x375%2fodrody-hrusky.jpg&cdnurl=https%3a%2f%2fth.bing.com%2fth%2fid%2fR.a708d98b1181528599236048f9c5d678%3frik%3dSTLaYpQXRyaasA%26pid%3dImgRaw%26r%3d0&exph=420&expw=420&q=hru%c5%a1ka+%c5%a0karedka+plody&FORM=IRPRST&ck=A92EE3C8D7A5DB73886E13BA1EA6DEFE&selectedIndex=13&itb=0
+              - generic:
+                - generic:
+                  - list:
+                    - listitem:
+                      - link "Pěstování hrušní - sladká pochoutk…" [ref=f35e805] [cursor=pointer]:
+                        - /url: /images/search?view=detailV2&ccid=pwjZixGB&id=93786C1FA337143D6A15B09A2647179462DA3249&thid=OIP.pwjZixGBUoWZI2BI-cXWeAAAAA&mediaurl=https%3a%2f%2fwww.rostlinky.cz%2fmedia%2fwysiwyg%2fBlogy%2fBlog_clanok_280x375%2fodrody-hrusky.jpg&cdnurl=https%3a%2f%2fth.bing.com%2fth%2fid%2fR.a708d98b1181528599236048f9c5d678%3frik%3dSTLaYpQXRyaasA%26pid%3dImgRaw%26r%3d0&exph=420&expw=420&q=hru%c5%a1ka+%c5%a0karedka+plody&FORM=IRPRST&ck=A92EE3C8D7A5DB73886E13BA1EA6DEFE&selectedIndex=13&itb=0
+        - listitem [ref=f35e806]:
+          - generic [ref=f35e807]:
+            - generic [ref=f35e808]:
+              - link "Image result for hruška Škaredka plody" [ref=f35e809] [cursor=pointer]:
+                - /url: /images/search?view=detailV2&ccid=P0BwPPVk&id=00F6D77F1856F22AFC8178E8516A70C609915918&thid=OIP.P0BwPPVkRTaCAOUQmKjmBAHaFk&mediaurl=https%3a%2f%2fizahradkar.cz%2fwp-content%2fuploads%2f2018%2f03%2fDobre-vyvinute-plody-hrusne-odrudy-Amfora-po-probirce-Sus.jpg&cdnurl=https%3a%2f%2fth.bing.com%2fth%2fid%2fR.3f40703cf56445368200e51098a8e604%3frik%3dGFmRCcZwalHoeA%26pid%3dImgRaw%26r%3d0&exph=827&expw=1100&q=hru%c5%a1ka+%c5%a0karedka+plody&FORM=IRPRST&ck=9FE1614C2389BF993E34805D01FF9107&selectedIndex=14&itb=0
+                - generic [ref=f35e811]:
+                  - img "Image result for hruška Škaredka plody" [ref=f35e813]
+                  - generic:
+                    - img "Image result for hruška Škaredka plody"
+                    - img "Image result for hruška Škaredka plody"
+              - link "Gallery" [ref=f35e814] [cursor=pointer]:
+                - /url: /images/search?view=detailV2&ccid=P0BwPPVk&id=00F6D77F1856F22AFC8178E8516A70C609915918&thid=OIP.P0BwPPVkRTaCAOUQmKjmBAHaFk&mediaurl=https%3a%2f%2fizahradkar.cz%2fwp-content%2fuploads%2f2018%2f03%2fDobre-vyvinute-plody-hrusne-odrudy-Amfora-po-probirce-Sus.jpg&cdnurl=https%3a%2f%2fth.bing.com%2fth%2fid%2fR.3f40703cf56445368200e51098a8e604%3frik%3dGFmRCcZwalHoeA%26pid%3dImgRaw%26r%3d0&exph=827&expw=1100&q=hru%c5%a1ka+%c5%a0karedka+plody&FORM=IRPRST&ck=9FE1614C2389BF993E34805D01FF9107&selectedIndex=14&itb=0
+              - generic:
+                - generic: 1100×827
+                - generic:
+                  - link "izahradkar.cz":
+                    - /url: https://izahradkar.cz/proc-omezovat-urodu-jablek-hrusek-rezem-probirkou/
+            - generic [ref=f35e816]:
+              - link "Proč omezovat úrodu jablek a hrušek řezem a probírkou | Zahrádkář" [ref=f35e817] [cursor=pointer]:
+                - /url: /images/search?view=detailV2&ccid=P0BwPPVk&id=00F6D77F1856F22AFC8178E8516A70C609915918&thid=OIP.P0BwPPVkRTaCAOUQmKjmBAHaFk&mediaurl=https%3a%2f%2fizahradkar.cz%2fwp-content%2fuploads%2f2018%2f03%2fDobre-vyvinute-plody-hrusne-odrudy-Amfora-po-probirce-Sus.jpg&cdnurl=https%3a%2f%2fth.bing.com%2fth%2fid%2fR.3f40703cf56445368200e51098a8e604%3frik%3dGFmRCcZwalHoeA%26pid%3dImgRaw%26r%3d0&exph=827&expw=1100&q=hru%c5%a1ka+%c5%a0karedka+plody&FORM=IRPRST&ck=9FE1614C2389BF993E34805D01FF9107&selectedIndex=14&itb=0
+              - generic:
+                - generic:
+                  - list:
+                    - listitem:
+                      - link "Proč omezovat úrodu jablek a hrušek řezem a probírkou | Zahr…" [ref=f35e818] [cursor=pointer]:
+                        - /url: /images/search?view=detailV2&ccid=P0BwPPVk&id=00F6D77F1856F22AFC8178E8516A70C609915918&thid=OIP.P0BwPPVkRTaCAOUQmKjmBAHaFk&mediaurl=https%3a%2f%2fizahradkar.cz%2fwp-content%2fuploads%2f2018%2f03%2fDobre-vyvinute-plody-hrusne-odrudy-Amfora-po-probirce-Sus.jpg&cdnurl=https%3a%2f%2fth.bing.com%2fth%2fid%2fR.3f40703cf56445368200e51098a8e604%3frik%3dGFmRCcZwalHoeA%26pid%3dImgRaw%26r%3d0&exph=827&expw=1100&q=hru%c5%a1ka+%c5%a0karedka+plody&FORM=IRPRST&ck=9FE1614C2389BF993E34805D01FF9107&selectedIndex=14&itb=0
+      - list [ref=f35e819]:
+        - listitem [ref=f35e820]:
+          - generic [ref=f35e821]:
+            - generic [ref=f35e822]: Related Searches
+            - generic [ref=f35e824]:
+              - link "Coat of Arms" [ref=f35e825] [cursor=pointer]:
+                - /url: /images/search?q=Hruska+Coat+of+Arms&FORM=IRIBIP
+                - generic "Hruska Coat of Arms" [ref=f35e827]: Coat of Arms
+              - link "Shop Logo" [ref=f35e828] [cursor=pointer]:
+                - /url: /images/search?q=Hruska+Shop+Logo&FORM=IRIBIP
+                - generic "Hruska Shop Logo" [ref=f35e830]: Shop Logo
+              - link "Gas Station" [ref=f35e831] [cursor=pointer]:
+                - /url: /images/search?q=Hruska+Gas+Station&FORM=IRIBIP
+                - generic "Hruska Gas Station" [ref=f35e833]: Gas Station
+        - listitem [ref=f35e834]:
+          - generic [ref=f35e835]:
+            - link "Image result for hruška Škaredka plody" [ref=f35e837] [cursor=pointer]:
+              - /url: /images/search?view=detailV2&ccid=x93qA8aV&id=52022DF653D0742193EC90CE42D74A5A3C122260&thid=OIP.x93qA8aVbs5afrBqFKxuYQHaF1&mediaurl=https%3a%2f%2fwww.vhoz.ru%2fupload%2fmedialibrary%2f955%2fb3j4s0kj7g7mrv88bykd9b8gktvzbsp6.jpg&cdnurl=https%3a%2f%2fth.bing.com%2fth%2fid%2fR.c7ddea03c6956ece5a7eb06a14ac6e61%3frik%3dYCISPFpK10LOkA%26pid%3dImgRaw%26r%3d0&exph=807&expw=1024&q=hru%c5%a1ka+%c5%a0karedka+plody&FORM=IRPRST&ck=5C6DC2316462DEACDC6E783A2EE4CCA9&selectedIndex=15&itb=0
+              - img "Image result for hruška Škaredka plody" [ref=f35e839]
+            - generic [ref=f35e840]:
+              - link "Top 10 letních odrůd hrušek" [ref=f35e841] [cursor=pointer]:
+                - /url: /images/search?view=detailV2&ccid=x93qA8aV&id=52022DF653D0742193EC90CE42D74A5A3C122260&thid=OIP.x93qA8aVbs5afrBqFKxuYQHaF1&mediaurl=https%3a%2f%2fwww.vhoz.ru%2fupload%2fmedialibrary%2f955%2fb3j4s0kj7g7mrv88bykd9b8gktvzbsp6.jpg&cdnurl=https%3a%2f%2fth.bing.com%2fth%2fid%2fR.c7ddea03c6956ece5a7eb06a14ac6e61%3frik%3dYCISPFpK10LOkA%26pid%3dImgRaw%26r%3d0&exph=807&expw=1024&q=hru%c5%a1ka+%c5%a0karedka+plody&FORM=IRPRST&ck=5C6DC2316462DEACDC6E783A2EE4CCA9&selectedIndex=15&itb=0
+              - generic:
+                - generic:
+                  - list:
+                    - listitem:
+                      - link "Top 10 letních odrůd hrušek" [ref=f35e842] [cursor=pointer]:
+                        - /url: /images/search?view=detailV2&ccid=x93qA8aV&id=52022DF653D0742193EC90CE42D74A5A3C122260&thid=OIP.x93qA8aVbs5afrBqFKxuYQHaF1&mediaurl=https%3a%2f%2fwww.vhoz.ru%2fupload%2fmedialibrary%2f955%2fb3j4s0kj7g7mrv88bykd9b8gktvzbsp6.jpg&cdnurl=https%3a%2f%2fth.bing.com%2fth%2fid%2fR.c7ddea03c6956ece5a7eb06a14ac6e61%3frik%3dYCISPFpK10LOkA%26pid%3dImgRaw%26r%3d0&exph=807&expw=1024&q=hru%c5%a1ka+%c5%a0karedka+plody&FORM=IRPRST&ck=5C6DC2316462DEACDC6E783A2EE4CCA9&selectedIndex=15&itb=0
+        - listitem [ref=f35e843]:
+          - generic [ref=f35e844]:
+            - link "Image result for hruška Škaredka plody" [ref=f35e846] [cursor=pointer]:
+              - /url: /images/search?view=detailV2&ccid=MFAotGa9&id=2FCC05A8754E10A4B84FCE28C12366D433EDF450&thid=OIP.MFAotGa9w2itXCBrq8ONfQHaFj&mediaurl=https%3a%2f%2fimg.primadoma.cz%2fw_4%2f4c%2f81%2fthumb%2f4c8104aebce41aaa042fdfbd1991247c.jpg&cdnurl=https%3a%2f%2fth.bing.com%2fth%2fid%2fR.305028b466bdc368ad5c206babc38d7d%3frik%3dUPTtM9RmI8Eozg%26pid%3dImgRaw%26r%3d0&exph=420&expw=560&q=hru%c5%a1ka+%c5%a0karedka+plody&FORM=IRPRST&ck=0A129F0346FCACD19887DB6B89C972BE&selectedIndex=16&itb=0
+              - img "Image result for hruška Škaredka plody" [ref=f35e848]
+            - generic [ref=f35e849]:
+              - link "Víte, jaké jsou nejlepší odrůdy hrušek? | Zahrádkářská poradna" [ref=f35e850] [cursor=pointer]:
+                - /url: /images/search?view=detailV2&ccid=MFAotGa9&id=2FCC05A8754E10A4B84FCE28C12366D433EDF450&thid=OIP.MFAotGa9w2itXCBrq8ONfQHaFj&mediaurl=https%3a%2f%2fimg.primadoma.cz%2fw_4%2f4c%2f81%2fthumb%2f4c8104aebce41aaa042fdfbd1991247c.jpg&cdnurl=https%3a%2f%2fth.bing.com%2fth%2fid%2fR.305028b466bdc368ad5c206babc38d7d%3frik%3dUPTtM9RmI8Eozg%26pid%3dImgRaw%26r%3d0&exph=420&expw=560&q=hru%c5%a1ka+%c5%a0karedka+plody&FORM=IRPRST&ck=0A129F0346FCACD19887DB6B89C972BE&selectedIndex=16&itb=0
+              - generic:
+                - generic:
+                  - list:
+                    - listitem:
+                      - link "Víte, jaké jsou nejlepší odrůdy hrušek? | Zahrádkářská poradna" [ref=f35e851] [cursor=pointer]:
+                        - /url: /images/search?view=detailV2&ccid=MFAotGa9&id=2FCC05A8754E10A4B84FCE28C12366D433EDF450&thid=OIP.MFAotGa9w2itXCBrq8ONfQHaFj&mediaurl=https%3a%2f%2fimg.primadoma.cz%2fw_4%2f4c%2f81%2fthumb%2f4c8104aebce41aaa042fdfbd1991247c.jpg&cdnurl=https%3a%2f%2fth.bing.com%2fth%2fid%2fR.305028b466bdc368ad5c206babc38d7d%3frik%3dUPTtM9RmI8Eozg%26pid%3dImgRaw%26r%3d0&exph=420&expw=560&q=hru%c5%a1ka+%c5%a0karedka+plody&FORM=IRPRST&ck=0A129F0346FCACD19887DB6B89C972BE&selectedIndex=16&itb=0
+        - listitem [ref=f35e852]:
+          - generic [ref=f35e853]:
+            - link "Image result for hruška Škaredka plody" [ref=f35e855] [cursor=pointer]:
+              - /url: /images/search?view=detailV2&ccid=v%2bVd42F%2b&id=2FCC05A8754E10A4B84F1AD0F99F03C10D85FD86&thid=OIP.v-Vd42F-X5J8EgrdGIu7NQHaFj&mediaurl=https%3a%2f%2fimg.primadoma.cz%2fw_4%2ffa%2fcc%2fthumb%2ffacc604c82ce6cebc27ceb3a6f9330a8.jpg&cdnurl=https%3a%2f%2fth.bing.com%2fth%2fid%2fR.bfe55de3617e5f927c120add188bbb35%3frik%3dhv2FDcEDn%252fnQGg%26pid%3dImgRaw%26r%3d0&exph=420&expw=560&q=hru%c5%a1ka+%c5%a0karedka+plody&FORM=IRPRST&ck=532E11BBDC38C92D73378ED475D188EE&selectedIndex=17&itb=0
+              - img "Image result for hruška Škaredka plody" [ref=f35e857]
+            - generic [ref=f35e858]:
+              - link "Víte, jaké jsou nejlepší odrůdy hrušek? | Zahrádkářská poradna" [ref=f35e859] [cursor=pointer]:
+                - /url: /images/search?view=detailV2&ccid=v%2bVd42F%2b&id=2FCC05A8754E10A4B84F1AD0F99F03C10D85FD86&thid=OIP.v-Vd42F-X5J8EgrdGIu7NQHaFj&mediaurl=https%3a%2f%2fimg.primadoma.cz%2fw_4%2ffa%2fcc%2fthumb%2ffacc604c82ce6cebc27ceb3a6f9330a8.jpg&cdnurl=https%3a%2f%2fth.bing.com%2fth%2fid%2fR.bfe55de3617e5f927c120add188bbb35%3frik%3dhv2FDcEDn%252fnQGg%26pid%3dImgRaw%26r%3d0&exph=420&expw=560&q=hru%c5%a1ka+%c5%a0karedka+plody&FORM=IRPRST&ck=532E11BBDC38C92D73378ED475D188EE&selectedIndex=17&itb=0
+              - generic:
+                - generic:
+                  - list:
+                    - listitem:
+                      - link "Víte, jaké jsou nejlepší odrůdy hrušek? | Zahrádkářská poradna" [ref=f35e860] [cursor=pointer]:
+                        - /url: /images/search?view=detailV2&ccid=v%2bVd42F%2b&id=2FCC05A8754E10A4B84F1AD0F99F03C10D85FD86&thid=OIP.v-Vd42F-X5J8EgrdGIu7NQHaFj&mediaurl=https%3a%2f%2fimg.primadoma.cz%2fw_4%2ffa%2fcc%2fthumb%2ffacc604c82ce6cebc27ceb3a6f9330a8.jpg&cdnurl=https%3a%2f%2fth.bing.com%2fth%2fid%2fR.bfe55de3617e5f927c120add188bbb35%3frik%3dhv2FDcEDn%252fnQGg%26pid%3dImgRaw%26r%3d0&exph=420&expw=560&q=hru%c5%a1ka+%c5%a0karedka+plody&FORM=IRPRST&ck=532E11BBDC38C92D73378ED475D188EE&selectedIndex=17&itb=0
+        - listitem [ref=f35e861]:
+          - generic [ref=f35e862]:
+            - generic [ref=f35e863]:
+              - link "Image result for hruška Škaredka plody" [ref=f35e864] [cursor=pointer]:
+                - /url: /images/search?view=detailV2&ccid=cydRMxVW&id=2EA76E1140493FE62B65957AD97D8582AD3D30FD&thid=OIP.cydRMxVW9xiA0Og1YEJknQHaE7&mediaurl=https%3a%2f%2fpestrazahrada.cz%2fwp-content%2fuploads%2f2017%2f11%2fIMG_7398.jpg&cdnurl=https%3a%2f%2fth.bing.com%2fth%2fid%2fR.732751331556f71880d0e8356042649d%3frik%3d%252fTA9rYKFfdl6lQ%26pid%3dImgRaw%26r%3d0&exph=679&expw=1019&q=hru%c5%a1ka+%c5%a0karedka+plody&FORM=IRPRST&ck=626FB089B2C4B62FF6B46BAB23B5AF59&selectedIndex=18&itb=0
+                - generic [ref=f35e866]:
+                  - img "Image result for hruška Škaredka plody" [ref=f35e868]
+                  - generic:
+                    - img "Image result for hruška Škaredka plody"
+                    - img "Image result for hruška Škaredka plody"
+              - link "Gallery" [ref=f35e869] [cursor=pointer]:
+                - /url: /images/search?view=detailV2&ccid=cydRMxVW&id=2EA76E1140493FE62B65957AD97D8582AD3D30FD&thid=OIP.cydRMxVW9xiA0Og1YEJknQHaE7&mediaurl=https%3a%2f%2fpestrazahrada.cz%2fwp-content%2fuploads%2f2017%2f11%2fIMG_7398.jpg&cdnurl=https%3a%2f%2fth.bing.com%2fth%2fid%2fR.732751331556f71880d0e8356042649d%3frik%3d%252fTA9rYKFfdl6lQ%26pid%3dImgRaw%26r%3d0&exph=679&expw=1019&q=hru%c5%a1ka+%c5%a0karedka+plody&FORM=IRPRST&ck=626FB089B2C4B62FF6B46BAB23B5AF59&selectedIndex=18&itb=0
+              - generic:
+                - generic: 1019×679
+                - generic:
+                  - link "pestrazahrada.cz":
+                    - /url: https://pestrazahrada.cz/si-zahrade-vypestovat-sladke-hrusky/
+            - generic [ref=f35e871]:
+              - link "Jak si na zahradě vypěstovat sladké hrušky - Pestrá Zahrada" [ref=f35e872] [cursor=pointer]:
+                - /url: /images/search?view=detailV2&ccid=cydRMxVW&id=2EA76E1140493FE62B65957AD97D8582AD3D30FD&thid=OIP.cydRMxVW9xiA0Og1YEJknQHaE7&mediaurl=https%3a%2f%2fpestrazahrada.cz%2fwp-content%2fuploads%2f2017%2f11%2fIMG_7398.jpg&cdnurl=https%3a%2f%2fth.bing.com%2fth%2fid%2fR.732751331556f71880d0e8356042649d%3frik%3d%252fTA9rYKFfdl6lQ%26pid%3dImgRaw%26r%3d0&exph=679&expw=1019&q=hru%c5%a1ka+%c5%a0karedka+plody&FORM=IRPRST&ck=626FB089B2C4B62FF6B46BAB23B5AF59&selectedIndex=18&itb=0
+              - generic:
+                - generic:
+                  - list:
+                    - listitem:
+                      - link "Jak si na zahradě vypěstovat sladké hrušky - Pestrá Zahrada" [ref=f35e873] [cursor=pointer]:
+                        - /url: /images/search?view=detailV2&ccid=cydRMxVW&id=2EA76E1140493FE62B65957AD97D8582AD3D30FD&thid=OIP.cydRMxVW9xiA0Og1YEJknQHaE7&mediaurl=https%3a%2f%2fpestrazahrada.cz%2fwp-content%2fuploads%2f2017%2f11%2fIMG_7398.jpg&cdnurl=https%3a%2f%2fth.bing.com%2fth%2fid%2fR.732751331556f71880d0e8356042649d%3frik%3d%252fTA9rYKFfdl6lQ%26pid%3dImgRaw%26r%3d0&exph=679&expw=1019&q=hru%c5%a1ka+%c5%a0karedka+plody&FORM=IRPRST&ck=626FB089B2C4B62FF6B46BAB23B5AF59&selectedIndex=18&itb=0
+      - list [ref=f35e874]:
+        - listitem [ref=f35e875]:
+          - generic [ref=f35e876]:
+            - link "Image result for hruška Škaredka plody" [ref=f35e878] [cursor=pointer]:
+              - /url: /images/search?view=detailV2&ccid=CmsCmYg4&id=7A1E4C8B5A461FB4EEB21CDC1BF1F18DBFDA0F29&thid=OIP.CmsCmYg4VqQOvChLbiyG_gHaEK&mediaurl=https%3a%2f%2f1gr.cz%2ffotky%2fidnes%2f21%2f021%2fr7%2fIHA89252f_HDCZ06005_AdobeStock.jpg&cdnurl=https%3a%2f%2fth.bing.com%2fth%2fid%2fR.0a6b0299883856a40ebc284b6e2c86fe%3frik%3dKQ%252fav43x8RvcHA%26pid%3dImgRaw%26r%3d0&exph=579&expw=1030&q=hru%c5%a1ka+%c5%a0karedka+plody&FORM=IRPRST&ck=1A9F8A8B2E5F6534F59648EDF9C0E452&selectedIndex=19&itb=0
+              - img "Image result for hruška Škaredka plody" [ref=f35e880]
+            - generic [ref=f35e881]:
+              - 'link "Sklizeň hrušek podle odrůd: přehled a praktické rady - iDNES.cz" [ref=f35e882] [cursor=pointer]':
+                - /url: /images/search?view=detailV2&ccid=CmsCmYg4&id=7A1E4C8B5A461FB4EEB21CDC1BF1F18DBFDA0F29&thid=OIP.CmsCmYg4VqQOvChLbiyG_gHaEK&mediaurl=https%3a%2f%2f1gr.cz%2ffotky%2fidnes%2f21%2f021%2fr7%2fIHA89252f_HDCZ06005_AdobeStock.jpg&cdnurl=https%3a%2f%2fth.bing.com%2fth%2fid%2fR.0a6b0299883856a40ebc284b6e2c86fe%3frik%3dKQ%252fav43x8RvcHA%26pid%3dImgRaw%26r%3d0&exph=579&expw=1030&q=hru%c5%a1ka+%c5%a0karedka+plody&FORM=IRPRST&ck=1A9F8A8B2E5F6534F59648EDF9C0E452&selectedIndex=19&itb=0
+              - generic:
+                - generic:
+                  - list:
+                    - listitem:
+                      - 'link "Sklizeň hrušek podle odrůd: přehled a praktické rady - iDNES.cz" [ref=f35e883] [cursor=pointer]':
+                        - /url: /images/search?view=detailV2&ccid=CmsCmYg4&id=7A1E4C8B5A461FB4EEB21CDC1BF1F18DBFDA0F29&thid=OIP.CmsCmYg4VqQOvChLbiyG_gHaEK&mediaurl=https%3a%2f%2f1gr.cz%2ffotky%2fidnes%2f21%2f021%2fr7%2fIHA89252f_HDCZ06005_AdobeStock.jpg&cdnurl=https%3a%2f%2fth.bing.com%2fth%2fid%2fR.0a6b0299883856a40ebc284b6e2c86fe%3frik%3dKQ%252fav43x8RvcHA%26pid%3dImgRaw%26r%3d0&exph=579&expw=1030&q=hru%c5%a1ka+%c5%a0karedka+plody&FORM=IRPRST&ck=1A9F8A8B2E5F6534F59648EDF9C0E452&selectedIndex=19&itb=0
+        - listitem [ref=f35e884]:
+          - generic [ref=f35e885]:
+            - link "Image result for hruška Škaredka plody" [ref=f35e887] [cursor=pointer]:
+              - /url: /images/search?view=detailV2&ccid=dWJObIsl&id=5BF68DA45BF2AB634F2D93FE1C3C13037C6F90CF&thid=OIP.dWJObIsl4-e2vBaCjmg7agHaDh&mediaurl=https%3a%2f%2fwww.bydlimekvalitne.cz%2fsites%2fdefault%2ffiles%2fstyles%2fimage_840x400%2fpublic%2fshutterstock_1469014424.jpg%3fitok%3dhtI8vghN%26c%3d631ebccbf7f0966759b497c980f2ef81&cdnurl=https%3a%2f%2fth.bing.com%2fth%2fid%2fR.75624e6c8b25e3e7b6bc16828e683b6a%3frik%3dz5BvfAMTPBz%252bkw%26pid%3dImgRaw%26r%3d0&exph=400&expw=839&q=hru%c5%a1ka+%c5%a0karedka+plody&FORM=IRPRST&ck=BF389A971EFCEC346A87E7CF2DDCF144&selectedIndex=20&itb=0
+              - img "Image result for hruška Škaredka plody" [ref=f35e889]
+            - generic [ref=f35e890]:
+              - 'link "Sezóna hrušek je v plném proudu: Dopřejte tělu nálož zdraví s ..." [ref=f35e891] [cursor=pointer]':
+                - /url: /images/search?view=detailV2&ccid=dWJObIsl&id=5BF68DA45BF2AB634F2D93FE1C3C13037C6F90CF&thid=OIP.dWJObIsl4-e2vBaCjmg7agHaDh&mediaurl=https%3a%2f%2fwww.bydlimekvalitne.cz%2fsites%2fdefault%2ffiles%2fstyles%2fimage_840x400%2fpublic%2fshutterstock_1469014424.jpg%3fitok%3dhtI8vghN%26c%3d631ebccbf7f0966759b497c980f2ef81&cdnurl=https%3a%2f%2fth.bing.com%2fth%2fid%2fR.75624e6c8b25e3e7b6bc16828e683b6a%3frik%3dz5BvfAMTPBz%252bkw%26pid%3dImgRaw%26r%3d0&exph=400&expw=839&q=hru%c5%a1ka+%c5%a0karedka+plody&FORM=IRPRST&ck=BF389A971EFCEC346A87E7CF2DDCF144&selectedIndex=20&itb=0
+              - generic:
+                - generic:
+                  - list:
+                    - listitem:
+                      - 'link "Sezóna hrušek je v plném proudu: Dopřejte tělu nálož zdraví s ..." [ref=f35e892] [cursor=pointer]':
+                        - /url: /images/search?view=detailV2&ccid=dWJObIsl&id=5BF68DA45BF2AB634F2D93FE1C3C13037C6F90CF&thid=OIP.dWJObIsl4-e2vBaCjmg7agHaDh&mediaurl=https%3a%2f%2fwww.bydlimekvalitne.cz%2fsites%2fdefault%2ffiles%2fstyles%2fimage_840x400%2fpublic%2fshutterstock_1469014424.jpg%3fitok%3dhtI8vghN%26c%3d631ebccbf7f0966759b497c980f2ef81&cdnurl=https%3a%2f%2fth.bing.com%2fth%2fid%2fR.75624e6c8b25e3e7b6bc16828e683b6a%3frik%3dz5BvfAMTPBz%252bkw%26pid%3dImgRaw%26r%3d0&exph=400&expw=839&q=hru%c5%a1ka+%c5%a0karedka+plody&FORM=IRPRST&ck=BF389A971EFCEC346A87E7CF2DDCF144&selectedIndex=20&itb=0
+        - listitem [ref=f35e893]:
+          - generic [ref=f35e894]:
+            - link "Image result for hruška Škaredka plody" [ref=f35e896] [cursor=pointer]:
+              - /url: /images/search?view=detailV2&ccid=dbTuLoCr&id=DDEF83A1E27F29CAEE6C7097E2749848BFA16997&thid=OIP.dbTuLoCrWshgG3-cKPwcsQAAAA&mediaurl=https%3a%2f%2fazbyka.ru%2fgarden%2fwp-content%2fuploads%2f2024%2f08%2fgrusha-e1724674689966.jpg&cdnurl=https%3a%2f%2fth.bing.com%2fth%2fid%2fR.75b4ee2e80ab5ac8601b7f9c28fc1cb1%3frik%3dl2mhv0iYdOKXcA%26pid%3dImgRaw%26r%3d0&exph=300&expw=300&q=hru%c5%a1ka+%c5%a0karedka+plody&FORM=IRPRST&ck=9017528755130BDFFF1AB2188CE6C0E5&selectedIndex=21&itb=0
+              - img "Image result for hruška Škaredka plody" [ref=f35e898]
+            - generic [ref=f35e899]:
+              - 'link "Kamenité hrušně. Hrušky s výstupky a promáčklinami: dají se jíst? Blog ..." [ref=f35e900] [cursor=pointer]':
+                - /url: /images/search?view=detailV2&ccid=dbTuLoCr&id=DDEF83A1E27F29CAEE6C7097E2749848BFA16997&thid=OIP.dbTuLoCrWshgG3-cKPwcsQAAAA&mediaurl=https%3a%2f%2fazbyka.ru%2fgarden%2fwp-content%2fuploads%2f2024%2f08%2fgrusha-e1724674689966.jpg&cdnurl=https%3a%2f%2fth.bing.com%2fth%2fid%2fR.75b4ee2e80ab5ac8601b7f9c28fc1cb1%3frik%3dl2mhv0iYdOKXcA%26pid%3dImgRaw%26r%3d0&exph=300&expw=300&q=hru%c5%a1ka+%c5%a0karedka+plody&FORM=IRPRST&ck=9017528755130BDFFF1AB2188CE6C0E5&selectedIndex=21&itb=0
+              - generic:
+                - generic:
+                  - list:
+                    - listitem:
+                      - link "Kamenité hrušně. Hrušky s výstupky a …" [ref=f35e901] [cursor=pointer]:
+                        - /url: /images/search?view=detailV2&ccid=dbTuLoCr&id=DDEF83A1E27F29CAEE6C7097E2749848BFA16997&thid=OIP.dbTuLoCrWshgG3-cKPwcsQAAAA&mediaurl=https%3a%2f%2fazbyka.ru%2fgarden%2fwp-content%2fuploads%2f2024%2f08%2fgrusha-e1724674689966.jpg&cdnurl=https%3a%2f%2fth.bing.com%2fth%2fid%2fR.75b4ee2e80ab5ac8601b7f9c28fc1cb1%3frik%3dl2mhv0iYdOKXcA%26pid%3dImgRaw%26r%3d0&exph=300&expw=300&q=hru%c5%a1ka+%c5%a0karedka+plody&FORM=IRPRST&ck=9017528755130BDFFF1AB2188CE6C0E5&selectedIndex=21&itb=0
+        - listitem [ref=f35e902]:
+          - generic [ref=f35e903]:
+            - link "Image result for hruška Škaredka plody" [ref=f35e905] [cursor=pointer]:
+              - /url: /images/search?view=detailV2&ccid=aNZdfm9W&id=544AF5162D4843F8A4E828955EF51CD896E5960F&thid=OIP.aNZdfm9W_NGhTv6FC7fVUwHaLH&mediaurl=https%3a%2f%2fhnojik.sk%2fwp-content%2fuploads%2f2024%2f05%2fconference-pear-1024x1536.jpg&cdnurl=https%3a%2f%2fth.bing.com%2fth%2fid%2fR.68d65d7e6f56fcd1a14efe850bb7d553%3frik%3dD5blltgc9V6VKA%26pid%3dImgRaw%26r%3d0&exph=1536&expw=1024&q=hru%c5%a1ka+%c5%a0karedka+plody&FORM=IRPRST&ck=369B53EA199827F9A5E14A0D8AC78417&selectedIndex=22&itb=0
+              - img "Image result for hruška Škaredka plody" [ref=f35e907]
+            - generic [ref=f35e908]:
+              - link "Hruška - Najlepšie odrody, rez a ochrana | Hnojík.SK" [ref=f35e909] [cursor=pointer]:
+                - /url: /images/search?view=detailV2&ccid=aNZdfm9W&id=544AF5162D4843F8A4E828955EF51CD896E5960F&thid=OIP.aNZdfm9W_NGhTv6FC7fVUwHaLH&mediaurl=https%3a%2f%2fhnojik.sk%2fwp-content%2fuploads%2f2024%2f05%2fconference-pear-1024x1536.jpg&cdnurl=https%3a%2f%2fth.bing.com%2fth%2fid%2fR.68d65d7e6f56fcd1a14efe850bb7d553%3frik%3dD5blltgc9V6VKA%26pid%3dImgRaw%26r%3d0&exph=1536&expw=1024&q=hru%c5%a1ka+%c5%a0karedka+plody&FORM=IRPRST&ck=369B53EA199827F9A5E14A0D8AC78417&selectedIndex=22&itb=0
+              - generic:
+                - generic:
+                  - list:
+                    - listitem:
+                      - link "Hruška - Najlepšie odrod…" [ref=f35e910] [cursor=pointer]:
+                        - /url: /images/search?view=detailV2&ccid=aNZdfm9W&id=544AF5162D4843F8A4E828955EF51CD896E5960F&thid=OIP.aNZdfm9W_NGhTv6FC7fVUwHaLH&mediaurl=https%3a%2f%2fhnojik.sk%2fwp-content%2fuploads%2f2024%2f05%2fconference-pear-1024x1536.jpg&cdnurl=https%3a%2f%2fth.bing.com%2fth%2fid%2fR.68d65d7e6f56fcd1a14efe850bb7d553%3frik%3dD5blltgc9V6VKA%26pid%3dImgRaw%26r%3d0&exph=1536&expw=1024&q=hru%c5%a1ka+%c5%a0karedka+plody&FORM=IRPRST&ck=369B53EA199827F9A5E14A0D8AC78417&selectedIndex=22&itb=0
+        - listitem [ref=f35e911]:
+          - generic [ref=f35e912]:
+            - link "Image result for hruška Škaredka plody" [ref=f35e914] [cursor=pointer]:
+              - /url: /images/search?view=detailV2&ccid=HvD%2bAeIA&id=760EC0E73F0F28658A0E90DDD68E15005024F029&thid=OIP.HvD-AeIAVsN-Y5961EcynQHaE8&mediaurl=https%3a%2f%2fpixnio.com%2ffree-images%2f2020%2f02%2f14%2f2020-02-14-08-35-52.jpg&cdnurl=https%3a%2f%2fth.bing.com%2fth%2fid%2fR.1ef0fe01e20056c37e639f7ad447329d%3frik%3dKfAkUAAVjtbdkA%26pid%3dImgRaw%26r%3d0&exph=4000&expw=6000&q=hru%c5%a1ka+%c5%a0karedka+plody&FORM=IRPRST&ck=1BE89E5E2A32B8A87D0C816595E57E12&selectedIndex=23&itb=0
+              - img "Image result for hruška Škaredka plody" [ref=f35e916]
+            - generic [ref=f35e917]:
+              - 'link "Bezplatný obrázek: polovina, organický, hrušky, zralé plody, výseče ..." [ref=f35e918] [cursor=pointer]':
+                - /url: /images/search?view=detailV2&ccid=HvD%2bAeIA&id=760EC0E73F0F28658A0E90DDD68E15005024F029&thid=OIP.HvD-AeIAVsN-Y5961EcynQHaE8&mediaurl=https%3a%2f%2fpixnio.com%2ffree-images%2f2020%2f02%2f14%2f2020-02-14-08-35-52.jpg&cdnurl=https%3a%2f%2fth.bing.com%2fth%2fid%2fR.1ef0fe01e20056c37e639f7ad447329d%3frik%3dKfAkUAAVjtbdkA%26pid%3dImgRaw%26r%3d0&exph=4000&expw=6000&q=hru%c5%a1ka+%c5%a0karedka+plody&FORM=IRPRST&ck=1BE89E5E2A32B8A87D0C816595E57E12&selectedIndex=23&itb=0
+              - generic:
+                - generic:
+                  - list:
+                    - listitem:
+                      - 'link "Bezplatný obrázek: polovina, organický, hrušky, zralé plody, vý…" [ref=f35e919] [cursor=pointer]':
+                        - /url: /images/search?view=detailV2&ccid=HvD%2bAeIA&id=760EC0E73F0F28658A0E90DDD68E15005024F029&thid=OIP.HvD-AeIAVsN-Y5961EcynQHaE8&mediaurl=https%3a%2f%2fpixnio.com%2ffree-images%2f2020%2f02%2f14%2f2020-02-14-08-35-52.jpg&cdnurl=https%3a%2f%2fth.bing.com%2fth%2fid%2fR.1ef0fe01e20056c37e639f7ad447329d%3frik%3dKfAkUAAVjtbdkA%26pid%3dImgRaw%26r%3d0&exph=4000&expw=6000&q=hru%c5%a1ka+%c5%a0karedka+plody&FORM=IRPRST&ck=1BE89E5E2A32B8A87D0C816595E57E12&selectedIndex=23&itb=0
+      - list [ref=f35e920]:
+        - listitem [ref=f35e921]:
+          - generic [ref=f35e922]:
+            - link "Image result for hruška Škaredka plody" [ref=f35e924] [cursor=pointer]:
+              - /url: /images/search?view=detailV2&ccid=pb%2flXbbU&id=760EC0E73F0F28658A0E85AAB7B8D0FD09704555&thid=OIP.pb_lXbbUbXMTNzWVjHcrYAHaE8&mediaurl=https%3a%2f%2fpixnio.com%2ffree-images%2f2020%2f01%2f28%2f2020-01-28-09-04-31-550x367.jpg&cdnurl=https%3a%2f%2fth.bing.com%2fth%2fid%2fR.a5bfe55db6d46d73133735958c772b60%3frik%3dVUVwCf3QuLeqhQ%26pid%3dImgRaw%26r%3d0&exph=384&expw=576&q=hru%c5%a1ka+%c5%a0karedka+plody&FORM=IRPRST&ck=D9D5299A08157D0968C7261B8AEEE1BC&selectedIndex=24&itb=0
+              - img "Image result for hruška Škaredka plody" [ref=f35e926]
+            - generic [ref=f35e927]:
+              - 'link "Bezplatný obrázek: polovina, organický, hrušky, zralé plody, výseče ..." [ref=f35e928] [cursor=pointer]':
+                - /url: /images/search?view=detailV2&ccid=pb%2flXbbU&id=760EC0E73F0F28658A0E85AAB7B8D0FD09704555&thid=OIP.pb_lXbbUbXMTNzWVjHcrYAHaE8&mediaurl=https%3a%2f%2fpixnio.com%2ffree-images%2f2020%2f01%2f28%2f2020-01-28-09-04-31-550x367.jpg&cdnurl=https%3a%2f%2fth.bing.com%2fth%2fid%2fR.a5bfe55db6d46d73133735958c772b60%3frik%3dVUVwCf3QuLeqhQ%26pid%3dImgRaw%26r%3d0&exph=384&expw=576&q=hru%c5%a1ka+%c5%a0karedka+plody&FORM=IRPRST&ck=D9D5299A08157D0968C7261B8AEEE1BC&selectedIndex=24&itb=0
+              - generic:
+                - generic:
+                  - list:
+                    - listitem:
+                      - 'link "Bezplatný obrázek: polovina, organický, hrušky, zralé plody, …" [ref=f35e929] [cursor=pointer]':
+                        - /url: /images/search?view=detailV2&ccid=pb%2flXbbU&id=760EC0E73F0F28658A0E85AAB7B8D0FD09704555&thid=OIP.pb_lXbbUbXMTNzWVjHcrYAHaE8&mediaurl=https%3a%2f%2fpixnio.com%2ffree-images%2f2020%2f01%2f28%2f2020-01-28-09-04-31-550x367.jpg&cdnurl=https%3a%2f%2fth.bing.com%2fth%2fid%2fR.a5bfe55db6d46d73133735958c772b60%3frik%3dVUVwCf3QuLeqhQ%26pid%3dImgRaw%26r%3d0&exph=384&expw=576&q=hru%c5%a1ka+%c5%a0karedka+plody&FORM=IRPRST&ck=D9D5299A08157D0968C7261B8AEEE1BC&selectedIndex=24&itb=0
+        - listitem [ref=f35e930]:
+          - generic [ref=f35e931]:
+            - link "Image result for hruška Škaredka plody" [ref=f35e933] [cursor=pointer]:
+              - /url: /images/search?view=detailV2&ccid=HKYHAVkc&id=5F239F119CC1F64254A5B64934D147E9FB649CE4&thid=OIP.HKYHAVkcAblawmxKEozs-gHaE8&mediaurl=https%3a%2f%2fwww.expressinfo.cz%2fwp-content%2fuploads%2f2022%2f12%2frozkrojena-hruska.jpg&cdnurl=https%3a%2f%2fth.bing.com%2fth%2fid%2fR.1ca60701591c01b95ac26c4a128cecfa%3frik%3d5Jxk%252b%252blH0TRJtg%26pid%3dImgRaw%26r%3d0&exph=800&expw=1200&q=hru%c5%a1ka+%c5%a0karedka+plody&FORM=IRPRST&ck=6071BD068605FE8234606EDB64E9E256&selectedIndex=25&itb=0
+              - img "Image result for hruška Škaredka plody" [ref=f35e935]
+            - generic [ref=f35e936]:
+              - link "Hruška – kalorie (kcal i kJ), vitamíny a recepty" [ref=f35e937] [cursor=pointer]:
+                - /url: /images/search?view=detailV2&ccid=HKYHAVkc&id=5F239F119CC1F64254A5B64934D147E9FB649CE4&thid=OIP.HKYHAVkcAblawmxKEozs-gHaE8&mediaurl=https%3a%2f%2fwww.expressinfo.cz%2fwp-content%2fuploads%2f2022%2f12%2frozkrojena-hruska.jpg&cdnurl=https%3a%2f%2fth.bing.com%2fth%2fid%2fR.1ca60701591c01b95ac26c4a128cecfa%3frik%3d5Jxk%252b%252blH0TRJtg%26pid%3dImgRaw%26r%3d0&exph=800&expw=1200&q=hru%c5%a1ka+%c5%a0karedka+plody&FORM=IRPRST&ck=6071BD068605FE8234606EDB64E9E256&selectedIndex=25&itb=0
+              - generic:
+                - generic:
+                  - list:
+                    - listitem:
+                      - link "Hruška – kalorie (kcal i kJ), vitamíny a recepty" [ref=f35e938] [cursor=pointer]:
+                        - /url: /images/search?view=detailV2&ccid=HKYHAVkc&id=5F239F119CC1F64254A5B64934D147E9FB649CE4&thid=OIP.HKYHAVkcAblawmxKEozs-gHaE8&mediaurl=https%3a%2f%2fwww.expressinfo.cz%2fwp-content%2fuploads%2f2022%2f12%2frozkrojena-hruska.jpg&cdnurl=https%3a%2f%2fth.bing.com%2fth%2fid%2fR.1ca60701591c01b95ac26c4a128cecfa%3frik%3d5Jxk%252b%252blH0TRJtg%26pid%3dImgRaw%26r%3d0&exph=800&expw=1200&q=hru%c5%a1ka+%c5%a0karedka+plody&FORM=IRPRST&ck=6071BD068605FE8234606EDB64E9E256&selectedIndex=25&itb=0
+        - listitem [ref=f35e939]:
+          - generic [ref=f35e940]:
+            - link "Image result for hruška Škaredka plody" [ref=f35e942] [cursor=pointer]:
+              - /url: /images/search?view=detailV2&ccid=aj3cW9w4&id=C1DDD94C160ED10C6C42F8B9447D2E5621AA4F88&thid=OIP.aj3cW9w4Eb0xburSmk1EvwHaFj&mediaurl=https%3a%2f%2fwww.vhoz.ru%2fupload%2fmedialibrary%2feef%2feefa04b5933fee9915d9e316d9fcbb17.jpg&cdnurl=https%3a%2f%2fth.bing.com%2fth%2fid%2fR.6a3ddc5bdc3811bd316eead29a4d44bf%3frik%3diE%252bqIVYufUS5%252bA%26pid%3dImgRaw%26r%3d0&exph=768&expw=1024&q=hru%c5%a1ka+%c5%a0karedka+plody&FORM=IRPRST&ck=5DA288754EFBF59B3D7A0B9C6596A2CA&selectedIndex=26&itb=0
+              - img "Image result for hruška Škaredka plody" [ref=f35e944]
+            - generic [ref=f35e945]:
+              - link "Kterou odrůdu hrušek je nejlepší pěstovat?" [ref=f35e946] [cursor=pointer]:
+                - /url: /images/search?view=detailV2&ccid=aj3cW9w4&id=C1DDD94C160ED10C6C42F8B9447D2E5621AA4F88&thid=OIP.aj3cW9w4Eb0xburSmk1EvwHaFj&mediaurl=https%3a%2f%2fwww.vhoz.ru%2fupload%2fmedialibrary%2feef%2feefa04b5933fee9915d9e316d9fcbb17.jpg&cdnurl=https%3a%2f%2fth.bing.com%2fth%2fid%2fR.6a3ddc5bdc3811bd316eead29a4d44bf%3frik%3diE%252bqIVYufUS5%252bA%26pid%3dImgRaw%26r%3d0&exph=768&expw=1024&q=hru%c5%a1ka+%c5%a0karedka+plody&FORM=IRPRST&ck=5DA288754EFBF59B3D7A0B9C6596A2CA&selectedIndex=26&itb=0
+              - generic:
+                - generic:
+                  - list:
+                    - listitem:
+                      - link "Kterou odrůdu hrušek je nejlepší pěstovat?" [ref=f35e947] [cursor=pointer]:
+                        - /url: /images/search?view=detailV2&ccid=aj3cW9w4&id=C1DDD94C160ED10C6C42F8B9447D2E5621AA4F88&thid=OIP.aj3cW9w4Eb0xburSmk1EvwHaFj&mediaurl=https%3a%2f%2fwww.vhoz.ru%2fupload%2fmedialibrary%2feef%2feefa04b5933fee9915d9e316d9fcbb17.jpg&cdnurl=https%3a%2f%2fth.bing.com%2fth%2fid%2fR.6a3ddc5bdc3811bd316eead29a4d44bf%3frik%3diE%252bqIVYufUS5%252bA%26pid%3dImgRaw%26r%3d0&exph=768&expw=1024&q=hru%c5%a1ka+%c5%a0karedka+plody&FORM=IRPRST&ck=5DA288754EFBF59B3D7A0B9C6596A2CA&selectedIndex=26&itb=0
+        - listitem [ref=f35e948]:
+          - generic [ref=f35e949]:
+            - link "Image result for hruška Škaredka plody" [ref=f35e951] [cursor=pointer]:
+              - /url: /images/search?view=detailV2&ccid=kg8o%2fVYH&id=047C230B6B1005DAB81F5CF1F16AA75E60F2C62F&thid=OIP.kg8o_VYHDXXLI_n1Vpjt_QHaEK&mediaurl=https%3a%2f%2fkuchynelidlu.cz%2fproductFiles%2f7756%2f1132x637-1-Copy-of-KW-38-22-hrusky-1.jpeg&cdnurl=https%3a%2f%2fth.bing.com%2fth%2fid%2fR.920f28fd56070d75cb23f9f55698edfd%3frik%3dL8byYF6navHxXA%26pid%3dImgRaw%26r%3d0&exph=637&expw=1132&q=hru%c5%a1ka+%c5%a0karedka+plody&FORM=IRPRST&ck=3073232B177CA5742F1CC6609D9D84F3&selectedIndex=27&itb=0
+              - img "Image result for hruška Škaredka plody" [ref=f35e953]
+            - generic [ref=f35e954]:
+              - link "Hruška a její rozmanité druhy | Kuchyně Lidlu" [ref=f35e955] [cursor=pointer]:
+                - /url: /images/search?view=detailV2&ccid=kg8o%2fVYH&id=047C230B6B1005DAB81F5CF1F16AA75E60F2C62F&thid=OIP.kg8o_VYHDXXLI_n1Vpjt_QHaEK&mediaurl=https%3a%2f%2fkuchynelidlu.cz%2fproductFiles%2f7756%2f1132x637-1-Copy-of-KW-38-22-hrusky-1.jpeg&cdnurl=https%3a%2f%2fth.bing.com%2fth%2fid%2fR.920f28fd56070d75cb23f9f55698edfd%3frik%3dL8byYF6navHxXA%26pid%3dImgRaw%26r%3d0&exph=637&expw=1132&q=hru%c5%a1ka+%c5%a0karedka+plody&FORM=IRPRST&ck=3073232B177CA5742F1CC6609D9D84F3&selectedIndex=27&itb=0
+              - generic:
+                - generic:
+                  - list:
+                    - listitem:
+                      - link "Hruška a její rozmanité druhy | Kuchyně Lidlu" [ref=f35e956] [cursor=pointer]:
+                        - /url: /images/search?view=detailV2&ccid=kg8o%2fVYH&id=047C230B6B1005DAB81F5CF1F16AA75E60F2C62F&thid=OIP.kg8o_VYHDXXLI_n1Vpjt_QHaEK&mediaurl=https%3a%2f%2fkuchynelidlu.cz%2fproductFiles%2f7756%2f1132x637-1-Copy-of-KW-38-22-hrusky-1.jpeg&cdnurl=https%3a%2f%2fth.bing.com%2fth%2fid%2fR.920f28fd56070d75cb23f9f55698edfd%3frik%3dL8byYF6navHxXA%26pid%3dImgRaw%26r%3d0&exph=637&expw=1132&q=hru%c5%a1ka+%c5%a0karedka+plody&FORM=IRPRST&ck=3073232B177CA5742F1CC6609D9D84F3&selectedIndex=27&itb=0
+        - listitem [ref=f35e957]:
+          - generic [ref=f35e958]:
+            - link "Image result for hruška Škaredka plody" [ref=f35e960] [cursor=pointer]:
+              - /url: /images/search?view=detailV2&ccid=wtqnBQ0g&id=760EC0E73F0F28658A0E580609BE56FD36CBE4BC&thid=OIP.wtqnBQ0gUPGZwm1G_4IQdAHaE8&mediaurl=https%3a%2f%2fpixnio.com%2ffree-images%2f2020%2f02%2f14%2f2020-02-14-08-35-19-550x367.jpg&cdnurl=https%3a%2f%2fth.bing.com%2fth%2fid%2fR.c2daa7050d2050f199c26d46ff821074%3frik%3dvOTLNv1WvgkGWA%26pid%3dImgRaw%26r%3d0&exph=384&expw=576&q=hru%c5%a1ka+%c5%a0karedka+plody&FORM=IRPRST&ck=A3CC0B246C63ACA84BE51F432DB45623&selectedIndex=28&itb=0
+              - img "Image result for hruška Škaredka plody" [ref=f35e962]
+            - generic [ref=f35e963]:
+              - 'link "Bezplatný obrázek: polovina, organický, hrušky, zralé plody, výseče ..." [ref=f35e964] [cursor=pointer]':
+                - /url: /images/search?view=detailV2&ccid=wtqnBQ0g&id=760EC0E73F0F28658A0E580609BE56FD36CBE4BC&thid=OIP.wtqnBQ0gUPGZwm1G_4IQdAHaE8&mediaurl=https%3a%2f%2fpixnio.com%2ffree-images%2f2020%2f02%2f14%2f2020-02-14-08-35-19-550x367.jpg&cdnurl=https%3a%2f%2fth.bing.com%2fth%2fid%2fR.c2daa7050d2050f199c26d46ff821074%3frik%3dvOTLNv1WvgkGWA%26pid%3dImgRaw%26r%3d0&exph=384&expw=576&q=hru%c5%a1ka+%c5%a0karedka+plody&FORM=IRPRST&ck=A3CC0B246C63ACA84BE51F432DB45623&selectedIndex=28&itb=0
+              - generic:
+                - generic:
+                  - list:
+                    - listitem:
+                      - 'link "Bezplatný obrázek: polovina, organický, hrušky, zralé plody, …" [ref=f35e965] [cursor=pointer]':
+                        - /url: /images/search?view=detailV2&ccid=wtqnBQ0g&id=760EC0E73F0F28658A0E580609BE56FD36CBE4BC&thid=OIP.wtqnBQ0gUPGZwm1G_4IQdAHaE8&mediaurl=https%3a%2f%2fpixnio.com%2ffree-images%2f2020%2f02%2f14%2f2020-02-14-08-35-19-550x367.jpg&cdnurl=https%3a%2f%2fth.bing.com%2fth%2fid%2fR.c2daa7050d2050f199c26d46ff821074%3frik%3dvOTLNv1WvgkGWA%26pid%3dImgRaw%26r%3d0&exph=384&expw=576&q=hru%c5%a1ka+%c5%a0karedka+plody&FORM=IRPRST&ck=A3CC0B246C63ACA84BE51F432DB45623&selectedIndex=28&itb=0
+      - list [ref=f35e966]:
+        - listitem [ref=f35e967]:
+          - generic [ref=f35e968]:
+            - link "Image result for hruška Škaredka plody" [ref=f35e970] [cursor=pointer]:
+              - /url: /images/search?view=detailV2&ccid=Bh6P8x40&id=4EF42D57B3CA76DC69FBEDB800699E6BB557272A&thid=OIP.Bh6P8x40G7xBAKiPOpWOjwHaEE&mediaurl=https%3a%2f%2fimages.gastronom.ru%2fVT6a29AWglJTVfj9qDhoMAXrT5qLP0GvlpzxnoJYS2Q%2fpr%3aarticle-content-image%2fg%3ace%2frs%3aauto%3a0%3a0%3a0%2fL2Ntcy9hbGwtaW1hZ2VzL2ExODBiZTQxLWY0ZmUtNDY1Ni1hNmYwLTllY2EwMWJjOTFkOC5qcGc.webp&cdnurl=https%3a%2f%2fth.bing.com%2fth%2fid%2fR.061e8ff31e341bbc4100a88f3a958e8f%3frik%3dKidXtWueaQC47Q%26pid%3dImgRaw%26r%3d0&exph=660&expw=1200&q=hru%c5%a1ka+%c5%a0karedka+plody&FORM=IRPRST&ck=55E667BEC6B2812921EA11B892987124&selectedIndex=29&itb=0
+              - img "Image result for hruška Škaredka plody" [ref=f35e972]
+            - generic [ref=f35e973]:
+              - 'link "Jak správně skladovat hrušky: Podrobný průvodce – užitečné zahradnické ..." [ref=f35e974] [cursor=pointer]':
+                - /url: /images/search?view=detailV2&ccid=Bh6P8x40&id=4EF42D57B3CA76DC69FBEDB800699E6BB557272A&thid=OIP.Bh6P8x40G7xBAKiPOpWOjwHaEE&mediaurl=https%3a%2f%2fimages.gastronom.ru%2fVT6a29AWglJTVfj9qDhoMAXrT5qLP0GvlpzxnoJYS2Q%2fpr%3aarticle-content-image%2fg%3ace%2frs%3aauto%3a0%3a0%3a0%2fL2Ntcy9hbGwtaW1hZ2VzL2ExODBiZTQxLWY0ZmUtNDY1Ni1hNmYwLTllY2EwMWJjOTFkOC5qcGc.webp&cdnurl=https%3a%2f%2fth.bing.com%2fth%2fid%2fR.061e8ff31e341bbc4100a88f3a958e8f%3frik%3dKidXtWueaQC47Q%26pid%3dImgRaw%26r%3d0&exph=660&expw=1200&q=hru%c5%a1ka+%c5%a0karedka+plody&FORM=IRPRST&ck=55E667BEC6B2812921EA11B892987124&selectedIndex=29&itb=0
+              - generic:
+                - generic:
+                  - list:
+                    - listitem:
+                      - 'link "Jak správně skladovat hrušky: Podrobný průvodce – užitečné zahradnické ..." [ref=f35e975] [cursor=pointer]':
+                        - /url: /images/search?view=detailV2&ccid=Bh6P8x40&id=4EF42D57B3CA76DC69FBEDB800699E6BB557272A&thid=OIP.Bh6P8x40G7xBAKiPOpWOjwHaEE&mediaurl=https%3a%2f%2fimages.gastronom.ru%2fVT6a29AWglJTVfj9qDhoMAXrT5qLP0GvlpzxnoJYS2Q%2fpr%3aarticle-content-image%2fg%3ace%2frs%3aauto%3a0%3a0%3a0%2fL2Ntcy9hbGwtaW1hZ2VzL2ExODBiZTQxLWY0ZmUtNDY1Ni1hNmYwLTllY2EwMWJjOTFkOC5qcGc.webp&cdnurl=https%3a%2f%2fth.bing.com%2fth%2fid%2fR.061e8ff31e341bbc4100a88f3a958e8f%3frik%3dKidXtWueaQC47Q%26pid%3dImgRaw%26r%3d0&exph=660&expw=1200&q=hru%c5%a1ka+%c5%a0karedka+plody&FORM=IRPRST&ck=55E667BEC6B2812921EA11B892987124&selectedIndex=29&itb=0
+        - listitem [ref=f35e976]:
+          - generic [ref=f35e977]:
+            - generic [ref=f35e978]: Related Searches
+            - generic [ref=f35e980]:
+              - link "Clip Art" [ref=f35e981] [cursor=pointer]:
+                - /url: /images/search?q=Hruska+Clip+Art&FORM=IRIBEP
+                - generic "Hruska Clip Art" [ref=f35e983]: Clip Art
+              - link "Krasanka" [ref=f35e984] [cursor=pointer]:
+                - /url: /images/search?q=Krasanka+Hruska&FORM=IRIBEP
+                - generic "Krasanka Hruska" [ref=f35e986]: Krasanka
+              - link "Di Color" [ref=f35e987] [cursor=pointer]:
+                - /url: /images/search?q=Hruska+Di+Color&FORM=IRIBEP
+                - generic "Hruska Di Color" [ref=f35e989]: Di Color
+        - listitem [ref=f35e990]:
+          - generic [ref=f35e991]:
+            - generic [ref=f35e992]:
+              - link "Image result for hruška Škaredka plody" [ref=f35e993] [cursor=pointer]:
+                - /url: /images/search?view=detailV2&ccid=CfjfjKKN&id=793D1E24F011E4FD601F0E3542E6B2EED1619FD3&thid=OIP.CfjfjKKNPBNzDqKVDT3lTwHaE7&mediaurl=https%3a%2f%2ftopden.cz%2fwp-content%2fuploads%2f2023%2f05%2fconference-pear-variety-768x511.jpg&cdnurl=https%3a%2f%2fth.bing.com%2fth%2fid%2fR.09f8df8ca28d3c13730ea2950d3de54f%3frik%3d059h0e6y5kI1Dg%26pid%3dImgRaw%26r%3d0&exph=511&expw=768&q=hru%c5%a1ka+%c5%a0karedka+plody&FORM=IRPRST&ck=BBB019FCA5DBEE7614BCDEF97059E333&selectedIndex=30&itb=0
+                - generic [ref=f35e995]:
+                  - img "Image result for hruška Škaredka plody" [ref=f35e997]
+                  - generic:
+                    - img "Image result for hruška Škaredka plody"
+                    - img "Image result for hruška Škaredka plody"
+              - link "Gallery" [ref=f35e998] [cursor=pointer]:
+                - /url: /images/search?view=detailV2&ccid=CfjfjKKN&id=793D1E24F011E4FD601F0E3542E6B2EED1619FD3&thid=OIP.CfjfjKKNPBNzDqKVDT3lTwHaE7&mediaurl=https%3a%2f%2ftopden.cz%2fwp-content%2fuploads%2f2023%2f05%2fconference-pear-variety-768x511.jpg&cdnurl=https%3a%2f%2fth.bing.com%2fth%2fid%2fR.09f8df8ca28d3c13730ea2950d3de54f%3frik%3d059h0e6y5kI1Dg%26pid%3dImgRaw%26r%3d0&exph=511&expw=768&q=hru%c5%a1ka+%c5%a0karedka+plody&FORM=IRPRST&ck=BBB019FCA5DBEE7614BCDEF97059E333&selectedIndex=30&itb=0
+              - generic:
+                - generic: 768×511
+                - generic:
+                  - link "topden.cz":
+                    - /url: https://topden.cz/odrudy-hrusek-10-nejlepsich-odrud-hrusek/
+            - generic [ref=f35e1000]:
+              - link "Odrůdy hrušek - 10 nejlepších odrůd hrušek - Topden.sk" [ref=f35e1001] [cursor=pointer]:
+                - /url: /images/search?view=detailV2&ccid=CfjfjKKN&id=793D1E24F011E4FD601F0E3542E6B2EED1619FD3&thid=OIP.CfjfjKKNPBNzDqKVDT3lTwHaE7&mediaurl=https%3a%2f%2ftopden.cz%2fwp-content%2fuploads%2f2023%2f05%2fconference-pear-variety-768x511.jpg&cdnurl=https%3a%2f%2fth.bing.com%2fth%2fid%2fR.09f8df8ca28d3c13730ea2950d3de54f%3frik%3d059h0e6y5kI1Dg%26pid%3dImgRaw%26r%3d0&exph=511&expw=768&q=hru%c5%a1ka+%c5%a0karedka+plody&FORM=IRPRST&ck=BBB019FCA5DBEE7614BCDEF97059E333&selectedIndex=30&itb=0
+              - generic:
+                - generic:
+                  - list:
+                    - listitem:
+                      - link "Odrůdy hrušek - 10 nejlepších odrůd hrušek - Topden.sk" [ref=f35e1002] [cursor=pointer]:
+                        - /url: /images/search?view=detailV2&ccid=CfjfjKKN&id=793D1E24F011E4FD601F0E3542E6B2EED1619FD3&thid=OIP.CfjfjKKNPBNzDqKVDT3lTwHaE7&mediaurl=https%3a%2f%2ftopden.cz%2fwp-content%2fuploads%2f2023%2f05%2fconference-pear-variety-768x511.jpg&cdnurl=https%3a%2f%2fth.bing.com%2fth%2fid%2fR.09f8df8ca28d3c13730ea2950d3de54f%3frik%3d059h0e6y5kI1Dg%26pid%3dImgRaw%26r%3d0&exph=511&expw=768&q=hru%c5%a1ka+%c5%a0karedka+plody&FORM=IRPRST&ck=BBB019FCA5DBEE7614BCDEF97059E333&selectedIndex=30&itb=0
+        - listitem [ref=f35e1003]:
+          - generic [ref=f35e1004]:
+            - link "Image result for hruška Škaredka plody" [ref=f35e1006] [cursor=pointer]:
+              - /url: /images/search?view=detailV2&ccid=%2brfJhIGY&id=9000A8B21E9CD3FF6092CD86C0E6813BE0D5A786&thid=OIP.-rfJhIGYyFKfgQ7Xo_Wc7AHaHa&mediaurl=https%3a%2f%2fmedia.bauhaus.cz%2fmedia%2fwysiwyg%2fblog%2fjake-ovoce-sklizime-na-podzim%2f600x600_hrusky.jpg&cdnurl=https%3a%2f%2fth.bing.com%2fth%2fid%2fR.fab7c9848198c8529f810ed7a3f59cec%3frik%3dhqfV4DuB5sCGzQ%26pid%3dImgRaw%26r%3d0&exph=600&expw=600&q=hru%c5%a1ka+%c5%a0karedka+plody&FORM=IRPRST&ck=66AFBD20E7114627A6BF7BEF27082D13&selectedIndex=31&itb=0
+              - img "Image result for hruška Škaredka plody" [ref=f35e1008]
+            - generic [ref=f35e1009]:
+              - link "Jaké ovoce sklízíme na podzim | bauhaus.cz" [ref=f35e1010] [cursor=pointer]:
+                - /url: /images/search?view=detailV2&ccid=%2brfJhIGY&id=9000A8B21E9CD3FF6092CD86C0E6813BE0D5A786&thid=OIP.-rfJhIGYyFKfgQ7Xo_Wc7AHaHa&mediaurl=https%3a%2f%2fmedia.bauhaus.cz%2fmedia%2fwysiwyg%2fblog%2fjake-ovoce-sklizime-na-podzim%2f600x600_hrusky.jpg&cdnurl=https%3a%2f%2fth.bing.com%2fth%2fid%2fR.fab7c9848198c8529f810ed7a3f59cec%3frik%3dhqfV4DuB5sCGzQ%26pid%3dImgRaw%26r%3d0&exph=600&expw=600&q=hru%c5%a1ka+%c5%a0karedka+plody&FORM=IRPRST&ck=66AFBD20E7114627A6BF7BEF27082D13&selectedIndex=31&itb=0
+              - generic:
+                - generic:
+                  - list:
+                    - listitem:
+                      - link "Jaké ovoce sklízíme na podzim | bauhau…" [ref=f35e1011] [cursor=pointer]:
+                        - /url: /images/search?view=detailV2&ccid=%2brfJhIGY&id=9000A8B21E9CD3FF6092CD86C0E6813BE0D5A786&thid=OIP.-rfJhIGYyFKfgQ7Xo_Wc7AHaHa&mediaurl=https%3a%2f%2fmedia.bauhaus.cz%2fmedia%2fwysiwyg%2fblog%2fjake-ovoce-sklizime-na-podzim%2f600x600_hrusky.jpg&cdnurl=https%3a%2f%2fth.bing.com%2fth%2fid%2fR.fab7c9848198c8529f810ed7a3f59cec%3frik%3dhqfV4DuB5sCGzQ%26pid%3dImgRaw%26r%3d0&exph=600&expw=600&q=hru%c5%a1ka+%c5%a0karedka+plody&FORM=IRPRST&ck=66AFBD20E7114627A6BF7BEF27082D13&selectedIndex=31&itb=0
+        - listitem [ref=f35e1012]:
+          - generic [ref=f35e1013]:
+            - link "Image result for hruška Škaredka plody" [ref=f35e1015] [cursor=pointer]:
+              - /url: /images/search?view=detailV2&ccid=VHRoQRpa&id=878A031FA81DBDBACFA57A27D043ED1E8985B442&thid=OIP.VHRoQRpalqmXdAxc8rhbnwHaE8&mediaurl=https%3a%2f%2fpixnio.com%2ffree-images%2f2020%2f01%2f28%2f2020-01-28-09-03-45-1200x800.jpg&cdnurl=https%3a%2f%2fth.bing.com%2fth%2fid%2fR.547468411a5a96a997740c5cf2b85b9f%3frik%3dQrSFiR7tQ9Aneg%26pid%3dImgRaw%26r%3d0&exph=800&expw=1200&q=hru%c5%a1ka+%c5%a0karedka+plody&FORM=IRPRST&ck=798DA6CFF3D30BBCD5752ADA785C7748&selectedIndex=32&itb=0
+              - img "Image result for hruška Škaredka plody" [ref=f35e1017]
+            - generic [ref=f35e1018]:
+              - 'link "Bezplatný obrázok: ovocie, jedlo, Hruška, zdravie, Výživa, celé ..." [ref=f35e1019] [cursor=pointer]':
+                - /url: /images/search?view=detailV2&ccid=VHRoQRpa&id=878A031FA81DBDBACFA57A27D043ED1E8985B442&thid=OIP.VHRoQRpalqmXdAxc8rhbnwHaE8&mediaurl=https%3a%2f%2fpixnio.com%2ffree-images%2f2020%2f01%2f28%2f2020-01-28-09-03-45-1200x800.jpg&cdnurl=https%3a%2f%2fth.bing.com%2fth%2fid%2fR.547468411a5a96a997740c5cf2b85b9f%3frik%3dQrSFiR7tQ9Aneg%26pid%3dImgRaw%26r%3d0&exph=800&expw=1200&q=hru%c5%a1ka+%c5%a0karedka+plody&FORM=IRPRST&ck=798DA6CFF3D30BBCD5752ADA785C7748&selectedIndex=32&itb=0
+              - generic:
+                - generic:
+                  - list:
+                    - listitem:
+                      - 'link "Bezplatný obrázok: ovocie, jedlo, Hruška, zdravie, Výživa, celé ..." [ref=f35e1020] [cursor=pointer]':
+                        - /url: /images/search?view=detailV2&ccid=VHRoQRpa&id=878A031FA81DBDBACFA57A27D043ED1E8985B442&thid=OIP.VHRoQRpalqmXdAxc8rhbnwHaE8&mediaurl=https%3a%2f%2fpixnio.com%2ffree-images%2f2020%2f01%2f28%2f2020-01-28-09-03-45-1200x800.jpg&cdnurl=https%3a%2f%2fth.bing.com%2fth%2fid%2fR.547468411a5a96a997740c5cf2b85b9f%3frik%3dQrSFiR7tQ9Aneg%26pid%3dImgRaw%26r%3d0&exph=800&expw=1200&q=hru%c5%a1ka+%c5%a0karedka+plody&FORM=IRPRST&ck=798DA6CFF3D30BBCD5752ADA785C7748&selectedIndex=32&itb=0
+      - list [ref=f35e1021]:
+        - listitem [ref=f35e1022]:
+          - generic [ref=f35e1023]:
+            - link "Image result for hruška Škaredka plody" [ref=f35e1025] [cursor=pointer]:
+              - /url: /images/search?view=detailV2&ccid=ZND3CpLo&id=2A04EFCB50095E5179F7FCD362CC9F37B2608F97&thid=OIP.ZND3CpLoqYF5bL-3L89faAHaEy&mediaurl=https%3a%2f%2fwww.peknetelo.eu%2fwp-content%2fuploads%2fObr%c3%a1zek1504.png&cdnurl=https%3a%2f%2fth.bing.com%2fth%2fid%2fR.64d0f70a92e8a981796cbfb72fcf5f68%3frik%3dl49gsjefzGLT%252fA%26pid%3dImgRaw%26r%3d0&exph=452&expw=700&q=hru%c5%a1ka+%c5%a0karedka+plody&FORM=IRPRST&ck=FF112F100D330589DE171EBD48B89650&selectedIndex=33&itb=1
+              - img "Image result for hruška Škaredka plody" [ref=f35e1027]
+            - generic [ref=f35e1028]:
+              - link "Hruška - podcenené ovocie | Peknetelo.eu" [ref=f35e1029] [cursor=pointer]:
+                - /url: /images/search?view=detailV2&ccid=ZND3CpLo&id=2A04EFCB50095E5179F7FCD362CC9F37B2608F97&thid=OIP.ZND3CpLoqYF5bL-3L89faAHaEy&mediaurl=https%3a%2f%2fwww.peknetelo.eu%2fwp-content%2fuploads%2fObr%c3%a1zek1504.png&cdnurl=https%3a%2f%2fth.bing.com%2fth%2fid%2fR.64d0f70a92e8a981796cbfb72fcf5f68%3frik%3dl49gsjefzGLT%252fA%26pid%3dImgRaw%26r%3d0&exph=452&expw=700&q=hru%c5%a1ka+%c5%a0karedka+plody&FORM=IRPRST&ck=FF112F100D330589DE171EBD48B89650&selectedIndex=33&itb=1
+              - generic:
+                - generic:
+                  - list:
+                    - listitem:
+                      - link "Hruška - podcenené ovocie | Peknetelo.eu" [ref=f35e1030] [cursor=pointer]:
+                        - /url: /images/search?view=detailV2&ccid=ZND3CpLo&id=2A04EFCB50095E5179F7FCD362CC9F37B2608F97&thid=OIP.ZND3CpLoqYF5bL-3L89faAHaEy&mediaurl=https%3a%2f%2fwww.peknetelo.eu%2fwp-content%2fuploads%2fObr%c3%a1zek1504.png&cdnurl=https%3a%2f%2fth.bing.com%2fth%2fid%2fR.64d0f70a92e8a981796cbfb72fcf5f68%3frik%3dl49gsjefzGLT%252fA%26pid%3dImgRaw%26r%3d0&exph=452&expw=700&q=hru%c5%a1ka+%c5%a0karedka+plody&FORM=IRPRST&ck=FF112F100D330589DE171EBD48B89650&selectedIndex=33&itb=1
+        - listitem [ref=f35e1031]:
+          - generic [ref=f35e1032]:
+            - link "Image result for hruška Škaredka plody" [ref=f35e1034] [cursor=pointer]:
+              - /url: /images/search?view=detailV2&ccid=L8n65nU4&id=FEF478BEB239968A88D1A00E370C8DBEEE27BEF4&thid=OIP.L8n65nU4SP0-c7Nzyd7tDQHaHa&mediaurl=https%3a%2f%2fodrudy.cz%2fimages%2fvarieties%2fhrusky%2fcoscia.png&cdnurl=https%3a%2f%2fth.bing.com%2fth%2fid%2fR.2fc9fae6753848fd3e73b373c9deed0d%3frik%3d9L4n7r6NDDcOoA%26pid%3dImgRaw%26r%3d0&exph=1024&expw=1024&q=hru%c5%a1ka+%c5%a0karedka+plody&FORM=IRPRST&ck=056C1D84FEE1C3A0B38B43326E3945FA&selectedIndex=34&itb=0
+              - img "Image result for hruška Škaredka plody" [ref=f35e1036]
+            - generic [ref=f35e1037]:
+              - 'link "Odrůdy hrušek: Šťavnaté plody pro každou zahradu | Odrůdy.cz" [ref=f35e1038] [cursor=pointer]':
+                - /url: /images/search?view=detailV2&ccid=L8n65nU4&id=FEF478BEB239968A88D1A00E370C8DBEEE27BEF4&thid=OIP.L8n65nU4SP0-c7Nzyd7tDQHaHa&mediaurl=https%3a%2f%2fodrudy.cz%2fimages%2fvarieties%2fhrusky%2fcoscia.png&cdnurl=https%3a%2f%2fth.bing.com%2fth%2fid%2fR.2fc9fae6753848fd3e73b373c9deed0d%3frik%3d9L4n7r6NDDcOoA%26pid%3dImgRaw%26r%3d0&exph=1024&expw=1024&q=hru%c5%a1ka+%c5%a0karedka+plody&FORM=IRPRST&ck=056C1D84FEE1C3A0B38B43326E3945FA&selectedIndex=34&itb=0
+              - generic:
+                - generic:
+                  - list:
+                    - listitem:
+                      - 'link "Odrůdy hrušek: Šťavnaté plody pro každou zahra…" [ref=f35e1039] [cursor=pointer]':
+                        - /url: /images/search?view=detailV2&ccid=L8n65nU4&id=FEF478BEB239968A88D1A00E370C8DBEEE27BEF4&thid=OIP.L8n65nU4SP0-c7Nzyd7tDQHaHa&mediaurl=https%3a%2f%2fodrudy.cz%2fimages%2fvarieties%2fhrusky%2fcoscia.png&cdnurl=https%3a%2f%2fth.bing.com%2fth%2fid%2fR.2fc9fae6753848fd3e73b373c9deed0d%3frik%3d9L4n7r6NDDcOoA%26pid%3dImgRaw%26r%3d0&exph=1024&expw=1024&q=hru%c5%a1ka+%c5%a0karedka+plody&FORM=IRPRST&ck=056C1D84FEE1C3A0B38B43326E3945FA&selectedIndex=34&itb=0
+  - button "Feedback" [ref=f35e1042] [cursor=pointer]
+  - contentinfo [ref=f35e1044]:
+    - generic [ref=f35e1045]:
+      - generic [ref=f35e1046]: © 2026 Microsoft
+      - list:
+        - listitem [ref=f35e1047]:
+          - link "Privacy" [ref=f35e1048] [cursor=pointer]:
+            - /url: http://go.microsoft.com/fwlink/?LinkId=521839
+        - listitem [ref=f35e1049]:
+          - link "Terms" [ref=f35e1050] [cursor=pointer]:
+            - /url: http://go.microsoft.com/fwlink/?LinkID=246338
+        - listitem [ref=f35e1051]:
+          - link "Advertise" [ref=f35e1052] [cursor=pointer]:
+            - /url: https://go.microsoft.com/fwlink/?linkid=868922
+        - listitem [ref=f35e1053]:
+          - link "Help" [ref=f35e1054] [cursor=pointer]:
+            - /url: https://support.microsoft.com/topic/82d20721-2d6f-4012-a13d-d1910ccf203f
+        - listitem [ref=f35e1055]:
+          - button "Feedback" [ref=f35e1056] [cursor=pointer]
+  - dialog "Quick Search"

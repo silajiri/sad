@@ -1,0 +1,970 @@
+- generic [active] [ref=f31e1]:
+  - banner [ref=f31e2]:
+    - generic [ref=f31e3]:
+      - link [ref=f31e4] [cursor=pointer]:
+        - /url: /?FORM=Z9FD1
+        - heading "Back to Bing search" [level=1] [ref=f31e5]
+      - search [ref=f31e6]:
+        - button "Search" [ref=f31e9] [cursor=pointer]
+        - searchbox "Enter your search here – Search suggestions will show as you type" [ref=f31e10]: hruška Škaaredka OR Škaredka OR "Škaredka" odrůda
+        - generic [ref=f31e11] [cursor=pointer]
+        - button "Search using an image" [ref=f31e16] [cursor=pointer]
+    - complementary "Account Rewards and Preferences" [ref=f31e17]:
+      - button "Microsoft Rewards" [ref=f31e18] [cursor=pointer]:
+        - generic [ref=f31e19]: Rewards
+      - link [ref=f31e35] [cursor=pointer]:
+        - /url: javascript:void(0)
+        - button "Sign in" [ref=f31e38]
+      - button "Settings and quick links" [ref=f31e39] [cursor=pointer]
+    - navigation "Search Filter" [ref=f31e40]:
+      - list [ref=f31e41]:
+        - listitem [ref=f31e42]:
+          - link "All" [ref=f31e43] [cursor=pointer]:
+            - /url: /search?q=hru%c5%a1ka+%c5%a0kaaredka+OR+%c5%a0karedka+OR+%22%c5%a0karedka%22+odr%c5%afda&FORM=HDRSC1
+        - listitem [ref=f31e44]:
+          - link "Search" [ref=f31e45] [cursor=pointer]:
+            - /url: /copilotsearch?q=hru%c5%a1ka+%c5%a0kaaredka+OR+%c5%a0karedka+OR+%22%c5%a0karedka%22+odr%c5%afda&FORM=CSSCOP
+        - listitem [ref=f31e48]:
+          - link "Web Mode" [ref=f31e49] [cursor=pointer]:
+            - /url: /search?q=hru%c5%a1ka+%c5%a0kaaredka+OR+%c5%a0karedka+OR+%22%c5%a0karedka%22+odr%c5%afda&webscp=1&FORM=HDRWSC
+        - listitem [ref=f31e50]:
+          - link "Images" [ref=f31e51] [cursor=pointer]:
+            - /url: /images?FORM=HDRSC3
+        - listitem [ref=f31e52]:
+          - list [ref=f31e53]:
+            - listitem [ref=f31e54]:
+              - link "Create" [ref=f31e55] [cursor=pointer]:
+                - /url: /images/create/ai-image-generator?FORM=IRPGEN
+            - listitem [ref=f31e60]:
+              - link "Collections" [ref=f31e61] [cursor=pointer]:
+                - /url: /saves?FORM=IRPCOL
+        - listitem [ref=f31e65]:
+          - link "Videos" [ref=f31e66] [cursor=pointer]:
+            - /url: /videos/search?q=hru%c5%a1ka+%c5%a0kaaredka+OR+%c5%a0karedka+OR+%22%c5%a0karedka%22+odr%c5%afda&FORM=HDRSC4
+        - listitem [ref=f31e67]:
+          - link "Maps" [ref=f31e68] [cursor=pointer]:
+            - /url: /maps?q=hru%c5%a1ka+%c5%a0kaaredka+OR+%c5%a0karedka+OR+%22%c5%a0karedka%22+odr%c5%afda&FORM=HDRSC6
+        - listitem [ref=f31e69]:
+          - link "News" [ref=f31e70] [cursor=pointer]:
+            - /url: /news/search?q=hru%c5%a1ka+%c5%a0kaaredka+OR+%c5%a0karedka+OR+%22%c5%a0karedka%22+odr%c5%afda&FORM=HDRSC7
+        - listitem [ref=f31e71]:
+          - link "Copilot" [ref=f31e72] [cursor=pointer]:
+            - /url: /chat?prompt=hru%c5%a1ka+%c5%a0kaaredka+OR+%c5%a0karedka+OR+%22%c5%a0karedka%22+odr%c5%afda&sendquery=1&FORM=SCCODX
+        - listitem [ref=f31e73]:
+          - button "More" [ref=f31e74] [cursor=pointer]
+      - generic [ref=f31e78]:
+        - generic [ref=f31e79]:
+          - list:
+            - listitem [ref=f31e80]:
+              - generic [ref=f31e81]: "SafeSearch:"
+            - listitem [ref=f31e82]:
+              - button "Moderate SafeSearch:" [ref=f31e83] [cursor=pointer]:
+                - generic [ref=f31e84]: Moderate
+        - button "Filter" [ref=f31e87] [cursor=pointer]
+  - main [ref=f31e90]:
+    - navigation [aria-hidden] [ref=f31e91]:
+      - generic [ref=f31e95]:
+        - link [ref=f31e97] [cursor=pointer]:
+          - /url: /images/search?q=Spis+Hruska&FORM=IRMHRS
+          - strong [ref=f31e100]: Spis
+        - link [ref=f31e102] [cursor=pointer]:
+          - /url: /images/search?q=Devin+Hruska&FORM=IRMHRS
+          - strong [ref=f31e105]: Devin Hruska
+        - link [ref=f31e107] [cursor=pointer]:
+          - /url: /images/search?q=Roman+Hruska&FORM=IRMHRS
+          - strong [ref=f31e110]: Roman Hruska
+        - link [ref=f31e112] [cursor=pointer]:
+          - /url: /images/search?q=Ron+Hruska&FORM=IRMHRS
+          - strong [ref=f31e115]: Ron Hruska
+        - link [ref=f31e117] [cursor=pointer]:
+          - /url: /images/search?q=Eric+Hruska&FORM=IRMHRS
+          - strong [ref=f31e120]: Eric Hruska
+        - link [ref=f31e122] [cursor=pointer]:
+          - /url: /images/search?q=Ivan+Hruska&FORM=IRMHRS
+          - strong [ref=f31e125]: Ivan Hruska
+        - link [ref=f31e127] [cursor=pointer]:
+          - /url: /images/search?q=Michelle+Hruska&FORM=IRMHRS
+          - strong [ref=f31e130]: Michelle
+        - link [ref=f31e132] [cursor=pointer]:
+          - /url: /images/search?q=Robin+Hruska&FORM=IRMHRS
+          - strong [ref=f31e135]: Robin Hruska
+        - link [ref=f31e137] [cursor=pointer]:
+          - /url: /images/search?q=Lara+Hruska&FORM=IRMHRS
+          - strong [ref=f31e140]: Lara Hruska
+        - link [ref=f31e142] [cursor=pointer]:
+          - /url: /images/search?q=Rachel+Hruska+Macpherson&FORM=IRMHRS
+          - strong [ref=f31e145]: Rachel Hruska Macpherson
+        - link [ref=f31e147] [cursor=pointer]:
+          - /url: /images/search?q=Hruska+Jana&FORM=IRMHRS
+          - strong [ref=f31e150]: Jana
+        - link [ref=f31e152] [cursor=pointer]:
+          - /url: /images/search?q=Ed+Hruska&FORM=IRMHRS
+          - strong [ref=f31e155]: Ed Hruska
+        - link [ref=f31e157] [cursor=pointer]:
+          - /url: /images/search?q=Andrew+Hruska&FORM=IRMHRS
+          - strong [ref=f31e160]: Andrew Hruska
+        - link [ref=f31e162] [cursor=pointer]:
+          - /url: /images/search?q=Hruska+Letak&FORM=IRMHRS
+          - strong [ref=f31e165]: Letak
+        - link [ref=f31e167] [cursor=pointer]:
+          - /url: /images/search?q=Gina+Hruska&FORM=IRMHRS
+          - strong [ref=f31e170]: Gina Hruska
+        - link [ref=f31e172] [cursor=pointer]:
+          - /url: /images/search?q=Cruiz+Hruska&FORM=IRMHRS
+          - strong [ref=f31e175]: Cruiz
+        - link [ref=f31e177] [cursor=pointer]:
+          - /url: /images/search?q=Rachelle+Hruska+Macpherson&FORM=IRMHRS
+          - strong [ref=f31e180]: Rachelle Hruska Macpherson
+        - link [ref=f31e182] [cursor=pointer]:
+          - /url: /images/search?q=Katrina+Hruska&FORM=IRMHRS
+          - strong [ref=f31e185]: Katrina Hruska
+        - link [ref=f31e187] [cursor=pointer]:
+          - /url: /images/search?q=Bronwen+Hruska&FORM=IRMHRS
+          - strong [ref=f31e190]: Bronwen Hruska
+        - link [ref=f31e192] [cursor=pointer]:
+          - /url: /images/search?q=Zdenek+Hruska&FORM=IRMHRS
+          - strong [ref=f31e195]: Zdenek Hruska
+        - link [ref=f31e197] [cursor=pointer]:
+          - /url: /images/search?q=Sava+Hruska&FORM=IRMHRS
+          - strong [ref=f31e200]: Sava Hruska
+        - link [ref=f31e202] [cursor=pointer]:
+          - /url: /images/search?q=Hruska+Coat+of+Arms&FORM=IRMHRS
+          - strong [ref=f31e205]: Coat of Arms
+        - link [ref=f31e207] [cursor=pointer]:
+          - /url: /images/search?q=Hruska+Building&FORM=IRMHRS
+          - strong [ref=f31e210]: Hruska Building
+        - link [ref=f31e212] [cursor=pointer]:
+          - /url: /images/search?q=Ovoce+Hruska&FORM=IRMHRS
+          - strong [ref=f31e215]: Ovoce
+        - link [ref=f31e217] [cursor=pointer]:
+          - /url: /images/search?q=Molly+Hruska&FORM=IRMHRS
+          - strong [ref=f31e220]: Molly Hruska
+        - link [ref=f31e222] [cursor=pointer]:
+          - /url: /images/search?q=Hruska+Liquor&FORM=IRMHRS
+          - strong [ref=f31e225]: Hruska Liquor
+        - link [ref=f31e227] [cursor=pointer]:
+          - /url: /images/search?q=Ales+Hruska&FORM=IRMHRS
+          - strong [ref=f31e230]: Ales Hruska
+        - link [ref=f31e232] [cursor=pointer]:
+          - /url: /images/search?q=Charlotte+Hruska&FORM=IRMHRS
+          - strong [ref=f31e235]: Charlotte Hruska
+        - link [ref=f31e237] [cursor=pointer]:
+          - /url: /images/search?q=March+Hruska&FORM=IRMHRS
+          - strong [ref=f31e240]: March Hruska
+        - link [ref=f31e242] [cursor=pointer]:
+          - /url: /images/search?q=Hruska+Tisk&FORM=IRMHRS
+          - strong [ref=f31e245]: Hruska Tisk
+        - link [ref=f31e247] [cursor=pointer]:
+          - /url: /images/search?q=Nunez+Hruska&FORM=IRMHRS
+          - strong [ref=f31e250]: Nunez Hruska
+        - link [ref=f31e252] [cursor=pointer]:
+          - /url: /images/search?q=Olimpia+Hruska&FORM=IRMHRS
+          - strong [ref=f31e255]: Olimpia
+        - link [ref=f31e257] [cursor=pointer]:
+          - /url: /images/search?q=Hruska+Tate&FORM=IRMHRS
+          - strong [ref=f31e260]: Hruska Tate
+        - link [ref=f31e262] [cursor=pointer]:
+          - /url: /images/search?q=Mini+Hruska&FORM=IRMHRS
+          - strong [ref=f31e265]: Mini Hruska
+        - link [ref=f31e267] [cursor=pointer]:
+          - /url: /images/search?q=Hruska+Exercises&FORM=IRMHRS
+          - strong [ref=f31e270]: Exercises
+        - link [ref=f31e272] [cursor=pointer]:
+          - /url: /images/search?q=Hruska+Orbit&FORM=IRMHRS
+          - strong [ref=f31e275]: Hruska Orbit
+        - link [ref=f31e277] [cursor=pointer]:
+          - /url: /images/search?q=RJ+Hruska&FORM=IRMHRS
+          - strong [ref=f31e280]: RJ Hruska
+        - link [ref=f31e282] [cursor=pointer]:
+          - /url: /images/search?q=Hruska+Czechia&FORM=IRMHRS
+          - strong [ref=f31e285]: Hruska Czechia
+        - link [ref=f31e287] [cursor=pointer]:
+          - /url: /images/search?q=Hruska+Romania&FORM=IRMHRS
+          - strong [ref=f31e290]: Hruska Romania
+        - link [ref=f31e292] [cursor=pointer]:
+          - /url: /images/search?q=Hruska+Lincoln&FORM=IRMHRS
+          - strong [ref=f31e295]: Hruska Lincoln
+        - link [ref=f31e297] [cursor=pointer]:
+          - /url: /images/search?q=Marlene+Hruska&FORM=IRMHRS
+          - strong [ref=f31e300]: Marlene Hruska
+        - link [ref=f31e302] [cursor=pointer]:
+          - /url: /images/search?q=Ella+Hruska&FORM=IRMHRS
+          - strong [ref=f31e305]: Ella Hruska
+        - link [ref=f31e307] [cursor=pointer]:
+          - /url: /images/search?q=Jergus+Hruska&FORM=IRMHRS
+          - strong [ref=f31e310]: Jergus Hruska
+        - link [ref=f31e312] [cursor=pointer]:
+          - /url: /images/search?q=Lisa+Hruska&FORM=IRMHRS
+          - strong [ref=f31e315]: Lisa
+        - link [ref=f31e317] [cursor=pointer]:
+          - /url: /images/search?q=Tobin+Hruska&FORM=IRMHRS
+          - strong [ref=f31e320]: Tobin Hruska
+    - generic "Suggested searches" [ref=f31e324]:
+      - navigation [ref=f31e325]:
+        - region "Carousel" [ref=f31e326]:
+          - list [ref=f31e330]:
+            - listitem [ref=f31e331]:
+              - link [ref=f31e332] [cursor=pointer]:
+                - /url: /images/search?q=Spis+Hruska&FORM=RESTAB
+                - img "Spis" [ref=f31e334]
+                - strong [ref=f31e337]: Spis
+            - listitem [ref=f31e338]:
+              - link [ref=f31e339] [cursor=pointer]:
+                - /url: /images/search?q=Devin+Hruska&FORM=RESTAB
+                - img "Devin Hruska" [ref=f31e341]
+                - strong [ref=f31e344]: Devin Hruska
+            - listitem [ref=f31e345]:
+              - link [ref=f31e346] [cursor=pointer]:
+                - /url: /images/search?q=Roman+Hruska&FORM=RESTAB
+                - img "Roman Hruska" [ref=f31e348]
+                - strong [ref=f31e351]: Roman Hruska
+            - listitem [ref=f31e352]:
+              - link [ref=f31e353] [cursor=pointer]:
+                - /url: /images/search?q=Ron+Hruska&FORM=RESTAB
+                - img "Ron Hruska" [ref=f31e355]
+                - strong [ref=f31e358]: Ron Hruska
+            - listitem [ref=f31e359]:
+              - link [ref=f31e360] [cursor=pointer]:
+                - /url: /images/search?q=Eric+Hruska&FORM=RESTAB
+                - img "Eric Hruska" [ref=f31e362]
+                - strong [ref=f31e365]: Eric Hruska
+            - listitem [ref=f31e366]:
+              - link [ref=f31e367] [cursor=pointer]:
+                - /url: /images/search?q=Ivan+Hruska&FORM=RESTAB
+                - img "Ivan Hruska" [ref=f31e369]
+                - strong [ref=f31e372]: Ivan Hruska
+            - listitem [ref=f31e373]:
+              - link [ref=f31e374] [cursor=pointer]:
+                - /url: /images/search?q=Michelle+Hruska&FORM=RESTAB
+                - img "Michelle" [ref=f31e376]
+                - strong [ref=f31e379]: Michelle
+            - listitem [ref=f31e380]:
+              - link [ref=f31e381] [cursor=pointer]:
+                - /url: /images/search?q=Robin+Hruska&FORM=RESTAB
+                - img "Robin Hruska" [ref=f31e383]
+                - strong [ref=f31e386]: Robin Hruska
+            - listitem [ref=f31e387]:
+              - 'link "Search for: Lara Hruska" [ref=f31e388] [cursor=pointer]':
+                - /url: /images/search?q=Lara+Hruska&FORM=RESTAB
+                - strong [ref=f31e392]: Lara Hruska
+            - listitem [ref=f31e393]:
+              - 'link "Search for: Rachel Hruska Macpherson" [ref=f31e394] [cursor=pointer]':
+                - /url: /images/search?q=Rachel+Hruska+Macpherson&FORM=RESTAB
+                - strong [ref=f31e398]: Rachel Hruska Macpherson
+            - listitem [ref=f31e399]:
+              - 'link "Search for: Hruska Jana" [ref=f31e400] [cursor=pointer]':
+                - /url: /images/search?q=Hruska+Jana&FORM=RESTAB
+                - strong [ref=f31e404]: Jana
+            - listitem [ref=f31e405]:
+              - 'link "Search for: Ed Hruska" [ref=f31e406] [cursor=pointer]':
+                - /url: /images/search?q=Ed+Hruska&FORM=RESTAB
+                - strong [ref=f31e410]: Ed Hruska
+            - listitem [ref=f31e411]:
+              - 'link "Search for: Andrew Hruska" [ref=f31e412] [cursor=pointer]':
+                - /url: /images/search?q=Andrew+Hruska&FORM=RESTAB
+                - strong [ref=f31e416]: Andrew Hruska
+            - listitem [ref=f31e417]:
+              - 'link "Search for: Hruska Letak" [ref=f31e418] [cursor=pointer]':
+                - /url: /images/search?q=Hruska+Letak&FORM=RESTAB
+                - strong [ref=f31e422]: Letak
+            - listitem [ref=f31e423]:
+              - 'link "Search for: Gina Hruska" [ref=f31e424] [cursor=pointer]':
+                - /url: /images/search?q=Gina+Hruska&FORM=RESTAB
+                - strong [ref=f31e428]: Gina Hruska
+            - listitem [ref=f31e429]:
+              - 'link "Search for: Cruiz Hruska" [ref=f31e430] [cursor=pointer]':
+                - /url: /images/search?q=Cruiz+Hruska&FORM=RESTAB
+                - strong [ref=f31e434]: Cruiz
+            - listitem [ref=f31e435]:
+              - 'link "Search for: Rachelle Hruska Macpherson" [ref=f31e436] [cursor=pointer]':
+                - /url: /images/search?q=Rachelle+Hruska+Macpherson&FORM=RESTAB
+                - strong [ref=f31e440]: Rachelle Hruska Macpherson
+            - listitem [ref=f31e441]:
+              - 'link "Search for: Katrina Hruska" [ref=f31e442] [cursor=pointer]':
+                - /url: /images/search?q=Katrina+Hruska&FORM=RESTAB
+                - strong [ref=f31e446]: Katrina Hruska
+            - listitem [ref=f31e447]:
+              - 'link "Search for: Bronwen Hruska" [ref=f31e448] [cursor=pointer]':
+                - /url: /images/search?q=Bronwen+Hruska&FORM=RESTAB
+                - strong [ref=f31e452]: Bronwen Hruska
+            - listitem [ref=f31e453]:
+              - 'link "Search for: Zdenek Hruska" [ref=f31e454] [cursor=pointer]':
+                - /url: /images/search?q=Zdenek+Hruska&FORM=RESTAB
+                - strong [ref=f31e458]: Zdenek Hruska
+            - listitem [ref=f31e459]:
+              - 'link "Search for: Sava Hruska" [ref=f31e460] [cursor=pointer]':
+                - /url: /images/search?q=Sava+Hruska&FORM=RESTAB
+                - strong [ref=f31e464]: Sava Hruska
+            - listitem [ref=f31e465]:
+              - 'link "Search for: Hruska Coat of Arms" [ref=f31e466] [cursor=pointer]':
+                - /url: /images/search?q=Hruska+Coat+of+Arms&FORM=RESTAB
+                - strong [ref=f31e470]: Coat of Arms
+            - listitem [ref=f31e471]:
+              - 'link "Search for: Hruska Building" [ref=f31e472] [cursor=pointer]':
+                - /url: /images/search?q=Hruska+Building&FORM=RESTAB
+                - strong [ref=f31e476]: Hruska Building
+            - listitem [ref=f31e477]:
+              - 'link "Search for: Ovoce Hruska" [ref=f31e478] [cursor=pointer]':
+                - /url: /images/search?q=Ovoce+Hruska&FORM=RESTAB
+                - strong [ref=f31e482]: Ovoce
+            - listitem [ref=f31e483]:
+              - 'link "Search for: Molly Hruska" [ref=f31e484] [cursor=pointer]':
+                - /url: /images/search?q=Molly+Hruska&FORM=RESTAB
+                - strong [ref=f31e488]: Molly Hruska
+            - listitem [ref=f31e489]:
+              - 'link "Search for: Hruska Liquor" [ref=f31e490] [cursor=pointer]':
+                - /url: /images/search?q=Hruska+Liquor&FORM=RESTAB
+                - strong [ref=f31e494]: Hruska Liquor
+            - listitem [ref=f31e495]:
+              - 'link "Search for: Ales Hruska" [ref=f31e496] [cursor=pointer]':
+                - /url: /images/search?q=Ales+Hruska&FORM=RESTAB
+                - strong [ref=f31e500]: Ales Hruska
+            - listitem [ref=f31e501]:
+              - 'link "Search for: Charlotte Hruska" [ref=f31e502] [cursor=pointer]':
+                - /url: /images/search?q=Charlotte+Hruska&FORM=RESTAB
+                - strong [ref=f31e506]: Charlotte Hruska
+            - listitem [ref=f31e507]:
+              - 'link "Search for: March Hruska" [ref=f31e508] [cursor=pointer]':
+                - /url: /images/search?q=March+Hruska&FORM=RESTAB
+                - strong [ref=f31e512]: March Hruska
+            - listitem [ref=f31e513]:
+              - 'link "Search for: Hruska Tisk" [ref=f31e514] [cursor=pointer]':
+                - /url: /images/search?q=Hruska+Tisk&FORM=RESTAB
+                - strong [ref=f31e518]: Hruska Tisk
+            - listitem [ref=f31e519]:
+              - 'link "Search for: Nunez Hruska" [ref=f31e520] [cursor=pointer]':
+                - /url: /images/search?q=Nunez+Hruska&FORM=RESTAB
+                - strong [ref=f31e524]: Nunez Hruska
+            - listitem [ref=f31e525]:
+              - 'link "Search for: Olimpia Hruska" [ref=f31e526] [cursor=pointer]':
+                - /url: /images/search?q=Olimpia+Hruska&FORM=RESTAB
+                - strong [ref=f31e530]: Olimpia
+            - listitem [ref=f31e531]:
+              - 'link "Search for: Hruska Tate" [ref=f31e532] [cursor=pointer]':
+                - /url: /images/search?q=Hruska+Tate&FORM=RESTAB
+                - strong [ref=f31e536]: Hruska Tate
+            - listitem [ref=f31e537]:
+              - 'link "Search for: Mini Hruska" [ref=f31e538] [cursor=pointer]':
+                - /url: /images/search?q=Mini+Hruska&FORM=RESTAB
+                - strong [ref=f31e542]: Mini Hruska
+            - listitem [ref=f31e543]:
+              - 'link "Search for: Hruska Exercises" [ref=f31e544] [cursor=pointer]':
+                - /url: /images/search?q=Hruska+Exercises&FORM=RESTAB
+                - strong [ref=f31e548]: Exercises
+            - listitem [ref=f31e549]:
+              - 'link "Search for: Hruska Orbit" [ref=f31e550] [cursor=pointer]':
+                - /url: /images/search?q=Hruska+Orbit&FORM=RESTAB
+                - strong [ref=f31e554]: Hruska Orbit
+            - listitem [ref=f31e555]:
+              - 'link "Search for: RJ Hruska" [ref=f31e556] [cursor=pointer]':
+                - /url: /images/search?q=RJ+Hruska&FORM=RESTAB
+                - strong [ref=f31e560]: RJ Hruska
+            - listitem [ref=f31e561]:
+              - 'link "Search for: Hruska Czechia" [ref=f31e562] [cursor=pointer]':
+                - /url: /images/search?q=Hruska+Czechia&FORM=RESTAB
+                - strong [ref=f31e566]: Hruska Czechia
+            - listitem [ref=f31e567]:
+              - 'link "Search for: Hruska Romania" [ref=f31e568] [cursor=pointer]':
+                - /url: /images/search?q=Hruska+Romania&FORM=RESTAB
+                - strong [ref=f31e572]: Hruska Romania
+            - listitem [ref=f31e573]:
+              - 'link "Search for: Hruska Lincoln" [ref=f31e574] [cursor=pointer]':
+                - /url: /images/search?q=Hruska+Lincoln&FORM=RESTAB
+                - strong [ref=f31e578]: Hruska Lincoln
+            - listitem [ref=f31e579]:
+              - 'link "Search for: Marlene Hruska" [ref=f31e580] [cursor=pointer]':
+                - /url: /images/search?q=Marlene+Hruska&FORM=RESTAB
+                - strong [ref=f31e584]: Marlene Hruska
+            - listitem [ref=f31e585]:
+              - 'link "Search for: Ella Hruska" [ref=f31e586] [cursor=pointer]':
+                - /url: /images/search?q=Ella+Hruska&FORM=RESTAB
+                - strong [ref=f31e590]: Ella Hruska
+            - listitem [ref=f31e591]:
+              - 'link "Search for: Jergus Hruska" [ref=f31e592] [cursor=pointer]':
+                - /url: /images/search?q=Jergus+Hruska&FORM=RESTAB
+                - strong [ref=f31e596]: Jergus Hruska
+            - listitem [ref=f31e597]:
+              - 'link "Search for: Lisa Hruska" [ref=f31e598] [cursor=pointer]':
+                - /url: /images/search?q=Lisa+Hruska&FORM=RESTAB
+                - strong [ref=f31e602]: Lisa
+            - listitem [ref=f31e603]:
+              - 'link "Search for: Tobin Hruska" [ref=f31e604] [cursor=pointer]':
+                - /url: /images/search?q=Tobin+Hruska&FORM=RESTAB
+                - strong [ref=f31e608]: Tobin Hruska
+    - generic [ref=f31e611]:
+      - list [ref=f31e612]:
+        - listitem [ref=f31e613]:
+          - generic [ref=f31e614]:
+            - link "Image result for hruška Škaaredka OR Škaredka OR \"Škaredka\" odrůda" [ref=f31e616] [cursor=pointer]:
+              - /url: /images/search?view=detailV2&ccid=x8XidE2L&id=DA8E7860E95B6769BC88094A8E03F96EA7CB488B&thid=OIP.x8XidE2Lq0fHyBLYUYkMEwHaHa&mediaurl=https%3a%2f%2ftrbanc.si%2fwp-content%2fuploads%2f2025%2f06%2fNOJABRSKAJA.jpg&cdnurl=https%3a%2f%2fth.bing.com%2fth%2fid%2fR.c7c5e2744d8bab47c7c812d851890c13%3frik%3di0jLp275A45KCQ%26pid%3dImgRaw%26r%3d0&exph=1024&expw=1024&q=hru%c5%a1ka+%c5%a0kaaredka+OR+%c5%a0karedka+OR+%22%c5%a0karedka%22+odr%c5%afda&FORM=IRPRST&ck=473F3786A3F01620726418CB5D24E9E0&selectedIndex=0&itb=0
+              - img "Image result for hruška Škaaredka OR Škaredka OR \"Škaredka\" odrůda" [ref=f31e618]
+            - generic [ref=f31e619]:
+              - link "HRUŠKA Nojobrskaja (NOVEMBRA) - Kmetijska Trgovina Trbanc" [ref=f31e620] [cursor=pointer]:
+                - /url: /images/search?view=detailV2&ccid=x8XidE2L&id=DA8E7860E95B6769BC88094A8E03F96EA7CB488B&thid=OIP.x8XidE2Lq0fHyBLYUYkMEwHaHa&mediaurl=https%3a%2f%2ftrbanc.si%2fwp-content%2fuploads%2f2025%2f06%2fNOJABRSKAJA.jpg&cdnurl=https%3a%2f%2fth.bing.com%2fth%2fid%2fR.c7c5e2744d8bab47c7c812d851890c13%3frik%3di0jLp275A45KCQ%26pid%3dImgRaw%26r%3d0&exph=1024&expw=1024&q=hru%c5%a1ka+%c5%a0kaaredka+OR+%c5%a0karedka+OR+%22%c5%a0karedka%22+odr%c5%afda&FORM=IRPRST&ck=473F3786A3F01620726418CB5D24E9E0&selectedIndex=0&itb=0
+              - generic:
+                - generic:
+                  - list:
+                    - listitem:
+                      - link "HRUŠKA Nojobrskaja (NOVEMBRA) - Kmetijs…" [ref=f31e621] [cursor=pointer]:
+                        - /url: /images/search?view=detailV2&ccid=x8XidE2L&id=DA8E7860E95B6769BC88094A8E03F96EA7CB488B&thid=OIP.x8XidE2Lq0fHyBLYUYkMEwHaHa&mediaurl=https%3a%2f%2ftrbanc.si%2fwp-content%2fuploads%2f2025%2f06%2fNOJABRSKAJA.jpg&cdnurl=https%3a%2f%2fth.bing.com%2fth%2fid%2fR.c7c5e2744d8bab47c7c812d851890c13%3frik%3di0jLp275A45KCQ%26pid%3dImgRaw%26r%3d0&exph=1024&expw=1024&q=hru%c5%a1ka+%c5%a0kaaredka+OR+%c5%a0karedka+OR+%22%c5%a0karedka%22+odr%c5%afda&FORM=IRPRST&ck=473F3786A3F01620726418CB5D24E9E0&selectedIndex=0&itb=0
+        - listitem [ref=f31e622]:
+          - generic [ref=f31e623]:
+            - generic [ref=f31e624]:
+              - link "Image result for hruška Škaaredka OR Škaredka OR \"Škaredka\" odrůda" [ref=f31e625] [cursor=pointer]:
+                - /url: /images/search?view=detailV2&ccid=STvYExM4&id=4BEA009F11B4A42EF9873339D9A9A755CA84A89C&thid=OIP.STvYExM4rhAvRxyvoIXyCAHaE8&mediaurl=https%3a%2f%2fdam.nmhmedia.sk%2fimage%2f56b57707-1769-47eb-bb50-e838a758a891_pu1-09-byv9-70-5518012.jpg%2f1024%2f0&cdnurl=https%3a%2f%2fth.bing.com%2fth%2fid%2fR.493bd8131338ae102f471cafa085f208%3frik%3dnKiEylWnqdk5Mw%26pid%3dImgRaw%26r%3d0&exph=683&expw=1024&q=hru%c5%a1ka+%c5%a0kaaredka+OR+%c5%a0karedka+OR+%22%c5%a0karedka%22+odr%c5%afda&FORM=IRPRST&ck=DA405E918EC6CE1184037351ACA226FC&selectedIndex=1&itb=0
+                - generic [ref=f31e627]:
+                  - img "Image result for hruška Škaaredka OR Škaredka OR \"Škaredka\" odrůda" [ref=f31e629]
+                  - generic:
+                    - img "Image result for hruška Škaaredka OR Škaredka OR \"Škaredka\" odrůda"
+                    - img "Image result for hruška Škaaredka OR Škaredka OR \"Škaredka\" odrůda"
+                    - img "Image result for hruška Škaaredka OR Škaredka OR \"Škaredka\" odrůda"
+              - link "Gallery" [ref=f31e630] [cursor=pointer]:
+                - /url: /images/search?view=detailV2&ccid=STvYExM4&id=4BEA009F11B4A42EF9873339D9A9A755CA84A89C&thid=OIP.STvYExM4rhAvRxyvoIXyCAHaE8&mediaurl=https%3a%2f%2fdam.nmhmedia.sk%2fimage%2f56b57707-1769-47eb-bb50-e838a758a891_pu1-09-byv9-70-5518012.jpg%2f1024%2f0&cdnurl=https%3a%2f%2fth.bing.com%2fth%2fid%2fR.493bd8131338ae102f471cafa085f208%3frik%3dnKiEylWnqdk5Mw%26pid%3dImgRaw%26r%3d0&exph=683&expw=1024&q=hru%c5%a1ka+%c5%a0kaaredka+OR+%c5%a0karedka+OR+%22%c5%a0karedka%22+odr%c5%afda&FORM=IRPRST&ck=DA405E918EC6CE1184037351ACA226FC&selectedIndex=1&itb=0
+              - generic:
+                - generic: 1024×683
+                - generic:
+                  - link "zahradkar.pluska.sk":
+                    - /url: https://zahradkar.pluska.sk/gal/uzitkova-zahrada/nashi-hruska-ako-ju-pestovat-ake-su-jej-ucinky-zdravie
+            - generic [ref=f31e632]:
+              - 'link "Japonské hrušky NASHI: Aké sú výhody ich pestovania?" [ref=f31e633] [cursor=pointer]':
+                - /url: /images/search?view=detailV2&ccid=STvYExM4&id=4BEA009F11B4A42EF9873339D9A9A755CA84A89C&thid=OIP.STvYExM4rhAvRxyvoIXyCAHaE8&mediaurl=https%3a%2f%2fdam.nmhmedia.sk%2fimage%2f56b57707-1769-47eb-bb50-e838a758a891_pu1-09-byv9-70-5518012.jpg%2f1024%2f0&cdnurl=https%3a%2f%2fth.bing.com%2fth%2fid%2fR.493bd8131338ae102f471cafa085f208%3frik%3dnKiEylWnqdk5Mw%26pid%3dImgRaw%26r%3d0&exph=683&expw=1024&q=hru%c5%a1ka+%c5%a0kaaredka+OR+%c5%a0karedka+OR+%22%c5%a0karedka%22+odr%c5%afda&FORM=IRPRST&ck=DA405E918EC6CE1184037351ACA226FC&selectedIndex=1&itb=0
+              - generic:
+                - generic:
+                  - list:
+                    - listitem:
+                      - 'link "Japonské hrušky NASHI: Aké sú výhody ich pestovania?" [ref=f31e634] [cursor=pointer]':
+                        - /url: /images/search?view=detailV2&ccid=STvYExM4&id=4BEA009F11B4A42EF9873339D9A9A755CA84A89C&thid=OIP.STvYExM4rhAvRxyvoIXyCAHaE8&mediaurl=https%3a%2f%2fdam.nmhmedia.sk%2fimage%2f56b57707-1769-47eb-bb50-e838a758a891_pu1-09-byv9-70-5518012.jpg%2f1024%2f0&cdnurl=https%3a%2f%2fth.bing.com%2fth%2fid%2fR.493bd8131338ae102f471cafa085f208%3frik%3dnKiEylWnqdk5Mw%26pid%3dImgRaw%26r%3d0&exph=683&expw=1024&q=hru%c5%a1ka+%c5%a0kaaredka+OR+%c5%a0karedka+OR+%22%c5%a0karedka%22+odr%c5%afda&FORM=IRPRST&ck=DA405E918EC6CE1184037351ACA226FC&selectedIndex=1&itb=0
+        - listitem [ref=f31e635]:
+          - generic [ref=f31e636]:
+            - link "Image result for hruška Škaaredka OR Škaredka OR \"Škaredka\" odrůda" [ref=f31e638] [cursor=pointer]:
+              - /url: /images/search?view=detailV2&ccid=gkDsGGWt&id=2A6995C2040BD34FA562595E7616162277E5945A&thid=OIP.gkDsGGWtLlYbW3ZnrfDERQHaJ4&mediaurl=https%3a%2f%2fdomovstromov.sk%2fcdn%2fshop%2ffiles%2fhruska-Spinka-2.jpg%3fv%3d1757437428%26width%3d1780&cdnurl=https%3a%2f%2fth.bing.com%2fth%2fid%2fR.8240ec1865ad2e561b5b7667adf0c445%3frik%3dWpTldyIWFnZeWQ%26pid%3dImgRaw%26r%3d0&exph=2040&expw=1530&q=hru%c5%a1ka+%c5%a0kaaredka+OR+%c5%a0karedka+OR+%22%c5%a0karedka%22+odr%c5%afda&FORM=IRPRST&ck=B82966BEC58FAF6EA54AFD0FCBF53C1D&selectedIndex=2&itb=0
+              - img "Image result for hruška Škaaredka OR Škaredka OR \"Škaredka\" odrůda" [ref=f31e640]
+            - generic [ref=f31e641]:
+              - link "Hruška Špinka – DomovStromov.sk" [ref=f31e642] [cursor=pointer]:
+                - /url: /images/search?view=detailV2&ccid=gkDsGGWt&id=2A6995C2040BD34FA562595E7616162277E5945A&thid=OIP.gkDsGGWtLlYbW3ZnrfDERQHaJ4&mediaurl=https%3a%2f%2fdomovstromov.sk%2fcdn%2fshop%2ffiles%2fhruska-Spinka-2.jpg%3fv%3d1757437428%26width%3d1780&cdnurl=https%3a%2f%2fth.bing.com%2fth%2fid%2fR.8240ec1865ad2e561b5b7667adf0c445%3frik%3dWpTldyIWFnZeWQ%26pid%3dImgRaw%26r%3d0&exph=2040&expw=1530&q=hru%c5%a1ka+%c5%a0kaaredka+OR+%c5%a0karedka+OR+%22%c5%a0karedka%22+odr%c5%afda&FORM=IRPRST&ck=B82966BEC58FAF6EA54AFD0FCBF53C1D&selectedIndex=2&itb=0
+              - generic:
+                - generic:
+                  - list:
+                    - listitem:
+                      - link "Hruška Špinka – DomovStromov.sk" [ref=f31e643] [cursor=pointer]:
+                        - /url: /images/search?view=detailV2&ccid=gkDsGGWt&id=2A6995C2040BD34FA562595E7616162277E5945A&thid=OIP.gkDsGGWtLlYbW3ZnrfDERQHaJ4&mediaurl=https%3a%2f%2fdomovstromov.sk%2fcdn%2fshop%2ffiles%2fhruska-Spinka-2.jpg%3fv%3d1757437428%26width%3d1780&cdnurl=https%3a%2f%2fth.bing.com%2fth%2fid%2fR.8240ec1865ad2e561b5b7667adf0c445%3frik%3dWpTldyIWFnZeWQ%26pid%3dImgRaw%26r%3d0&exph=2040&expw=1530&q=hru%c5%a1ka+%c5%a0kaaredka+OR+%c5%a0karedka+OR+%22%c5%a0karedka%22+odr%c5%afda&FORM=IRPRST&ck=B82966BEC58FAF6EA54AFD0FCBF53C1D&selectedIndex=2&itb=0
+        - listitem [ref=f31e644]:
+          - generic [ref=f31e645]:
+            - link "Image result for hruška Škaaredka OR Škaredka OR \"Škaredka\" odrůda" [ref=f31e647] [cursor=pointer]:
+              - /url: /images/search?view=detailV2&ccid=rUmf9hQ8&id=3FC41C0022BAACB9022D08D79CEB486180CEA2BA&thid=OIP.rUmf9hQ8XBDbqvqDLMmnVAHaHa&mediaurl=https%3a%2f%2fassets.zdravopedia.sk%2fimages%2fAko-pestova%c5%a5%2fbohemica.jpg&cdnurl=https%3a%2f%2fth.bing.com%2fth%2fid%2fR.ad499ff6143c5c10dbaafa832cc9a754%3frik%3duqLOgGFI65zXCA%26pid%3dImgRaw%26r%3d0&exph=600&expw=600&q=hru%c5%a1ka+%c5%a0kaaredka+OR+%c5%a0karedka+OR+%22%c5%a0karedka%22+odr%c5%afda&FORM=IRPRST&ck=4308C97258B7D502AA11A416F726934F&selectedIndex=3&itb=0
+              - img "Image result for hruška Škaaredka OR Škaredka OR \"Škaredka\" odrůda" [ref=f31e649]
+            - generic [ref=f31e650]:
+              - 'link "Ako pestovať: Hrušku Bohemica | Zdravopedia.sk" [ref=f31e651] [cursor=pointer]':
+                - /url: /images/search?view=detailV2&ccid=rUmf9hQ8&id=3FC41C0022BAACB9022D08D79CEB486180CEA2BA&thid=OIP.rUmf9hQ8XBDbqvqDLMmnVAHaHa&mediaurl=https%3a%2f%2fassets.zdravopedia.sk%2fimages%2fAko-pestova%c5%a5%2fbohemica.jpg&cdnurl=https%3a%2f%2fth.bing.com%2fth%2fid%2fR.ad499ff6143c5c10dbaafa832cc9a754%3frik%3duqLOgGFI65zXCA%26pid%3dImgRaw%26r%3d0&exph=600&expw=600&q=hru%c5%a1ka+%c5%a0kaaredka+OR+%c5%a0karedka+OR+%22%c5%a0karedka%22+odr%c5%afda&FORM=IRPRST&ck=4308C97258B7D502AA11A416F726934F&selectedIndex=3&itb=0
+              - generic:
+                - generic:
+                  - list:
+                    - listitem:
+                      - 'link "Ako pestovať: Hrušku Bohemica | Zdravopedia…" [ref=f31e652] [cursor=pointer]':
+                        - /url: /images/search?view=detailV2&ccid=rUmf9hQ8&id=3FC41C0022BAACB9022D08D79CEB486180CEA2BA&thid=OIP.rUmf9hQ8XBDbqvqDLMmnVAHaHa&mediaurl=https%3a%2f%2fassets.zdravopedia.sk%2fimages%2fAko-pestova%c5%a5%2fbohemica.jpg&cdnurl=https%3a%2f%2fth.bing.com%2fth%2fid%2fR.ad499ff6143c5c10dbaafa832cc9a754%3frik%3duqLOgGFI65zXCA%26pid%3dImgRaw%26r%3d0&exph=600&expw=600&q=hru%c5%a1ka+%c5%a0kaaredka+OR+%c5%a0karedka+OR+%22%c5%a0karedka%22+odr%c5%afda&FORM=IRPRST&ck=4308C97258B7D502AA11A416F726934F&selectedIndex=3&itb=0
+        - listitem [ref=f31e653]:
+          - generic [ref=f31e654]:
+            - link "Image result for hruška Škaaredka OR Škaredka OR \"Škaredka\" odrůda" [ref=f31e656] [cursor=pointer]:
+              - /url: /images/search?view=detailV2&ccid=qHoxgIGZ&id=D3CBE4C8412933B3200669681B6B09FE2FD82CCA&thid=OIP.qHoxgIGZHdIsc4eFTatY9QHaJQ&mediaurl=https%3a%2f%2fwww.stlpovitestromy.sk%2fimage%2fcache%2fcatalog%2fhrusky%2fkonferencia-hruska-plody-480x600.png&cdnurl=https%3a%2f%2fth.bing.com%2fth%2fid%2fR.a87a318081991dd22c7387854dab58f5%3frik%3dyizYL%252f4JaxtoaQ%26pid%3dImgRaw%26r%3d0&exph=600&expw=480&q=hru%c5%a1ka+%c5%a0kaaredka+OR+%c5%a0karedka+OR+%22%c5%a0karedka%22+odr%c5%afda&FORM=IRPRST&ck=7DB900188FADA3A97E3AC0457E66CA1C&selectedIndex=4&itb=0
+              - img "Image result for hruška Škaaredka OR Škaredka OR \"Škaredka\" odrůda" [ref=f31e658]
+            - generic [ref=f31e659]:
+              - link "Hruška obyčajná ´KONFERENCIA´ | 210-250 cm | stlpovitestromy.sk" [ref=f31e660] [cursor=pointer]:
+                - /url: /images/search?view=detailV2&ccid=qHoxgIGZ&id=D3CBE4C8412933B3200669681B6B09FE2FD82CCA&thid=OIP.qHoxgIGZHdIsc4eFTatY9QHaJQ&mediaurl=https%3a%2f%2fwww.stlpovitestromy.sk%2fimage%2fcache%2fcatalog%2fhrusky%2fkonferencia-hruska-plody-480x600.png&cdnurl=https%3a%2f%2fth.bing.com%2fth%2fid%2fR.a87a318081991dd22c7387854dab58f5%3frik%3dyizYL%252f4JaxtoaQ%26pid%3dImgRaw%26r%3d0&exph=600&expw=480&q=hru%c5%a1ka+%c5%a0kaaredka+OR+%c5%a0karedka+OR+%22%c5%a0karedka%22+odr%c5%afda&FORM=IRPRST&ck=7DB900188FADA3A97E3AC0457E66CA1C&selectedIndex=4&itb=0
+              - generic:
+                - generic:
+                  - list:
+                    - listitem:
+                      - link "Hruška obyčajná ´KONFERENCIA´ …" [ref=f31e661] [cursor=pointer]:
+                        - /url: /images/search?view=detailV2&ccid=qHoxgIGZ&id=D3CBE4C8412933B3200669681B6B09FE2FD82CCA&thid=OIP.qHoxgIGZHdIsc4eFTatY9QHaJQ&mediaurl=https%3a%2f%2fwww.stlpovitestromy.sk%2fimage%2fcache%2fcatalog%2fhrusky%2fkonferencia-hruska-plody-480x600.png&cdnurl=https%3a%2f%2fth.bing.com%2fth%2fid%2fR.a87a318081991dd22c7387854dab58f5%3frik%3dyizYL%252f4JaxtoaQ%26pid%3dImgRaw%26r%3d0&exph=600&expw=480&q=hru%c5%a1ka+%c5%a0kaaredka+OR+%c5%a0karedka+OR+%22%c5%a0karedka%22+odr%c5%afda&FORM=IRPRST&ck=7DB900188FADA3A97E3AC0457E66CA1C&selectedIndex=4&itb=0
+        - listitem [ref=f31e662]:
+          - generic [ref=f31e663]:
+            - link "Image result for hruška Škaaredka OR Škaredka OR \"Škaredka\" odrůda" [ref=f31e665] [cursor=pointer]:
+              - /url: /images/search?view=detailV2&ccid=GDkMlXDR&id=7D9119D1FE792484293260E373D7499594A6CC6D&thid=OIP.GDkMlXDR4jdksnzPQCHPcwHaJQ&mediaurl=https%3a%2f%2fwww.stlpovitestromy.sk%2fimage%2fcache%2fcatalog%2f+volnokorenne%2fovocne-volnokorenne-960x1200.jpg&cdnurl=https%3a%2f%2fth.bing.com%2fth%2fid%2fR.18390c9570d1e23764b27ccf4021cf73%3frik%3dbcymlJVJ13PjYA%26pid%3dImgRaw%26r%3d0&exph=1200&expw=960&q=hru%c5%a1ka+%c5%a0kaaredka+OR+%c5%a0karedka+OR+%22%c5%a0karedka%22+odr%c5%afda&FORM=IRPRST&ck=289A02BD32D25F721287866BBAD682EF&selectedIndex=5&itb=0
+              - img "Image result for hruška Škaaredka OR Škaredka OR \"Škaredka\" odrůda" [ref=f31e667]
+            - generic [ref=f31e668]:
+              - link "Hruška obyčajná ´CAROLA´ | 140-180 cm | stlpovitestromy.sk" [ref=f31e669] [cursor=pointer]:
+                - /url: /images/search?view=detailV2&ccid=GDkMlXDR&id=7D9119D1FE792484293260E373D7499594A6CC6D&thid=OIP.GDkMlXDR4jdksnzPQCHPcwHaJQ&mediaurl=https%3a%2f%2fwww.stlpovitestromy.sk%2fimage%2fcache%2fcatalog%2f+volnokorenne%2fovocne-volnokorenne-960x1200.jpg&cdnurl=https%3a%2f%2fth.bing.com%2fth%2fid%2fR.18390c9570d1e23764b27ccf4021cf73%3frik%3dbcymlJVJ13PjYA%26pid%3dImgRaw%26r%3d0&exph=1200&expw=960&q=hru%c5%a1ka+%c5%a0kaaredka+OR+%c5%a0karedka+OR+%22%c5%a0karedka%22+odr%c5%afda&FORM=IRPRST&ck=289A02BD32D25F721287866BBAD682EF&selectedIndex=5&itb=0
+              - generic:
+                - generic:
+                  - list:
+                    - listitem:
+                      - link "Hruška obyčajná ´CAROLA´ | 140-1…" [ref=f31e670] [cursor=pointer]:
+                        - /url: /images/search?view=detailV2&ccid=GDkMlXDR&id=7D9119D1FE792484293260E373D7499594A6CC6D&thid=OIP.GDkMlXDR4jdksnzPQCHPcwHaJQ&mediaurl=https%3a%2f%2fwww.stlpovitestromy.sk%2fimage%2fcache%2fcatalog%2f+volnokorenne%2fovocne-volnokorenne-960x1200.jpg&cdnurl=https%3a%2f%2fth.bing.com%2fth%2fid%2fR.18390c9570d1e23764b27ccf4021cf73%3frik%3dbcymlJVJ13PjYA%26pid%3dImgRaw%26r%3d0&exph=1200&expw=960&q=hru%c5%a1ka+%c5%a0kaaredka+OR+%c5%a0karedka+OR+%22%c5%a0karedka%22+odr%c5%afda&FORM=IRPRST&ck=289A02BD32D25F721287866BBAD682EF&selectedIndex=5&itb=0
+      - list [ref=f31e671]:
+        - listitem [ref=f31e672]:
+          - generic [ref=f31e673]:
+            - link "Image result for hruška Škaaredka OR Škaredka OR \"Škaredka\" odrůda" [ref=f31e675] [cursor=pointer]:
+              - /url: /images/search?view=detailV2&ccid=51V%2fPPgp&id=7AC5F77089200648BCA90D13AED6C164FE185711&thid=OIP.51V_PPgpwYshajHwFxH8RQHaFj&mediaurl=https%3a%2f%2fwww.zahradnici.sk%2fimage%2fcache%2fcatalog%2fvolnokorenne-stromceky%2fvolnokorenne-stromy-dovoz-1-wd-1300x1300.JPG&cdnurl=https%3a%2f%2fth.bing.com%2fth%2fid%2fR.e7557f3cf829c18b216a31f01711fc45%3frik%3dEVcY%252fmTB1q4TDQ%26pid%3dImgRaw%26r%3d0&exph=975&expw=1300&q=hru%c5%a1ka+%c5%a0kaaredka+OR+%c5%a0karedka+OR+%22%c5%a0karedka%22+odr%c5%afda&FORM=IRPRST&ck=3380058C25EDE3258335A5458097A9F5&selectedIndex=6&itb=0
+              - img "Image result for hruška Škaaredka OR Škaredka OR \"Škaredka\" odrůda" [ref=f31e677]
+            - generic [ref=f31e678]:
+              - link "Hruška obyčajná ´CLAPPOVA´| 120-150 cm| zahradnici.sk" [ref=f31e679] [cursor=pointer]:
+                - /url: /images/search?view=detailV2&ccid=51V%2fPPgp&id=7AC5F77089200648BCA90D13AED6C164FE185711&thid=OIP.51V_PPgpwYshajHwFxH8RQHaFj&mediaurl=https%3a%2f%2fwww.zahradnici.sk%2fimage%2fcache%2fcatalog%2fvolnokorenne-stromceky%2fvolnokorenne-stromy-dovoz-1-wd-1300x1300.JPG&cdnurl=https%3a%2f%2fth.bing.com%2fth%2fid%2fR.e7557f3cf829c18b216a31f01711fc45%3frik%3dEVcY%252fmTB1q4TDQ%26pid%3dImgRaw%26r%3d0&exph=975&expw=1300&q=hru%c5%a1ka+%c5%a0kaaredka+OR+%c5%a0karedka+OR+%22%c5%a0karedka%22+odr%c5%afda&FORM=IRPRST&ck=3380058C25EDE3258335A5458097A9F5&selectedIndex=6&itb=0
+              - generic:
+                - generic:
+                  - list:
+                    - listitem:
+                      - link "Hruška obyčajná ´CLAPPOVA´| 120-150 cm| zahradnici.sk" [ref=f31e680] [cursor=pointer]:
+                        - /url: /images/search?view=detailV2&ccid=51V%2fPPgp&id=7AC5F77089200648BCA90D13AED6C164FE185711&thid=OIP.51V_PPgpwYshajHwFxH8RQHaFj&mediaurl=https%3a%2f%2fwww.zahradnici.sk%2fimage%2fcache%2fcatalog%2fvolnokorenne-stromceky%2fvolnokorenne-stromy-dovoz-1-wd-1300x1300.JPG&cdnurl=https%3a%2f%2fth.bing.com%2fth%2fid%2fR.e7557f3cf829c18b216a31f01711fc45%3frik%3dEVcY%252fmTB1q4TDQ%26pid%3dImgRaw%26r%3d0&exph=975&expw=1300&q=hru%c5%a1ka+%c5%a0kaaredka+OR+%c5%a0karedka+OR+%22%c5%a0karedka%22+odr%c5%afda&FORM=IRPRST&ck=3380058C25EDE3258335A5458097A9F5&selectedIndex=6&itb=0
+        - listitem [ref=f31e681]:
+          - generic [ref=f31e682]:
+            - link "Image result for hruška Škaaredka OR Škaredka OR \"Škaredka\" odrůda" [ref=f31e684] [cursor=pointer]:
+              - /url: /images/search?view=detailV2&ccid=S%2f6GIN49&id=2931157F60AC97401A112C27737D11DA1DC37B70&thid=OIP.S_6GIN49Q25rYi2BdnWLmQHaFO&mediaurl=https%3a%2f%2freceptor.cz%2fi%2fhruskova-povidla-na-kolace-1.jpg&cdnurl=https%3a%2f%2fth.bing.com%2fth%2fid%2fR.4bfe8620de3d436e6b622d8176758b99%3frik%3dcHvDHdoRfXMnLA%26pid%3dImgRaw%26r%3d0&exph=706&expw=1000&q=hru%c5%a1ka+%c5%a0kaaredka+OR+%c5%a0karedka+OR+%22%c5%a0karedka%22+odr%c5%afda&FORM=IRPRST&ck=7748462C0C7F9217B0BE2D6B08448E31&selectedIndex=7&itb=0
+              - img "Image result for hruška Škaaredka OR Škaredka OR \"Škaredka\" odrůda" [ref=f31e686]
+            - generic [ref=f31e687]:
+              - link "Hrušková povidla na koláče (recept na rok 2026) - Receptor.cz" [ref=f31e688] [cursor=pointer]:
+                - /url: /images/search?view=detailV2&ccid=S%2f6GIN49&id=2931157F60AC97401A112C27737D11DA1DC37B70&thid=OIP.S_6GIN49Q25rYi2BdnWLmQHaFO&mediaurl=https%3a%2f%2freceptor.cz%2fi%2fhruskova-povidla-na-kolace-1.jpg&cdnurl=https%3a%2f%2fth.bing.com%2fth%2fid%2fR.4bfe8620de3d436e6b622d8176758b99%3frik%3dcHvDHdoRfXMnLA%26pid%3dImgRaw%26r%3d0&exph=706&expw=1000&q=hru%c5%a1ka+%c5%a0kaaredka+OR+%c5%a0karedka+OR+%22%c5%a0karedka%22+odr%c5%afda&FORM=IRPRST&ck=7748462C0C7F9217B0BE2D6B08448E31&selectedIndex=7&itb=0
+              - generic:
+                - generic:
+                  - list:
+                    - listitem:
+                      - link "Hrušková povidla na koláče (recept na rok 2026) - Receptor.cz" [ref=f31e689] [cursor=pointer]:
+                        - /url: /images/search?view=detailV2&ccid=S%2f6GIN49&id=2931157F60AC97401A112C27737D11DA1DC37B70&thid=OIP.S_6GIN49Q25rYi2BdnWLmQHaFO&mediaurl=https%3a%2f%2freceptor.cz%2fi%2fhruskova-povidla-na-kolace-1.jpg&cdnurl=https%3a%2f%2fth.bing.com%2fth%2fid%2fR.4bfe8620de3d436e6b622d8176758b99%3frik%3dcHvDHdoRfXMnLA%26pid%3dImgRaw%26r%3d0&exph=706&expw=1000&q=hru%c5%a1ka+%c5%a0kaaredka+OR+%c5%a0karedka+OR+%22%c5%a0karedka%22+odr%c5%afda&FORM=IRPRST&ck=7748462C0C7F9217B0BE2D6B08448E31&selectedIndex=7&itb=0
+        - listitem [ref=f31e690]:
+          - generic [ref=f31e691]:
+            - link "Image result for hruška Škaaredka OR Škaredka OR \"Škaredka\" odrůda" [ref=f31e693] [cursor=pointer]:
+              - /url: /images/search?view=detailV2&ccid=LlHmnZMQ&id=7FBF58382E8A773FA7CCC9E574DD838A0360A6F0&thid=OIP.LlHmnZMQDxALXvpMngOVbQHaHa&mediaurl=https%3a%2f%2fwww.kaloricketabulky.sk%2ffile%2fimage%2ffoodstuff%2fadca008bc74174b3%2fd35b52606b6b480cb69cb974b05774c3&cdnurl=https%3a%2f%2fth.bing.com%2fth%2fid%2fR.2e51e69d93100f100b5efa4c9e03956d%3frik%3d8KZgA4qD3XTlyQ%26pid%3dImgRaw%26r%3d0&exph=1280&expw=1280&q=hru%c5%a1ka+%c5%a0kaaredka+OR+%c5%a0karedka+OR+%22%c5%a0karedka%22+odr%c5%afda&FORM=IRPRST&ck=DC03B9ACDB1348123EDB19FE264B9F1B&selectedIndex=8&itb=0
+              - img "Image result for hruška Škaaredka OR Škaredka OR \"Škaredka\" odrůda" [ref=f31e695]
+            - generic [ref=f31e696]:
+              - link "Vojvodkyňa Hruška - kalórie, kJ a nutričné hodnoty | KalorickéTabuľky.sk" [ref=f31e697] [cursor=pointer]:
+                - /url: /images/search?view=detailV2&ccid=LlHmnZMQ&id=7FBF58382E8A773FA7CCC9E574DD838A0360A6F0&thid=OIP.LlHmnZMQDxALXvpMngOVbQHaHa&mediaurl=https%3a%2f%2fwww.kaloricketabulky.sk%2ffile%2fimage%2ffoodstuff%2fadca008bc74174b3%2fd35b52606b6b480cb69cb974b05774c3&cdnurl=https%3a%2f%2fth.bing.com%2fth%2fid%2fR.2e51e69d93100f100b5efa4c9e03956d%3frik%3d8KZgA4qD3XTlyQ%26pid%3dImgRaw%26r%3d0&exph=1280&expw=1280&q=hru%c5%a1ka+%c5%a0kaaredka+OR+%c5%a0karedka+OR+%22%c5%a0karedka%22+odr%c5%afda&FORM=IRPRST&ck=DC03B9ACDB1348123EDB19FE264B9F1B&selectedIndex=8&itb=0
+              - generic:
+                - generic:
+                  - list:
+                    - listitem:
+                      - link "Vojvodkyňa Hruška - kalórie, kJ a nutričné hodnoty | Kal…" [ref=f31e698] [cursor=pointer]:
+                        - /url: /images/search?view=detailV2&ccid=LlHmnZMQ&id=7FBF58382E8A773FA7CCC9E574DD838A0360A6F0&thid=OIP.LlHmnZMQDxALXvpMngOVbQHaHa&mediaurl=https%3a%2f%2fwww.kaloricketabulky.sk%2ffile%2fimage%2ffoodstuff%2fadca008bc74174b3%2fd35b52606b6b480cb69cb974b05774c3&cdnurl=https%3a%2f%2fth.bing.com%2fth%2fid%2fR.2e51e69d93100f100b5efa4c9e03956d%3frik%3d8KZgA4qD3XTlyQ%26pid%3dImgRaw%26r%3d0&exph=1280&expw=1280&q=hru%c5%a1ka+%c5%a0kaaredka+OR+%c5%a0karedka+OR+%22%c5%a0karedka%22+odr%c5%afda&FORM=IRPRST&ck=DC03B9ACDB1348123EDB19FE264B9F1B&selectedIndex=8&itb=0
+        - listitem [ref=f31e699]:
+          - generic [ref=f31e700]:
+            - link "Image result for hruška Škaaredka OR Škaredka OR \"Škaredka\" odrůda" [ref=f31e702] [cursor=pointer]:
+              - /url: /images/search?view=detailV2&ccid=Ei6y3B0E&id=9084B5448BFE4E67A8C3E49D6986F8C0B91E3086&thid=OIP.Ei6y3B0EEWPJsE2d_H5vyAHaHV&mediaurl=https%3a%2f%2fwww.kaloricketabulky.cz%2ffile%2fimage%2ffoodstuff%2f6a3a347aa2e43c39%2f0f4c3e6417a34d5fbfa8f9255707ebee&cdnurl=https%3a%2f%2fth.bing.com%2fth%2fid%2fR.122eb2dc1d041163c9b04d9dfc7e6fc8%3frik%3dhjAeucD4hmmd5A%26pid%3dImgRaw%26r%3d0&exph=950&expw=960&q=hru%c5%a1ka+%c5%a0kaaredka+OR+%c5%a0karedka+OR+%22%c5%a0karedka%22+odr%c5%afda&FORM=IRPRST&ck=B964FC62E1416D6CCF2D4B961D46D70E&selectedIndex=9&itb=0
+              - img "Image result for hruška Škaaredka OR Škaredka OR \"Škaredka\" odrůda" [ref=f31e704]
+            - generic [ref=f31e705]:
+              - link "Pařížská hruška - kalorie, kJ a nutriční hodnoty | KalorickéTabulky.cz" [ref=f31e706] [cursor=pointer]:
+                - /url: /images/search?view=detailV2&ccid=Ei6y3B0E&id=9084B5448BFE4E67A8C3E49D6986F8C0B91E3086&thid=OIP.Ei6y3B0EEWPJsE2d_H5vyAHaHV&mediaurl=https%3a%2f%2fwww.kaloricketabulky.cz%2ffile%2fimage%2ffoodstuff%2f6a3a347aa2e43c39%2f0f4c3e6417a34d5fbfa8f9255707ebee&cdnurl=https%3a%2f%2fth.bing.com%2fth%2fid%2fR.122eb2dc1d041163c9b04d9dfc7e6fc8%3frik%3dhjAeucD4hmmd5A%26pid%3dImgRaw%26r%3d0&exph=950&expw=960&q=hru%c5%a1ka+%c5%a0kaaredka+OR+%c5%a0karedka+OR+%22%c5%a0karedka%22+odr%c5%afda&FORM=IRPRST&ck=B964FC62E1416D6CCF2D4B961D46D70E&selectedIndex=9&itb=0
+              - generic:
+                - generic:
+                  - list:
+                    - listitem:
+                      - link "Pařížská hruška - kalorie, kJ a nutriční hodnoty | Kaloric…" [ref=f31e707] [cursor=pointer]:
+                        - /url: /images/search?view=detailV2&ccid=Ei6y3B0E&id=9084B5448BFE4E67A8C3E49D6986F8C0B91E3086&thid=OIP.Ei6y3B0EEWPJsE2d_H5vyAHaHV&mediaurl=https%3a%2f%2fwww.kaloricketabulky.cz%2ffile%2fimage%2ffoodstuff%2f6a3a347aa2e43c39%2f0f4c3e6417a34d5fbfa8f9255707ebee&cdnurl=https%3a%2f%2fth.bing.com%2fth%2fid%2fR.122eb2dc1d041163c9b04d9dfc7e6fc8%3frik%3dhjAeucD4hmmd5A%26pid%3dImgRaw%26r%3d0&exph=950&expw=960&q=hru%c5%a1ka+%c5%a0kaaredka+OR+%c5%a0karedka+OR+%22%c5%a0karedka%22+odr%c5%afda&FORM=IRPRST&ck=B964FC62E1416D6CCF2D4B961D46D70E&selectedIndex=9&itb=0
+        - listitem [ref=f31e708]:
+          - generic [ref=f31e709]:
+            - link "Image result for hruška Škaaredka OR Škaredka OR \"Škaredka\" odrůda" [ref=f31e711] [cursor=pointer]:
+              - /url: /images/search?view=detailV2&ccid=aMDiLTM2&id=E3A1513499A7530163BC2F81A564374A218A99C4&thid=OIP.aMDiLTM24MRRpZb6-_nJgwHaHa&mediaurl=https%3a%2f%2flookaside.fbsbx.com%2flookaside%2fcrawler%2fmedia%2f%3fmedia_id%3d100035925981760&cdnurl=https%3a%2f%2fth.bing.com%2fth%2fid%2fR.68c0e22d3336e0c451a596fafbf9c983%3frik%3dxJmKIUo3ZKWBLw%26pid%3dImgRaw%26r%3d0&exph=1081&expw=1081&q=hru%c5%a1ka+%c5%a0kaaredka+OR+%c5%a0karedka+OR+%22%c5%a0karedka%22+odr%c5%afda&FORM=IRPRST&ck=BE21300211A813695A3CF08B1A3D2D63&selectedIndex=10&itb=0
+              - img "Image result for hruška Škaaredka OR Škaredka OR \"Škaredka\" odrůda" [ref=f31e713]
+            - generic [ref=f31e714]:
+              - link "Chceli by ste sutaz ? Mi tak napadlo,... - Škaredka crochet | Facebook" [ref=f31e715] [cursor=pointer]:
+                - /url: /images/search?view=detailV2&ccid=aMDiLTM2&id=E3A1513499A7530163BC2F81A564374A218A99C4&thid=OIP.aMDiLTM24MRRpZb6-_nJgwHaHa&mediaurl=https%3a%2f%2flookaside.fbsbx.com%2flookaside%2fcrawler%2fmedia%2f%3fmedia_id%3d100035925981760&cdnurl=https%3a%2f%2fth.bing.com%2fth%2fid%2fR.68c0e22d3336e0c451a596fafbf9c983%3frik%3dxJmKIUo3ZKWBLw%26pid%3dImgRaw%26r%3d0&exph=1081&expw=1081&q=hru%c5%a1ka+%c5%a0kaaredka+OR+%c5%a0karedka+OR+%22%c5%a0karedka%22+odr%c5%afda&FORM=IRPRST&ck=BE21300211A813695A3CF08B1A3D2D63&selectedIndex=10&itb=0
+              - generic:
+                - generic:
+                  - list:
+                    - listitem:
+                      - link "Chceli by ste sutaz ? Mi tak napadlo,... - Škaredka cro…" [ref=f31e716] [cursor=pointer]:
+                        - /url: /images/search?view=detailV2&ccid=aMDiLTM2&id=E3A1513499A7530163BC2F81A564374A218A99C4&thid=OIP.aMDiLTM24MRRpZb6-_nJgwHaHa&mediaurl=https%3a%2f%2flookaside.fbsbx.com%2flookaside%2fcrawler%2fmedia%2f%3fmedia_id%3d100035925981760&cdnurl=https%3a%2f%2fth.bing.com%2fth%2fid%2fR.68c0e22d3336e0c451a596fafbf9c983%3frik%3dxJmKIUo3ZKWBLw%26pid%3dImgRaw%26r%3d0&exph=1081&expw=1081&q=hru%c5%a1ka+%c5%a0kaaredka+OR+%c5%a0karedka+OR+%22%c5%a0karedka%22+odr%c5%afda&FORM=IRPRST&ck=BE21300211A813695A3CF08B1A3D2D63&selectedIndex=10&itb=0
+      - list [ref=f31e717]:
+        - listitem [ref=f31e718]:
+          - generic [ref=f31e719]:
+            - link "Image result for hruška Škaaredka OR Škaredka OR \"Škaredka\" odrůda" [ref=f31e721] [cursor=pointer]:
+              - /url: /images/search?view=detailV2&ccid=Zlkw3ava&id=08771C745E260B6A0417F6BF12FAC2EA2DF26A6A&thid=OIP.Zlkw3avafCw8BwIjxc8hTwHaHa&mediaurl=https%3a%2f%2fwww.tablycjakalorijnosti.com.ua%2ffile%2fimage%2ffoodstuff%2f804c9cdfa6484055963ae159291233f8%2fcf8e6f2cef004c5a8495ec73ccf43e81&cdnurl=https%3a%2f%2fth.bing.com%2fth%2fid%2fR.665930ddabda7c2c3c070223c5cf214f%3frik%3damryLerC%252bhK%252f9g%26pid%3dImgRaw%26r%3d0&exph=720&expw=720&q=hru%c5%a1ka+%c5%a0kaaredka+OR+%c5%a0karedka+OR+%22%c5%a0karedka%22+odr%c5%afda&FORM=IRPRST&ck=38B62919A3EC8F3FE1E563746BD6740A&selectedIndex=11&itb=0
+              - img "Image result for hruška Škaaredka OR Škaredka OR \"Škaredka\" odrůda" [ref=f31e723]
+            - generic [ref=f31e724]:
+              - link "Hruška sušená mrazem DobroLádovna - калорійність, харчова цінність ⋙ ..." [ref=f31e725] [cursor=pointer]:
+                - /url: /images/search?view=detailV2&ccid=Zlkw3ava&id=08771C745E260B6A0417F6BF12FAC2EA2DF26A6A&thid=OIP.Zlkw3avafCw8BwIjxc8hTwHaHa&mediaurl=https%3a%2f%2fwww.tablycjakalorijnosti.com.ua%2ffile%2fimage%2ffoodstuff%2f804c9cdfa6484055963ae159291233f8%2fcf8e6f2cef004c5a8495ec73ccf43e81&cdnurl=https%3a%2f%2fth.bing.com%2fth%2fid%2fR.665930ddabda7c2c3c070223c5cf214f%3frik%3damryLerC%252bhK%252f9g%26pid%3dImgRaw%26r%3d0&exph=720&expw=720&q=hru%c5%a1ka+%c5%a0kaaredka+OR+%c5%a0karedka+OR+%22%c5%a0karedka%22+odr%c5%afda&FORM=IRPRST&ck=38B62919A3EC8F3FE1E563746BD6740A&selectedIndex=11&itb=0
+              - generic:
+                - generic:
+                  - list:
+                    - listitem:
+                      - link "Hruška sušená mrazem DobroLádovna - калор…" [ref=f31e726] [cursor=pointer]:
+                        - /url: /images/search?view=detailV2&ccid=Zlkw3ava&id=08771C745E260B6A0417F6BF12FAC2EA2DF26A6A&thid=OIP.Zlkw3avafCw8BwIjxc8hTwHaHa&mediaurl=https%3a%2f%2fwww.tablycjakalorijnosti.com.ua%2ffile%2fimage%2ffoodstuff%2f804c9cdfa6484055963ae159291233f8%2fcf8e6f2cef004c5a8495ec73ccf43e81&cdnurl=https%3a%2f%2fth.bing.com%2fth%2fid%2fR.665930ddabda7c2c3c070223c5cf214f%3frik%3damryLerC%252bhK%252f9g%26pid%3dImgRaw%26r%3d0&exph=720&expw=720&q=hru%c5%a1ka+%c5%a0kaaredka+OR+%c5%a0karedka+OR+%22%c5%a0karedka%22+odr%c5%afda&FORM=IRPRST&ck=38B62919A3EC8F3FE1E563746BD6740A&selectedIndex=11&itb=0
+        - listitem [ref=f31e727]:
+          - generic [ref=f31e728]:
+            - link "Image result for hruška Škaaredka OR Škaredka OR \"Škaredka\" odrůda" [ref=f31e730] [cursor=pointer]:
+              - /url: /images/search?view=detailV2&ccid=aX9u6mG6&id=0431E68507C9F8303A601526F03DB8D8057AD79D&thid=OIP.aX9u6mG6clGN_2wrcwwwTgHaDs&mediaurl=https%3a%2f%2fstatic.toprecepty.cz%2ffotky%2frecepty%2f0698%2fhruskova-povidla-na-kolace-250013-731-365-nw.jpg&cdnurl=https%3a%2f%2fth.bing.com%2fth%2fid%2fR.697f6eea61ba72518dff6c2b730c304e%3frik%3dndd6Bdi4PfAmFQ%26pid%3dImgRaw%26r%3d0&exph=365&expw=731&q=hru%c5%a1ka+%c5%a0kaaredka+OR+%c5%a0karedka+OR+%22%c5%a0karedka%22+odr%c5%afda&FORM=IRPRST&ck=3CF76034F37E3E6AA875967E602848ED&selectedIndex=12&itb=0
+              - img "Image result for hruška Škaaredka OR Škaredka OR \"Škaredka\" odrůda" [ref=f31e732]
+            - generic [ref=f31e733]:
+              - link "Hrušková povidla na koláče - fotografie receptu - Toprecepty.cz" [ref=f31e734] [cursor=pointer]:
+                - /url: /images/search?view=detailV2&ccid=aX9u6mG6&id=0431E68507C9F8303A601526F03DB8D8057AD79D&thid=OIP.aX9u6mG6clGN_2wrcwwwTgHaDs&mediaurl=https%3a%2f%2fstatic.toprecepty.cz%2ffotky%2frecepty%2f0698%2fhruskova-povidla-na-kolace-250013-731-365-nw.jpg&cdnurl=https%3a%2f%2fth.bing.com%2fth%2fid%2fR.697f6eea61ba72518dff6c2b730c304e%3frik%3dndd6Bdi4PfAmFQ%26pid%3dImgRaw%26r%3d0&exph=365&expw=731&q=hru%c5%a1ka+%c5%a0kaaredka+OR+%c5%a0karedka+OR+%22%c5%a0karedka%22+odr%c5%afda&FORM=IRPRST&ck=3CF76034F37E3E6AA875967E602848ED&selectedIndex=12&itb=0
+              - generic:
+                - generic:
+                  - list:
+                    - listitem:
+                      - link "Hrušková povidla na koláče - fotografie receptu - Toprecepty.cz" [ref=f31e735] [cursor=pointer]:
+                        - /url: /images/search?view=detailV2&ccid=aX9u6mG6&id=0431E68507C9F8303A601526F03DB8D8057AD79D&thid=OIP.aX9u6mG6clGN_2wrcwwwTgHaDs&mediaurl=https%3a%2f%2fstatic.toprecepty.cz%2ffotky%2frecepty%2f0698%2fhruskova-povidla-na-kolace-250013-731-365-nw.jpg&cdnurl=https%3a%2f%2fth.bing.com%2fth%2fid%2fR.697f6eea61ba72518dff6c2b730c304e%3frik%3dndd6Bdi4PfAmFQ%26pid%3dImgRaw%26r%3d0&exph=365&expw=731&q=hru%c5%a1ka+%c5%a0kaaredka+OR+%c5%a0karedka+OR+%22%c5%a0karedka%22+odr%c5%afda&FORM=IRPRST&ck=3CF76034F37E3E6AA875967E602848ED&selectedIndex=12&itb=0
+        - listitem [ref=f31e736]:
+          - generic [ref=f31e737]:
+            - link "Image result for hruška Škaaredka OR Škaredka OR \"Škaredka\" odrůda" [ref=f31e739] [cursor=pointer]:
+              - /url: /images/search?view=detailV2&ccid=blhrx4y9&id=ED0949CDC5394592A7A14E89C24D3DE3597A49EB&thid=OIP.blhrx4y9K1HJWBkzzP19XAHaH4&mediaurl=https%3a%2f%2fwww.oldtoys.cz%2fwp-content%2fuploads%2f2025%2f06%2fscreenshot_20250620_152528_aliexpress2.jpg&cdnurl=https%3a%2f%2fth.bing.com%2fth%2fid%2fR.6e586bc78cbd2b51c9581933ccfd7d5c%3frik%3d60l6WeM9TcKJTg%26pid%3dImgRaw%26r%3d0&exph=1089&expw=1023&q=hru%c5%a1ka+%c5%a0kaaredka+OR+%c5%a0karedka+OR+%22%c5%a0karedka%22+odr%c5%afda&FORM=IRPRST&ck=D701E372EA0661F705ACA9A1634FE860&selectedIndex=13&itb=0
+              - img "Image result for hruška Škaaredka OR Škaredka OR \"Škaredka\" odrůda" [ref=f31e741]
+            - generic [ref=f31e742]:
+              - link "Plastová hruška | OLD TOYS" [ref=f31e743] [cursor=pointer]:
+                - /url: /images/search?view=detailV2&ccid=blhrx4y9&id=ED0949CDC5394592A7A14E89C24D3DE3597A49EB&thid=OIP.blhrx4y9K1HJWBkzzP19XAHaH4&mediaurl=https%3a%2f%2fwww.oldtoys.cz%2fwp-content%2fuploads%2f2025%2f06%2fscreenshot_20250620_152528_aliexpress2.jpg&cdnurl=https%3a%2f%2fth.bing.com%2fth%2fid%2fR.6e586bc78cbd2b51c9581933ccfd7d5c%3frik%3d60l6WeM9TcKJTg%26pid%3dImgRaw%26r%3d0&exph=1089&expw=1023&q=hru%c5%a1ka+%c5%a0kaaredka+OR+%c5%a0karedka+OR+%22%c5%a0karedka%22+odr%c5%afda&FORM=IRPRST&ck=D701E372EA0661F705ACA9A1634FE860&selectedIndex=13&itb=0
+              - generic:
+                - generic:
+                  - list:
+                    - listitem:
+                      - link "Plastová hruška | OLD TOYS" [ref=f31e744] [cursor=pointer]:
+                        - /url: /images/search?view=detailV2&ccid=blhrx4y9&id=ED0949CDC5394592A7A14E89C24D3DE3597A49EB&thid=OIP.blhrx4y9K1HJWBkzzP19XAHaH4&mediaurl=https%3a%2f%2fwww.oldtoys.cz%2fwp-content%2fuploads%2f2025%2f06%2fscreenshot_20250620_152528_aliexpress2.jpg&cdnurl=https%3a%2f%2fth.bing.com%2fth%2fid%2fR.6e586bc78cbd2b51c9581933ccfd7d5c%3frik%3d60l6WeM9TcKJTg%26pid%3dImgRaw%26r%3d0&exph=1089&expw=1023&q=hru%c5%a1ka+%c5%a0kaaredka+OR+%c5%a0karedka+OR+%22%c5%a0karedka%22+odr%c5%afda&FORM=IRPRST&ck=D701E372EA0661F705ACA9A1634FE860&selectedIndex=13&itb=0
+        - listitem [ref=f31e745]:
+          - generic [ref=f31e746]:
+            - link "Image result for hruška Škaaredka OR Škaredka OR \"Škaredka\" odrůda" [ref=f31e748] [cursor=pointer]:
+              - /url: /images/search?view=detailV2&ccid=Iw6HjnS5&id=A4F6045C241D272BBE8809E44C24B4CEB44A5144&thid=OIP.Iw6HjnS5iO0KpJz_mqGbrgAAAA&mediaurl=https%3a%2f%2fassets.zdravopedia.sk%2fimages%2fAko-pestova%c5%a5%2fpalatina.png&cdnurl=https%3a%2f%2fth.bing.com%2fth%2fid%2fR.230e878e74b988ed0aa49cff9aa19bae%3frik%3dRFFKtM60JEzkCQ%26pid%3dImgRaw%26r%3d0&exph=546&expw=371&q=hru%c5%a1ka+%c5%a0kaaredka+OR+%c5%a0karedka+OR+%22%c5%a0karedka%22+odr%c5%afda&FORM=IRPRST&ck=BB491B631900737F4A69D8D11ACB3951&selectedIndex=14&itb=0
+              - img "Image result for hruška Škaaredka OR Škaredka OR \"Škaredka\" odrůda" [ref=f31e750]
+            - generic [ref=f31e751]:
+              - 'link "Ako pestovať: Vinič Palatina | Zdravopedia.sk" [ref=f31e752] [cursor=pointer]':
+                - /url: /images/search?view=detailV2&ccid=Iw6HjnS5&id=A4F6045C241D272BBE8809E44C24B4CEB44A5144&thid=OIP.Iw6HjnS5iO0KpJz_mqGbrgAAAA&mediaurl=https%3a%2f%2fassets.zdravopedia.sk%2fimages%2fAko-pestova%c5%a5%2fpalatina.png&cdnurl=https%3a%2f%2fth.bing.com%2fth%2fid%2fR.230e878e74b988ed0aa49cff9aa19bae%3frik%3dRFFKtM60JEzkCQ%26pid%3dImgRaw%26r%3d0&exph=546&expw=371&q=hru%c5%a1ka+%c5%a0kaaredka+OR+%c5%a0karedka+OR+%22%c5%a0karedka%22+odr%c5%afda&FORM=IRPRST&ck=BB491B631900737F4A69D8D11ACB3951&selectedIndex=14&itb=0
+              - generic:
+                - generic:
+                  - list:
+                    - listitem:
+                      - 'link "Ako pestovať: Vinič Palatina | …" [ref=f31e753] [cursor=pointer]':
+                        - /url: /images/search?view=detailV2&ccid=Iw6HjnS5&id=A4F6045C241D272BBE8809E44C24B4CEB44A5144&thid=OIP.Iw6HjnS5iO0KpJz_mqGbrgAAAA&mediaurl=https%3a%2f%2fassets.zdravopedia.sk%2fimages%2fAko-pestova%c5%a5%2fpalatina.png&cdnurl=https%3a%2f%2fth.bing.com%2fth%2fid%2fR.230e878e74b988ed0aa49cff9aa19bae%3frik%3dRFFKtM60JEzkCQ%26pid%3dImgRaw%26r%3d0&exph=546&expw=371&q=hru%c5%a1ka+%c5%a0kaaredka+OR+%c5%a0karedka+OR+%22%c5%a0karedka%22+odr%c5%afda&FORM=IRPRST&ck=BB491B631900737F4A69D8D11ACB3951&selectedIndex=14&itb=0
+        - listitem [ref=f31e754]:
+          - generic [ref=f31e755]:
+            - generic [ref=f31e756]: Related Searches
+            - generic [ref=f31e758]:
+              - link "Coat of Arms" [ref=f31e759] [cursor=pointer]:
+                - /url: /images/search?q=Hruska+Coat+of+Arms&FORM=IRIBIP
+                - generic "Hruska Coat of Arms" [ref=f31e761]: Coat of Arms
+              - link "Shop Logo" [ref=f31e762] [cursor=pointer]:
+                - /url: /images/search?q=Hruska+Shop+Logo&FORM=IRIBIP
+                - generic "Hruska Shop Logo" [ref=f31e764]: Shop Logo
+              - link "Gas Station" [ref=f31e765] [cursor=pointer]:
+                - /url: /images/search?q=Hruska+Gas+Station&FORM=IRIBIP
+                - generic "Hruska Gas Station" [ref=f31e767]: Gas Station
+        - listitem [ref=f31e768]:
+          - generic [ref=f31e769]:
+            - link "Image result for hruška Škaaredka OR Škaredka OR \"Škaredka\" odrůda" [ref=f31e771] [cursor=pointer]:
+              - /url: /images/search?view=detailV2&ccid=ehNY4kbu&id=2884B39FB59DFD08C1291A4C6FF93F5C432283ED&thid=OIP.ehNY4kbuSgJ_org_sXHjhwHaNJ&mediaurl=https%3a%2f%2fstatic.toprecepty.cz%2ffotky%2frecepty%2f0906%2fhruskova-povidla-272051-1920-1080-original.jpg&cdnurl=https%3a%2f%2fth.bing.com%2fth%2fid%2fR.7a1358e246ee4a027fa2b83fb171e387%3frik%3d7YMiQ1w%252f%252bW9MGg%26pid%3dImgRaw%26r%3d0&exph=1080&expw=608&q=hru%c5%a1ka+%c5%a0kaaredka+OR+%c5%a0karedka+OR+%22%c5%a0karedka%22+odr%c5%afda&FORM=IRPRST&ck=9B420981A5C6F0FF848FFF1B2BD14EE3&selectedIndex=15&itb=0
+              - img "Image result for hruška Škaaredka OR Škaredka OR \"Škaredka\" odrůda" [ref=f31e773]
+            - generic [ref=f31e774]:
+              - link "Hrušková povidla - fotografie receptu - TopRecepty.cz" [ref=f31e775] [cursor=pointer]:
+                - /url: /images/search?view=detailV2&ccid=ehNY4kbu&id=2884B39FB59DFD08C1291A4C6FF93F5C432283ED&thid=OIP.ehNY4kbuSgJ_org_sXHjhwHaNJ&mediaurl=https%3a%2f%2fstatic.toprecepty.cz%2ffotky%2frecepty%2f0906%2fhruskova-povidla-272051-1920-1080-original.jpg&cdnurl=https%3a%2f%2fth.bing.com%2fth%2fid%2fR.7a1358e246ee4a027fa2b83fb171e387%3frik%3d7YMiQ1w%252f%252bW9MGg%26pid%3dImgRaw%26r%3d0&exph=1080&expw=608&q=hru%c5%a1ka+%c5%a0kaaredka+OR+%c5%a0karedka+OR+%22%c5%a0karedka%22+odr%c5%afda&FORM=IRPRST&ck=9B420981A5C6F0FF848FFF1B2BD14EE3&selectedIndex=15&itb=0
+              - generic:
+                - generic:
+                  - list:
+                    - listitem:
+                      - link "Hrušková povidla - fotografie rec…" [ref=f31e776] [cursor=pointer]:
+                        - /url: /images/search?view=detailV2&ccid=ehNY4kbu&id=2884B39FB59DFD08C1291A4C6FF93F5C432283ED&thid=OIP.ehNY4kbuSgJ_org_sXHjhwHaNJ&mediaurl=https%3a%2f%2fstatic.toprecepty.cz%2ffotky%2frecepty%2f0906%2fhruskova-povidla-272051-1920-1080-original.jpg&cdnurl=https%3a%2f%2fth.bing.com%2fth%2fid%2fR.7a1358e246ee4a027fa2b83fb171e387%3frik%3d7YMiQ1w%252f%252bW9MGg%26pid%3dImgRaw%26r%3d0&exph=1080&expw=608&q=hru%c5%a1ka+%c5%a0kaaredka+OR+%c5%a0karedka+OR+%22%c5%a0karedka%22+odr%c5%afda&FORM=IRPRST&ck=9B420981A5C6F0FF848FFF1B2BD14EE3&selectedIndex=15&itb=0
+      - list [ref=f31e777]:
+        - listitem [ref=f31e778]:
+          - generic [ref=f31e779]:
+            - generic [ref=f31e780]:
+              - link "Image result for hruška Škaaredka OR Škaredka OR \"Škaredka\" odrůda" [ref=f31e781] [cursor=pointer]:
+                - /url: /images/search?view=detailV2&ccid=iF4kR0QU&id=51522F86811EF7CD12A617EEAE8C473847266EA9&thid=OIP.iF4kR0QUccFvLklJhYU6OQHaEK&mediaurl=https%3a%2f%2fcdn.recepty.eu%2fimg%2ffood%2f270x190%2fzavarovani-konzervovani%2fpovidla-bez-michani.jpg&cdnurl=https%3a%2f%2fth.bing.com%2fth%2fid%2fR.885e2447441471c16f2e494985853a39%3frik%3dqW4mRzhHjK7uFw%26pid%3dImgRaw%26r%3d0&exph=540&expw=960&q=hru%c5%a1ka+%c5%a0kaaredka+OR+%c5%a0karedka+OR+%22%c5%a0karedka%22+odr%c5%afda&FORM=IRPRST&ck=A1390A78DA9AFABE119364A361BA102D&selectedIndex=16&itb=0
+                - img "Image result for hruška Škaaredka OR Škaredka OR \"Škaredka\" odrůda" [ref=f31e783]
+              - link "Recipe" [ref=f31e784] [cursor=pointer]:
+                - /url: /images/search?view=detailV2&ccid=iF4kR0QU&id=51522F86811EF7CD12A617EEAE8C473847266EA9&thid=OIP.iF4kR0QUccFvLklJhYU6OQHaEK&mediaurl=https%3a%2f%2fcdn.recepty.eu%2fimg%2ffood%2f270x190%2fzavarovani-konzervovani%2fpovidla-bez-michani.jpg&cdnurl=https%3a%2f%2fth.bing.com%2fth%2fid%2fR.885e2447441471c16f2e494985853a39%3frik%3dqW4mRzhHjK7uFw%26pid%3dImgRaw%26r%3d0&exph=540&expw=960&q=hru%c5%a1ka+%c5%a0kaaredka+OR+%c5%a0karedka+OR+%22%c5%a0karedka%22+odr%c5%afda&FORM=IRPRST&ck=A1390A78DA9AFABE119364A361BA102D&selectedIndex=16&itb=0
+            - generic [ref=f31e786]:
+              - link "ᐉ Hrušková povidla - recepty.eu" [ref=f31e787] [cursor=pointer]:
+                - /url: /images/search?view=detailV2&ccid=iF4kR0QU&id=51522F86811EF7CD12A617EEAE8C473847266EA9&thid=OIP.iF4kR0QUccFvLklJhYU6OQHaEK&mediaurl=https%3a%2f%2fcdn.recepty.eu%2fimg%2ffood%2f270x190%2fzavarovani-konzervovani%2fpovidla-bez-michani.jpg&cdnurl=https%3a%2f%2fth.bing.com%2fth%2fid%2fR.885e2447441471c16f2e494985853a39%3frik%3dqW4mRzhHjK7uFw%26pid%3dImgRaw%26r%3d0&exph=540&expw=960&q=hru%c5%a1ka+%c5%a0kaaredka+OR+%c5%a0karedka+OR+%22%c5%a0karedka%22+odr%c5%afda&FORM=IRPRST&ck=A1390A78DA9AFABE119364A361BA102D&selectedIndex=16&itb=0
+              - generic:
+                - generic:
+                  - list:
+                    - listitem:
+                      - link "ᐉ Hrušková povidla - recepty.eu" [ref=f31e788] [cursor=pointer]:
+                        - /url: /images/search?view=detailV2&ccid=iF4kR0QU&id=51522F86811EF7CD12A617EEAE8C473847266EA9&thid=OIP.iF4kR0QUccFvLklJhYU6OQHaEK&mediaurl=https%3a%2f%2fcdn.recepty.eu%2fimg%2ffood%2f270x190%2fzavarovani-konzervovani%2fpovidla-bez-michani.jpg&cdnurl=https%3a%2f%2fth.bing.com%2fth%2fid%2fR.885e2447441471c16f2e494985853a39%3frik%3dqW4mRzhHjK7uFw%26pid%3dImgRaw%26r%3d0&exph=540&expw=960&q=hru%c5%a1ka+%c5%a0kaaredka+OR+%c5%a0karedka+OR+%22%c5%a0karedka%22+odr%c5%afda&FORM=IRPRST&ck=A1390A78DA9AFABE119364A361BA102D&selectedIndex=16&itb=0
+                - generic:
+                  - list:
+                    - listitem:
+                      - 'img "Star Rating: 5 out of 5."'
+                      - text: (1)
+        - listitem [ref=f31e789]:
+          - generic [ref=f31e790]:
+            - link "Image result for hruška Škaaredka OR Škaredka OR \"Škaredka\" odrůda" [ref=f31e792] [cursor=pointer]:
+              - /url: /images/search?view=detailV2&ccid=oSueGNA6&id=4EE388ECEB5994948DF1BFA496C26ED06F3C007C&thid=OIP.oSueGNA6dyYxbv_r-Pw6qAHaF7&mediaurl=https%3a%2f%2fjaninyzahrady.cz%2fwp-content%2fuploads%2f2018%2f04%2fstare_odrudy.jpg&cdnurl=https%3a%2f%2fth.bing.com%2fth%2fid%2fR.a12b9e18d03a7726316effebf8fc3aa8%3frik%3dfAA8b9Buwpakvw%26pid%3dImgRaw%26r%3d0&exph=600&expw=750&q=hru%c5%a1ka+%c5%a0kaaredka+OR+%c5%a0karedka+OR+%22%c5%a0karedka%22+odr%c5%afda&FORM=IRPRST&ck=E0CD310713F7FF55FF7B10A25A156485&selectedIndex=17&itb=0
+              - img "Image result for hruška Škaaredka OR Škaredka OR \"Škaredka\" odrůda" [ref=f31e794]
+            - generic [ref=f31e795]:
+              - link "Příroda sobě aneb Kousek divočiny," [ref=f31e796] [cursor=pointer]:
+                - /url: /images/search?view=detailV2&ccid=oSueGNA6&id=4EE388ECEB5994948DF1BFA496C26ED06F3C007C&thid=OIP.oSueGNA6dyYxbv_r-Pw6qAHaF7&mediaurl=https%3a%2f%2fjaninyzahrady.cz%2fwp-content%2fuploads%2f2018%2f04%2fstare_odrudy.jpg&cdnurl=https%3a%2f%2fth.bing.com%2fth%2fid%2fR.a12b9e18d03a7726316effebf8fc3aa8%3frik%3dfAA8b9Buwpakvw%26pid%3dImgRaw%26r%3d0&exph=600&expw=750&q=hru%c5%a1ka+%c5%a0kaaredka+OR+%c5%a0karedka+OR+%22%c5%a0karedka%22+odr%c5%afda&FORM=IRPRST&ck=E0CD310713F7FF55FF7B10A25A156485&selectedIndex=17&itb=0
+              - generic:
+                - generic:
+                  - list:
+                    - listitem:
+                      - link "Příroda sobě aneb Kousek divočiny," [ref=f31e797] [cursor=pointer]:
+                        - /url: /images/search?view=detailV2&ccid=oSueGNA6&id=4EE388ECEB5994948DF1BFA496C26ED06F3C007C&thid=OIP.oSueGNA6dyYxbv_r-Pw6qAHaF7&mediaurl=https%3a%2f%2fjaninyzahrady.cz%2fwp-content%2fuploads%2f2018%2f04%2fstare_odrudy.jpg&cdnurl=https%3a%2f%2fth.bing.com%2fth%2fid%2fR.a12b9e18d03a7726316effebf8fc3aa8%3frik%3dfAA8b9Buwpakvw%26pid%3dImgRaw%26r%3d0&exph=600&expw=750&q=hru%c5%a1ka+%c5%a0kaaredka+OR+%c5%a0karedka+OR+%22%c5%a0karedka%22+odr%c5%afda&FORM=IRPRST&ck=E0CD310713F7FF55FF7B10A25A156485&selectedIndex=17&itb=0
+        - listitem [ref=f31e798]:
+          - generic [ref=f31e799]:
+            - link "Image result for hruška Škaaredka OR Škaredka OR \"Škaredka\" odrůda" [ref=f31e801] [cursor=pointer]:
+              - /url: /images/search?view=detailV2&ccid=8YN6a4MS&id=D33F95628415E5DFAFF6D3B281F177BCA3AE7766&thid=OIP.8YN6a4MSCjrcVJKV4vZiswHaHg&mediaurl=https%3a%2f%2fwww.kaloricketabulky.cz%2ffile%2fimage%2ffoodstuff%2f906715fa2b1397a3%2f92ae610ff0684e69a0feb3199f3d5ad5&cdnurl=https%3a%2f%2fth.bing.com%2fth%2fid%2fR.f1837a6b83120a3adc549295e2f662b3%3frik%3dZneuo7x38YGy0w%26pid%3dImgRaw%26r%3d0&exph=730&expw=720&q=hru%c5%a1ka+%c5%a0kaaredka+OR+%c5%a0karedka+OR+%22%c5%a0karedka%22+odr%c5%afda&FORM=IRPRST&ck=3417985A49659C17350DF047F680A521&selectedIndex=18&itb=0
+              - img "Image result for hruška Škaaredka OR Škaredka OR \"Škaredka\" odrůda" [ref=f31e803]
+            - generic [ref=f31e804]:
+              - link "Hruška Lucas - kalorie, kJ a nutriční hodnoty | KalorickéTabulky.cz" [ref=f31e805] [cursor=pointer]:
+                - /url: /images/search?view=detailV2&ccid=8YN6a4MS&id=D33F95628415E5DFAFF6D3B281F177BCA3AE7766&thid=OIP.8YN6a4MSCjrcVJKV4vZiswHaHg&mediaurl=https%3a%2f%2fwww.kaloricketabulky.cz%2ffile%2fimage%2ffoodstuff%2f906715fa2b1397a3%2f92ae610ff0684e69a0feb3199f3d5ad5&cdnurl=https%3a%2f%2fth.bing.com%2fth%2fid%2fR.f1837a6b83120a3adc549295e2f662b3%3frik%3dZneuo7x38YGy0w%26pid%3dImgRaw%26r%3d0&exph=730&expw=720&q=hru%c5%a1ka+%c5%a0kaaredka+OR+%c5%a0karedka+OR+%22%c5%a0karedka%22+odr%c5%afda&FORM=IRPRST&ck=3417985A49659C17350DF047F680A521&selectedIndex=18&itb=0
+              - generic:
+                - generic:
+                  - list:
+                    - listitem:
+                      - link "Hruška Lucas - kalorie, kJ a nutriční hodnot…" [ref=f31e806] [cursor=pointer]:
+                        - /url: /images/search?view=detailV2&ccid=8YN6a4MS&id=D33F95628415E5DFAFF6D3B281F177BCA3AE7766&thid=OIP.8YN6a4MSCjrcVJKV4vZiswHaHg&mediaurl=https%3a%2f%2fwww.kaloricketabulky.cz%2ffile%2fimage%2ffoodstuff%2f906715fa2b1397a3%2f92ae610ff0684e69a0feb3199f3d5ad5&cdnurl=https%3a%2f%2fth.bing.com%2fth%2fid%2fR.f1837a6b83120a3adc549295e2f662b3%3frik%3dZneuo7x38YGy0w%26pid%3dImgRaw%26r%3d0&exph=730&expw=720&q=hru%c5%a1ka+%c5%a0kaaredka+OR+%c5%a0karedka+OR+%22%c5%a0karedka%22+odr%c5%afda&FORM=IRPRST&ck=3417985A49659C17350DF047F680A521&selectedIndex=18&itb=0
+        - listitem [ref=f31e807]:
+          - generic [ref=f31e808]:
+            - link "Image result for hruška Škaaredka OR Škaredka OR \"Škaredka\" odrůda" [ref=f31e810] [cursor=pointer]:
+              - /url: /images/search?view=detailV2&ccid=CVAjCpF9&id=EC323C5CDF562FBD6757E9617738C48D26B8AB74&thid=OIP.CVAjCpF9iUzZwaMtyJYpiQHaJQ&mediaurl=https%3a%2f%2fdzungle-plants.cz%2fwp-content%2fuploads%2f2025%2f02%2fnova-zaloga_12.2.2025_sadna-drevesa_web_-38.jpg&cdnurl=https%3a%2f%2fth.bing.com%2fth%2fid%2fR.0950230a917d894cd9c1a32dc8962989%3frik%3ddKu4Jo3EOHdh6Q%26pid%3dImgRaw%26r%3d0&exph=1500&expw=1200&q=hru%c5%a1ka+%c5%a0kaaredka+OR+%c5%a0karedka+OR+%22%c5%a0karedka%22+odr%c5%afda&FORM=IRPRST&ck=56EE76CABCA87D2017471E092B4EE0CF&selectedIndex=19&itb=0
+              - img "Image result for hruška Škaaredka OR Škaredka OR \"Škaredka\" odrůda" [ref=f31e812]
+            - generic [ref=f31e813]:
+              - link "Sazenice Jabloně 'Sirius' (Malus domestica) (odolná odrůda) - Džungla ..." [ref=f31e814] [cursor=pointer]:
+                - /url: /images/search?view=detailV2&ccid=CVAjCpF9&id=EC323C5CDF562FBD6757E9617738C48D26B8AB74&thid=OIP.CVAjCpF9iUzZwaMtyJYpiQHaJQ&mediaurl=https%3a%2f%2fdzungle-plants.cz%2fwp-content%2fuploads%2f2025%2f02%2fnova-zaloga_12.2.2025_sadna-drevesa_web_-38.jpg&cdnurl=https%3a%2f%2fth.bing.com%2fth%2fid%2fR.0950230a917d894cd9c1a32dc8962989%3frik%3ddKu4Jo3EOHdh6Q%26pid%3dImgRaw%26r%3d0&exph=1500&expw=1200&q=hru%c5%a1ka+%c5%a0kaaredka+OR+%c5%a0karedka+OR+%22%c5%a0karedka%22+odr%c5%afda&FORM=IRPRST&ck=56EE76CABCA87D2017471E092B4EE0CF&selectedIndex=19&itb=0
+              - generic:
+                - generic:
+                  - list:
+                    - listitem:
+                      - link "Sazenice Jabloně 'Sirius' (Malus d…" [ref=f31e815] [cursor=pointer]:
+                        - /url: /images/search?view=detailV2&ccid=CVAjCpF9&id=EC323C5CDF562FBD6757E9617738C48D26B8AB74&thid=OIP.CVAjCpF9iUzZwaMtyJYpiQHaJQ&mediaurl=https%3a%2f%2fdzungle-plants.cz%2fwp-content%2fuploads%2f2025%2f02%2fnova-zaloga_12.2.2025_sadna-drevesa_web_-38.jpg&cdnurl=https%3a%2f%2fth.bing.com%2fth%2fid%2fR.0950230a917d894cd9c1a32dc8962989%3frik%3ddKu4Jo3EOHdh6Q%26pid%3dImgRaw%26r%3d0&exph=1500&expw=1200&q=hru%c5%a1ka+%c5%a0kaaredka+OR+%c5%a0karedka+OR+%22%c5%a0karedka%22+odr%c5%afda&FORM=IRPRST&ck=56EE76CABCA87D2017471E092B4EE0CF&selectedIndex=19&itb=0
+        - listitem [ref=f31e816]:
+          - generic [ref=f31e817]:
+            - link "Image result for hruška Škaaredka OR Škaredka OR \"Škaredka\" odrůda" [ref=f31e819] [cursor=pointer]:
+              - /url: /images/search?view=detailV2&ccid=ANCRq94u&id=ADC00B669B441B046E4C3779677366E969836EF4&thid=OIP.ANCRq94uOnlLM9v2WL2wywHaFj&mediaurl=https%3a%2f%2fwww.prodejstromku.cz%2fgallery%2f4510%2fMoruse-Sin-Tso.jpg&cdnurl=https%3a%2f%2fth.bing.com%2fth%2fid%2fR.00d091abde2e3a794b33dbf658bdb0cb%3frik%3d9G6Daelmc2d5Nw%26pid%3dImgRaw%26r%3d0&exph=900&expw=1200&q=hru%c5%a1ka+%c5%a0kaaredka+OR+%c5%a0karedka+OR+%22%c5%a0karedka%22+odr%c5%afda&FORM=IRPRST&ck=43BAEB4A37EB1C6C2DE6847B81E7A3EC&selectedIndex=20&itb=0
+              - img "Image result for hruška Škaaredka OR Škaredka OR \"Škaredka\" odrůda" [ref=f31e821]
+            - generic [ref=f31e822]:
+              - link "Moruše Shin Tso | Prodej stromků" [ref=f31e823] [cursor=pointer]:
+                - /url: /images/search?view=detailV2&ccid=ANCRq94u&id=ADC00B669B441B046E4C3779677366E969836EF4&thid=OIP.ANCRq94uOnlLM9v2WL2wywHaFj&mediaurl=https%3a%2f%2fwww.prodejstromku.cz%2fgallery%2f4510%2fMoruse-Sin-Tso.jpg&cdnurl=https%3a%2f%2fth.bing.com%2fth%2fid%2fR.00d091abde2e3a794b33dbf658bdb0cb%3frik%3d9G6Daelmc2d5Nw%26pid%3dImgRaw%26r%3d0&exph=900&expw=1200&q=hru%c5%a1ka+%c5%a0kaaredka+OR+%c5%a0karedka+OR+%22%c5%a0karedka%22+odr%c5%afda&FORM=IRPRST&ck=43BAEB4A37EB1C6C2DE6847B81E7A3EC&selectedIndex=20&itb=0
+              - generic:
+                - generic:
+                  - list:
+                    - listitem:
+                      - link "Moruše Shin Tso | Prodej stromků" [ref=f31e824] [cursor=pointer]:
+                        - /url: /images/search?view=detailV2&ccid=ANCRq94u&id=ADC00B669B441B046E4C3779677366E969836EF4&thid=OIP.ANCRq94uOnlLM9v2WL2wywHaFj&mediaurl=https%3a%2f%2fwww.prodejstromku.cz%2fgallery%2f4510%2fMoruse-Sin-Tso.jpg&cdnurl=https%3a%2f%2fth.bing.com%2fth%2fid%2fR.00d091abde2e3a794b33dbf658bdb0cb%3frik%3d9G6Daelmc2d5Nw%26pid%3dImgRaw%26r%3d0&exph=900&expw=1200&q=hru%c5%a1ka+%c5%a0kaaredka+OR+%c5%a0karedka+OR+%22%c5%a0karedka%22+odr%c5%afda&FORM=IRPRST&ck=43BAEB4A37EB1C6C2DE6847B81E7A3EC&selectedIndex=20&itb=0
+        - listitem [ref=f31e825]:
+          - generic [ref=f31e826]:
+            - link "Image result for hruška Škaaredka OR Škaredka OR \"Škaredka\" odrůda" [ref=f31e828] [cursor=pointer]:
+              - /url: /images/search?view=detailV2&ccid=UVZB4OKI&id=CBC4AB6ACD04DAB1891A08E6543C9D8CBD97BE9C&thid=OIP.UVZB4OKIEf3A8e0J3054LgHaNP&mediaurl=https%3a%2f%2fwww.gadar.cz%2ffotky6629%2ffotos%2f_vyr_1204MRKEV-ODRUDA-GNIFF-stredne-pozdni.png&cdnurl=https%3a%2f%2fth.bing.com%2fth%2fid%2fR.515641e0e28811fdc0f1ed09df4e782e%3frik%3dnL6XvYydPFTmCA%26pid%3dImgRaw%26r%3d0&exph=1780&expw=995&q=hru%c5%a1ka+%c5%a0kaaredka+OR+%c5%a0karedka+OR+%22%c5%a0karedka%22+odr%c5%afda&FORM=IRPRST&ck=486FDACEFA29104568B75A111173B521&selectedIndex=21&itb=0
+              - img "Image result for hruška Škaaredka OR Škaredka OR \"Škaredka\" odrůda" [ref=f31e830]
+            - generic [ref=f31e831]:
+              - link "SEMENA ZELENINY | MRKEV ODRŮDA GNIFF středně pozdní /200 SEMEN ..." [ref=f31e832] [cursor=pointer]:
+                - /url: /images/search?view=detailV2&ccid=UVZB4OKI&id=CBC4AB6ACD04DAB1891A08E6543C9D8CBD97BE9C&thid=OIP.UVZB4OKIEf3A8e0J3054LgHaNP&mediaurl=https%3a%2f%2fwww.gadar.cz%2ffotky6629%2ffotos%2f_vyr_1204MRKEV-ODRUDA-GNIFF-stredne-pozdni.png&cdnurl=https%3a%2f%2fth.bing.com%2fth%2fid%2fR.515641e0e28811fdc0f1ed09df4e782e%3frik%3dnL6XvYydPFTmCA%26pid%3dImgRaw%26r%3d0&exph=1780&expw=995&q=hru%c5%a1ka+%c5%a0kaaredka+OR+%c5%a0karedka+OR+%22%c5%a0karedka%22+odr%c5%afda&FORM=IRPRST&ck=486FDACEFA29104568B75A111173B521&selectedIndex=21&itb=0
+              - generic:
+                - generic:
+                  - list:
+                    - listitem:
+                      - link "SEMENA ZELENINY | MR…" [ref=f31e833] [cursor=pointer]:
+                        - /url: /images/search?view=detailV2&ccid=UVZB4OKI&id=CBC4AB6ACD04DAB1891A08E6543C9D8CBD97BE9C&thid=OIP.UVZB4OKIEf3A8e0J3054LgHaNP&mediaurl=https%3a%2f%2fwww.gadar.cz%2ffotky6629%2ffotos%2f_vyr_1204MRKEV-ODRUDA-GNIFF-stredne-pozdni.png&cdnurl=https%3a%2f%2fth.bing.com%2fth%2fid%2fR.515641e0e28811fdc0f1ed09df4e782e%3frik%3dnL6XvYydPFTmCA%26pid%3dImgRaw%26r%3d0&exph=1780&expw=995&q=hru%c5%a1ka+%c5%a0kaaredka+OR+%c5%a0karedka+OR+%22%c5%a0karedka%22+odr%c5%afda&FORM=IRPRST&ck=486FDACEFA29104568B75A111173B521&selectedIndex=21&itb=0
+      - list [ref=f31e834]:
+        - listitem [ref=f31e835]:
+          - generic [ref=f31e836]:
+            - link "Image result for hruška Škaaredka OR Škaredka OR \"Škaredka\" odrůda" [ref=f31e838] [cursor=pointer]:
+              - /url: /images/search?view=detailV2&ccid=Jets2NZX&id=7EC9241377BC963E36250C1143A483546DEDFCEC&thid=OIP.Jets2NZX917lQJSsLDqqRQHaGN&mediaurl=https%3a%2f%2flookaside.fbsbx.com%2flookaside%2fcrawler%2fmedia%2f%3fmedia_id%3d1312554026898990&cdnurl=https%3a%2f%2fth.bing.com%2fth%2fid%2fR.25eb6cd8d657f75ee54094ac2c3aaa45%3frik%3d7PztbVSDpEMRDA%26pid%3dImgRaw%26r%3d0&exph=788&expw=940&q=hru%c5%a1ka+%c5%a0kaaredka+OR+%c5%a0karedka+OR+%22%c5%a0karedka%22+odr%c5%afda&FORM=IRPRST&ck=8091901F143074A51381D94D1001983D&selectedIndex=22&itb=0
+              - img "Image result for hruška Škaaredka OR Škaredka OR \"Škaredka\" odrůda" [ref=f31e840]
+            - generic [ref=f31e841]:
+              - link "časopis - Pamätáte si na Gloriu z telenovely Divoký anjel? Popri ..." [ref=f31e842] [cursor=pointer]:
+                - /url: /images/search?view=detailV2&ccid=Jets2NZX&id=7EC9241377BC963E36250C1143A483546DEDFCEC&thid=OIP.Jets2NZX917lQJSsLDqqRQHaGN&mediaurl=https%3a%2f%2flookaside.fbsbx.com%2flookaside%2fcrawler%2fmedia%2f%3fmedia_id%3d1312554026898990&cdnurl=https%3a%2f%2fth.bing.com%2fth%2fid%2fR.25eb6cd8d657f75ee54094ac2c3aaa45%3frik%3d7PztbVSDpEMRDA%26pid%3dImgRaw%26r%3d0&exph=788&expw=940&q=hru%c5%a1ka+%c5%a0kaaredka+OR+%c5%a0karedka+OR+%22%c5%a0karedka%22+odr%c5%afda&FORM=IRPRST&ck=8091901F143074A51381D94D1001983D&selectedIndex=22&itb=0
+              - generic:
+                - generic:
+                  - list:
+                    - listitem:
+                      - link "časopis - Pamätáte si na Gloriu z telenovely Divoký an…" [ref=f31e843] [cursor=pointer]:
+                        - /url: /images/search?view=detailV2&ccid=Jets2NZX&id=7EC9241377BC963E36250C1143A483546DEDFCEC&thid=OIP.Jets2NZX917lQJSsLDqqRQHaGN&mediaurl=https%3a%2f%2flookaside.fbsbx.com%2flookaside%2fcrawler%2fmedia%2f%3fmedia_id%3d1312554026898990&cdnurl=https%3a%2f%2fth.bing.com%2fth%2fid%2fR.25eb6cd8d657f75ee54094ac2c3aaa45%3frik%3d7PztbVSDpEMRDA%26pid%3dImgRaw%26r%3d0&exph=788&expw=940&q=hru%c5%a1ka+%c5%a0kaaredka+OR+%c5%a0karedka+OR+%22%c5%a0karedka%22+odr%c5%afda&FORM=IRPRST&ck=8091901F143074A51381D94D1001983D&selectedIndex=22&itb=0
+        - listitem [ref=f31e844]:
+          - generic [ref=f31e845]:
+            - link "Image result for hruška Škaaredka OR Škaredka OR \"Škaredka\" odrůda" [ref=f31e847] [cursor=pointer]:
+              - /url: /images/search?view=detailV2&ccid=b2HAPTED&id=F600BE57852D264491E37D9A5B209D00AAB28280&thid=OIP.b2HAPTEDkHi76Xukhx-kGgHaEK&mediaurl=https%3a%2f%2fimg.motorkari.cz%2fupload%2fimages%2fdatabaze%2f2018-07%2f690234.jpg%3f2331504&cdnurl=https%3a%2f%2fth.bing.com%2fth%2fid%2fR.6f61c03d31039078bbe97ba4871fa41a%3frik%3dgIKyqgCdIFuafQ%26pid%3dImgRaw%26r%3d0&exph=576&expw=1024&q=hru%c5%a1ka+%c5%a0kaaredka+OR+%c5%a0karedka+OR+%22%c5%a0karedka%22+odr%c5%afda&FORM=IRPRST&ck=3BBB78EB5AFCDDA3CAD1171A272A101C&selectedIndex=23&itb=0
+              - img "Image result for hruška Škaaredka OR Škaredka OR \"Škaredka\" odrůda" [ref=f31e849]
+            - generic [ref=f31e850]:
+              - link "Honda ANF 125 Innova uživatele Al-Gajda - | Motorkáři.cz" [ref=f31e851] [cursor=pointer]:
+                - /url: /images/search?view=detailV2&ccid=b2HAPTED&id=F600BE57852D264491E37D9A5B209D00AAB28280&thid=OIP.b2HAPTEDkHi76Xukhx-kGgHaEK&mediaurl=https%3a%2f%2fimg.motorkari.cz%2fupload%2fimages%2fdatabaze%2f2018-07%2f690234.jpg%3f2331504&cdnurl=https%3a%2f%2fth.bing.com%2fth%2fid%2fR.6f61c03d31039078bbe97ba4871fa41a%3frik%3dgIKyqgCdIFuafQ%26pid%3dImgRaw%26r%3d0&exph=576&expw=1024&q=hru%c5%a1ka+%c5%a0kaaredka+OR+%c5%a0karedka+OR+%22%c5%a0karedka%22+odr%c5%afda&FORM=IRPRST&ck=3BBB78EB5AFCDDA3CAD1171A272A101C&selectedIndex=23&itb=0
+              - generic:
+                - generic:
+                  - list:
+                    - listitem:
+                      - link "Honda ANF 125 Innova uživatele Al-Gajda - | Motorkáři.cz" [ref=f31e852] [cursor=pointer]:
+                        - /url: /images/search?view=detailV2&ccid=b2HAPTED&id=F600BE57852D264491E37D9A5B209D00AAB28280&thid=OIP.b2HAPTEDkHi76Xukhx-kGgHaEK&mediaurl=https%3a%2f%2fimg.motorkari.cz%2fupload%2fimages%2fdatabaze%2f2018-07%2f690234.jpg%3f2331504&cdnurl=https%3a%2f%2fth.bing.com%2fth%2fid%2fR.6f61c03d31039078bbe97ba4871fa41a%3frik%3dgIKyqgCdIFuafQ%26pid%3dImgRaw%26r%3d0&exph=576&expw=1024&q=hru%c5%a1ka+%c5%a0kaaredka+OR+%c5%a0karedka+OR+%22%c5%a0karedka%22+odr%c5%afda&FORM=IRPRST&ck=3BBB78EB5AFCDDA3CAD1171A272A101C&selectedIndex=23&itb=0
+        - listitem [ref=f31e853]:
+          - generic [ref=f31e854]:
+            - link "Image result for hruška Škaaredka OR Škaredka OR \"Škaredka\" odrůda" [ref=f31e856] [cursor=pointer]:
+              - /url: /images/search?view=detailV2&ccid=qvcZvP%2bq&id=6A48EF6209762448DE1D746834F76B1950645B8A&thid=OIP.qvcZvP-q-o-rj3DfzkCPcgHaHa&mediaurl=https%3a%2f%2fn1s1.hsmedia.ru%2fec%2ffe%2f4e%2fecfe4eaeee1eb1e93afabfb3e81186e5%2f984x984_1_725b7e80078efe2d8cf00f9ec5145866%401500x1500_0xL1tDEeoV_7454274187736829128.jpg.webp&cdnurl=https%3a%2f%2fth.bing.com%2fth%2fid%2fR.aaf719bcffaafa8fab8f70dfce408f72%3frik%3diltkUBlr9zRodA%26pid%3dImgRaw%26r%3d0&exph=984&expw=984&q=hru%c5%a1ka+%c5%a0kaaredka+OR+%c5%a0karedka+OR+%22%c5%a0karedka%22+odr%c5%afda&FORM=IRPRST&ck=F9E45332771D6468CE7013CB220334AF&selectedIndex=24&itb=0
+              - img "Image result for hruška Škaaredka OR Škaredka OR \"Škaredka\" odrůda" [ref=f31e858]
+            - generic [ref=f31e859]:
+              - link "Determinantní odrůda rajčat, co to znamená, rozdíl od neurčité - 24 ..." [ref=f31e860] [cursor=pointer]:
+                - /url: /images/search?view=detailV2&ccid=qvcZvP%2bq&id=6A48EF6209762448DE1D746834F76B1950645B8A&thid=OIP.qvcZvP-q-o-rj3DfzkCPcgHaHa&mediaurl=https%3a%2f%2fn1s1.hsmedia.ru%2fec%2ffe%2f4e%2fecfe4eaeee1eb1e93afabfb3e81186e5%2f984x984_1_725b7e80078efe2d8cf00f9ec5145866%401500x1500_0xL1tDEeoV_7454274187736829128.jpg.webp&cdnurl=https%3a%2f%2fth.bing.com%2fth%2fid%2fR.aaf719bcffaafa8fab8f70dfce408f72%3frik%3diltkUBlr9zRodA%26pid%3dImgRaw%26r%3d0&exph=984&expw=984&q=hru%c5%a1ka+%c5%a0kaaredka+OR+%c5%a0karedka+OR+%22%c5%a0karedka%22+odr%c5%afda&FORM=IRPRST&ck=F9E45332771D6468CE7013CB220334AF&selectedIndex=24&itb=0
+              - generic:
+                - generic:
+                  - list:
+                    - listitem:
+                      - link "Determinantní odrůda rajčat, co to znamená, …" [ref=f31e861] [cursor=pointer]:
+                        - /url: /images/search?view=detailV2&ccid=qvcZvP%2bq&id=6A48EF6209762448DE1D746834F76B1950645B8A&thid=OIP.qvcZvP-q-o-rj3DfzkCPcgHaHa&mediaurl=https%3a%2f%2fn1s1.hsmedia.ru%2fec%2ffe%2f4e%2fecfe4eaeee1eb1e93afabfb3e81186e5%2f984x984_1_725b7e80078efe2d8cf00f9ec5145866%401500x1500_0xL1tDEeoV_7454274187736829128.jpg.webp&cdnurl=https%3a%2f%2fth.bing.com%2fth%2fid%2fR.aaf719bcffaafa8fab8f70dfce408f72%3frik%3diltkUBlr9zRodA%26pid%3dImgRaw%26r%3d0&exph=984&expw=984&q=hru%c5%a1ka+%c5%a0kaaredka+OR+%c5%a0karedka+OR+%22%c5%a0karedka%22+odr%c5%afda&FORM=IRPRST&ck=F9E45332771D6468CE7013CB220334AF&selectedIndex=24&itb=0
+        - listitem [ref=f31e862]:
+          - generic [ref=f31e863]:
+            - link "Image result for hruška Škaaredka OR Škaredka OR \"Škaredka\" odrůda" [ref=f31e865] [cursor=pointer]:
+              - /url: /images/search?view=detailV2&ccid=9nfSvpfn&id=B6F90A8ED8D91D3661A5A8E650056A62B66EC339&thid=OIP.9nfSvpfnBroapPA1W6z5-wHaEK&mediaurl=https%3a%2f%2fdam.production02.nmh.nmheagle.sk%2fapi%2fimage%2f1280x720%2fed7%2fed763b22-1ba0-11ef-b315-ca36e7882062.jpeg&cdnurl=https%3a%2f%2fth.bing.com%2fth%2fid%2fR.f677d2be97e706ba1aa4f0355bacf9fb%3frik%3dOcNutmJqBVDmqA%26pid%3dImgRaw%26r%3d0&exph=720&expw=1280&q=hru%c5%a1ka+%c5%a0kaaredka+OR+%c5%a0karedka+OR+%22%c5%a0karedka%22+odr%c5%afda&FORM=IRPRST&ck=F23350605280746E1951AE0A766B0A23&selectedIndex=25&itb=0
+              - img "Image result for hruška Škaaredka OR Škaredka OR \"Škaredka\" odrůda" [ref=f31e867]
+            - generic [ref=f31e868]:
+              - link "Škaredka Abril z Rosalindy ukázala SEXI TELO v bikinách" [ref=f31e869] [cursor=pointer]:
+                - /url: /images/search?view=detailV2&ccid=9nfSvpfn&id=B6F90A8ED8D91D3661A5A8E650056A62B66EC339&thid=OIP.9nfSvpfnBroapPA1W6z5-wHaEK&mediaurl=https%3a%2f%2fdam.production02.nmh.nmheagle.sk%2fapi%2fimage%2f1280x720%2fed7%2fed763b22-1ba0-11ef-b315-ca36e7882062.jpeg&cdnurl=https%3a%2f%2fth.bing.com%2fth%2fid%2fR.f677d2be97e706ba1aa4f0355bacf9fb%3frik%3dOcNutmJqBVDmqA%26pid%3dImgRaw%26r%3d0&exph=720&expw=1280&q=hru%c5%a1ka+%c5%a0kaaredka+OR+%c5%a0karedka+OR+%22%c5%a0karedka%22+odr%c5%afda&FORM=IRPRST&ck=F23350605280746E1951AE0A766B0A23&selectedIndex=25&itb=0
+              - generic:
+                - generic:
+                  - list:
+                    - listitem:
+                      - link "Škaredka Abril z Rosalindy ukázala SEXI TELO v bikinách" [ref=f31e870] [cursor=pointer]:
+                        - /url: /images/search?view=detailV2&ccid=9nfSvpfn&id=B6F90A8ED8D91D3661A5A8E650056A62B66EC339&thid=OIP.9nfSvpfnBroapPA1W6z5-wHaEK&mediaurl=https%3a%2f%2fdam.production02.nmh.nmheagle.sk%2fapi%2fimage%2f1280x720%2fed7%2fed763b22-1ba0-11ef-b315-ca36e7882062.jpeg&cdnurl=https%3a%2f%2fth.bing.com%2fth%2fid%2fR.f677d2be97e706ba1aa4f0355bacf9fb%3frik%3dOcNutmJqBVDmqA%26pid%3dImgRaw%26r%3d0&exph=720&expw=1280&q=hru%c5%a1ka+%c5%a0kaaredka+OR+%c5%a0karedka+OR+%22%c5%a0karedka%22+odr%c5%afda&FORM=IRPRST&ck=F23350605280746E1951AE0A766B0A23&selectedIndex=25&itb=0
+        - listitem [ref=f31e871]:
+          - generic [ref=f31e872]:
+            - link "Image result for hruška Škaaredka OR Škaredka OR \"Škaredka\" odrůda" [ref=f31e874] [cursor=pointer]:
+              - /url: /images/search?view=detailV2&ccid=uqRUaFOr&id=243B578113BAD73099B4DF854B877B9661750A00&thid=OIP.uqRUaFOrTemNNEDMknqLpQHaLH&mediaurl=https%3a%2f%2fwww.worthpinning.com%2fwp-content%2fuploads%2fmedia%2f04%2f94828389-rosemary-worthpinning.jpg&cdnurl=https%3a%2f%2fth.bing.com%2fth%2fid%2fR.baa4546853ab4de98d3440cc927a8ba5%3frik%3dAAp1YZZ7h0uF3w%26pid%3dImgRaw%26r%3d0&exph=1800&expw=1200&q=hru%c5%a1ka+%c5%a0kaaredka+OR+%c5%a0karedka+OR+%22%c5%a0karedka%22+odr%c5%afda&FORM=IRPRST&ck=25493E2E886449A79D830742E34599EB&selectedIndex=26&itb=0
+              - img "Image result for hruška Škaaredka OR Škaredka OR \"Škaredka\" odrůda" [ref=f31e876]
+            - generic [ref=f31e877]:
+              - link "10 Great Swaps for Herbes de Provence in Recipes - Worth Pinning" [ref=f31e878] [cursor=pointer]:
+                - /url: /images/search?view=detailV2&ccid=uqRUaFOr&id=243B578113BAD73099B4DF854B877B9661750A00&thid=OIP.uqRUaFOrTemNNEDMknqLpQHaLH&mediaurl=https%3a%2f%2fwww.worthpinning.com%2fwp-content%2fuploads%2fmedia%2f04%2f94828389-rosemary-worthpinning.jpg&cdnurl=https%3a%2f%2fth.bing.com%2fth%2fid%2fR.baa4546853ab4de98d3440cc927a8ba5%3frik%3dAAp1YZZ7h0uF3w%26pid%3dImgRaw%26r%3d0&exph=1800&expw=1200&q=hru%c5%a1ka+%c5%a0kaaredka+OR+%c5%a0karedka+OR+%22%c5%a0karedka%22+odr%c5%afda&FORM=IRPRST&ck=25493E2E886449A79D830742E34599EB&selectedIndex=26&itb=0
+              - generic:
+                - generic:
+                  - list:
+                    - listitem:
+                      - link "10 Great Swaps for Herbes de …" [ref=f31e879] [cursor=pointer]:
+                        - /url: /images/search?view=detailV2&ccid=uqRUaFOr&id=243B578113BAD73099B4DF854B877B9661750A00&thid=OIP.uqRUaFOrTemNNEDMknqLpQHaLH&mediaurl=https%3a%2f%2fwww.worthpinning.com%2fwp-content%2fuploads%2fmedia%2f04%2f94828389-rosemary-worthpinning.jpg&cdnurl=https%3a%2f%2fth.bing.com%2fth%2fid%2fR.baa4546853ab4de98d3440cc927a8ba5%3frik%3dAAp1YZZ7h0uF3w%26pid%3dImgRaw%26r%3d0&exph=1800&expw=1200&q=hru%c5%a1ka+%c5%a0kaaredka+OR+%c5%a0karedka+OR+%22%c5%a0karedka%22+odr%c5%afda&FORM=IRPRST&ck=25493E2E886449A79D830742E34599EB&selectedIndex=26&itb=0
+      - list [ref=f31e880]:
+        - listitem [ref=f31e881]:
+          - generic [ref=f31e882]:
+            - link "Image result for hruška Škaaredka OR Škaredka OR \"Škaredka\" odrůda" [ref=f31e884] [cursor=pointer]:
+              - /url: /images/search?view=detailV2&ccid=R1RAhK04&id=D46D055BF52AE4C39E0B3698C1AB6D49FC411781&thid=OIP.R1RAhK04G784EVR3alb3VAHaJ4&mediaurl=https%3a%2f%2fdam.production02.nmh.nmheagle.sk%2fapi%2fimage%2f1680x2240%2fffa%2fffa2b898-a8aa-4d34-b717-c96de0d1c61c.webp&cdnurl=https%3a%2f%2fth.bing.com%2fth%2fid%2fR.47544084ad381bbf381154776a56f754%3frik%3dgRdB%252fEltq8GYNg%26pid%3dImgRaw%26r%3d0&exph=2240&expw=1680&q=hru%c5%a1ka+%c5%a0kaaredka+OR+%c5%a0karedka+OR+%22%c5%a0karedka%22+odr%c5%afda&FORM=IRPRST&ck=033E798E14D7D0FD92B50CFCDCA670AB&selectedIndex=27&itb=0
+              - img "Image result for hruška Škaaredka OR Škaredka OR \"Škaredka\" odrůda" [ref=f31e886]
+            - generic [ref=f31e887]:
+              - 'link "Glória z Divokého anjela: Aha, akú rozkošnú dcérku má!" [ref=f31e888] [cursor=pointer]':
+                - /url: /images/search?view=detailV2&ccid=R1RAhK04&id=D46D055BF52AE4C39E0B3698C1AB6D49FC411781&thid=OIP.R1RAhK04G784EVR3alb3VAHaJ4&mediaurl=https%3a%2f%2fdam.production02.nmh.nmheagle.sk%2fapi%2fimage%2f1680x2240%2fffa%2fffa2b898-a8aa-4d34-b717-c96de0d1c61c.webp&cdnurl=https%3a%2f%2fth.bing.com%2fth%2fid%2fR.47544084ad381bbf381154776a56f754%3frik%3dgRdB%252fEltq8GYNg%26pid%3dImgRaw%26r%3d0&exph=2240&expw=1680&q=hru%c5%a1ka+%c5%a0kaaredka+OR+%c5%a0karedka+OR+%22%c5%a0karedka%22+odr%c5%afda&FORM=IRPRST&ck=033E798E14D7D0FD92B50CFCDCA670AB&selectedIndex=27&itb=0
+              - generic:
+                - generic:
+                  - list:
+                    - listitem:
+                      - 'link "Glória z Divokého anjela: Aha, ak…" [ref=f31e889] [cursor=pointer]':
+                        - /url: /images/search?view=detailV2&ccid=R1RAhK04&id=D46D055BF52AE4C39E0B3698C1AB6D49FC411781&thid=OIP.R1RAhK04G784EVR3alb3VAHaJ4&mediaurl=https%3a%2f%2fdam.production02.nmh.nmheagle.sk%2fapi%2fimage%2f1680x2240%2fffa%2fffa2b898-a8aa-4d34-b717-c96de0d1c61c.webp&cdnurl=https%3a%2f%2fth.bing.com%2fth%2fid%2fR.47544084ad381bbf381154776a56f754%3frik%3dgRdB%252fEltq8GYNg%26pid%3dImgRaw%26r%3d0&exph=2240&expw=1680&q=hru%c5%a1ka+%c5%a0kaaredka+OR+%c5%a0karedka+OR+%22%c5%a0karedka%22+odr%c5%afda&FORM=IRPRST&ck=033E798E14D7D0FD92B50CFCDCA670AB&selectedIndex=27&itb=0
+        - listitem [ref=f31e890]:
+          - generic [ref=f31e891]:
+            - link "Image result for hruška Škaaredka OR Škaredka OR \"Škaredka\" odrůda" [ref=f31e893] [cursor=pointer]:
+              - /url: /images/search?view=detailV2&ccid=u0HmBc2i&id=7D0F8B5D520D1646A9F542516FEA3E7EC249130F&thid=OIP.u0HmBc2iSxLBLAa0NvKsBAHaEK&mediaurl=https%3a%2f%2fdam.production02.nmh.nmheagle.sk%2fapi%2fimage%2f1280x720%2feb1%2feb1db3f6-1ba0-11ef-b315-ca36e7882062.jpeg&cdnurl=https%3a%2f%2fth.bing.com%2fth%2fid%2fR.bb41e605cda24b12c12c06b436f2ac04%3frik%3dDxNJwn4%252b6m9RQg%26pid%3dImgRaw%26r%3d0&exph=720&expw=1280&q=hru%c5%a1ka+%c5%a0kaaredka+OR+%c5%a0karedka+OR+%22%c5%a0karedka%22+odr%c5%afda&FORM=IRPRST&ck=B458228BDB9668C1D40D7136CB7951CC&selectedIndex=28&itb=0
+              - img "Image result for hruška Škaaredka OR Škaredka OR \"Škaredka\" odrůda" [ref=f31e895]
+            - generic [ref=f31e896]:
+              - link "Škaredka Abril z Rosalindy ukázala SEXI TELO v bikinách" [ref=f31e897] [cursor=pointer]:
+                - /url: /images/search?view=detailV2&ccid=u0HmBc2i&id=7D0F8B5D520D1646A9F542516FEA3E7EC249130F&thid=OIP.u0HmBc2iSxLBLAa0NvKsBAHaEK&mediaurl=https%3a%2f%2fdam.production02.nmh.nmheagle.sk%2fapi%2fimage%2f1280x720%2feb1%2feb1db3f6-1ba0-11ef-b315-ca36e7882062.jpeg&cdnurl=https%3a%2f%2fth.bing.com%2fth%2fid%2fR.bb41e605cda24b12c12c06b436f2ac04%3frik%3dDxNJwn4%252b6m9RQg%26pid%3dImgRaw%26r%3d0&exph=720&expw=1280&q=hru%c5%a1ka+%c5%a0kaaredka+OR+%c5%a0karedka+OR+%22%c5%a0karedka%22+odr%c5%afda&FORM=IRPRST&ck=B458228BDB9668C1D40D7136CB7951CC&selectedIndex=28&itb=0
+              - generic:
+                - generic:
+                  - list:
+                    - listitem:
+                      - link "Škaredka Abril z Rosalindy ukázala SEXI TELO v bikinách" [ref=f31e898] [cursor=pointer]:
+                        - /url: /images/search?view=detailV2&ccid=u0HmBc2i&id=7D0F8B5D520D1646A9F542516FEA3E7EC249130F&thid=OIP.u0HmBc2iSxLBLAa0NvKsBAHaEK&mediaurl=https%3a%2f%2fdam.production02.nmh.nmheagle.sk%2fapi%2fimage%2f1280x720%2feb1%2feb1db3f6-1ba0-11ef-b315-ca36e7882062.jpeg&cdnurl=https%3a%2f%2fth.bing.com%2fth%2fid%2fR.bb41e605cda24b12c12c06b436f2ac04%3frik%3dDxNJwn4%252b6m9RQg%26pid%3dImgRaw%26r%3d0&exph=720&expw=1280&q=hru%c5%a1ka+%c5%a0kaaredka+OR+%c5%a0karedka+OR+%22%c5%a0karedka%22+odr%c5%afda&FORM=IRPRST&ck=B458228BDB9668C1D40D7136CB7951CC&selectedIndex=28&itb=0
+        - listitem [ref=f31e899]:
+          - generic [ref=f31e900]:
+            - link "Image result for hruška Škaaredka OR Škaredka OR \"Škaredka\" odrůda" [ref=f31e902] [cursor=pointer]:
+              - /url: /images/search?view=detailV2&ccid=WQE1Lvk3&id=F600BE57852D264491E34C577814B17930A0BC45&thid=OIP.WQE1Lvk3fdbuvjS-eZ2GOAHaEK&mediaurl=https%3a%2f%2fimg.motorkari.cz%2fupload%2fimages%2fdatabaze%2f2018-07%2f690231.jpg%3f2128254&cdnurl=https%3a%2f%2fth.bing.com%2fth%2fid%2fR.5901352ef9377dd6eebe34be799d8638%3frik%3dRbygMHmxFHhXTA%26pid%3dImgRaw%26r%3d0&exph=576&expw=1024&q=hru%c5%a1ka+%c5%a0kaaredka+OR+%c5%a0karedka+OR+%22%c5%a0karedka%22+odr%c5%afda&FORM=IRPRST&ck=0DE160CCF4C7E58BAED71C9B194A11D7&selectedIndex=29&itb=0
+              - img "Image result for hruška Škaaredka OR Škaredka OR \"Škaredka\" odrůda" [ref=f31e904]
+            - generic [ref=f31e905]:
+              - link "Honda ANF 125 Innova uživatele Al-Gajda - | Motorkáři.cz" [ref=f31e906] [cursor=pointer]:
+                - /url: /images/search?view=detailV2&ccid=WQE1Lvk3&id=F600BE57852D264491E34C577814B17930A0BC45&thid=OIP.WQE1Lvk3fdbuvjS-eZ2GOAHaEK&mediaurl=https%3a%2f%2fimg.motorkari.cz%2fupload%2fimages%2fdatabaze%2f2018-07%2f690231.jpg%3f2128254&cdnurl=https%3a%2f%2fth.bing.com%2fth%2fid%2fR.5901352ef9377dd6eebe34be799d8638%3frik%3dRbygMHmxFHhXTA%26pid%3dImgRaw%26r%3d0&exph=576&expw=1024&q=hru%c5%a1ka+%c5%a0kaaredka+OR+%c5%a0karedka+OR+%22%c5%a0karedka%22+odr%c5%afda&FORM=IRPRST&ck=0DE160CCF4C7E58BAED71C9B194A11D7&selectedIndex=29&itb=0
+              - generic:
+                - generic:
+                  - list:
+                    - listitem:
+                      - link "Honda ANF 125 Innova uživatele Al-Gajda - | Motorkáři.cz" [ref=f31e907] [cursor=pointer]:
+                        - /url: /images/search?view=detailV2&ccid=WQE1Lvk3&id=F600BE57852D264491E34C577814B17930A0BC45&thid=OIP.WQE1Lvk3fdbuvjS-eZ2GOAHaEK&mediaurl=https%3a%2f%2fimg.motorkari.cz%2fupload%2fimages%2fdatabaze%2f2018-07%2f690231.jpg%3f2128254&cdnurl=https%3a%2f%2fth.bing.com%2fth%2fid%2fR.5901352ef9377dd6eebe34be799d8638%3frik%3dRbygMHmxFHhXTA%26pid%3dImgRaw%26r%3d0&exph=576&expw=1024&q=hru%c5%a1ka+%c5%a0kaaredka+OR+%c5%a0karedka+OR+%22%c5%a0karedka%22+odr%c5%afda&FORM=IRPRST&ck=0DE160CCF4C7E58BAED71C9B194A11D7&selectedIndex=29&itb=0
+        - listitem [ref=f31e908]:
+          - generic [ref=f31e909]:
+            - generic [ref=f31e910]: Related Searches
+            - generic [ref=f31e912]:
+              - link "Clip Art" [ref=f31e913] [cursor=pointer]:
+                - /url: /images/search?q=Hruska+Clip+Art&FORM=IRIBEP
+                - generic "Hruska Clip Art" [ref=f31e915]: Clip Art
+              - link "Krasanka" [ref=f31e916] [cursor=pointer]:
+                - /url: /images/search?q=Krasanka+Hruska&FORM=IRIBEP
+                - generic "Krasanka Hruska" [ref=f31e918]: Krasanka
+              - link "Di Color" [ref=f31e919] [cursor=pointer]:
+                - /url: /images/search?q=Hruska+Di+Color&FORM=IRIBEP
+                - generic "Hruska Di Color" [ref=f31e921]: Di Color
+        - listitem [ref=f31e922]:
+          - generic [ref=f31e923]:
+            - link "Image result for hruška Škaaredka OR Škaredka OR \"Škaredka\" odrůda" [ref=f31e925] [cursor=pointer]:
+              - /url: /images/search?view=detailV2&ccid=fjpRheqN&id=30F117D0DE78EC94C9B3F1DE2C10E68EBEEC5851&thid=OIP.fjpRheqN91xVSY2EJ6NpJQHaE8&mediaurl=https%3a%2f%2fwww.irockshock.net%2fwp-content%2fuploads%2f2022%2f01%2fskaredaholka-2022.jpg&cdnurl=https%3a%2f%2fth.bing.com%2fth%2fid%2fR.7e3a5185ea8df75c55498d8427a36925%3frik%3dUVjsvo7mECze8Q%26pid%3dImgRaw%26r%3d0&exph=400&expw=599&q=hru%c5%a1ka+%c5%a0kaaredka+OR+%c5%a0karedka+OR+%22%c5%a0karedka%22+odr%c5%afda&FORM=IRPRST&ck=F1A2FC9552F1552263066A447E89D42F&selectedIndex=30&itb=0
+              - img "Image result for hruška Škaaredka OR Škaredka OR \"Škaredka\" odrůda" [ref=f31e927]
+            - generic [ref=f31e928]:
+              - link "Je to běs, Škaredá holka práskla do koní - RockShock" [ref=f31e929] [cursor=pointer]:
+                - /url: /images/search?view=detailV2&ccid=fjpRheqN&id=30F117D0DE78EC94C9B3F1DE2C10E68EBEEC5851&thid=OIP.fjpRheqN91xVSY2EJ6NpJQHaE8&mediaurl=https%3a%2f%2fwww.irockshock.net%2fwp-content%2fuploads%2f2022%2f01%2fskaredaholka-2022.jpg&cdnurl=https%3a%2f%2fth.bing.com%2fth%2fid%2fR.7e3a5185ea8df75c55498d8427a36925%3frik%3dUVjsvo7mECze8Q%26pid%3dImgRaw%26r%3d0&exph=400&expw=599&q=hru%c5%a1ka+%c5%a0kaaredka+OR+%c5%a0karedka+OR+%22%c5%a0karedka%22+odr%c5%afda&FORM=IRPRST&ck=F1A2FC9552F1552263066A447E89D42F&selectedIndex=30&itb=0
+              - generic:
+                - generic:
+                  - list:
+                    - listitem:
+                      - link "Je to běs, Škaredá holka práskla do koní - RockShock" [ref=f31e930] [cursor=pointer]:
+                        - /url: /images/search?view=detailV2&ccid=fjpRheqN&id=30F117D0DE78EC94C9B3F1DE2C10E68EBEEC5851&thid=OIP.fjpRheqN91xVSY2EJ6NpJQHaE8&mediaurl=https%3a%2f%2fwww.irockshock.net%2fwp-content%2fuploads%2f2022%2f01%2fskaredaholka-2022.jpg&cdnurl=https%3a%2f%2fth.bing.com%2fth%2fid%2fR.7e3a5185ea8df75c55498d8427a36925%3frik%3dUVjsvo7mECze8Q%26pid%3dImgRaw%26r%3d0&exph=400&expw=599&q=hru%c5%a1ka+%c5%a0kaaredka+OR+%c5%a0karedka+OR+%22%c5%a0karedka%22+odr%c5%afda&FORM=IRPRST&ck=F1A2FC9552F1552263066A447E89D42F&selectedIndex=30&itb=0
+      - list [ref=f31e931]:
+        - listitem [ref=f31e932]:
+          - generic [ref=f31e933]:
+            - link "Image result for hruška Škaaredka OR Škaredka OR \"Škaredka\" odrůda" [ref=f31e935] [cursor=pointer]:
+              - /url: /images/search?view=detailV2&ccid=l%2bPPY%2brL&id=028D5FBD9E9E20F6A94F303E1D0D0F3C913B8731&thid=OIP.l-PPY-rLfjBs-jYK-YSBQQHaE7&mediaurl=https%3a%2f%2fodrudy.cz%2fimages%2fvarieties%2fjablka%2fidared.jpg&cdnurl=https%3a%2f%2fth.bing.com%2fth%2fid%2fR.97e3cf63eacb7e306cfa360af9848141%3frik%3dMYc7kTwPDR0%252bMA%26pid%3dImgRaw%26r%3d0&exph=852&expw=1280&q=hru%c5%a1ka+%c5%a0kaaredka+OR+%c5%a0karedka+OR+%22%c5%a0karedka%22+odr%c5%afda&FORM=IRPRST&ck=3BD085A0991141DE9BB64159B1439FFC&selectedIndex=31&itb=0
+              - img "Image result for hruška Škaaredka OR Škaredka OR \"Škaredka\" odrůda" [ref=f31e937]
+            - generic [ref=f31e938]:
+              - 'link "Idared: Tradiční zimní odrůda jablek pro nejdelší skladování | Odrůdy.cz" [ref=f31e939] [cursor=pointer]':
+                - /url: /images/search?view=detailV2&ccid=l%2bPPY%2brL&id=028D5FBD9E9E20F6A94F303E1D0D0F3C913B8731&thid=OIP.l-PPY-rLfjBs-jYK-YSBQQHaE7&mediaurl=https%3a%2f%2fodrudy.cz%2fimages%2fvarieties%2fjablka%2fidared.jpg&cdnurl=https%3a%2f%2fth.bing.com%2fth%2fid%2fR.97e3cf63eacb7e306cfa360af9848141%3frik%3dMYc7kTwPDR0%252bMA%26pid%3dImgRaw%26r%3d0&exph=852&expw=1280&q=hru%c5%a1ka+%c5%a0kaaredka+OR+%c5%a0karedka+OR+%22%c5%a0karedka%22+odr%c5%afda&FORM=IRPRST&ck=3BD085A0991141DE9BB64159B1439FFC&selectedIndex=31&itb=0
+              - generic:
+                - generic:
+                  - list:
+                    - listitem:
+                      - 'link "Idared: Tradiční zimní odrůda jablek pro nejdelší skladování | Odrůdy.cz" [ref=f31e940] [cursor=pointer]':
+                        - /url: /images/search?view=detailV2&ccid=l%2bPPY%2brL&id=028D5FBD9E9E20F6A94F303E1D0D0F3C913B8731&thid=OIP.l-PPY-rLfjBs-jYK-YSBQQHaE7&mediaurl=https%3a%2f%2fodrudy.cz%2fimages%2fvarieties%2fjablka%2fidared.jpg&cdnurl=https%3a%2f%2fth.bing.com%2fth%2fid%2fR.97e3cf63eacb7e306cfa360af9848141%3frik%3dMYc7kTwPDR0%252bMA%26pid%3dImgRaw%26r%3d0&exph=852&expw=1280&q=hru%c5%a1ka+%c5%a0kaaredka+OR+%c5%a0karedka+OR+%22%c5%a0karedka%22+odr%c5%afda&FORM=IRPRST&ck=3BD085A0991141DE9BB64159B1439FFC&selectedIndex=31&itb=0
+        - listitem [ref=f31e941]:
+          - generic [ref=f31e942]:
+            - link "Image result for hruška Škaaredka OR Škaredka OR \"Škaredka\" odrůda" [ref=f31e944] [cursor=pointer]:
+              - /url: /images/search?view=detailV2&ccid=glLlIRI%2b&id=7591D3F416D3179E2F0CA1C459712B55B2520F52&thid=OIP.glLlIRI-w0FlAlzujtongwHaGW&mediaurl=https%3a%2f%2fwww.zahrada-sk.com%2fimages_forum%2fgallery%2f1332%2f49607-pyrus-communis-220420-102736.jpg&cdnurl=https%3a%2f%2fth.bing.com%2fth%2fid%2fR.8252e521123ec34165025cee8eda2783%3frik%3dUg9SslUrcVnEoQ%26pid%3dImgRaw%26r%3d0&exph=1098&expw=1280&q=hru%c5%a1ka+%c5%a0kaaredka+OR+%c5%a0karedka+OR+%22%c5%a0karedka%22+odr%c5%afda&FORM=IRPRST&ck=67DF296B434E273C46953A649D15693C&selectedIndex=32&itb=0
+              - img "Image result for hruška Škaaredka OR Škaredka OR \"Škaredka\" odrůda" [ref=f31e946]
+            - generic [ref=f31e947]:
+              - link "Hruška obyčajná (Pyrus communis), listy | Zahrada-sk.com" [ref=f31e948] [cursor=pointer]:
+                - /url: /images/search?view=detailV2&ccid=glLlIRI%2b&id=7591D3F416D3179E2F0CA1C459712B55B2520F52&thid=OIP.glLlIRI-w0FlAlzujtongwHaGW&mediaurl=https%3a%2f%2fwww.zahrada-sk.com%2fimages_forum%2fgallery%2f1332%2f49607-pyrus-communis-220420-102736.jpg&cdnurl=https%3a%2f%2fth.bing.com%2fth%2fid%2fR.8252e521123ec34165025cee8eda2783%3frik%3dUg9SslUrcVnEoQ%26pid%3dImgRaw%26r%3d0&exph=1098&expw=1280&q=hru%c5%a1ka+%c5%a0kaaredka+OR+%c5%a0karedka+OR+%22%c5%a0karedka%22+odr%c5%afda&FORM=IRPRST&ck=67DF296B434E273C46953A649D15693C&selectedIndex=32&itb=0
+              - generic:
+                - generic:
+                  - list:
+                    - listitem:
+                      - link "Hruška obyčajná (Pyrus communis), listy | Zahrada-s…" [ref=f31e949] [cursor=pointer]:
+                        - /url: /images/search?view=detailV2&ccid=glLlIRI%2b&id=7591D3F416D3179E2F0CA1C459712B55B2520F52&thid=OIP.glLlIRI-w0FlAlzujtongwHaGW&mediaurl=https%3a%2f%2fwww.zahrada-sk.com%2fimages_forum%2fgallery%2f1332%2f49607-pyrus-communis-220420-102736.jpg&cdnurl=https%3a%2f%2fth.bing.com%2fth%2fid%2fR.8252e521123ec34165025cee8eda2783%3frik%3dUg9SslUrcVnEoQ%26pid%3dImgRaw%26r%3d0&exph=1098&expw=1280&q=hru%c5%a1ka+%c5%a0kaaredka+OR+%c5%a0karedka+OR+%22%c5%a0karedka%22+odr%c5%afda&FORM=IRPRST&ck=67DF296B434E273C46953A649D15693C&selectedIndex=32&itb=0
+        - listitem [ref=f31e950]:
+          - generic [ref=f31e951]:
+            - generic [ref=f31e952]:
+              - link "Image result for hruška Škaaredka OR Škaredka OR \"Škaredka\" odrůda" [ref=f31e953] [cursor=pointer]:
+                - /url: /images/search?view=detailV2&ccid=r29y%2fLTS&id=592D6347D2A8F5830DE4C6BAB362E57F2F3F0666&thid=OIP.r29y_LTSRkk3viB13oWvMwHaJl&mediaurl=https%3a%2f%2fdisegni-colorare.com%2fimages%2fimgcolor%2fPera-facile-da-preparare.jpg&cdnurl=https%3a%2f%2fth.bing.com%2fth%2fid%2fR.af6f72fcb4d2464937be2075de85af33%3frik%3dZgY%252fL3%252flYrO6xg%26pid%3dImgRaw%26r%3d0&exph=1035&expw=800&q=hru%c5%a1ka+%c5%a0kaaredka+OR+%c5%a0karedka+OR+%22%c5%a0karedka%22+odr%c5%afda&FORM=IRPRST&ck=968FAC6BF26E02AB6466FF074241608B&selectedIndex=33&itb=0
+                - generic [ref=f31e955]:
+                  - img "Image result for hruška Škaaredka OR Škaredka OR \"Škaredka\" odrůda" [ref=f31e957]
+                  - generic:
+                    - img "Image result for hruška Škaaredka OR Škaredka OR \"Škaredka\" odrůda"
+                    - img "Image result for hruška Škaaredka OR Škaredka OR \"Škaredka\" odrůda"
+                    - img "Image result for hruška Škaaredka OR Škaredka OR \"Škaredka\" odrůda"
+              - link "Gallery" [ref=f31e958] [cursor=pointer]:
+                - /url: /images/search?view=detailV2&ccid=r29y%2fLTS&id=592D6347D2A8F5830DE4C6BAB362E57F2F3F0666&thid=OIP.r29y_LTSRkk3viB13oWvMwHaJl&mediaurl=https%3a%2f%2fdisegni-colorare.com%2fimages%2fimgcolor%2fPera-facile-da-preparare.jpg&cdnurl=https%3a%2f%2fth.bing.com%2fth%2fid%2fR.af6f72fcb4d2464937be2075de85af33%3frik%3dZgY%252fL3%252flYrO6xg%26pid%3dImgRaw%26r%3d0&exph=1035&expw=800&q=hru%c5%a1ka+%c5%a0kaaredka+OR+%c5%a0karedka+OR+%22%c5%a0karedka%22+odr%c5%afda&FORM=IRPRST&ck=968FAC6BF26E02AB6466FF074241608B&selectedIndex=33&itb=0
+              - generic:
+                - generic: 800×1035
+                - generic:
+                  - link "disegni-colorare.com":
+                    - /url: https://disegni-colorare.com/pera/
+            - generic [ref=f31e960]:
+              - link "Disegni di Pera da colorare - Disegni-Colorare.Com" [ref=f31e961] [cursor=pointer]:
+                - /url: /images/search?view=detailV2&ccid=r29y%2fLTS&id=592D6347D2A8F5830DE4C6BAB362E57F2F3F0666&thid=OIP.r29y_LTSRkk3viB13oWvMwHaJl&mediaurl=https%3a%2f%2fdisegni-colorare.com%2fimages%2fimgcolor%2fPera-facile-da-preparare.jpg&cdnurl=https%3a%2f%2fth.bing.com%2fth%2fid%2fR.af6f72fcb4d2464937be2075de85af33%3frik%3dZgY%252fL3%252flYrO6xg%26pid%3dImgRaw%26r%3d0&exph=1035&expw=800&q=hru%c5%a1ka+%c5%a0kaaredka+OR+%c5%a0karedka+OR+%22%c5%a0karedka%22+odr%c5%afda&FORM=IRPRST&ck=968FAC6BF26E02AB6466FF074241608B&selectedIndex=33&itb=0
+              - generic:
+                - generic:
+                  - list:
+                    - listitem:
+                      - link "Disegni di Pera da colorare - Disegni-Colorare.Com" [ref=f31e962] [cursor=pointer]:
+                        - /url: /images/search?view=detailV2&ccid=r29y%2fLTS&id=592D6347D2A8F5830DE4C6BAB362E57F2F3F0666&thid=OIP.r29y_LTSRkk3viB13oWvMwHaJl&mediaurl=https%3a%2f%2fdisegni-colorare.com%2fimages%2fimgcolor%2fPera-facile-da-preparare.jpg&cdnurl=https%3a%2f%2fth.bing.com%2fth%2fid%2fR.af6f72fcb4d2464937be2075de85af33%3frik%3dZgY%252fL3%252flYrO6xg%26pid%3dImgRaw%26r%3d0&exph=1035&expw=800&q=hru%c5%a1ka+%c5%a0kaaredka+OR+%c5%a0karedka+OR+%22%c5%a0karedka%22+odr%c5%afda&FORM=IRPRST&ck=968FAC6BF26E02AB6466FF074241608B&selectedIndex=33&itb=0
+        - listitem [ref=f31e963]:
+          - generic [ref=f31e964]:
+            - link "Image result for hruška Škaaredka OR Škaredka OR \"Škaredka\" odrůda" [ref=f31e966] [cursor=pointer]:
+              - /url: /images/search?view=detailV2&ccid=IfcGRgMY&id=FE9CD0681AAFF87EA3C93F0C9C82C784FD3E718E&thid=OIP.IfcGRgMYKBzwqztBUcqergHaJZ&mediaurl=https%3a%2f%2fomalovanek.cz%2fwp-content%2fuploads%2f2024%2f04%2fKresleny-Hruska-ovoce.jpg&cdnurl=https%3a%2f%2fth.bing.com%2fth%2fid%2fR.21f706460318281cf0ab3b4151ca9eae%3frik%3djnE%252b%252fYTHgpwMPw%26pid%3dImgRaw%26r%3d0&exph=1016&expw=800&q=hru%c5%a1ka+%c5%a0kaaredka+OR+%c5%a0karedka+OR+%22%c5%a0karedka%22+odr%c5%afda&FORM=IRPRST&ck=53AD75FBF3D05E8DB86B857E0A202F50&selectedIndex=34&itb=0
+              - img "Image result for hruška Škaaredka OR Škaredka OR \"Škaredka\" odrůda" [ref=f31e968]
+            - generic [ref=f31e969]:
+              - link "Omalovánka Kreslený Hruška ovoce k vytisknutí zdarma" [ref=f31e970] [cursor=pointer]:
+                - /url: /images/search?view=detailV2&ccid=IfcGRgMY&id=FE9CD0681AAFF87EA3C93F0C9C82C784FD3E718E&thid=OIP.IfcGRgMYKBzwqztBUcqergHaJZ&mediaurl=https%3a%2f%2fomalovanek.cz%2fwp-content%2fuploads%2f2024%2f04%2fKresleny-Hruska-ovoce.jpg&cdnurl=https%3a%2f%2fth.bing.com%2fth%2fid%2fR.21f706460318281cf0ab3b4151ca9eae%3frik%3djnE%252b%252fYTHgpwMPw%26pid%3dImgRaw%26r%3d0&exph=1016&expw=800&q=hru%c5%a1ka+%c5%a0kaaredka+OR+%c5%a0karedka+OR+%22%c5%a0karedka%22+odr%c5%afda&FORM=IRPRST&ck=53AD75FBF3D05E8DB86B857E0A202F50&selectedIndex=34&itb=0
+              - generic:
+                - generic:
+                  - list:
+                    - listitem:
+                      - link "Omalovánka Kreslený Hruška …" [ref=f31e971] [cursor=pointer]:
+                        - /url: /images/search?view=detailV2&ccid=IfcGRgMY&id=FE9CD0681AAFF87EA3C93F0C9C82C784FD3E718E&thid=OIP.IfcGRgMYKBzwqztBUcqergHaJZ&mediaurl=https%3a%2f%2fomalovanek.cz%2fwp-content%2fuploads%2f2024%2f04%2fKresleny-Hruska-ovoce.jpg&cdnurl=https%3a%2f%2fth.bing.com%2fth%2fid%2fR.21f706460318281cf0ab3b4151ca9eae%3frik%3djnE%252b%252fYTHgpwMPw%26pid%3dImgRaw%26r%3d0&exph=1016&expw=800&q=hru%c5%a1ka+%c5%a0kaaredka+OR+%c5%a0karedka+OR+%22%c5%a0karedka%22+odr%c5%afda&FORM=IRPRST&ck=53AD75FBF3D05E8DB86B857E0A202F50&selectedIndex=34&itb=0
+  - button "Feedback" [ref=f31e974] [cursor=pointer]
+  - contentinfo [ref=f31e976]:
+    - generic [ref=f31e977]:
+      - generic [ref=f31e978]: © 2026 Microsoft
+      - list:
+        - listitem [ref=f31e979]:
+          - link "Privacy" [ref=f31e980] [cursor=pointer]:
+            - /url: http://go.microsoft.com/fwlink/?LinkId=521839
+        - listitem [ref=f31e981]:
+          - link "Terms" [ref=f31e982] [cursor=pointer]:
+            - /url: http://go.microsoft.com/fwlink/?LinkID=246338
+        - listitem [ref=f31e983]:
+          - link "Advertise" [ref=f31e984] [cursor=pointer]:
+            - /url: https://go.microsoft.com/fwlink/?linkid=868922
+        - listitem [ref=f31e985]:
+          - link "Help" [ref=f31e986] [cursor=pointer]:
+            - /url: https://support.microsoft.com/topic/82d20721-2d6f-4012-a13d-d1910ccf203f
+        - listitem [ref=f31e987]:
+          - button "Feedback" [ref=f31e988] [cursor=pointer]

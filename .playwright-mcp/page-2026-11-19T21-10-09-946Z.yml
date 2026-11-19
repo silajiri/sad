@@ -1,0 +1,1034 @@
+- generic [active] [ref=f51e1]:
+  - banner [ref=f51e2]:
+    - generic [ref=f51e3]:
+      - link [ref=f51e4] [cursor=pointer]:
+        - /url: /?FORM=Z9FD1
+        - heading "Back to Bing search" [level=1] [ref=f51e5]
+      - search [ref=f51e6]:
+        - button "Search" [ref=f51e9] [cursor=pointer]
+        - searchbox "Enter your search here – Search suggestions will show as you type" [ref=f51e10]: ovata ořešák odrůda
+        - generic [ref=f51e11] [cursor=pointer]
+        - button "Search using an image" [ref=f51e16] [cursor=pointer]
+    - complementary "Account Rewards and Preferences" [ref=f51e17]:
+      - button "Microsoft Rewards" [ref=f51e18] [cursor=pointer]:
+        - generic [ref=f51e19]: Rewards
+      - link [ref=f51e35] [cursor=pointer]:
+        - /url: javascript:void(0)
+        - button "Sign in" [ref=f51e38]
+      - button "Settings and quick links" [ref=f51e39] [cursor=pointer]
+    - navigation "Search Filter" [ref=f51e40]:
+      - list [ref=f51e41]:
+        - listitem [ref=f51e42]:
+          - link "All" [ref=f51e43] [cursor=pointer]:
+            - /url: /search?q=ovata+o%c5%99e%c5%a1%c3%a1k+odr%c5%afda&FORM=HDRSC1
+        - listitem [ref=f51e44]:
+          - link "Search" [ref=f51e45] [cursor=pointer]:
+            - /url: /copilotsearch?q=ovata+o%c5%99e%c5%a1%c3%a1k+odr%c5%afda&FORM=CSSCOP
+        - listitem [ref=f51e48]:
+          - link "Web Mode" [ref=f51e49] [cursor=pointer]:
+            - /url: /search?q=ovata+o%c5%99e%c5%a1%c3%a1k+odr%c5%afda&webscp=1&FORM=HDRWSC
+        - listitem [ref=f51e50]:
+          - link "Images" [ref=f51e51] [cursor=pointer]:
+            - /url: /images?FORM=HDRSC3
+        - listitem [ref=f51e52]:
+          - list [ref=f51e53]:
+            - listitem [ref=f51e54]:
+              - link "Create" [ref=f51e55] [cursor=pointer]:
+                - /url: /images/create/ai-image-generator?FORM=IRPGEN
+            - listitem [ref=f51e60]:
+              - link "Collections" [ref=f51e61] [cursor=pointer]:
+                - /url: /saves?FORM=IRPCOL
+        - listitem [ref=f51e65]:
+          - link "Videos" [ref=f51e66] [cursor=pointer]:
+            - /url: /videos/search?q=ovata+o%c5%99e%c5%a1%c3%a1k+odr%c5%afda&FORM=HDRSC4
+        - listitem [ref=f51e67]:
+          - link "Maps" [ref=f51e68] [cursor=pointer]:
+            - /url: /maps?q=ovata+o%c5%99e%c5%a1%c3%a1k+odr%c5%afda&FORM=HDRSC6
+        - listitem [ref=f51e69]:
+          - link "News" [ref=f51e70] [cursor=pointer]:
+            - /url: /news/search?q=ovata+o%c5%99e%c5%a1%c3%a1k+odr%c5%afda&FORM=HDRSC7
+        - listitem [ref=f51e71]:
+          - link "Copilot" [ref=f51e72] [cursor=pointer]:
+            - /url: /chat?prompt=ovata+o%c5%99e%c5%a1%c3%a1k+odr%c5%afda&sendquery=1&FORM=SCCODX
+        - listitem [ref=f51e73]:
+          - button "More" [ref=f51e74] [cursor=pointer]
+      - generic [ref=f51e78]:
+        - generic [ref=f51e79]:
+          - list:
+            - listitem [ref=f51e80]:
+              - generic [ref=f51e81]: "SafeSearch:"
+            - listitem [ref=f51e82]:
+              - button "Moderate SafeSearch:" [ref=f51e83] [cursor=pointer]:
+                - generic [ref=f51e84]: Moderate
+        - button "Filter" [ref=f51e87] [cursor=pointer]
+  - main [ref=f51e90]:
+    - navigation [aria-hidden] [ref=f51e91]:
+      - generic [ref=f51e95]:
+        - link [ref=f51e97] [cursor=pointer]:
+          - /url: /images/search?q=O%c5%99e%c5%a1ak+Strom&FORM=IRMHRS
+          - strong [ref=f51e100]: Strom
+        - link [ref=f51e102] [cursor=pointer]:
+          - /url: /images/search?q=O%c5%99esak+Kralosky&FORM=IRMHRS
+          - strong [ref=f51e105]: Kralosky
+        - link [ref=f51e107] [cursor=pointer]:
+          - /url: /images/search?q=Vla%c5%a1sk%c3%bd+O%c5%99e%c5%a1%c3%a1k&FORM=IRMHRS
+          - generic [ref=f51e109]:
+            - strong [ref=f51e110]: Vlašský
+            - text: Ořešák
+        - link [ref=f51e112] [cursor=pointer]:
+          - /url: /images/search?q=O%c5%99e%c5%a1%c3%a1k+Strom&FORM=IRMHRS
+          - generic [ref=f51e114]:
+            - text: Ořešák
+            - strong [ref=f51e115]: Strom
+        - link [ref=f51e117] [cursor=pointer]:
+          - /url: /images/search?q=O%c5%99e%c5%a1%c3%a1k+Sychrov&FORM=IRMHRS
+          - generic [ref=f51e119]:
+            - text: Ořešák
+            - strong [ref=f51e120]: Sychrov
+        - link [ref=f51e122] [cursor=pointer]:
+          - /url: /images/search?q=O%c5%99e%c5%a1%c3%a1k+Seifersdorfsk%c3%bd&FORM=IRMHRS
+          - generic [ref=f51e124]:
+            - text: Ořešák
+            - strong [ref=f51e125]: Seifersdorfský
+        - link [ref=f51e127] [cursor=pointer]:
+          - /url: /images/search?q=Zeleny+O%c5%99e%c5%a1%c3%a1k+Uvarit&FORM=IRMHRS
+          - generic [ref=f51e129]:
+            - text: Zeleny Ořešák
+            - strong [ref=f51e130]: Uvarit
+        - link [ref=f51e132] [cursor=pointer]:
+          - /url: /images/search?q=O%c5%99e%c5%a1%c3%a1k+Nemoci&FORM=IRMHRS
+          - generic [ref=f51e134]:
+            - text: Ořešák
+            - strong [ref=f51e135]: Nemoci
+        - link [ref=f51e137] [cursor=pointer]:
+          - /url: /images/search?q=Antrakn%c3%b3za+O%c5%99e%c5%a1%c3%a1ku&FORM=IRMHRS
+          - strong [ref=f51e140]: Antraknóza Ořešáku
+        - link [ref=f51e142] [cursor=pointer]:
+          - /url: /images/search?q=O%c5%99e%c5%a1%c3%a1k+Vla%c5%a1sk%c3%bd&FORM=IRMHRS
+          - generic [ref=f51e144]:
+            - text: Ořešák
+            - strong [ref=f51e145]: Vlašský
+        - link [ref=f51e147] [cursor=pointer]:
+          - /url: /images/search?q=O%c5%99e%c5%a1%c3%a1k+Popelav%c3%bd&FORM=IRMHRS
+          - generic [ref=f51e149]:
+            - text: Ořešák
+            - strong [ref=f51e150]: Popelavý
+        - link [ref=f51e152] [cursor=pointer]:
+          - /url: /images/search?q=O%c5%99e%c5%a1%c3%a1k+Kr%c3%a1lovsk%c3%bd+List&FORM=IRMHRS
+          - generic [ref=f51e154]:
+            - text: Ořešák
+            - strong [ref=f51e155]: Královský List
+        - link [ref=f51e157] [cursor=pointer]:
+          - /url: /images/search?q=O%c5%99e%c5%a1%c3%a1k+%c4%8cern%c3%bd+Obr%c3%a1zek&FORM=IRMHRS
+          - generic [ref=f51e159]:
+            - text: Ořešák
+            - strong [ref=f51e160]: Černý Obrázek
+        - link [ref=f51e162] [cursor=pointer]:
+          - /url: /images/search?q=List+O%c5%99e%c5%a1%c3%a1ku+Kr%c3%a1lovsk%c3%a9ho&FORM=IRMHRS
+          - strong [ref=f51e165]: List Ořešáku Královského
+        - link [ref=f51e167] [cursor=pointer]:
+          - /url: /images/search?q=O%c5%99e%c5%a1%c3%a1k+Kapky&FORM=IRMHRS
+          - generic [ref=f51e169]:
+            - text: Ořešák
+            - strong [ref=f51e170]: Kapky
+        - link [ref=f51e172] [cursor=pointer]:
+          - /url: /images/search?q=O%c5%99e%c5%a1%c3%a1k+Mand%c5%beusk%c3%bd&FORM=IRMHRS
+          - generic [ref=f51e174]:
+            - text: Ořešák
+            - strong [ref=f51e175]: Mandžuský
+        - link [ref=f51e177] [cursor=pointer]:
+          - /url: /images/search?q=O%c5%99e%c5%a1%c3%a1k+Obrovsk%c3%bd&FORM=IRMHRS
+          - generic [ref=f51e179]:
+            - text: Ořešák
+            - strong [ref=f51e180]: Obrovský
+        - link [ref=f51e182] [cursor=pointer]:
+          - /url: /images/search?q=Choroby+O%c5%99e%c5%a1%c3%a1k&FORM=IRMHRS
+          - generic [ref=f51e184]:
+            - strong [ref=f51e185]: Choroby
+            - text: Ořešák
+        - link [ref=f51e187] [cursor=pointer]:
+          - /url: /images/search?q=O%c5%99e%c5%a1%c3%a1k+Napaden%c3%a9+Listy&FORM=IRMHRS
+          - generic [ref=f51e189]:
+            - text: Ořešák
+            - strong [ref=f51e190]: Napadené Listy
+        - link [ref=f51e192] [cursor=pointer]:
+          - /url: /images/search?q=O%c5%99e%c5%a1%c3%a1k+Seinferdorsk%c3%bd+Choroby&FORM=IRMHRS
+          - generic [ref=f51e194]:
+            - text: Ořešák
+            - strong [ref=f51e195]: Seinferdorský Choroby
+        - link [ref=f51e197] [cursor=pointer]:
+          - /url: /images/search?q=O%c5%99e%c5%a1%c3%a1k+Kr%c3%a1lovsk%c3%bd&FORM=IRMHRS
+          - generic [ref=f51e199]:
+            - text: Ořešák
+            - strong [ref=f51e200]: Královský
+        - link [ref=f51e202] [cursor=pointer]:
+          - /url: /images/search?q=O%c5%99e%c5%a1%c3%a1k+Kv%c4%9bt&FORM=IRMHRS
+          - generic [ref=f51e204]:
+            - text: Ořešák
+            - strong [ref=f51e205]: Květ
+        - link [ref=f51e207] [cursor=pointer]:
+          - /url: /images/search?q=Oresak+Kralovsky&FORM=IRMHRS
+          - strong [ref=f51e210]: Oresak Kralovsky
+        - link [ref=f51e212] [cursor=pointer]:
+          - /url: /images/search?q=Oresak+Vlassky&FORM=IRMHRS
+          - strong [ref=f51e215]: Oresak Vlassky
+        - link [ref=f51e217] [cursor=pointer]:
+          - /url: /images/search?q=Trnovnik+Akat&FORM=IRMHRS
+          - strong [ref=f51e220]: Trnovnik Akat
+        - link [ref=f51e222] [cursor=pointer]:
+          - /url: /images/search?q=Oresak+Sychrov&FORM=IRMHRS
+          - strong [ref=f51e225]: Oresak Sychrov
+        - link [ref=f51e227] [cursor=pointer]:
+          - /url: /images/search?q=Buk+Lesni+List&FORM=IRMHRS
+          - strong [ref=f51e230]: Buk Lesni List
+        - link [ref=f51e232] [cursor=pointer]:
+          - /url: /images/search?q=Edelholz+Carving&FORM=IRMHRS
+          - strong [ref=f51e235]: Edelholz Carving
+        - link [ref=f51e237] [cursor=pointer]:
+          - /url: /images/search?q=Plody+Stromu&FORM=IRMHRS
+          - strong [ref=f51e240]: Plody Stromu
+        - link [ref=f51e242] [cursor=pointer]:
+          - /url: /images/search?q=Vlassky+Orech+Liker&FORM=IRMHRS
+          - strong [ref=f51e245]: Vlassky Orech Liker
+        - link [ref=f51e247] [cursor=pointer]:
+          - /url: /images/search?q=5700+Evanbrook+OKC&FORM=IRMHRS
+          - strong [ref=f51e250]: 5700 Evanbrook OKC
+        - link [ref=f51e252] [cursor=pointer]:
+          - /url: /images/search?q=Vlassky+Orech+Recepty&FORM=IRMHRS
+          - strong [ref=f51e255]: Vlassky Orech Recepty
+        - link [ref=f51e257] [cursor=pointer]:
+          - /url: /images/search?q=Kvasice+Czech+Republic&FORM=IRMHRS
+          - strong [ref=f51e260]: Kvasice Czech Republic
+        - link [ref=f51e262] [cursor=pointer]:
+          - /url: /images/search?q=Growing+English+Walnut+Trees&FORM=IRMHRS
+          - strong [ref=f51e265]: Growing English Walnut Trees
+        - link [ref=f51e267] [cursor=pointer]:
+          - /url: /images/search?q=Orech+Kralovsky+SK&FORM=IRMHRS
+          - strong [ref=f51e270]: Orech Kralovsky SK
+        - link [ref=f51e272] [cursor=pointer]:
+          - /url: /images/search?q=Ovocne+Stromceky+Predaj&FORM=IRMHRS
+          - strong [ref=f51e275]: Ovocne Stromceky Predaj
+        - link [ref=f51e277] [cursor=pointer]:
+          - /url: /images/search?q=Lieskove+Orechy+Strom&FORM=IRMHRS
+          - strong [ref=f51e280]: Lieskove Orechy Strom
+        - link [ref=f51e282] [cursor=pointer]:
+          - /url: /images/search?q=Anthracnose+On+Juglans+Regia&FORM=IRMHRS
+          - strong [ref=f51e285]: Anthracnose On Juglans Regia
+        - link [ref=f51e287] [cursor=pointer]:
+          - /url: /images/search?q=English+Black+Walnut+Tree+Leaves&FORM=IRMHRS
+          - strong [ref=f51e290]: English Black Walnut Tree Leaves
+        - link [ref=f51e292] [cursor=pointer]:
+          - /url: /images/search?q=Orech+Stom&FORM=IRMHRS
+          - strong [ref=f51e295]: Orech Stom
+        - link [ref=f51e297] [cursor=pointer]:
+          - /url: /images/search?q=Wooden+Spear+with+Stone+Point&FORM=IRMHRS
+          - strong [ref=f51e300]: Wooden Spear with Stone Point
+        - link [ref=f51e302] [cursor=pointer]:
+          - /url: /images/search?q=English+Walnut+Tree+Flowers&FORM=IRMHRS
+          - strong [ref=f51e305]: English Walnut Tree Flowers
+    - generic "Suggested searches" [ref=f51e309]:
+      - navigation [ref=f51e310]:
+        - region "Carousel" [ref=f51e311]:
+          - list [ref=f51e315]:
+            - listitem [ref=f51e316]:
+              - link [ref=f51e317] [cursor=pointer]:
+                - /url: /images/search?q=O%c5%99e%c5%a1ak+Strom&FORM=RESTAB
+                - img "Strom" [ref=f51e319]
+                - strong [ref=f51e322]: Strom
+            - listitem [ref=f51e323]:
+              - link [ref=f51e324] [cursor=pointer]:
+                - /url: /images/search?q=O%c5%99esak+Kralosky&FORM=RESTAB
+                - img "Kralosky" [ref=f51e326]
+                - strong [ref=f51e329]: Kralosky
+            - listitem [ref=f51e330]:
+              - link [ref=f51e331] [cursor=pointer]:
+                - /url: /images/search?q=Vla%c5%a1sk%c3%bd+O%c5%99e%c5%a1%c3%a1k&FORM=RESTAB
+                - img "Vlašský Ořešák" [ref=f51e333]
+                - generic [aria-hidden] [ref=f51e335]:
+                  - strong [ref=f51e336]: Vlašský
+                  - text: Ořešák
+            - listitem [ref=f51e337]:
+              - link [ref=f51e338] [cursor=pointer]:
+                - /url: /images/search?q=O%c5%99e%c5%a1%c3%a1k+Strom&FORM=RESTAB
+                - img "Ořešák Strom" [ref=f51e340]
+                - generic [aria-hidden] [ref=f51e342]:
+                  - text: Ořešák
+                  - strong [ref=f51e343]: Strom
+            - listitem [ref=f51e344]:
+              - link [ref=f51e345] [cursor=pointer]:
+                - /url: /images/search?q=O%c5%99e%c5%a1%c3%a1k+Sychrov&FORM=RESTAB
+                - img "Ořešák Sychrov" [ref=f51e347]
+                - generic [aria-hidden] [ref=f51e349]:
+                  - text: Ořešák
+                  - strong [ref=f51e350]: Sychrov
+            - listitem [ref=f51e351]:
+              - link [ref=f51e352] [cursor=pointer]:
+                - /url: /images/search?q=O%c5%99e%c5%a1%c3%a1k+Seifersdorfsk%c3%bd&FORM=RESTAB
+                - img "Ořešák Seifersdorfský" [ref=f51e354]
+                - generic [aria-hidden] [ref=f51e356]:
+                  - text: Ořešák
+                  - strong [ref=f51e357]: Seifersdorfský
+            - listitem [ref=f51e358]:
+              - link [ref=f51e359] [cursor=pointer]:
+                - /url: /images/search?q=Zeleny+O%c5%99e%c5%a1%c3%a1k+Uvarit&FORM=RESTAB
+                - img "Zeleny Ořešák Uvarit" [ref=f51e361]
+                - generic [aria-hidden] [ref=f51e363]:
+                  - text: Zeleny Ořešák
+                  - strong [ref=f51e364]: Uvarit
+            - listitem [ref=f51e365]:
+              - 'link "Search for: Ořešák Nemoci" [ref=f51e366] [cursor=pointer]':
+                - /url: /images/search?q=O%c5%99e%c5%a1%c3%a1k+Nemoci&FORM=RESTAB
+                - generic [aria-hidden] [ref=f51e369]:
+                  - text: Ořešák
+                  - strong [ref=f51e370]: Nemoci
+            - listitem [ref=f51e371]:
+              - 'link "Search for: Antraknóza Ořešáku" [ref=f51e372] [cursor=pointer]':
+                - /url: /images/search?q=Antrakn%c3%b3za+O%c5%99e%c5%a1%c3%a1ku&FORM=RESTAB
+                - strong [ref=f51e376]: Antraknóza Ořešáku
+            - listitem [ref=f51e377]:
+              - 'link "Search for: Ořešák Vlašský" [ref=f51e378] [cursor=pointer]':
+                - /url: /images/search?q=O%c5%99e%c5%a1%c3%a1k+Vla%c5%a1sk%c3%bd&FORM=RESTAB
+                - generic [aria-hidden] [ref=f51e381]:
+                  - text: Ořešák
+                  - strong [ref=f51e382]: Vlašský
+            - listitem [ref=f51e383]:
+              - 'link "Search for: Ořešák Popelavý" [ref=f51e384] [cursor=pointer]':
+                - /url: /images/search?q=O%c5%99e%c5%a1%c3%a1k+Popelav%c3%bd&FORM=RESTAB
+                - generic [aria-hidden] [ref=f51e387]:
+                  - text: Ořešák
+                  - strong [ref=f51e388]: Popelavý
+            - listitem [ref=f51e389]:
+              - 'link "Search for: Ořešák Královský List" [ref=f51e390] [cursor=pointer]':
+                - /url: /images/search?q=O%c5%99e%c5%a1%c3%a1k+Kr%c3%a1lovsk%c3%bd+List&FORM=RESTAB
+                - generic [aria-hidden] [ref=f51e393]:
+                  - text: Ořešák
+                  - strong [ref=f51e394]: Královský List
+            - listitem [ref=f51e395]:
+              - 'link "Search for: Ořešák Černý Obrázek" [ref=f51e396] [cursor=pointer]':
+                - /url: /images/search?q=O%c5%99e%c5%a1%c3%a1k+%c4%8cern%c3%bd+Obr%c3%a1zek&FORM=RESTAB
+                - generic [aria-hidden] [ref=f51e399]:
+                  - text: Ořešák
+                  - strong [ref=f51e400]: Černý Obrázek
+            - listitem [ref=f51e401]:
+              - 'link "Search for: List Ořešáku Královského" [ref=f51e402] [cursor=pointer]':
+                - /url: /images/search?q=List+O%c5%99e%c5%a1%c3%a1ku+Kr%c3%a1lovsk%c3%a9ho&FORM=RESTAB
+                - strong [ref=f51e406]: List Ořešáku Královského
+            - listitem [ref=f51e407]:
+              - 'link "Search for: Ořešák Kapky" [ref=f51e408] [cursor=pointer]':
+                - /url: /images/search?q=O%c5%99e%c5%a1%c3%a1k+Kapky&FORM=RESTAB
+                - generic [aria-hidden] [ref=f51e411]:
+                  - text: Ořešák
+                  - strong [ref=f51e412]: Kapky
+            - listitem [ref=f51e413]:
+              - 'link "Search for: Ořešák Mandžuský" [ref=f51e414] [cursor=pointer]':
+                - /url: /images/search?q=O%c5%99e%c5%a1%c3%a1k+Mand%c5%beusk%c3%bd&FORM=RESTAB
+                - generic [aria-hidden] [ref=f51e417]:
+                  - text: Ořešák
+                  - strong [ref=f51e418]: Mandžuský
+            - listitem [ref=f51e419]:
+              - 'link "Search for: Ořešák Obrovský" [ref=f51e420] [cursor=pointer]':
+                - /url: /images/search?q=O%c5%99e%c5%a1%c3%a1k+Obrovsk%c3%bd&FORM=RESTAB
+                - generic [aria-hidden] [ref=f51e423]:
+                  - text: Ořešák
+                  - strong [ref=f51e424]: Obrovský
+            - listitem [ref=f51e425]:
+              - 'link "Search for: Choroby Ořešák" [ref=f51e426] [cursor=pointer]':
+                - /url: /images/search?q=Choroby+O%c5%99e%c5%a1%c3%a1k&FORM=RESTAB
+                - generic [aria-hidden] [ref=f51e429]:
+                  - strong [ref=f51e430]: Choroby
+                  - text: Ořešák
+            - listitem [ref=f51e431]:
+              - 'link "Search for: Ořešák Napadené Listy" [ref=f51e432] [cursor=pointer]':
+                - /url: /images/search?q=O%c5%99e%c5%a1%c3%a1k+Napaden%c3%a9+Listy&FORM=RESTAB
+                - generic [aria-hidden] [ref=f51e435]:
+                  - text: Ořešák
+                  - strong [ref=f51e436]: Napadené Listy
+            - listitem [ref=f51e437]:
+              - 'link "Search for: Ořešák Seinferdorský Choroby" [ref=f51e438] [cursor=pointer]':
+                - /url: /images/search?q=O%c5%99e%c5%a1%c3%a1k+Seinferdorsk%c3%bd+Choroby&FORM=RESTAB
+                - generic [aria-hidden] [ref=f51e441]:
+                  - text: Ořešák
+                  - strong [ref=f51e442]: Seinferdorský Choroby
+            - listitem [ref=f51e443]:
+              - 'link "Search for: Ořešák Královský" [ref=f51e444] [cursor=pointer]':
+                - /url: /images/search?q=O%c5%99e%c5%a1%c3%a1k+Kr%c3%a1lovsk%c3%bd&FORM=RESTAB
+                - generic [aria-hidden] [ref=f51e447]:
+                  - text: Ořešák
+                  - strong [ref=f51e448]: Královský
+            - listitem [ref=f51e449]:
+              - 'link "Search for: Ořešák Květ" [ref=f51e450] [cursor=pointer]':
+                - /url: /images/search?q=O%c5%99e%c5%a1%c3%a1k+Kv%c4%9bt&FORM=RESTAB
+                - generic [aria-hidden] [ref=f51e453]:
+                  - text: Ořešák
+                  - strong [ref=f51e454]: Květ
+            - listitem [ref=f51e455]:
+              - 'link "Search for: Oresak Kralovsky" [ref=f51e456] [cursor=pointer]':
+                - /url: /images/search?q=Oresak+Kralovsky&FORM=RESTAB
+                - strong [ref=f51e460]: Oresak Kralovsky
+            - listitem [ref=f51e461]:
+              - 'link "Search for: Oresak Vlassky" [ref=f51e462] [cursor=pointer]':
+                - /url: /images/search?q=Oresak+Vlassky&FORM=RESTAB
+                - strong [ref=f51e466]: Oresak Vlassky
+            - listitem [ref=f51e467]:
+              - 'link "Search for: Trnovnik Akat" [ref=f51e468] [cursor=pointer]':
+                - /url: /images/search?q=Trnovnik+Akat&FORM=RESTAB
+                - strong [ref=f51e472]: Trnovnik Akat
+            - listitem [ref=f51e473]:
+              - 'link "Search for: Oresak Sychrov" [ref=f51e474] [cursor=pointer]':
+                - /url: /images/search?q=Oresak+Sychrov&FORM=RESTAB
+                - strong [ref=f51e478]: Oresak Sychrov
+            - listitem [ref=f51e479]:
+              - 'link "Search for: Buk Lesni List" [ref=f51e480] [cursor=pointer]':
+                - /url: /images/search?q=Buk+Lesni+List&FORM=RESTAB
+                - strong [ref=f51e484]: Buk Lesni List
+            - listitem [ref=f51e485]:
+              - 'link "Search for: Edelholz Carving" [ref=f51e486] [cursor=pointer]':
+                - /url: /images/search?q=Edelholz+Carving&FORM=RESTAB
+                - strong [ref=f51e490]: Edelholz Carving
+            - listitem [ref=f51e491]:
+              - 'link "Search for: Plody Stromu" [ref=f51e492] [cursor=pointer]':
+                - /url: /images/search?q=Plody+Stromu&FORM=RESTAB
+                - strong [ref=f51e496]: Plody Stromu
+            - listitem [ref=f51e497]:
+              - 'link "Search for: Vlassky Orech Liker" [ref=f51e498] [cursor=pointer]':
+                - /url: /images/search?q=Vlassky+Orech+Liker&FORM=RESTAB
+                - strong [ref=f51e502]: Vlassky Orech Liker
+            - listitem [ref=f51e503]:
+              - 'link "Search for: 5700 Evanbrook OKC" [ref=f51e504] [cursor=pointer]':
+                - /url: /images/search?q=5700+Evanbrook+OKC&FORM=RESTAB
+                - strong [ref=f51e508]: 5700 Evanbrook OKC
+            - listitem [ref=f51e509]:
+              - 'link "Search for: Vlassky Orech Recepty" [ref=f51e510] [cursor=pointer]':
+                - /url: /images/search?q=Vlassky+Orech+Recepty&FORM=RESTAB
+                - strong [ref=f51e514]: Vlassky Orech Recepty
+            - listitem [ref=f51e515]:
+              - 'link "Search for: Kvasice Czech Republic" [ref=f51e516] [cursor=pointer]':
+                - /url: /images/search?q=Kvasice+Czech+Republic&FORM=RESTAB
+                - strong [ref=f51e520]: Kvasice Czech Republic
+            - listitem [ref=f51e521]:
+              - 'link "Search for: Growing English Walnut Trees" [ref=f51e522] [cursor=pointer]':
+                - /url: /images/search?q=Growing+English+Walnut+Trees&FORM=RESTAB
+                - strong [ref=f51e526]: Growing English Walnut Trees
+            - listitem [ref=f51e527]:
+              - 'link "Search for: Orech Kralovsky SK" [ref=f51e528] [cursor=pointer]':
+                - /url: /images/search?q=Orech+Kralovsky+SK&FORM=RESTAB
+                - strong [ref=f51e532]: Orech Kralovsky SK
+            - listitem [ref=f51e533]:
+              - 'link "Search for: Ovocne Stromceky Predaj" [ref=f51e534] [cursor=pointer]':
+                - /url: /images/search?q=Ovocne+Stromceky+Predaj&FORM=RESTAB
+                - strong [ref=f51e538]: Ovocne Stromceky Predaj
+            - listitem [ref=f51e539]:
+              - 'link "Search for: Lieskove Orechy Strom" [ref=f51e540] [cursor=pointer]':
+                - /url: /images/search?q=Lieskove+Orechy+Strom&FORM=RESTAB
+                - strong [ref=f51e544]: Lieskove Orechy Strom
+            - listitem [ref=f51e545]:
+              - 'link "Search for: Anthracnose On Juglans Regia" [ref=f51e546] [cursor=pointer]':
+                - /url: /images/search?q=Anthracnose+On+Juglans+Regia&FORM=RESTAB
+                - strong [ref=f51e550]: Anthracnose On Juglans Regia
+            - listitem [ref=f51e551]:
+              - 'link "Search for: English Black Walnut Tree Leaves" [ref=f51e552] [cursor=pointer]':
+                - /url: /images/search?q=English+Black+Walnut+Tree+Leaves&FORM=RESTAB
+                - strong [ref=f51e556]: English Black Walnut Tree Leaves
+            - listitem [ref=f51e557]:
+              - 'link "Search for: Orech Stom" [ref=f51e558] [cursor=pointer]':
+                - /url: /images/search?q=Orech+Stom&FORM=RESTAB
+                - strong [ref=f51e562]: Orech Stom
+            - listitem [ref=f51e563]:
+              - 'link "Search for: Wooden Spear with Stone Point" [ref=f51e564] [cursor=pointer]':
+                - /url: /images/search?q=Wooden+Spear+with+Stone+Point&FORM=RESTAB
+                - strong [ref=f51e568]: Wooden Spear with Stone Point
+            - listitem [ref=f51e569]:
+              - 'link "Search for: English Walnut Tree Flowers" [ref=f51e570] [cursor=pointer]':
+                - /url: /images/search?q=English+Walnut+Tree+Flowers&FORM=RESTAB
+                - strong [ref=f51e574]: English Walnut Tree Flowers
+    - generic [ref=f51e577]:
+      - list [ref=f51e578]:
+        - listitem [ref=f51e579]:
+          - generic [ref=f51e580]:
+            - generic [ref=f51e581]:
+              - link "Image result for ovata ořešák odrůda" [ref=f51e582] [cursor=pointer]:
+                - /url: /images/search?view=detailV2&ccid=u58%2bANen&id=60524F337E14581F62DCE1231241F0865B9F01AE&thid=OIP.u58-ANenU1PxEwvyIxNvCgHaFO&mediaurl=https%3a%2f%2fizahradkar.cz%2fwp-content%2fuploads%2f2023%2f10%2fDoba-sklizne-orechu.-V-tuto-chvili-vypadnou-na-zem-pri-silnejsim-zatreseni-vetvemi.-Neni-treba-je-otloukat.-Odruda-Mars-foot.jpg&cdnurl=https%3a%2f%2fth.bing.com%2fth%2fid%2fR.bb9f3e00d7a75353f1130bf223136f0a%3frik%3drgGfW4bwQRIj4Q%26pid%3dImgRaw%26r%3d0&exph=847&expw=1200&q=ovata+o%c5%99e%c5%a1%c3%a1k+odr%c5%afda&FORM=IRPRST&ck=0B98110D4BF3E6F2F041EAF000250B90&selectedIndex=0&itb=0
+                - generic [ref=f51e584]:
+                  - img "Image result for ovata ořešák odrůda" [ref=f51e586]
+                  - generic:
+                    - img "Image result for ovata ořešák odrůda"
+                    - img "Image result for ovata ořešák odrůda"
+              - link "Gallery" [ref=f51e587] [cursor=pointer]:
+                - /url: /images/search?view=detailV2&ccid=u58%2bANen&id=60524F337E14581F62DCE1231241F0865B9F01AE&thid=OIP.u58-ANenU1PxEwvyIxNvCgHaFO&mediaurl=https%3a%2f%2fizahradkar.cz%2fwp-content%2fuploads%2f2023%2f10%2fDoba-sklizne-orechu.-V-tuto-chvili-vypadnou-na-zem-pri-silnejsim-zatreseni-vetvemi.-Neni-treba-je-otloukat.-Odruda-Mars-foot.jpg&cdnurl=https%3a%2f%2fth.bing.com%2fth%2fid%2fR.bb9f3e00d7a75353f1130bf223136f0a%3frik%3drgGfW4bwQRIj4Q%26pid%3dImgRaw%26r%3d0&exph=847&expw=1200&q=ovata+o%c5%99e%c5%a1%c3%a1k+odr%c5%afda&FORM=IRPRST&ck=0B98110D4BF3E6F2F041EAF000250B90&selectedIndex=0&itb=0
+              - generic:
+                - generic: 1200×847
+                - generic:
+                  - link "izahradkar.cz":
+                    - /url: https://izahradkar.cz/oresak-jak-se-hledaly-semenace-ke-slechteni/
+            - generic [ref=f51e589]:
+              - link "Ořešák; jak se hledaly semenáče ke šlechtění | Zahrádkář" [ref=f51e590] [cursor=pointer]:
+                - /url: /images/search?view=detailV2&ccid=u58%2bANen&id=60524F337E14581F62DCE1231241F0865B9F01AE&thid=OIP.u58-ANenU1PxEwvyIxNvCgHaFO&mediaurl=https%3a%2f%2fizahradkar.cz%2fwp-content%2fuploads%2f2023%2f10%2fDoba-sklizne-orechu.-V-tuto-chvili-vypadnou-na-zem-pri-silnejsim-zatreseni-vetvemi.-Neni-treba-je-otloukat.-Odruda-Mars-foot.jpg&cdnurl=https%3a%2f%2fth.bing.com%2fth%2fid%2fR.bb9f3e00d7a75353f1130bf223136f0a%3frik%3drgGfW4bwQRIj4Q%26pid%3dImgRaw%26r%3d0&exph=847&expw=1200&q=ovata+o%c5%99e%c5%a1%c3%a1k+odr%c5%afda&FORM=IRPRST&ck=0B98110D4BF3E6F2F041EAF000250B90&selectedIndex=0&itb=0
+              - generic:
+                - generic:
+                  - list:
+                    - listitem:
+                      - link "Ořešák; jak se hledaly semenáče ke šlechtění | Zahrádkář" [ref=f51e591] [cursor=pointer]:
+                        - /url: /images/search?view=detailV2&ccid=u58%2bANen&id=60524F337E14581F62DCE1231241F0865B9F01AE&thid=OIP.u58-ANenU1PxEwvyIxNvCgHaFO&mediaurl=https%3a%2f%2fizahradkar.cz%2fwp-content%2fuploads%2f2023%2f10%2fDoba-sklizne-orechu.-V-tuto-chvili-vypadnou-na-zem-pri-silnejsim-zatreseni-vetvemi.-Neni-treba-je-otloukat.-Odruda-Mars-foot.jpg&cdnurl=https%3a%2f%2fth.bing.com%2fth%2fid%2fR.bb9f3e00d7a75353f1130bf223136f0a%3frik%3drgGfW4bwQRIj4Q%26pid%3dImgRaw%26r%3d0&exph=847&expw=1200&q=ovata+o%c5%99e%c5%a1%c3%a1k+odr%c5%afda&FORM=IRPRST&ck=0B98110D4BF3E6F2F041EAF000250B90&selectedIndex=0&itb=0
+        - listitem [ref=f51e592]:
+          - generic [ref=f51e593]:
+            - link "Image result for ovata ořešák odrůda" [ref=f51e595] [cursor=pointer]:
+              - /url: /images/search?view=detailV2&ccid=4PV%2fJhJl&id=52434A88CA127C4EA6A14249B249112F499C9C83&thid=OIP.4PV_JhJlo-k80pQY4k0vNgHaE3&mediaurl=https%3a%2f%2ftopden.cz%2fwp-content%2fuploads%2f2022%2f06%2forech.jpg&cdnurl=https%3a%2f%2fth.bing.com%2fth%2fid%2fR.e0f57f261265a3e93cd29418e24d2f36%3frik%3dg5ycSS8RSbJJQg%26pid%3dImgRaw%26r%3d0&exph=800&expw=1219&q=ovata+o%c5%99e%c5%a1%c3%a1k+odr%c5%afda&FORM=IRPRST&ck=5C7F245E1C90D85569FF94B8F3FFEAFF&selectedIndex=1&itb=0
+              - img "Image result for ovata ořešák odrůda" [ref=f51e597]
+            - generic [ref=f51e598]:
+              - link "Jak zasadit ořešák - Topden.sk" [ref=f51e599] [cursor=pointer]:
+                - /url: /images/search?view=detailV2&ccid=4PV%2fJhJl&id=52434A88CA127C4EA6A14249B249112F499C9C83&thid=OIP.4PV_JhJlo-k80pQY4k0vNgHaE3&mediaurl=https%3a%2f%2ftopden.cz%2fwp-content%2fuploads%2f2022%2f06%2forech.jpg&cdnurl=https%3a%2f%2fth.bing.com%2fth%2fid%2fR.e0f57f261265a3e93cd29418e24d2f36%3frik%3dg5ycSS8RSbJJQg%26pid%3dImgRaw%26r%3d0&exph=800&expw=1219&q=ovata+o%c5%99e%c5%a1%c3%a1k+odr%c5%afda&FORM=IRPRST&ck=5C7F245E1C90D85569FF94B8F3FFEAFF&selectedIndex=1&itb=0
+              - generic:
+                - generic:
+                  - list:
+                    - listitem:
+                      - link "Jak zasadit ořešák - Topden.sk" [ref=f51e600] [cursor=pointer]:
+                        - /url: /images/search?view=detailV2&ccid=4PV%2fJhJl&id=52434A88CA127C4EA6A14249B249112F499C9C83&thid=OIP.4PV_JhJlo-k80pQY4k0vNgHaE3&mediaurl=https%3a%2f%2ftopden.cz%2fwp-content%2fuploads%2f2022%2f06%2forech.jpg&cdnurl=https%3a%2f%2fth.bing.com%2fth%2fid%2fR.e0f57f261265a3e93cd29418e24d2f36%3frik%3dg5ycSS8RSbJJQg%26pid%3dImgRaw%26r%3d0&exph=800&expw=1219&q=ovata+o%c5%99e%c5%a1%c3%a1k+odr%c5%afda&FORM=IRPRST&ck=5C7F245E1C90D85569FF94B8F3FFEAFF&selectedIndex=1&itb=0
+        - listitem [ref=f51e601]:
+          - generic [ref=f51e602]:
+            - generic [ref=f51e603]:
+              - link "Image result for ovata ořešák odrůda" [ref=f51e604] [cursor=pointer]:
+                - /url: /images/search?view=detailV2&ccid=MYgevB3z&id=B4E2B68BB0BAB5F012E6A3AF8B0B335606D18312&thid=OIP.MYgevB3zni0FotTebTRxigHaFj&mediaurl=https%3a%2f%2fwww.priroda.cz%2fclanky%2ffoto%2fThesupermat-oresak-kralovskz.JPG&cdnurl=https%3a%2f%2fth.bing.com%2fth%2fid%2fR.31881ebc1df39e2d05a2d4de6d34718a%3frik%3dEoPRBlYzC4uvow%26pid%3dImgRaw%26r%3d0&exph=1440&expw=1920&q=ovata+o%c5%99e%c5%a1%c3%a1k+odr%c5%afda&FORM=IRPRST&ck=B5868C482BE4C2D04BC3F53D6FDA8E09&selectedIndex=2&itb=0
+                - generic [ref=f51e606]:
+                  - img "Image result for ovata ořešák odrůda" [ref=f51e608]
+                  - generic:
+                    - img "Image result for ovata ořešák odrůda"
+                    - img "Image result for ovata ořešák odrůda"
+              - link "Gallery" [ref=f51e609] [cursor=pointer]:
+                - /url: /images/search?view=detailV2&ccid=MYgevB3z&id=B4E2B68BB0BAB5F012E6A3AF8B0B335606D18312&thid=OIP.MYgevB3zni0FotTebTRxigHaFj&mediaurl=https%3a%2f%2fwww.priroda.cz%2fclanky%2ffoto%2fThesupermat-oresak-kralovskz.JPG&cdnurl=https%3a%2f%2fth.bing.com%2fth%2fid%2fR.31881ebc1df39e2d05a2d4de6d34718a%3frik%3dEoPRBlYzC4uvow%26pid%3dImgRaw%26r%3d0&exph=1440&expw=1920&q=ovata+o%c5%99e%c5%a1%c3%a1k+odr%c5%afda&FORM=IRPRST&ck=B5868C482BE4C2D04BC3F53D6FDA8E09&selectedIndex=2&itb=0
+              - generic:
+                - generic: 1920×1440
+                - generic:
+                  - link "priroda.cz":
+                    - /url: https://www.priroda.cz/clanek/co-s-listy-a-plody-z-oresaku/
+            - generic [ref=f51e611]:
+              - link "Co s listy a plody z ořešáku? - PŘÍRODA.cz" [ref=f51e612] [cursor=pointer]:
+                - /url: /images/search?view=detailV2&ccid=MYgevB3z&id=B4E2B68BB0BAB5F012E6A3AF8B0B335606D18312&thid=OIP.MYgevB3zni0FotTebTRxigHaFj&mediaurl=https%3a%2f%2fwww.priroda.cz%2fclanky%2ffoto%2fThesupermat-oresak-kralovskz.JPG&cdnurl=https%3a%2f%2fth.bing.com%2fth%2fid%2fR.31881ebc1df39e2d05a2d4de6d34718a%3frik%3dEoPRBlYzC4uvow%26pid%3dImgRaw%26r%3d0&exph=1440&expw=1920&q=ovata+o%c5%99e%c5%a1%c3%a1k+odr%c5%afda&FORM=IRPRST&ck=B5868C482BE4C2D04BC3F53D6FDA8E09&selectedIndex=2&itb=0
+              - generic:
+                - generic:
+                  - list:
+                    - listitem:
+                      - link "Co s listy a plody z ořešáku? - PŘÍRODA.cz" [ref=f51e613] [cursor=pointer]:
+                        - /url: /images/search?view=detailV2&ccid=MYgevB3z&id=B4E2B68BB0BAB5F012E6A3AF8B0B335606D18312&thid=OIP.MYgevB3zni0FotTebTRxigHaFj&mediaurl=https%3a%2f%2fwww.priroda.cz%2fclanky%2ffoto%2fThesupermat-oresak-kralovskz.JPG&cdnurl=https%3a%2f%2fth.bing.com%2fth%2fid%2fR.31881ebc1df39e2d05a2d4de6d34718a%3frik%3dEoPRBlYzC4uvow%26pid%3dImgRaw%26r%3d0&exph=1440&expw=1920&q=ovata+o%c5%99e%c5%a1%c3%a1k+odr%c5%afda&FORM=IRPRST&ck=B5868C482BE4C2D04BC3F53D6FDA8E09&selectedIndex=2&itb=0
+        - listitem [ref=f51e614]:
+          - generic [ref=f51e615]:
+            - link "Image result for ovata ořešák odrůda" [ref=f51e617] [cursor=pointer]:
+              - /url: /images/search?view=detailV2&ccid=KhMbgJ1l&id=550CE952B31E7F77289AF5B7CBFFAEF9F60ECAF7&thid=OIP.KhMbgJ1lXJmMxRGa9_aWfwHaE7&mediaurl=https%3a%2f%2fdam.production.vlm.nmheagle.sk%2fapi%2fimage%2f640x426%2faf7%2faf7cc905-b4f2-4d09-931c-cfa7fc166876.webp&cdnurl=https%3a%2f%2fth.bing.com%2fth%2fid%2fR.2a131b809d655c998cc5119af7f6967f%3frik%3d98oO9vmu%252f8u39Q%26pid%3dImgRaw%26r%3d0&exph=426&expw=640&q=ovata+o%c5%99e%c5%a1%c3%a1k+odr%c5%afda&FORM=IRPRST&ck=B33CA0F33D6FD2E6B30E90510C51FD2F&selectedIndex=3&itb=0
+              - img "Image result for ovata ořešák odrůda" [ref=f51e619]
+            - generic [ref=f51e620]:
+              - 'link "Galerie: Ořešák můžete vysadit i na jaře. Jak jej správně vybrat a ..." [ref=f51e621] [cursor=pointer]':
+                - /url: /images/search?view=detailV2&ccid=KhMbgJ1l&id=550CE952B31E7F77289AF5B7CBFFAEF9F60ECAF7&thid=OIP.KhMbgJ1lXJmMxRGa9_aWfwHaE7&mediaurl=https%3a%2f%2fdam.production.vlm.nmheagle.sk%2fapi%2fimage%2f640x426%2faf7%2faf7cc905-b4f2-4d09-931c-cfa7fc166876.webp&cdnurl=https%3a%2f%2fth.bing.com%2fth%2fid%2fR.2a131b809d655c998cc5119af7f6967f%3frik%3d98oO9vmu%252f8u39Q%26pid%3dImgRaw%26r%3d0&exph=426&expw=640&q=ovata+o%c5%99e%c5%a1%c3%a1k+odr%c5%afda&FORM=IRPRST&ck=B33CA0F33D6FD2E6B30E90510C51FD2F&selectedIndex=3&itb=0
+              - generic:
+                - generic:
+                  - list:
+                    - listitem:
+                      - 'link "Galerie: Ořešák můžete vysadit i na jaře. Jak jej správně vybrat a ..." [ref=f51e622] [cursor=pointer]':
+                        - /url: /images/search?view=detailV2&ccid=KhMbgJ1l&id=550CE952B31E7F77289AF5B7CBFFAEF9F60ECAF7&thid=OIP.KhMbgJ1lXJmMxRGa9_aWfwHaE7&mediaurl=https%3a%2f%2fdam.production.vlm.nmheagle.sk%2fapi%2fimage%2f640x426%2faf7%2faf7cc905-b4f2-4d09-931c-cfa7fc166876.webp&cdnurl=https%3a%2f%2fth.bing.com%2fth%2fid%2fR.2a131b809d655c998cc5119af7f6967f%3frik%3d98oO9vmu%252f8u39Q%26pid%3dImgRaw%26r%3d0&exph=426&expw=640&q=ovata+o%c5%99e%c5%a1%c3%a1k+odr%c5%afda&FORM=IRPRST&ck=B33CA0F33D6FD2E6B30E90510C51FD2F&selectedIndex=3&itb=0
+      - list [ref=f51e623]:
+        - listitem [ref=f51e624]:
+          - generic [ref=f51e625]:
+            - link "Image result for ovata ořešák odrůda" [ref=f51e627] [cursor=pointer]:
+              - /url: /images/search?view=detailV2&ccid=ZRyPPLIE&id=ED20BFAD9E2DC48A1DDE17F44FE05A5C2647A446&thid=OIP.ZRyPPLIEGXRcNwz4fpO_WAHaFc&mediaurl=https%3a%2f%2fpestrazahrada.cz%2fwp-content%2fuploads%2f2025%2f05%2foresak.jpg&cdnurl=https%3a%2f%2fth.bing.com%2fth%2fid%2fR.651c8f3cb20419745c370cf87e93bf58%3frik%3dRqRHJlxa4E%252f0Fw%26pid%3dImgRaw%26r%3d0&exph=1177&expw=1600&q=ovata+o%c5%99e%c5%a1%c3%a1k+odr%c5%afda&FORM=IRPRST&ck=F2A069A90BA8D65A4918791FCB06FFAD&selectedIndex=4&itb=0
+              - img "Image result for ovata ořešák odrůda" [ref=f51e629]
+            - generic [ref=f51e630]:
+              - link "Ořešák na tvé zahradě bez starostí a s plody na desítky let - Pestrá ..." [ref=f51e631] [cursor=pointer]:
+                - /url: /images/search?view=detailV2&ccid=ZRyPPLIE&id=ED20BFAD9E2DC48A1DDE17F44FE05A5C2647A446&thid=OIP.ZRyPPLIEGXRcNwz4fpO_WAHaFc&mediaurl=https%3a%2f%2fpestrazahrada.cz%2fwp-content%2fuploads%2f2025%2f05%2foresak.jpg&cdnurl=https%3a%2f%2fth.bing.com%2fth%2fid%2fR.651c8f3cb20419745c370cf87e93bf58%3frik%3dRqRHJlxa4E%252f0Fw%26pid%3dImgRaw%26r%3d0&exph=1177&expw=1600&q=ovata+o%c5%99e%c5%a1%c3%a1k+odr%c5%afda&FORM=IRPRST&ck=F2A069A90BA8D65A4918791FCB06FFAD&selectedIndex=4&itb=0
+              - generic:
+                - generic:
+                  - list:
+                    - listitem:
+                      - link "Ořešák na tvé zahradě bez starostí a s plody na desítky let …" [ref=f51e632] [cursor=pointer]:
+                        - /url: /images/search?view=detailV2&ccid=ZRyPPLIE&id=ED20BFAD9E2DC48A1DDE17F44FE05A5C2647A446&thid=OIP.ZRyPPLIEGXRcNwz4fpO_WAHaFc&mediaurl=https%3a%2f%2fpestrazahrada.cz%2fwp-content%2fuploads%2f2025%2f05%2foresak.jpg&cdnurl=https%3a%2f%2fth.bing.com%2fth%2fid%2fR.651c8f3cb20419745c370cf87e93bf58%3frik%3dRqRHJlxa4E%252f0Fw%26pid%3dImgRaw%26r%3d0&exph=1177&expw=1600&q=ovata+o%c5%99e%c5%a1%c3%a1k+odr%c5%afda&FORM=IRPRST&ck=F2A069A90BA8D65A4918791FCB06FFAD&selectedIndex=4&itb=0
+        - listitem [ref=f51e633]:
+          - generic [ref=f51e634]:
+            - link "Image result for ovata ořešák odrůda" [ref=f51e636] [cursor=pointer]:
+              - /url: /images/search?view=detailV2&ccid=2f1BcAEg&id=60524F337E14581F62DC0C13863877F837B1A31B&thid=OIP.2f1BcAEgWAd_pYv_zmdZJAHaE7&mediaurl=https%3a%2f%2fizahradkar.cz%2fwp-content%2fuploads%2f2023%2f10%2fMlade-i-vzrostle-oresaky-v-Zelesicich-zkusebna-UKZUZ-foto.jpg&cdnurl=https%3a%2f%2fth.bing.com%2fth%2fid%2fR.d9fd4170012058077fa58bffce675924%3frik%3dG6OxN%252fh3OIYTDA%26pid%3dImgRaw%26r%3d0&exph=798&expw=1200&q=ovata+o%c5%99e%c5%a1%c3%a1k+odr%c5%afda&FORM=IRPRST&ck=4929300D8D70F67B9635C035EBFF22D2&selectedIndex=5&itb=0
+              - img "Image result for ovata ořešák odrůda" [ref=f51e638]
+            - generic [ref=f51e639]:
+              - link "Ořešák; jak se hledaly semenáče ke šlechtění | Zahrádkář" [ref=f51e640] [cursor=pointer]:
+                - /url: /images/search?view=detailV2&ccid=2f1BcAEg&id=60524F337E14581F62DC0C13863877F837B1A31B&thid=OIP.2f1BcAEgWAd_pYv_zmdZJAHaE7&mediaurl=https%3a%2f%2fizahradkar.cz%2fwp-content%2fuploads%2f2023%2f10%2fMlade-i-vzrostle-oresaky-v-Zelesicich-zkusebna-UKZUZ-foto.jpg&cdnurl=https%3a%2f%2fth.bing.com%2fth%2fid%2fR.d9fd4170012058077fa58bffce675924%3frik%3dG6OxN%252fh3OIYTDA%26pid%3dImgRaw%26r%3d0&exph=798&expw=1200&q=ovata+o%c5%99e%c5%a1%c3%a1k+odr%c5%afda&FORM=IRPRST&ck=4929300D8D70F67B9635C035EBFF22D2&selectedIndex=5&itb=0
+              - generic:
+                - generic:
+                  - list:
+                    - listitem:
+                      - link "Ořešák; jak se hledaly semenáče ke šlechtění | Zahrádkář" [ref=f51e641] [cursor=pointer]:
+                        - /url: /images/search?view=detailV2&ccid=2f1BcAEg&id=60524F337E14581F62DC0C13863877F837B1A31B&thid=OIP.2f1BcAEgWAd_pYv_zmdZJAHaE7&mediaurl=https%3a%2f%2fizahradkar.cz%2fwp-content%2fuploads%2f2023%2f10%2fMlade-i-vzrostle-oresaky-v-Zelesicich-zkusebna-UKZUZ-foto.jpg&cdnurl=https%3a%2f%2fth.bing.com%2fth%2fid%2fR.d9fd4170012058077fa58bffce675924%3frik%3dG6OxN%252fh3OIYTDA%26pid%3dImgRaw%26r%3d0&exph=798&expw=1200&q=ovata+o%c5%99e%c5%a1%c3%a1k+odr%c5%afda&FORM=IRPRST&ck=4929300D8D70F67B9635C035EBFF22D2&selectedIndex=5&itb=0
+        - listitem [ref=f51e642]:
+          - generic [ref=f51e643]:
+            - link "Image result for ovata ořešák odrůda" [ref=f51e645] [cursor=pointer]:
+              - /url: /images/search?view=detailV2&ccid=yzocpu8z&id=431D64C8A1E2CBEE53137D520B579EBE26BAC12F&thid=OIP.yzocpu8znUaPv_VUCrAcvAHaE8&mediaurl=https%3a%2f%2fradyzezahrady.cz%2fwp-content%2fuploads%2f2025%2f09%2fpri-spravne-peci-bude-orechy-sklizet-nekolik-generaci-rady-ze-zahrady-900x600.jpg&cdnurl=https%3a%2f%2fth.bing.com%2fth%2fid%2fR.cb3a1ca6ef339d468fbff5540ab01cbc%3frik%3dL8G6Jr6eVwtSfQ%26pid%3dImgRaw%26r%3d0&exph=600&expw=900&q=ovata+o%c5%99e%c5%a1%c3%a1k+odr%c5%afda&FORM=IRPRST&ck=CBC6897F56C8C63448BD431CC8EE32EB&selectedIndex=6&itb=0
+              - img "Image result for ovata ořešák odrůda" [ref=f51e647]
+            - generic [ref=f51e648]:
+              - link "Jak správně vysadit ořešák, aby měl dostatek prostoru a síly ..." [ref=f51e649] [cursor=pointer]:
+                - /url: /images/search?view=detailV2&ccid=yzocpu8z&id=431D64C8A1E2CBEE53137D520B579EBE26BAC12F&thid=OIP.yzocpu8znUaPv_VUCrAcvAHaE8&mediaurl=https%3a%2f%2fradyzezahrady.cz%2fwp-content%2fuploads%2f2025%2f09%2fpri-spravne-peci-bude-orechy-sklizet-nekolik-generaci-rady-ze-zahrady-900x600.jpg&cdnurl=https%3a%2f%2fth.bing.com%2fth%2fid%2fR.cb3a1ca6ef339d468fbff5540ab01cbc%3frik%3dL8G6Jr6eVwtSfQ%26pid%3dImgRaw%26r%3d0&exph=600&expw=900&q=ovata+o%c5%99e%c5%a1%c3%a1k+odr%c5%afda&FORM=IRPRST&ck=CBC6897F56C8C63448BD431CC8EE32EB&selectedIndex=6&itb=0
+              - generic:
+                - generic:
+                  - list:
+                    - listitem:
+                      - link "Jak správně vysadit ořešák, aby měl dostatek prostoru a síly ..." [ref=f51e650] [cursor=pointer]:
+                        - /url: /images/search?view=detailV2&ccid=yzocpu8z&id=431D64C8A1E2CBEE53137D520B579EBE26BAC12F&thid=OIP.yzocpu8znUaPv_VUCrAcvAHaE8&mediaurl=https%3a%2f%2fradyzezahrady.cz%2fwp-content%2fuploads%2f2025%2f09%2fpri-spravne-peci-bude-orechy-sklizet-nekolik-generaci-rady-ze-zahrady-900x600.jpg&cdnurl=https%3a%2f%2fth.bing.com%2fth%2fid%2fR.cb3a1ca6ef339d468fbff5540ab01cbc%3frik%3dL8G6Jr6eVwtSfQ%26pid%3dImgRaw%26r%3d0&exph=600&expw=900&q=ovata+o%c5%99e%c5%a1%c3%a1k+odr%c5%afda&FORM=IRPRST&ck=CBC6897F56C8C63448BD431CC8EE32EB&selectedIndex=6&itb=0
+        - listitem [ref=f51e651]:
+          - generic [ref=f51e652]:
+            - generic [ref=f51e653]:
+              - link "Image result for ovata ořešák odrůda" [ref=f51e654] [cursor=pointer]:
+                - /url: /images/search?view=detailV2&ccid=EsAMiCKO&id=32479C90AF8AF608DF930D3CF58A937FA3D926D1&thid=OIP.EsAMiCKOAujy1b3uK6nQ5wHaD4&mediaurl=https%3a%2f%2fhobbio.cz%2fwp-content%2fuploads%2f2022%2f09%2f13Ooresak.jpg&cdnurl=https%3a%2f%2fth.bing.com%2fth%2fid%2fR.12c00c88228e02e8f2d5bdee2ba9d0e7%3frik%3d0SbZo3%252bTivU8DQ%26pid%3dImgRaw%26r%3d0&exph=628&expw=1200&q=ovata+o%c5%99e%c5%a1%c3%a1k+odr%c5%afda&FORM=IRPRST&ck=AB899C0C1F80B2C849AC53DE1A1C8054&selectedIndex=7&itb=0
+                - generic [ref=f51e656]:
+                  - img "Image result for ovata ořešák odrůda" [ref=f51e658]
+                  - generic:
+                    - img "Image result for ovata ořešák odrůda"
+                    - img "Image result for ovata ořešák odrůda"
+              - link "Gallery" [ref=f51e659] [cursor=pointer]:
+                - /url: /images/search?view=detailV2&ccid=EsAMiCKO&id=32479C90AF8AF608DF930D3CF58A937FA3D926D1&thid=OIP.EsAMiCKOAujy1b3uK6nQ5wHaD4&mediaurl=https%3a%2f%2fhobbio.cz%2fwp-content%2fuploads%2f2022%2f09%2f13Ooresak.jpg&cdnurl=https%3a%2f%2fth.bing.com%2fth%2fid%2fR.12c00c88228e02e8f2d5bdee2ba9d0e7%3frik%3d0SbZo3%252bTivU8DQ%26pid%3dImgRaw%26r%3d0&exph=628&expw=1200&q=ovata+o%c5%99e%c5%a1%c3%a1k+odr%c5%afda&FORM=IRPRST&ck=AB899C0C1F80B2C849AC53DE1A1C8054&selectedIndex=7&itb=0
+              - generic:
+                - generic: 1200×628
+                - generic:
+                  - link "hobbio.cz":
+                    - /url: https://hobbio.cz/ovocne-stromy-na-zahradu/
+            - generic [ref=f51e661]:
+              - link "15 nejoblíbenějších ovocných stromů na zahradu | Hobbio.cz" [ref=f51e662] [cursor=pointer]:
+                - /url: /images/search?view=detailV2&ccid=EsAMiCKO&id=32479C90AF8AF608DF930D3CF58A937FA3D926D1&thid=OIP.EsAMiCKOAujy1b3uK6nQ5wHaD4&mediaurl=https%3a%2f%2fhobbio.cz%2fwp-content%2fuploads%2f2022%2f09%2f13Ooresak.jpg&cdnurl=https%3a%2f%2fth.bing.com%2fth%2fid%2fR.12c00c88228e02e8f2d5bdee2ba9d0e7%3frik%3d0SbZo3%252bTivU8DQ%26pid%3dImgRaw%26r%3d0&exph=628&expw=1200&q=ovata+o%c5%99e%c5%a1%c3%a1k+odr%c5%afda&FORM=IRPRST&ck=AB899C0C1F80B2C849AC53DE1A1C8054&selectedIndex=7&itb=0
+              - generic:
+                - generic:
+                  - list:
+                    - listitem:
+                      - link "15 nejoblíbenějších ovocných stromů na zahradu | Hobbio.cz" [ref=f51e663] [cursor=pointer]:
+                        - /url: /images/search?view=detailV2&ccid=EsAMiCKO&id=32479C90AF8AF608DF930D3CF58A937FA3D926D1&thid=OIP.EsAMiCKOAujy1b3uK6nQ5wHaD4&mediaurl=https%3a%2f%2fhobbio.cz%2fwp-content%2fuploads%2f2022%2f09%2f13Ooresak.jpg&cdnurl=https%3a%2f%2fth.bing.com%2fth%2fid%2fR.12c00c88228e02e8f2d5bdee2ba9d0e7%3frik%3d0SbZo3%252bTivU8DQ%26pid%3dImgRaw%26r%3d0&exph=628&expw=1200&q=ovata+o%c5%99e%c5%a1%c3%a1k+odr%c5%afda&FORM=IRPRST&ck=AB899C0C1F80B2C849AC53DE1A1C8054&selectedIndex=7&itb=0
+      - list [ref=f51e664]:
+        - listitem [ref=f51e665]:
+          - generic [ref=f51e666]:
+            - link "Image result for ovata ořešák odrůda" [ref=f51e668] [cursor=pointer]:
+              - /url: /images/search?view=detailV2&ccid=TEgfHoKp&id=658BAD7CAEF4F1B879F0AC1666041ACD963B730F&thid=OIP.TEgfHoKpOTwlnWswCgzcPAHaEK&mediaurl=https%3a%2f%2fwww.nkz.cz%2fsites%2fdefault%2ffiles%2fpublic%2fstyles%2fmedia_image%2fpublic%2f2025-08%2fshutterstock2402208001.jpg%3fh%3da955cd85%26itok%3dwNL63q3j&cdnurl=https%3a%2f%2fth.bing.com%2fth%2fid%2fR.4c481f1e82a9393c259d6b300a0cdc3c%3frik%3dD3M7ls0aBGYWrA%26pid%3dImgRaw%26r%3d0&exph=527&expw=938&q=ovata+o%c5%99e%c5%a1%c3%a1k+odr%c5%afda&FORM=IRPRST&ck=2B1856323DB129A9BA24C84102AE8158&selectedIndex=8&itb=0
+              - img "Image result for ovata ořešák odrůda" [ref=f51e670]
+            - generic [ref=f51e671]:
+              - 'link "Řez ořešáku: Kdy a jak řezat, aby strom netrpěl | Naše krásná zahrada" [ref=f51e672] [cursor=pointer]':
+                - /url: /images/search?view=detailV2&ccid=TEgfHoKp&id=658BAD7CAEF4F1B879F0AC1666041ACD963B730F&thid=OIP.TEgfHoKpOTwlnWswCgzcPAHaEK&mediaurl=https%3a%2f%2fwww.nkz.cz%2fsites%2fdefault%2ffiles%2fpublic%2fstyles%2fmedia_image%2fpublic%2f2025-08%2fshutterstock2402208001.jpg%3fh%3da955cd85%26itok%3dwNL63q3j&cdnurl=https%3a%2f%2fth.bing.com%2fth%2fid%2fR.4c481f1e82a9393c259d6b300a0cdc3c%3frik%3dD3M7ls0aBGYWrA%26pid%3dImgRaw%26r%3d0&exph=527&expw=938&q=ovata+o%c5%99e%c5%a1%c3%a1k+odr%c5%afda&FORM=IRPRST&ck=2B1856323DB129A9BA24C84102AE8158&selectedIndex=8&itb=0
+              - generic:
+                - generic:
+                  - list:
+                    - listitem:
+                      - 'link "Řez ořešáku: Kdy a jak řezat, aby strom netrpěl | Naše krásná zahrada" [ref=f51e673] [cursor=pointer]':
+                        - /url: /images/search?view=detailV2&ccid=TEgfHoKp&id=658BAD7CAEF4F1B879F0AC1666041ACD963B730F&thid=OIP.TEgfHoKpOTwlnWswCgzcPAHaEK&mediaurl=https%3a%2f%2fwww.nkz.cz%2fsites%2fdefault%2ffiles%2fpublic%2fstyles%2fmedia_image%2fpublic%2f2025-08%2fshutterstock2402208001.jpg%3fh%3da955cd85%26itok%3dwNL63q3j&cdnurl=https%3a%2f%2fth.bing.com%2fth%2fid%2fR.4c481f1e82a9393c259d6b300a0cdc3c%3frik%3dD3M7ls0aBGYWrA%26pid%3dImgRaw%26r%3d0&exph=527&expw=938&q=ovata+o%c5%99e%c5%a1%c3%a1k+odr%c5%afda&FORM=IRPRST&ck=2B1856323DB129A9BA24C84102AE8158&selectedIndex=8&itb=0
+        - listitem [ref=f51e674]:
+          - generic [ref=f51e675]:
+            - link "Image result for ovata ořešák odrůda" [ref=f51e677] [cursor=pointer]:
+              - /url: /images/search?view=detailV2&ccid=%2b5sdST5V&id=8847A21F9DBC8ABAE8997CE604DE9A2CF440264F&thid=OIP.-5sdST5VN4UXaoAQY8vpQgHaE8&mediaurl=https%3a%2f%2fg.denik.cz%2f122%2ffc%2fprofimedia-0712770210_denik-630.jpg&cdnurl=https%3a%2f%2fth.bing.com%2fth%2fid%2fR.fb9b1d493e553785176a801063cbe942%3frik%3dTyZA9Cya3gTmfA%26pid%3dImgRaw%26r%3d0&exph=420&expw=630&q=ovata+o%c5%99e%c5%a1%c3%a1k+odr%c5%afda&FORM=IRPRST&ck=37ABE5675F016DE0FC4C627C5B6FE667&selectedIndex=9&itb=0
+              - img "Image result for ovata ořešák odrůda" [ref=f51e679]
+            - generic [ref=f51e680]:
+              - 'link "Jak prořezat ořešák: Zkušení pěstitelé doporučují udělat to teď v půli ..." [ref=f51e681] [cursor=pointer]':
+                - /url: /images/search?view=detailV2&ccid=%2b5sdST5V&id=8847A21F9DBC8ABAE8997CE604DE9A2CF440264F&thid=OIP.-5sdST5VN4UXaoAQY8vpQgHaE8&mediaurl=https%3a%2f%2fg.denik.cz%2f122%2ffc%2fprofimedia-0712770210_denik-630.jpg&cdnurl=https%3a%2f%2fth.bing.com%2fth%2fid%2fR.fb9b1d493e553785176a801063cbe942%3frik%3dTyZA9Cya3gTmfA%26pid%3dImgRaw%26r%3d0&exph=420&expw=630&q=ovata+o%c5%99e%c5%a1%c3%a1k+odr%c5%afda&FORM=IRPRST&ck=37ABE5675F016DE0FC4C627C5B6FE667&selectedIndex=9&itb=0
+              - generic:
+                - generic:
+                  - list:
+                    - listitem:
+                      - 'link "Jak prořezat ořešák: Zkušení pěstitelé doporučují udělat to teď v půli ..." [ref=f51e682] [cursor=pointer]':
+                        - /url: /images/search?view=detailV2&ccid=%2b5sdST5V&id=8847A21F9DBC8ABAE8997CE604DE9A2CF440264F&thid=OIP.-5sdST5VN4UXaoAQY8vpQgHaE8&mediaurl=https%3a%2f%2fg.denik.cz%2f122%2ffc%2fprofimedia-0712770210_denik-630.jpg&cdnurl=https%3a%2f%2fth.bing.com%2fth%2fid%2fR.fb9b1d493e553785176a801063cbe942%3frik%3dTyZA9Cya3gTmfA%26pid%3dImgRaw%26r%3d0&exph=420&expw=630&q=ovata+o%c5%99e%c5%a1%c3%a1k+odr%c5%afda&FORM=IRPRST&ck=37ABE5675F016DE0FC4C627C5B6FE667&selectedIndex=9&itb=0
+        - listitem [ref=f51e683]:
+          - generic [ref=f51e684]:
+            - generic [ref=f51e685]:
+              - link "Image result for ovata ořešák odrůda" [ref=f51e686] [cursor=pointer]:
+                - /url: /images/search?view=detailV2&ccid=oH%2fxjL68&id=F44430EB3FCB69D73AD8EEA610F9BC8B40F7B04B&thid=OIP.oH_xjL682EhdO43BBrMCDwHaE8&mediaurl=https%3a%2f%2fradyzezahrady.cz%2fwp-content%2fuploads%2f2025%2f05%2fDepositphotos_700592270_S.jpg&cdnurl=https%3a%2f%2fth.bing.com%2fth%2fid%2fR.a07ff18cbebcd8485d3b8dc106b3020f%3frik%3dS7D3QIu8%252bRCm7g%26pid%3dImgRaw%26r%3d0&exph=667&expw=1000&q=ovata+o%c5%99e%c5%a1%c3%a1k+odr%c5%afda&FORM=IRPRST&ck=BF91C422F1A9E36BD96D647FDAEE62A2&selectedIndex=10&itb=0
+                - generic [ref=f51e688]:
+                  - img "Image result for ovata ořešák odrůda" [ref=f51e690]
+                  - generic:
+                    - img "Image result for ovata ořešák odrůda"
+                    - img "Image result for ovata ořešák odrůda"
+              - link "Gallery" [ref=f51e691] [cursor=pointer]:
+                - /url: /images/search?view=detailV2&ccid=oH%2fxjL68&id=F44430EB3FCB69D73AD8EEA610F9BC8B40F7B04B&thid=OIP.oH_xjL682EhdO43BBrMCDwHaE8&mediaurl=https%3a%2f%2fradyzezahrady.cz%2fwp-content%2fuploads%2f2025%2f05%2fDepositphotos_700592270_S.jpg&cdnurl=https%3a%2f%2fth.bing.com%2fth%2fid%2fR.a07ff18cbebcd8485d3b8dc106b3020f%3frik%3dS7D3QIu8%252bRCm7g%26pid%3dImgRaw%26r%3d0&exph=667&expw=1000&q=ovata+o%c5%99e%c5%a1%c3%a1k+odr%c5%afda&FORM=IRPRST&ck=BF91C422F1A9E36BD96D647FDAEE62A2&selectedIndex=10&itb=0
+              - generic:
+                - generic: 1000×667
+                - generic:
+                  - link "radyzezahrady.cz":
+                    - /url: https://radyzezahrady.cz/oresak-v-zahrade-proc-pod-nim-neroste-trava-ani-kere-a-co-vedet-o-jeho-rezu-i-listech/
+            - generic [ref=f51e693]:
+              - 'link "Ořešák v zahradě: Proč pod ním neroste tráva ani keře - Radyzezahrady.cz" [ref=f51e694] [cursor=pointer]':
+                - /url: /images/search?view=detailV2&ccid=oH%2fxjL68&id=F44430EB3FCB69D73AD8EEA610F9BC8B40F7B04B&thid=OIP.oH_xjL682EhdO43BBrMCDwHaE8&mediaurl=https%3a%2f%2fradyzezahrady.cz%2fwp-content%2fuploads%2f2025%2f05%2fDepositphotos_700592270_S.jpg&cdnurl=https%3a%2f%2fth.bing.com%2fth%2fid%2fR.a07ff18cbebcd8485d3b8dc106b3020f%3frik%3dS7D3QIu8%252bRCm7g%26pid%3dImgRaw%26r%3d0&exph=667&expw=1000&q=ovata+o%c5%99e%c5%a1%c3%a1k+odr%c5%afda&FORM=IRPRST&ck=BF91C422F1A9E36BD96D647FDAEE62A2&selectedIndex=10&itb=0
+              - generic:
+                - generic:
+                  - list:
+                    - listitem:
+                      - 'link "Ořešák v zahradě: Proč pod ním neroste tráva ani keře - Radyzezahrady.cz" [ref=f51e695] [cursor=pointer]':
+                        - /url: /images/search?view=detailV2&ccid=oH%2fxjL68&id=F44430EB3FCB69D73AD8EEA610F9BC8B40F7B04B&thid=OIP.oH_xjL682EhdO43BBrMCDwHaE8&mediaurl=https%3a%2f%2fradyzezahrady.cz%2fwp-content%2fuploads%2f2025%2f05%2fDepositphotos_700592270_S.jpg&cdnurl=https%3a%2f%2fth.bing.com%2fth%2fid%2fR.a07ff18cbebcd8485d3b8dc106b3020f%3frik%3dS7D3QIu8%252bRCm7g%26pid%3dImgRaw%26r%3d0&exph=667&expw=1000&q=ovata+o%c5%99e%c5%a1%c3%a1k+odr%c5%afda&FORM=IRPRST&ck=BF91C422F1A9E36BD96D647FDAEE62A2&selectedIndex=10&itb=0
+        - listitem [ref=f51e696]:
+          - generic [ref=f51e697]:
+            - link "Image result for ovata ořešák odrůda" [ref=f51e699] [cursor=pointer]:
+              - /url: /images/search?view=detailV2&ccid=FoZOTP1w&id=75691A2ABE0086732A6BD16B088E4D595BC6C606&thid=OIP.FoZOTP1wKwjRh7U4Yb1ICwHaEa&mediaurl=https%3a%2f%2fwww.zahrada.cz%2fclanky%2fwp-content%2fuploads%2f2025%2f01%2fimage-365.webp&cdnurl=https%3a%2f%2fth.bing.com%2fth%2fid%2fR.16864e4cfd702b08d187b53861bd480b%3frik%3dBsbGW1lNjghr0Q%26pid%3dImgRaw%26r%3d0&exph=600&expw=1008&q=ovata+o%c5%99e%c5%a1%c3%a1k+odr%c5%afda&FORM=IRPRST&ck=72DE53904C87B9AFDC7321F8DF1C74AC&selectedIndex=11&itb=0
+              - img "Image result for ovata ořešák odrůda" [ref=f51e701]
+            - generic [ref=f51e702]:
+              - 'link "Ořešáky jsou poklad zahrady: jak si vypěstovat ořešák?" [ref=f51e703] [cursor=pointer]':
+                - /url: /images/search?view=detailV2&ccid=FoZOTP1w&id=75691A2ABE0086732A6BD16B088E4D595BC6C606&thid=OIP.FoZOTP1wKwjRh7U4Yb1ICwHaEa&mediaurl=https%3a%2f%2fwww.zahrada.cz%2fclanky%2fwp-content%2fuploads%2f2025%2f01%2fimage-365.webp&cdnurl=https%3a%2f%2fth.bing.com%2fth%2fid%2fR.16864e4cfd702b08d187b53861bd480b%3frik%3dBsbGW1lNjghr0Q%26pid%3dImgRaw%26r%3d0&exph=600&expw=1008&q=ovata+o%c5%99e%c5%a1%c3%a1k+odr%c5%afda&FORM=IRPRST&ck=72DE53904C87B9AFDC7321F8DF1C74AC&selectedIndex=11&itb=0
+              - generic:
+                - generic:
+                  - list:
+                    - listitem:
+                      - 'link "Ořešáky jsou poklad zahrady: jak si vypěstovat ořešák?" [ref=f51e704] [cursor=pointer]':
+                        - /url: /images/search?view=detailV2&ccid=FoZOTP1w&id=75691A2ABE0086732A6BD16B088E4D595BC6C606&thid=OIP.FoZOTP1wKwjRh7U4Yb1ICwHaEa&mediaurl=https%3a%2f%2fwww.zahrada.cz%2fclanky%2fwp-content%2fuploads%2f2025%2f01%2fimage-365.webp&cdnurl=https%3a%2f%2fth.bing.com%2fth%2fid%2fR.16864e4cfd702b08d187b53861bd480b%3frik%3dBsbGW1lNjghr0Q%26pid%3dImgRaw%26r%3d0&exph=600&expw=1008&q=ovata+o%c5%99e%c5%a1%c3%a1k+odr%c5%afda&FORM=IRPRST&ck=72DE53904C87B9AFDC7321F8DF1C74AC&selectedIndex=11&itb=0
+      - list [ref=f51e705]:
+        - listitem [ref=f51e706]:
+          - generic [ref=f51e707]:
+            - link "Image result for ovata ořešák odrůda" [ref=f51e709] [cursor=pointer]:
+              - /url: /images/search?view=detailV2&ccid=tgCfHDe%2b&id=472F72F3923494147B63E8843BCB3498B99FDCF3&thid=OIP.tgCfHDe-7WXIl_7O2TQWfAHaEK&mediaurl=https%3a%2f%2fzahradnitipy.com%2fwp-content%2fuploads%2f2020%2f07%2foresak-vetve-plody-1359021911_irecept-630-16x9-1.jpg&cdnurl=https%3a%2f%2fth.bing.com%2fth%2fid%2fR.b6009f1c37beed65c897feced934167c%3frik%3d89yfuZg0yzuE6A%26pid%3dImgRaw%26r%3d0&exph=354&expw=630&q=ovata+o%c5%99e%c5%a1%c3%a1k+odr%c5%afda&FORM=IRPRST&ck=8A4937730441AA15C2627BEBCD7B6D9B&selectedIndex=12&itb=0
+              - img "Image result for ovata ořešák odrůda" [ref=f51e711]
+            - generic [ref=f51e712]:
+              - link "Jak prořezat ořešák? Koncem května nastává vhodný čas – zahradni tipy" [ref=f51e713] [cursor=pointer]:
+                - /url: /images/search?view=detailV2&ccid=tgCfHDe%2b&id=472F72F3923494147B63E8843BCB3498B99FDCF3&thid=OIP.tgCfHDe-7WXIl_7O2TQWfAHaEK&mediaurl=https%3a%2f%2fzahradnitipy.com%2fwp-content%2fuploads%2f2020%2f07%2foresak-vetve-plody-1359021911_irecept-630-16x9-1.jpg&cdnurl=https%3a%2f%2fth.bing.com%2fth%2fid%2fR.b6009f1c37beed65c897feced934167c%3frik%3d89yfuZg0yzuE6A%26pid%3dImgRaw%26r%3d0&exph=354&expw=630&q=ovata+o%c5%99e%c5%a1%c3%a1k+odr%c5%afda&FORM=IRPRST&ck=8A4937730441AA15C2627BEBCD7B6D9B&selectedIndex=12&itb=0
+              - generic:
+                - generic:
+                  - list:
+                    - listitem:
+                      - link "Jak prořezat ořešák? Koncem května nastává vhodný čas – zahradni tipy" [ref=f51e714] [cursor=pointer]:
+                        - /url: /images/search?view=detailV2&ccid=tgCfHDe%2b&id=472F72F3923494147B63E8843BCB3498B99FDCF3&thid=OIP.tgCfHDe-7WXIl_7O2TQWfAHaEK&mediaurl=https%3a%2f%2fzahradnitipy.com%2fwp-content%2fuploads%2f2020%2f07%2foresak-vetve-plody-1359021911_irecept-630-16x9-1.jpg&cdnurl=https%3a%2f%2fth.bing.com%2fth%2fid%2fR.b6009f1c37beed65c897feced934167c%3frik%3d89yfuZg0yzuE6A%26pid%3dImgRaw%26r%3d0&exph=354&expw=630&q=ovata+o%c5%99e%c5%a1%c3%a1k+odr%c5%afda&FORM=IRPRST&ck=8A4937730441AA15C2627BEBCD7B6D9B&selectedIndex=12&itb=0
+        - listitem [ref=f51e715]:
+          - generic [ref=f51e716]:
+            - link "Image result for ovata ořešák odrůda" [ref=f51e718] [cursor=pointer]:
+              - /url: /images/search?view=detailV2&ccid=nJVx3gEa&id=A7AFA823D438B47CE96AD3B11B54A9E41EF9473A&thid=OIP.nJVx3gEa5H8h80RyGoNxFAHaLH&mediaurl=https%3a%2f%2f1gr.cz%2ffotky%2fidnes%2f11%2f102%2forg%2fPP3e6b45_174830_6363074.jpg&cdnurl=https%3a%2f%2fth.bing.com%2fth%2fid%2fR.9c9571de011ae47f21f344721a837114%3frik%3dOkf5HuSpVBux0w%26pid%3dImgRaw%26r%3d0&exph=1680&expw=1119&q=ovata+o%c5%99e%c5%a1%c3%a1k+odr%c5%afda&FORM=IRPRST&ck=B699E19C08943F4CC22B525D08E5D6D6&selectedIndex=13&itb=0
+              - img "Image result for ovata ořešák odrůda" [ref=f51e720]
+            - generic [ref=f51e721]:
+              - 'link "Jarní řez ořešáku: Návod, termíny a největší chyby - iDNES.cz" [ref=f51e722] [cursor=pointer]':
+                - /url: /images/search?view=detailV2&ccid=nJVx3gEa&id=A7AFA823D438B47CE96AD3B11B54A9E41EF9473A&thid=OIP.nJVx3gEa5H8h80RyGoNxFAHaLH&mediaurl=https%3a%2f%2f1gr.cz%2ffotky%2fidnes%2f11%2f102%2forg%2fPP3e6b45_174830_6363074.jpg&cdnurl=https%3a%2f%2fth.bing.com%2fth%2fid%2fR.9c9571de011ae47f21f344721a837114%3frik%3dOkf5HuSpVBux0w%26pid%3dImgRaw%26r%3d0&exph=1680&expw=1119&q=ovata+o%c5%99e%c5%a1%c3%a1k+odr%c5%afda&FORM=IRPRST&ck=B699E19C08943F4CC22B525D08E5D6D6&selectedIndex=13&itb=0
+              - generic:
+                - generic:
+                  - list:
+                    - listitem:
+                      - 'link "Jarní řez ořešáku: Návod, termíny …" [ref=f51e723] [cursor=pointer]':
+                        - /url: /images/search?view=detailV2&ccid=nJVx3gEa&id=A7AFA823D438B47CE96AD3B11B54A9E41EF9473A&thid=OIP.nJVx3gEa5H8h80RyGoNxFAHaLH&mediaurl=https%3a%2f%2f1gr.cz%2ffotky%2fidnes%2f11%2f102%2forg%2fPP3e6b45_174830_6363074.jpg&cdnurl=https%3a%2f%2fth.bing.com%2fth%2fid%2fR.9c9571de011ae47f21f344721a837114%3frik%3dOkf5HuSpVBux0w%26pid%3dImgRaw%26r%3d0&exph=1680&expw=1119&q=ovata+o%c5%99e%c5%a1%c3%a1k+odr%c5%afda&FORM=IRPRST&ck=B699E19C08943F4CC22B525D08E5D6D6&selectedIndex=13&itb=0
+        - listitem [ref=f51e724]:
+          - generic [ref=f51e725]:
+            - link "Image result for ovata ořešák odrůda" [ref=f51e727] [cursor=pointer]:
+              - /url: /images/search?view=detailV2&ccid=hay69e1T&id=D91ACBC38183EEF36BB626C93067B5060D9CC4F5&thid=OIP.hay69e1T9orXGoxz03j9gQHaE8&mediaurl=https%3a%2f%2fwww.zahrada.cz%2fclanky%2fwp-content%2fuploads%2f2024%2f07%2f4608228b-d720-41b4-8c33-bc16b9e2c0dc-696x464.webp&cdnurl=https%3a%2f%2fth.bing.com%2fth%2fid%2fR.85acbaf5ed53f68ad71a8c73d378fd81%3frik%3d9cScDQa1ZzDJJg%26pid%3dImgRaw%26r%3d0&exph=464&expw=696&q=ovata+o%c5%99e%c5%a1%c3%a1k+odr%c5%afda&FORM=IRPRST&ck=A25F5FC23191408BC4FB6CA4CE7ED605&selectedIndex=14&itb=0
+              - img "Image result for ovata ořešák odrůda" [ref=f51e729]
+            - generic [ref=f51e730]:
+              - link "Ořešák vlašský - Péče o něj a jeho nejlepší odrůdy - ZAHRADA.cz" [ref=f51e731] [cursor=pointer]:
+                - /url: /images/search?view=detailV2&ccid=hay69e1T&id=D91ACBC38183EEF36BB626C93067B5060D9CC4F5&thid=OIP.hay69e1T9orXGoxz03j9gQHaE8&mediaurl=https%3a%2f%2fwww.zahrada.cz%2fclanky%2fwp-content%2fuploads%2f2024%2f07%2f4608228b-d720-41b4-8c33-bc16b9e2c0dc-696x464.webp&cdnurl=https%3a%2f%2fth.bing.com%2fth%2fid%2fR.85acbaf5ed53f68ad71a8c73d378fd81%3frik%3d9cScDQa1ZzDJJg%26pid%3dImgRaw%26r%3d0&exph=464&expw=696&q=ovata+o%c5%99e%c5%a1%c3%a1k+odr%c5%afda&FORM=IRPRST&ck=A25F5FC23191408BC4FB6CA4CE7ED605&selectedIndex=14&itb=0
+              - generic:
+                - generic:
+                  - list:
+                    - listitem:
+                      - link "Ořešák vlašský - Péče o něj a jeho nejlepší odrůdy - ZAHRADA.cz" [ref=f51e732] [cursor=pointer]:
+                        - /url: /images/search?view=detailV2&ccid=hay69e1T&id=D91ACBC38183EEF36BB626C93067B5060D9CC4F5&thid=OIP.hay69e1T9orXGoxz03j9gQHaE8&mediaurl=https%3a%2f%2fwww.zahrada.cz%2fclanky%2fwp-content%2fuploads%2f2024%2f07%2f4608228b-d720-41b4-8c33-bc16b9e2c0dc-696x464.webp&cdnurl=https%3a%2f%2fth.bing.com%2fth%2fid%2fR.85acbaf5ed53f68ad71a8c73d378fd81%3frik%3d9cScDQa1ZzDJJg%26pid%3dImgRaw%26r%3d0&exph=464&expw=696&q=ovata+o%c5%99e%c5%a1%c3%a1k+odr%c5%afda&FORM=IRPRST&ck=A25F5FC23191408BC4FB6CA4CE7ED605&selectedIndex=14&itb=0
+        - listitem [ref=f51e733]:
+          - generic [ref=f51e734]:
+            - link "Image result for ovata ořešák odrůda" [ref=f51e736] [cursor=pointer]:
+              - /url: /images/search?view=detailV2&ccid=1PG5FHyc&id=33DDD7E85DF455BA2D0AADCCBB95BA9F0C6F17DC&thid=OIP.1PG5FHyc8XeLVgXecDJ_pwHaE8&mediaurl=https%3a%2f%2fwww.receptyprimanapadu.cz%2fwp-content%2fuploads%2f2026%2f04%2forech_v_slupce.jpg&cdnurl=https%3a%2f%2fth.bing.com%2fth%2fid%2fR.d4f1b9147c9cf1778b5605de70327fa7%3frik%3d3BdvDJ%252b6lbvMrQ%26pid%3dImgRaw%26r%3d0&exph=801&expw=1200&q=ovata+o%c5%99e%c5%a1%c3%a1k+odr%c5%afda&FORM=IRPRST&ck=E67B198109766467033F7E3947491D3A&selectedIndex=15&itb=0
+              - img "Image result for ovata ořešák odrůda" [ref=f51e738]
+            - generic [ref=f51e739]:
+              - 'link "Jak pěstovat ořešák královský: výsadba, řez i sklizeň | Recepty prima ..." [ref=f51e740] [cursor=pointer]':
+                - /url: /images/search?view=detailV2&ccid=1PG5FHyc&id=33DDD7E85DF455BA2D0AADCCBB95BA9F0C6F17DC&thid=OIP.1PG5FHyc8XeLVgXecDJ_pwHaE8&mediaurl=https%3a%2f%2fwww.receptyprimanapadu.cz%2fwp-content%2fuploads%2f2026%2f04%2forech_v_slupce.jpg&cdnurl=https%3a%2f%2fth.bing.com%2fth%2fid%2fR.d4f1b9147c9cf1778b5605de70327fa7%3frik%3d3BdvDJ%252b6lbvMrQ%26pid%3dImgRaw%26r%3d0&exph=801&expw=1200&q=ovata+o%c5%99e%c5%a1%c3%a1k+odr%c5%afda&FORM=IRPRST&ck=E67B198109766467033F7E3947491D3A&selectedIndex=15&itb=0
+              - generic:
+                - generic:
+                  - list:
+                    - listitem:
+                      - 'link "Jak pěstovat ořešák královský: výsadba, řez i sklizeň | Recepty pr…" [ref=f51e741] [cursor=pointer]':
+                        - /url: /images/search?view=detailV2&ccid=1PG5FHyc&id=33DDD7E85DF455BA2D0AADCCBB95BA9F0C6F17DC&thid=OIP.1PG5FHyc8XeLVgXecDJ_pwHaE8&mediaurl=https%3a%2f%2fwww.receptyprimanapadu.cz%2fwp-content%2fuploads%2f2026%2f04%2forech_v_slupce.jpg&cdnurl=https%3a%2f%2fth.bing.com%2fth%2fid%2fR.d4f1b9147c9cf1778b5605de70327fa7%3frik%3d3BdvDJ%252b6lbvMrQ%26pid%3dImgRaw%26r%3d0&exph=801&expw=1200&q=ovata+o%c5%99e%c5%a1%c3%a1k+odr%c5%afda&FORM=IRPRST&ck=E67B198109766467033F7E3947491D3A&selectedIndex=15&itb=0
+        - listitem [ref=f51e742]:
+          - generic [ref=f51e743]:
+            - link "Image result for ovata ořešák odrůda" [ref=f51e745] [cursor=pointer]:
+              - /url: /images/search?view=detailV2&ccid=%2fq%2ftdIxF&id=B4E2B68BB0BAB5F012E687B086DD2E5132F28F69&thid=OIP._q_tdIxFjKPcGU3y5-QEnAHaFk&mediaurl=https%3a%2f%2fwww.priroda.cz%2fnahledy%2fo%2fore%2forech-foto-800x602.jpg&cdnurl=https%3a%2f%2fth.bing.com%2fth%2fid%2fR.feafed748c458ca3dc194df2e7e4049c%3frik%3daY%252fyMlEu3Yawhw%26pid%3dImgRaw%26r%3d0&exph=602&expw=800&q=ovata+o%c5%99e%c5%a1%c3%a1k+odr%c5%afda&FORM=IRPRST&ck=0FBF12E70079FDF9B39BE49DF33B5D01&selectedIndex=16&itb=0
+              - img "Image result for ovata ořešák odrůda" [ref=f51e747]
+            - generic [ref=f51e748]:
+              - link "Co s listy a plody z ořešáku? - PŘÍRODA.cz" [ref=f51e749] [cursor=pointer]:
+                - /url: /images/search?view=detailV2&ccid=%2fq%2ftdIxF&id=B4E2B68BB0BAB5F012E687B086DD2E5132F28F69&thid=OIP._q_tdIxFjKPcGU3y5-QEnAHaFk&mediaurl=https%3a%2f%2fwww.priroda.cz%2fnahledy%2fo%2fore%2forech-foto-800x602.jpg&cdnurl=https%3a%2f%2fth.bing.com%2fth%2fid%2fR.feafed748c458ca3dc194df2e7e4049c%3frik%3daY%252fyMlEu3Yawhw%26pid%3dImgRaw%26r%3d0&exph=602&expw=800&q=ovata+o%c5%99e%c5%a1%c3%a1k+odr%c5%afda&FORM=IRPRST&ck=0FBF12E70079FDF9B39BE49DF33B5D01&selectedIndex=16&itb=0
+              - generic:
+                - generic:
+                  - list:
+                    - listitem:
+                      - link "Co s listy a plody z ořešáku? - PŘÍRODA.cz" [ref=f51e750] [cursor=pointer]:
+                        - /url: /images/search?view=detailV2&ccid=%2fq%2ftdIxF&id=B4E2B68BB0BAB5F012E687B086DD2E5132F28F69&thid=OIP._q_tdIxFjKPcGU3y5-QEnAHaFk&mediaurl=https%3a%2f%2fwww.priroda.cz%2fnahledy%2fo%2fore%2forech-foto-800x602.jpg&cdnurl=https%3a%2f%2fth.bing.com%2fth%2fid%2fR.feafed748c458ca3dc194df2e7e4049c%3frik%3daY%252fyMlEu3Yawhw%26pid%3dImgRaw%26r%3d0&exph=602&expw=800&q=ovata+o%c5%99e%c5%a1%c3%a1k+odr%c5%afda&FORM=IRPRST&ck=0FBF12E70079FDF9B39BE49DF33B5D01&selectedIndex=16&itb=0
+      - list [ref=f51e751]:
+        - listitem [ref=f51e752]:
+          - generic [ref=f51e753]:
+            - link "Image result for ovata ořešák odrůda" [ref=f51e755] [cursor=pointer]:
+              - /url: /images/search?view=detailV2&ccid=6DKSuVa6&id=33DDD7E85DF455BA2D0AC5854EA655EC3CE19B0F&thid=OIP.6DKSuVa6ZEmTCCPY_qKfCgHaFj&mediaurl=https%3a%2f%2fwww.receptyprimanapadu.cz%2fwp-content%2fuploads%2f2026%2f04%2foresak_v_zahrade.jpg&cdnurl=https%3a%2f%2fth.bing.com%2fth%2fid%2fR.e83292b956ba6449930823d8fea29f0a%3frik%3dD5vhPOxVpk6FxQ%26pid%3dImgRaw%26r%3d0&exph=900&expw=1200&q=ovata+o%c5%99e%c5%a1%c3%a1k+odr%c5%afda&FORM=IRPRST&ck=9D88063907A88187FE7715AE4B1A936E&selectedIndex=17&itb=0
+              - img "Image result for ovata ořešák odrůda" [ref=f51e757]
+            - generic [ref=f51e758]:
+              - 'link "Jak pěstovat ořešák královský: výsadba, řez i sklizeň | Recepty prima ..." [ref=f51e759] [cursor=pointer]':
+                - /url: /images/search?view=detailV2&ccid=6DKSuVa6&id=33DDD7E85DF455BA2D0AC5854EA655EC3CE19B0F&thid=OIP.6DKSuVa6ZEmTCCPY_qKfCgHaFj&mediaurl=https%3a%2f%2fwww.receptyprimanapadu.cz%2fwp-content%2fuploads%2f2026%2f04%2foresak_v_zahrade.jpg&cdnurl=https%3a%2f%2fth.bing.com%2fth%2fid%2fR.e83292b956ba6449930823d8fea29f0a%3frik%3dD5vhPOxVpk6FxQ%26pid%3dImgRaw%26r%3d0&exph=900&expw=1200&q=ovata+o%c5%99e%c5%a1%c3%a1k+odr%c5%afda&FORM=IRPRST&ck=9D88063907A88187FE7715AE4B1A936E&selectedIndex=17&itb=0
+              - generic:
+                - generic:
+                  - list:
+                    - listitem:
+                      - 'link "Jak pěstovat ořešák královský: výsadba, řez i sklizeň | Rece…" [ref=f51e760] [cursor=pointer]':
+                        - /url: /images/search?view=detailV2&ccid=6DKSuVa6&id=33DDD7E85DF455BA2D0AC5854EA655EC3CE19B0F&thid=OIP.6DKSuVa6ZEmTCCPY_qKfCgHaFj&mediaurl=https%3a%2f%2fwww.receptyprimanapadu.cz%2fwp-content%2fuploads%2f2026%2f04%2foresak_v_zahrade.jpg&cdnurl=https%3a%2f%2fth.bing.com%2fth%2fid%2fR.e83292b956ba6449930823d8fea29f0a%3frik%3dD5vhPOxVpk6FxQ%26pid%3dImgRaw%26r%3d0&exph=900&expw=1200&q=ovata+o%c5%99e%c5%a1%c3%a1k+odr%c5%afda&FORM=IRPRST&ck=9D88063907A88187FE7715AE4B1A936E&selectedIndex=17&itb=0
+        - listitem [ref=f51e761]:
+          - generic [ref=f51e762]:
+            - link "Image result for ovata ořešák odrůda" [ref=f51e764] [cursor=pointer]:
+              - /url: /images/search?view=detailV2&ccid=jD6dizjB&id=658BAD7CAEF4F1B879F04EE9D63AC79BB726D3A7&thid=OIP.jD6dizjBBd9-hf2SLa0u-gHaE7&mediaurl=https%3a%2f%2fwww.nkz.cz%2fsites%2fdefault%2ffiles%2fpublic%2fstyles%2fgallery_page_xl%2fpublic%2f2025-08%2fshutterstock1562242171.jpg.webp%3fitok%3dPf5UZwPj&cdnurl=https%3a%2f%2fth.bing.com%2fth%2fid%2fR.8c3e9d8b38c105df7e85fd922dad2efa%3frik%3dp9Mmt5vHOtbpTg%26pid%3dImgRaw%26r%3d0&exph=639&expw=960&q=ovata+o%c5%99e%c5%a1%c3%a1k+odr%c5%afda&FORM=IRPRST&ck=68F14DFDE137F5222D6D83BA3CB04030&selectedIndex=18&itb=0
+              - img "Image result for ovata ořešák odrůda" [ref=f51e766]
+            - generic [ref=f51e767]:
+              - 'link "Řez ořešáku: Kdy a jak řezat, aby strom netrpěl | Naše krásná zahrada" [ref=f51e768] [cursor=pointer]':
+                - /url: /images/search?view=detailV2&ccid=jD6dizjB&id=658BAD7CAEF4F1B879F04EE9D63AC79BB726D3A7&thid=OIP.jD6dizjBBd9-hf2SLa0u-gHaE7&mediaurl=https%3a%2f%2fwww.nkz.cz%2fsites%2fdefault%2ffiles%2fpublic%2fstyles%2fgallery_page_xl%2fpublic%2f2025-08%2fshutterstock1562242171.jpg.webp%3fitok%3dPf5UZwPj&cdnurl=https%3a%2f%2fth.bing.com%2fth%2fid%2fR.8c3e9d8b38c105df7e85fd922dad2efa%3frik%3dp9Mmt5vHOtbpTg%26pid%3dImgRaw%26r%3d0&exph=639&expw=960&q=ovata+o%c5%99e%c5%a1%c3%a1k+odr%c5%afda&FORM=IRPRST&ck=68F14DFDE137F5222D6D83BA3CB04030&selectedIndex=18&itb=0
+              - generic:
+                - generic:
+                  - list:
+                    - listitem:
+                      - 'link "Řez ořešáku: Kdy a jak řezat, aby strom netrpěl | Naše krásná zahrada" [ref=f51e769] [cursor=pointer]':
+                        - /url: /images/search?view=detailV2&ccid=jD6dizjB&id=658BAD7CAEF4F1B879F04EE9D63AC79BB726D3A7&thid=OIP.jD6dizjBBd9-hf2SLa0u-gHaE7&mediaurl=https%3a%2f%2fwww.nkz.cz%2fsites%2fdefault%2ffiles%2fpublic%2fstyles%2fgallery_page_xl%2fpublic%2f2025-08%2fshutterstock1562242171.jpg.webp%3fitok%3dPf5UZwPj&cdnurl=https%3a%2f%2fth.bing.com%2fth%2fid%2fR.8c3e9d8b38c105df7e85fd922dad2efa%3frik%3dp9Mmt5vHOtbpTg%26pid%3dImgRaw%26r%3d0&exph=639&expw=960&q=ovata+o%c5%99e%c5%a1%c3%a1k+odr%c5%afda&FORM=IRPRST&ck=68F14DFDE137F5222D6D83BA3CB04030&selectedIndex=18&itb=0
+        - listitem [ref=f51e770]:
+          - generic [ref=f51e771]:
+            - link "Image result for ovata ořešák odrůda" [ref=f51e773] [cursor=pointer]:
+              - /url: /images/search?view=detailV2&ccid=YkhAV5kn&id=4C97A0952843E77EBF8E35A220E6852B1F13D393&thid=OIP.YkhAV5knO_5LBxIfqPXfJwHaFj&mediaurl=https%3a%2f%2finfo-remesla.cz%2fwp-content%2fuploads%2fclanky%2fwalnut-tree-flower-98949-1920-1440x1080.webp&cdnurl=https%3a%2f%2fth.bing.com%2fth%2fid%2fR.6248405799273bfe4b07121fa8f5df27%3frik%3dk9MTHyuF5iCiNQ%26pid%3dImgRaw%26r%3d0&exph=1080&expw=1440&q=ovata+o%c5%99e%c5%a1%c3%a1k+odr%c5%afda&FORM=IRPRST&ck=FBEE165B00C7304F7BD4A79894CA41B2&selectedIndex=19&itb=0
+              - img "Image result for ovata ořešák odrůda" [ref=f51e775]
+            - generic [ref=f51e776]:
+              - link "Příběh ořešáku, vše o ořechu – iŘemesla" [ref=f51e777] [cursor=pointer]:
+                - /url: /images/search?view=detailV2&ccid=YkhAV5kn&id=4C97A0952843E77EBF8E35A220E6852B1F13D393&thid=OIP.YkhAV5knO_5LBxIfqPXfJwHaFj&mediaurl=https%3a%2f%2finfo-remesla.cz%2fwp-content%2fuploads%2fclanky%2fwalnut-tree-flower-98949-1920-1440x1080.webp&cdnurl=https%3a%2f%2fth.bing.com%2fth%2fid%2fR.6248405799273bfe4b07121fa8f5df27%3frik%3dk9MTHyuF5iCiNQ%26pid%3dImgRaw%26r%3d0&exph=1080&expw=1440&q=ovata+o%c5%99e%c5%a1%c3%a1k+odr%c5%afda&FORM=IRPRST&ck=FBEE165B00C7304F7BD4A79894CA41B2&selectedIndex=19&itb=0
+              - generic:
+                - generic:
+                  - list:
+                    - listitem:
+                      - link "Příběh ořešáku, vše o ořechu – iŘemesla" [ref=f51e778] [cursor=pointer]:
+                        - /url: /images/search?view=detailV2&ccid=YkhAV5kn&id=4C97A0952843E77EBF8E35A220E6852B1F13D393&thid=OIP.YkhAV5knO_5LBxIfqPXfJwHaFj&mediaurl=https%3a%2f%2finfo-remesla.cz%2fwp-content%2fuploads%2fclanky%2fwalnut-tree-flower-98949-1920-1440x1080.webp&cdnurl=https%3a%2f%2fth.bing.com%2fth%2fid%2fR.6248405799273bfe4b07121fa8f5df27%3frik%3dk9MTHyuF5iCiNQ%26pid%3dImgRaw%26r%3d0&exph=1080&expw=1440&q=ovata+o%c5%99e%c5%a1%c3%a1k+odr%c5%afda&FORM=IRPRST&ck=FBEE165B00C7304F7BD4A79894CA41B2&selectedIndex=19&itb=0
+        - listitem [ref=f51e779]:
+          - generic [ref=f51e780]:
+            - link "Image result for ovata ořešák odrůda" [ref=f51e782] [cursor=pointer]:
+              - /url: /images/search?view=detailV2&ccid=wMIvE2st&id=33DDD7E85DF455BA2D0AB71FD600A5BA6CEDBD5A&thid=OIP.wMIvE2stJZf-FR-55g0QwwHaE8&mediaurl=https%3a%2f%2fwww.receptyprimanapadu.cz%2fwp-content%2fuploads%2f2026%2f04%2fsklizen_orechu-768x512.jpg&cdnurl=https%3a%2f%2fth.bing.com%2fth%2fid%2fR.c0c22f136b2d2597fe151fb9e60d10c3%3frik%3dWr3tbLqlANYftw%26pid%3dImgRaw%26r%3d0&exph=512&expw=768&q=ovata+o%c5%99e%c5%a1%c3%a1k+odr%c5%afda&FORM=IRPRST&ck=5748E1D26ECB46385B063291CC84CF7F&selectedIndex=20&itb=0
+              - img "Image result for ovata ořešák odrůda" [ref=f51e784]
+            - generic [ref=f51e785]:
+              - 'link "Jak pěstovat ořešák královský: výsadba, řez i sklizeň | Recepty prima ..." [ref=f51e786] [cursor=pointer]':
+                - /url: /images/search?view=detailV2&ccid=wMIvE2st&id=33DDD7E85DF455BA2D0AB71FD600A5BA6CEDBD5A&thid=OIP.wMIvE2stJZf-FR-55g0QwwHaE8&mediaurl=https%3a%2f%2fwww.receptyprimanapadu.cz%2fwp-content%2fuploads%2f2026%2f04%2fsklizen_orechu-768x512.jpg&cdnurl=https%3a%2f%2fth.bing.com%2fth%2fid%2fR.c0c22f136b2d2597fe151fb9e60d10c3%3frik%3dWr3tbLqlANYftw%26pid%3dImgRaw%26r%3d0&exph=512&expw=768&q=ovata+o%c5%99e%c5%a1%c3%a1k+odr%c5%afda&FORM=IRPRST&ck=5748E1D26ECB46385B063291CC84CF7F&selectedIndex=20&itb=0
+              - generic:
+                - generic:
+                  - list:
+                    - listitem:
+                      - 'link "Jak pěstovat ořešák královský: výsadba, řez i sklizeň | Recepty p…" [ref=f51e787] [cursor=pointer]':
+                        - /url: /images/search?view=detailV2&ccid=wMIvE2st&id=33DDD7E85DF455BA2D0AB71FD600A5BA6CEDBD5A&thid=OIP.wMIvE2stJZf-FR-55g0QwwHaE8&mediaurl=https%3a%2f%2fwww.receptyprimanapadu.cz%2fwp-content%2fuploads%2f2026%2f04%2fsklizen_orechu-768x512.jpg&cdnurl=https%3a%2f%2fth.bing.com%2fth%2fid%2fR.c0c22f136b2d2597fe151fb9e60d10c3%3frik%3dWr3tbLqlANYftw%26pid%3dImgRaw%26r%3d0&exph=512&expw=768&q=ovata+o%c5%99e%c5%a1%c3%a1k+odr%c5%afda&FORM=IRPRST&ck=5748E1D26ECB46385B063291CC84CF7F&selectedIndex=20&itb=0
+        - listitem [ref=f51e788]:
+          - generic [ref=f51e789]:
+            - link "Image result for ovata ořešák odrůda" [ref=f51e791] [cursor=pointer]:
+              - /url: /images/search?view=detailV2&ccid=04Jal9zz&id=B6DAC7BEC67D44A882A1B45D6954759921B8E12C&thid=OIP.04Jal9zzThYlxoIKnaxk2AHaFj&mediaurl=https%3a%2f%2fhnojik.cz%2fwp-content%2fuploads%2f2024%2f03%2fOresak-kralovsky-3-1.jpg&cdnurl=https%3a%2f%2fth.bing.com%2fth%2fid%2fR.d3825a97dcf34e1625c6820a9dac64d8%3frik%3dLOG4IZl1VGldtA%26pid%3dImgRaw%26r%3d0&exph=375&expw=500&q=ovata+o%c5%99e%c5%a1%c3%a1k+odr%c5%afda&FORM=IRPRST&ck=BB0F4A3AEF280FCE538C6373F7941C33&selectedIndex=21&itb=0
+              - img "Image result for ovata ořešák odrůda" [ref=f51e793]
+            - generic [ref=f51e794]:
+              - 'link "Ořešák královský: pěstování, účinky a léčivá kůra" [ref=f51e795] [cursor=pointer]':
+                - /url: /images/search?view=detailV2&ccid=04Jal9zz&id=B6DAC7BEC67D44A882A1B45D6954759921B8E12C&thid=OIP.04Jal9zzThYlxoIKnaxk2AHaFj&mediaurl=https%3a%2f%2fhnojik.cz%2fwp-content%2fuploads%2f2024%2f03%2fOresak-kralovsky-3-1.jpg&cdnurl=https%3a%2f%2fth.bing.com%2fth%2fid%2fR.d3825a97dcf34e1625c6820a9dac64d8%3frik%3dLOG4IZl1VGldtA%26pid%3dImgRaw%26r%3d0&exph=375&expw=500&q=ovata+o%c5%99e%c5%a1%c3%a1k+odr%c5%afda&FORM=IRPRST&ck=BB0F4A3AEF280FCE538C6373F7941C33&selectedIndex=21&itb=0
+              - generic:
+                - generic:
+                  - list:
+                    - listitem:
+                      - 'link "Ořešák královský: pěstování, účinky a léčivá kůra" [ref=f51e796] [cursor=pointer]':
+                        - /url: /images/search?view=detailV2&ccid=04Jal9zz&id=B6DAC7BEC67D44A882A1B45D6954759921B8E12C&thid=OIP.04Jal9zzThYlxoIKnaxk2AHaFj&mediaurl=https%3a%2f%2fhnojik.cz%2fwp-content%2fuploads%2f2024%2f03%2fOresak-kralovsky-3-1.jpg&cdnurl=https%3a%2f%2fth.bing.com%2fth%2fid%2fR.d3825a97dcf34e1625c6820a9dac64d8%3frik%3dLOG4IZl1VGldtA%26pid%3dImgRaw%26r%3d0&exph=375&expw=500&q=ovata+o%c5%99e%c5%a1%c3%a1k+odr%c5%afda&FORM=IRPRST&ck=BB0F4A3AEF280FCE538C6373F7941C33&selectedIndex=21&itb=0
+      - list [ref=f51e797]:
+        - listitem [ref=f51e798]:
+          - generic [ref=f51e799]:
+            - generic [ref=f51e800]:
+              - link "Image result for ovata ořešák odrůda" [ref=f51e801] [cursor=pointer]:
+                - /url: /images/search?view=detailV2&ccid=EPaak%2bc%2b&id=C9CF92BCD4D8D124ABB49E8EA3B84548505CAAE0&thid=OIP.EPaak-c-IM1SVpFcjI81MwHaF4&mediaurl=https%3a%2f%2fimg-cache.ceskestavby.cz%2fclanky%2fog%2f144430289228.jpg&cdnurl=https%3a%2f%2fth.bing.com%2fth%2fid%2fR.10f69a93e73e20cd5256915c8c8f3533%3frik%3d4KpcUEhFuKOOng%26pid%3dImgRaw%26r%3d0&exph=954&expw=1200&q=ovata+o%c5%99e%c5%a1%c3%a1k+odr%c5%afda&FORM=IRPRST&ck=3DE730272BFEF27225CB50433B498B8E&selectedIndex=22&itb=0
+                - generic [ref=f51e803]:
+                  - img "Image result for ovata ořešák odrůda" [ref=f51e805]
+                  - generic:
+                    - img "Image result for ovata ořešák odrůda"
+                    - img "Image result for ovata ořešák odrůda"
+              - link "Gallery" [ref=f51e806] [cursor=pointer]:
+                - /url: /images/search?view=detailV2&ccid=EPaak%2bc%2b&id=C9CF92BCD4D8D124ABB49E8EA3B84548505CAAE0&thid=OIP.EPaak-c-IM1SVpFcjI81MwHaF4&mediaurl=https%3a%2f%2fimg-cache.ceskestavby.cz%2fclanky%2fog%2f144430289228.jpg&cdnurl=https%3a%2f%2fth.bing.com%2fth%2fid%2fR.10f69a93e73e20cd5256915c8c8f3533%3frik%3d4KpcUEhFuKOOng%26pid%3dImgRaw%26r%3d0&exph=954&expw=1200&q=ovata+o%c5%99e%c5%a1%c3%a1k+odr%c5%afda&FORM=IRPRST&ck=3DE730272BFEF27225CB50433B498B8E&selectedIndex=22&itb=0
+              - generic:
+                - generic: 1200×954
+                - generic:
+                  - link "ceskestavby.cz":
+                    - /url: https://www.ceskestavby.cz/clanky/jak-pestovat-oresak-kralovsky-24155.html
+            - generic [ref=f51e808]:
+              - link "Jak pěstovat ořešák královský - ČESKÉSTAVBY.cz" [ref=f51e809] [cursor=pointer]:
+                - /url: /images/search?view=detailV2&ccid=EPaak%2bc%2b&id=C9CF92BCD4D8D124ABB49E8EA3B84548505CAAE0&thid=OIP.EPaak-c-IM1SVpFcjI81MwHaF4&mediaurl=https%3a%2f%2fimg-cache.ceskestavby.cz%2fclanky%2fog%2f144430289228.jpg&cdnurl=https%3a%2f%2fth.bing.com%2fth%2fid%2fR.10f69a93e73e20cd5256915c8c8f3533%3frik%3d4KpcUEhFuKOOng%26pid%3dImgRaw%26r%3d0&exph=954&expw=1200&q=ovata+o%c5%99e%c5%a1%c3%a1k+odr%c5%afda&FORM=IRPRST&ck=3DE730272BFEF27225CB50433B498B8E&selectedIndex=22&itb=0
+              - generic:
+                - generic:
+                  - list:
+                    - listitem:
+                      - link "Jak pěstovat ořešák královský - ČESKÉSTAVBY.cz" [ref=f51e810] [cursor=pointer]:
+                        - /url: /images/search?view=detailV2&ccid=EPaak%2bc%2b&id=C9CF92BCD4D8D124ABB49E8EA3B84548505CAAE0&thid=OIP.EPaak-c-IM1SVpFcjI81MwHaF4&mediaurl=https%3a%2f%2fimg-cache.ceskestavby.cz%2fclanky%2fog%2f144430289228.jpg&cdnurl=https%3a%2f%2fth.bing.com%2fth%2fid%2fR.10f69a93e73e20cd5256915c8c8f3533%3frik%3d4KpcUEhFuKOOng%26pid%3dImgRaw%26r%3d0&exph=954&expw=1200&q=ovata+o%c5%99e%c5%a1%c3%a1k+odr%c5%afda&FORM=IRPRST&ck=3DE730272BFEF27225CB50433B498B8E&selectedIndex=22&itb=0
+        - listitem [ref=f51e811]:
+          - generic [ref=f51e812]:
+            - generic [ref=f51e813]:
+              - link "Image result for ovata ořešák odrůda" [ref=f51e814] [cursor=pointer]:
+                - /url: /images/search?view=detailV2&ccid=1U27ULVt&id=8DD10EB814922329A84AF1A03D7AA956553B73A7&thid=OIP.1U27ULVtn-nzH9gS5J0NBwHaFd&mediaurl=https%3a%2f%2fnasehobby.cz%2fwp-content%2fuploads%2f2011%2f11%2fo%c5%99e%c5%a1%c3%a1k.jpg&cdnurl=https%3a%2f%2fth.bing.com%2fth%2fid%2fR.d54dbb50b56d9fe9f31fd812e49d0d07%3frik%3dp3M7VVapej2g8Q%26pid%3dImgRaw%26r%3d0&exph=740&expw=1004&q=ovata+o%c5%99e%c5%a1%c3%a1k+odr%c5%afda&FORM=IRPRST&ck=A00EC5C20C76BF68CAD83E2E11E4D807&selectedIndex=23&itb=0
+                - generic [ref=f51e816]:
+                  - img "Image result for ovata ořešák odrůda" [ref=f51e818]
+                  - generic:
+                    - img "Image result for ovata ořešák odrůda"
+                    - img "Image result for ovata ořešák odrůda"
+              - link "Gallery" [ref=f51e819] [cursor=pointer]:
+                - /url: /images/search?view=detailV2&ccid=1U27ULVt&id=8DD10EB814922329A84AF1A03D7AA956553B73A7&thid=OIP.1U27ULVtn-nzH9gS5J0NBwHaFd&mediaurl=https%3a%2f%2fnasehobby.cz%2fwp-content%2fuploads%2f2011%2f11%2fo%c5%99e%c5%a1%c3%a1k.jpg&cdnurl=https%3a%2f%2fth.bing.com%2fth%2fid%2fR.d54dbb50b56d9fe9f31fd812e49d0d07%3frik%3dp3M7VVapej2g8Q%26pid%3dImgRaw%26r%3d0&exph=740&expw=1004&q=ovata+o%c5%99e%c5%a1%c3%a1k+odr%c5%afda&FORM=IRPRST&ck=A00EC5C20C76BF68CAD83E2E11E4D807&selectedIndex=23&itb=0
+              - generic:
+                - generic: 1004×740
+                - generic:
+                  - link "nasehobby.cz":
+                    - /url: https://www.nasehobby.cz/tag/horoskop/
+            - generic [ref=f51e821]:
+              - link "horoskop Archivy - Naše hobby" [ref=f51e822] [cursor=pointer]:
+                - /url: /images/search?view=detailV2&ccid=1U27ULVt&id=8DD10EB814922329A84AF1A03D7AA956553B73A7&thid=OIP.1U27ULVtn-nzH9gS5J0NBwHaFd&mediaurl=https%3a%2f%2fnasehobby.cz%2fwp-content%2fuploads%2f2011%2f11%2fo%c5%99e%c5%a1%c3%a1k.jpg&cdnurl=https%3a%2f%2fth.bing.com%2fth%2fid%2fR.d54dbb50b56d9fe9f31fd812e49d0d07%3frik%3dp3M7VVapej2g8Q%26pid%3dImgRaw%26r%3d0&exph=740&expw=1004&q=ovata+o%c5%99e%c5%a1%c3%a1k+odr%c5%afda&FORM=IRPRST&ck=A00EC5C20C76BF68CAD83E2E11E4D807&selectedIndex=23&itb=0
+              - generic:
+                - generic:
+                  - list:
+                    - listitem:
+                      - link "horoskop Archivy - Naše hobby" [ref=f51e823] [cursor=pointer]:
+                        - /url: /images/search?view=detailV2&ccid=1U27ULVt&id=8DD10EB814922329A84AF1A03D7AA956553B73A7&thid=OIP.1U27ULVtn-nzH9gS5J0NBwHaFd&mediaurl=https%3a%2f%2fnasehobby.cz%2fwp-content%2fuploads%2f2011%2f11%2fo%c5%99e%c5%a1%c3%a1k.jpg&cdnurl=https%3a%2f%2fth.bing.com%2fth%2fid%2fR.d54dbb50b56d9fe9f31fd812e49d0d07%3frik%3dp3M7VVapej2g8Q%26pid%3dImgRaw%26r%3d0&exph=740&expw=1004&q=ovata+o%c5%99e%c5%a1%c3%a1k+odr%c5%afda&FORM=IRPRST&ck=A00EC5C20C76BF68CAD83E2E11E4D807&selectedIndex=23&itb=0
+        - listitem [ref=f51e824]:
+          - generic [ref=f51e825]:
+            - link "Image result for ovata ořešák odrůda" [ref=f51e827] [cursor=pointer]:
+              - /url: /images/search?view=detailV2&ccid=8nqNwA1G&id=5C319162CCB6594775D9B351C4D44EA6591774FF&thid=OIP.8nqNwA1Gjo1a-3HcR98A5QHaFD&mediaurl=https%3a%2f%2fi0.wp.com%2fwww.zahradaapriroda.cz%2fwp-content%2fuploads%2fo%c5%99e%c5%a1%c3%a1k-vla%c5%a1sk%c3%bd.jpg%3fresize%3d768%252C524%26ssl%3d1&cdnurl=https%3a%2f%2fth.bing.com%2fth%2fid%2fR.f27a8dc00d468e8d5afb71dc47df00e5%3frik%3d%252f3QXWaZO1MRRsw%26pid%3dImgRaw%26r%3d0&exph=524&expw=768&q=ovata+o%c5%99e%c5%a1%c3%a1k+odr%c5%afda&FORM=IRPRST&ck=AFDFAFF81A76890B5F3F7B867A661C6A&selectedIndex=24&itb=0
+              - img "Image result for ovata ořešák odrůda" [ref=f51e829]
+            - generic [ref=f51e830]:
+              - link "Ořešák vlašský, královský - pěstování a léčivé účinky - Zahrada a Příroda" [ref=f51e831] [cursor=pointer]:
+                - /url: /images/search?view=detailV2&ccid=8nqNwA1G&id=5C319162CCB6594775D9B351C4D44EA6591774FF&thid=OIP.8nqNwA1Gjo1a-3HcR98A5QHaFD&mediaurl=https%3a%2f%2fi0.wp.com%2fwww.zahradaapriroda.cz%2fwp-content%2fuploads%2fo%c5%99e%c5%a1%c3%a1k-vla%c5%a1sk%c3%bd.jpg%3fresize%3d768%252C524%26ssl%3d1&cdnurl=https%3a%2f%2fth.bing.com%2fth%2fid%2fR.f27a8dc00d468e8d5afb71dc47df00e5%3frik%3d%252f3QXWaZO1MRRsw%26pid%3dImgRaw%26r%3d0&exph=524&expw=768&q=ovata+o%c5%99e%c5%a1%c3%a1k+odr%c5%afda&FORM=IRPRST&ck=AFDFAFF81A76890B5F3F7B867A661C6A&selectedIndex=24&itb=0
+              - generic:
+                - generic:
+                  - list:
+                    - listitem:
+                      - link "Ořešák vlašský, královský - pěstování a léčivé účinky - Zahrada a Příroda" [ref=f51e832] [cursor=pointer]:
+                        - /url: /images/search?view=detailV2&ccid=8nqNwA1G&id=5C319162CCB6594775D9B351C4D44EA6591774FF&thid=OIP.8nqNwA1Gjo1a-3HcR98A5QHaFD&mediaurl=https%3a%2f%2fi0.wp.com%2fwww.zahradaapriroda.cz%2fwp-content%2fuploads%2fo%c5%99e%c5%a1%c3%a1k-vla%c5%a1sk%c3%bd.jpg%3fresize%3d768%252C524%26ssl%3d1&cdnurl=https%3a%2f%2fth.bing.com%2fth%2fid%2fR.f27a8dc00d468e8d5afb71dc47df00e5%3frik%3d%252f3QXWaZO1MRRsw%26pid%3dImgRaw%26r%3d0&exph=524&expw=768&q=ovata+o%c5%99e%c5%a1%c3%a1k+odr%c5%afda&FORM=IRPRST&ck=AFDFAFF81A76890B5F3F7B867A661C6A&selectedIndex=24&itb=0
+        - listitem [ref=f51e833]:
+          - generic [ref=f51e834]:
+            - link "Image result for ovata ořešák odrůda" [ref=f51e836] [cursor=pointer]:
+              - /url: /images/search?view=detailV2&ccid=br%2bgHFp2&id=ED20BFAD9E2DC48A1DDEC6D60DE6EF06115F7371&thid=OIP.br-gHFp2YSWXIXTbA09igwHaE7&mediaurl=https%3a%2f%2fpestrazahrada.cz%2fwp-content%2fuploads%2f2025%2f05%2foresak-2.jpg&cdnurl=https%3a%2f%2fth.bing.com%2fth%2fid%2fR.6ebfa01c5a766125972174db034f6283%3frik%3dcXNfEQbv5g3Wxg%26pid%3dImgRaw%26r%3d0&exph=1066&expw=1600&q=ovata+o%c5%99e%c5%a1%c3%a1k+odr%c5%afda&FORM=IRPRST&ck=F2B56C6335CD3B05EC8558BBF8997F91&selectedIndex=25&itb=0
+              - img "Image result for ovata ořešák odrůda" [ref=f51e838]
+            - generic [ref=f51e839]:
+              - link "Ořešák na tvé zahradě bez starostí a s plody na desítky let - Pestrá ..." [ref=f51e840] [cursor=pointer]:
+                - /url: /images/search?view=detailV2&ccid=br%2bgHFp2&id=ED20BFAD9E2DC48A1DDEC6D60DE6EF06115F7371&thid=OIP.br-gHFp2YSWXIXTbA09igwHaE7&mediaurl=https%3a%2f%2fpestrazahrada.cz%2fwp-content%2fuploads%2f2025%2f05%2foresak-2.jpg&cdnurl=https%3a%2f%2fth.bing.com%2fth%2fid%2fR.6ebfa01c5a766125972174db034f6283%3frik%3dcXNfEQbv5g3Wxg%26pid%3dImgRaw%26r%3d0&exph=1066&expw=1600&q=ovata+o%c5%99e%c5%a1%c3%a1k+odr%c5%afda&FORM=IRPRST&ck=F2B56C6335CD3B05EC8558BBF8997F91&selectedIndex=25&itb=0
+              - generic:
+                - generic:
+                  - list:
+                    - listitem:
+                      - link "Ořešák na tvé zahradě bez starostí a s plody na desítky let - Pestrá ..." [ref=f51e841] [cursor=pointer]:
+                        - /url: /images/search?view=detailV2&ccid=br%2bgHFp2&id=ED20BFAD9E2DC48A1DDEC6D60DE6EF06115F7371&thid=OIP.br-gHFp2YSWXIXTbA09igwHaE7&mediaurl=https%3a%2f%2fpestrazahrada.cz%2fwp-content%2fuploads%2f2025%2f05%2foresak-2.jpg&cdnurl=https%3a%2f%2fth.bing.com%2fth%2fid%2fR.6ebfa01c5a766125972174db034f6283%3frik%3dcXNfEQbv5g3Wxg%26pid%3dImgRaw%26r%3d0&exph=1066&expw=1600&q=ovata+o%c5%99e%c5%a1%c3%a1k+odr%c5%afda&FORM=IRPRST&ck=F2B56C6335CD3B05EC8558BBF8997F91&selectedIndex=25&itb=0
+      - list [ref=f51e842]:
+        - listitem [ref=f51e843]:
+          - generic [ref=f51e844]:
+            - link "Image result for ovata ořešák odrůda" [ref=f51e846] [cursor=pointer]:
+              - /url: /images/search?view=detailV2&ccid=bVBsH5o2&id=D91ACBC38183EEF36BB6B0CABC77B3F4B721A5BA&thid=OIP.bVBsH5o2orzaUSc48J0x7AHaE7&mediaurl=https%3a%2f%2fwww.zahrada.cz%2fclanky%2fwp-content%2fuploads%2f2024%2f07%2f7dd7a94c-57d8-4516-8ffc-f45a48d67c74-1024x682.webp&cdnurl=https%3a%2f%2fth.bing.com%2fth%2fid%2fR.6d506c1f9a36a2bcda512738f09d31ec%3frik%3duqUht%252fSzd7zKsA%26pid%3dImgRaw%26r%3d0&exph=682&expw=1024&q=ovata+o%c5%99e%c5%a1%c3%a1k+odr%c5%afda&FORM=IRPRST&ck=F7FFE654B4D9CFB34608370657C8470A&selectedIndex=26&itb=0
+              - img "Image result for ovata ořešák odrůda" [ref=f51e848]
+            - generic [ref=f51e849]:
+              - link "Ořešák vlašský - Péče o něj a jeho nejlepší odrůdy - ZAHRADA.cz" [ref=f51e850] [cursor=pointer]:
+                - /url: /images/search?view=detailV2&ccid=bVBsH5o2&id=D91ACBC38183EEF36BB6B0CABC77B3F4B721A5BA&thid=OIP.bVBsH5o2orzaUSc48J0x7AHaE7&mediaurl=https%3a%2f%2fwww.zahrada.cz%2fclanky%2fwp-content%2fuploads%2f2024%2f07%2f7dd7a94c-57d8-4516-8ffc-f45a48d67c74-1024x682.webp&cdnurl=https%3a%2f%2fth.bing.com%2fth%2fid%2fR.6d506c1f9a36a2bcda512738f09d31ec%3frik%3duqUht%252fSzd7zKsA%26pid%3dImgRaw%26r%3d0&exph=682&expw=1024&q=ovata+o%c5%99e%c5%a1%c3%a1k+odr%c5%afda&FORM=IRPRST&ck=F7FFE654B4D9CFB34608370657C8470A&selectedIndex=26&itb=0
+              - generic:
+                - generic:
+                  - list:
+                    - listitem:
+                      - link "Ořešák vlašský - Péče o něj a jeho nejlepší odrůdy - ZAHRADA.cz" [ref=f51e851] [cursor=pointer]:
+                        - /url: /images/search?view=detailV2&ccid=bVBsH5o2&id=D91ACBC38183EEF36BB6B0CABC77B3F4B721A5BA&thid=OIP.bVBsH5o2orzaUSc48J0x7AHaE7&mediaurl=https%3a%2f%2fwww.zahrada.cz%2fclanky%2fwp-content%2fuploads%2f2024%2f07%2f7dd7a94c-57d8-4516-8ffc-f45a48d67c74-1024x682.webp&cdnurl=https%3a%2f%2fth.bing.com%2fth%2fid%2fR.6d506c1f9a36a2bcda512738f09d31ec%3frik%3duqUht%252fSzd7zKsA%26pid%3dImgRaw%26r%3d0&exph=682&expw=1024&q=ovata+o%c5%99e%c5%a1%c3%a1k+odr%c5%afda&FORM=IRPRST&ck=F7FFE654B4D9CFB34608370657C8470A&selectedIndex=26&itb=0
+        - listitem [ref=f51e852]:
+          - generic [ref=f51e853]:
+            - link "Image result for ovata ořešák odrůda" [ref=f51e855] [cursor=pointer]:
+              - /url: /images/search?view=detailV2&ccid=cEwtZZRL&id=613565EC85C6C6231C865A7A1831CAA230F6F4CE&thid=OIP.cEwtZZRLanj8Em4yAvzOVwHaE7&mediaurl=https%3a%2f%2fwww.nasezahrada.com%2fwp-content%2fuploads%2f2019%2f09%2fwalnut-970451_1280.jpg&cdnurl=https%3a%2f%2fth.bing.com%2fth%2fid%2fR.704c2d65944b6a78fc126e3202fcce57%3frik%3dzvT2MKLKMRh6Wg%26pid%3dImgRaw%26r%3d0&exph=853&expw=1280&q=ovata+o%c5%99e%c5%a1%c3%a1k+odr%c5%afda&FORM=IRPRST&ck=66E4354A72C38246A75D11DBC25DE268&selectedIndex=27&itb=0
+              - img "Image result for ovata ořešák odrůda" [ref=f51e857]
+            - generic [ref=f51e858]:
+              - link "Pěstujte ořešák! Postup, se kterým je úspěch jistý" [ref=f51e859] [cursor=pointer]:
+                - /url: /images/search?view=detailV2&ccid=cEwtZZRL&id=613565EC85C6C6231C865A7A1831CAA230F6F4CE&thid=OIP.cEwtZZRLanj8Em4yAvzOVwHaE7&mediaurl=https%3a%2f%2fwww.nasezahrada.com%2fwp-content%2fuploads%2f2019%2f09%2fwalnut-970451_1280.jpg&cdnurl=https%3a%2f%2fth.bing.com%2fth%2fid%2fR.704c2d65944b6a78fc126e3202fcce57%3frik%3dzvT2MKLKMRh6Wg%26pid%3dImgRaw%26r%3d0&exph=853&expw=1280&q=ovata+o%c5%99e%c5%a1%c3%a1k+odr%c5%afda&FORM=IRPRST&ck=66E4354A72C38246A75D11DBC25DE268&selectedIndex=27&itb=0
+              - generic:
+                - generic:
+                  - list:
+                    - listitem:
+                      - link "Pěstujte ořešák! Postup, se kterým je úspěch jistý" [ref=f51e860] [cursor=pointer]:
+                        - /url: /images/search?view=detailV2&ccid=cEwtZZRL&id=613565EC85C6C6231C865A7A1831CAA230F6F4CE&thid=OIP.cEwtZZRLanj8Em4yAvzOVwHaE7&mediaurl=https%3a%2f%2fwww.nasezahrada.com%2fwp-content%2fuploads%2f2019%2f09%2fwalnut-970451_1280.jpg&cdnurl=https%3a%2f%2fth.bing.com%2fth%2fid%2fR.704c2d65944b6a78fc126e3202fcce57%3frik%3dzvT2MKLKMRh6Wg%26pid%3dImgRaw%26r%3d0&exph=853&expw=1280&q=ovata+o%c5%99e%c5%a1%c3%a1k+odr%c5%afda&FORM=IRPRST&ck=66E4354A72C38246A75D11DBC25DE268&selectedIndex=27&itb=0
+        - listitem [ref=f51e861]:
+          - generic [ref=f51e862]:
+            - link "Image result for ovata ořešák odrůda" [ref=f51e864] [cursor=pointer]:
+              - /url: /images/search?view=detailV2&ccid=jeBOLsWD&id=5C319162CCB6594775D9313CFA701924E447344B&thid=OIP.jeBOLsWDCyRLHey05IEtcwHaEv&mediaurl=https%3a%2f%2fi0.wp.com%2fwww.zahradaapriroda.cz%2fwp-content%2fuploads%2fO%c5%99echy.jpg%3ffit%3d1004%252C642%26ssl%3d1&cdnurl=https%3a%2f%2fth.bing.com%2fth%2fid%2fR.8de04e2ec5830b244b1decb4e4812d73%3frik%3dSzRH5CQZcPo8MQ%26pid%3dImgRaw%26r%3d0&exph=642&expw=1004&q=ovata+o%c5%99e%c5%a1%c3%a1k+odr%c5%afda&FORM=IRPRST&ck=12EB81ECC0BA9658A4D5B88FD5A734F9&selectedIndex=28&itb=0
+              - img "Image result for ovata ořešák odrůda" [ref=f51e866]
+            - generic [ref=f51e867]:
+              - link "Ořešák vlašský, královský - pěstování a léčivé účinky - Zahrada a Příroda" [ref=f51e868] [cursor=pointer]:
+                - /url: /images/search?view=detailV2&ccid=jeBOLsWD&id=5C319162CCB6594775D9313CFA701924E447344B&thid=OIP.jeBOLsWDCyRLHey05IEtcwHaEv&mediaurl=https%3a%2f%2fi0.wp.com%2fwww.zahradaapriroda.cz%2fwp-content%2fuploads%2fO%c5%99echy.jpg%3ffit%3d1004%252C642%26ssl%3d1&cdnurl=https%3a%2f%2fth.bing.com%2fth%2fid%2fR.8de04e2ec5830b244b1decb4e4812d73%3frik%3dSzRH5CQZcPo8MQ%26pid%3dImgRaw%26r%3d0&exph=642&expw=1004&q=ovata+o%c5%99e%c5%a1%c3%a1k+odr%c5%afda&FORM=IRPRST&ck=12EB81ECC0BA9658A4D5B88FD5A734F9&selectedIndex=28&itb=0
+              - generic:
+                - generic:
+                  - list:
+                    - listitem:
+                      - link "Ořešák vlašský, královský - pěstování a léčivé účinky - Zahrada a Příroda" [ref=f51e869] [cursor=pointer]:
+                        - /url: /images/search?view=detailV2&ccid=jeBOLsWD&id=5C319162CCB6594775D9313CFA701924E447344B&thid=OIP.jeBOLsWDCyRLHey05IEtcwHaEv&mediaurl=https%3a%2f%2fi0.wp.com%2fwww.zahradaapriroda.cz%2fwp-content%2fuploads%2fO%c5%99echy.jpg%3ffit%3d1004%252C642%26ssl%3d1&cdnurl=https%3a%2f%2fth.bing.com%2fth%2fid%2fR.8de04e2ec5830b244b1decb4e4812d73%3frik%3dSzRH5CQZcPo8MQ%26pid%3dImgRaw%26r%3d0&exph=642&expw=1004&q=ovata+o%c5%99e%c5%a1%c3%a1k+odr%c5%afda&FORM=IRPRST&ck=12EB81ECC0BA9658A4D5B88FD5A734F9&selectedIndex=28&itb=0
+        - listitem [ref=f51e870]:
+          - generic [ref=f51e871]:
+            - link "Image result for ovata ořešák odrůda" [ref=f51e873] [cursor=pointer]:
+              - /url: /images/search?view=detailV2&ccid=nj8hSCpB&id=5C319162CCB6594775D9A5A38762819619858D76&thid=OIP.nj8hSCpBIXfw-KXcpq3ghQHaEb&mediaurl=https%3a%2f%2fi0.wp.com%2fwww.zahradaapriroda.cz%2fwp-content%2fuploads%2fVla%c5%a1sk%c3%a9-o%c5%99echy-ob%c5%99%c3%ad-a-b%c4%9b%c5%ben%c3%a9.jpg%3ffit%3d1004%252C601%26ssl%3d1&cdnurl=https%3a%2f%2fth.bing.com%2fth%2fid%2fR.9e3f21482a412177f0f8a5dca6ade085%3frik%3ddo2FGZaBYoejpQ%26pid%3dImgRaw%26r%3d0&exph=601&expw=1004&q=ovata+o%c5%99e%c5%a1%c3%a1k+odr%c5%afda&FORM=IRPRST&ck=6026BFA7E65F8F3BB5B92A31978E14F9&selectedIndex=29&itb=0
+              - img "Image result for ovata ořešák odrůda" [ref=f51e875]
+            - generic [ref=f51e876]:
+              - link "Ořešák vlašský, královský - pěstování a léčivé účinky - Zahrada a Příroda" [ref=f51e877] [cursor=pointer]:
+                - /url: /images/search?view=detailV2&ccid=nj8hSCpB&id=5C319162CCB6594775D9A5A38762819619858D76&thid=OIP.nj8hSCpBIXfw-KXcpq3ghQHaEb&mediaurl=https%3a%2f%2fi0.wp.com%2fwww.zahradaapriroda.cz%2fwp-content%2fuploads%2fVla%c5%a1sk%c3%a9-o%c5%99echy-ob%c5%99%c3%ad-a-b%c4%9b%c5%ben%c3%a9.jpg%3ffit%3d1004%252C601%26ssl%3d1&cdnurl=https%3a%2f%2fth.bing.com%2fth%2fid%2fR.9e3f21482a412177f0f8a5dca6ade085%3frik%3ddo2FGZaBYoejpQ%26pid%3dImgRaw%26r%3d0&exph=601&expw=1004&q=ovata+o%c5%99e%c5%a1%c3%a1k+odr%c5%afda&FORM=IRPRST&ck=6026BFA7E65F8F3BB5B92A31978E14F9&selectedIndex=29&itb=0
+              - generic:
+                - generic:
+                  - list:
+                    - listitem:
+                      - link "Ořešák vlašský, královský - pěstování a léčivé účinky - Zahrada a Příroda" [ref=f51e878] [cursor=pointer]:
+                        - /url: /images/search?view=detailV2&ccid=nj8hSCpB&id=5C319162CCB6594775D9A5A38762819619858D76&thid=OIP.nj8hSCpBIXfw-KXcpq3ghQHaEb&mediaurl=https%3a%2f%2fi0.wp.com%2fwww.zahradaapriroda.cz%2fwp-content%2fuploads%2fVla%c5%a1sk%c3%a9-o%c5%99echy-ob%c5%99%c3%ad-a-b%c4%9b%c5%ben%c3%a9.jpg%3ffit%3d1004%252C601%26ssl%3d1&cdnurl=https%3a%2f%2fth.bing.com%2fth%2fid%2fR.9e3f21482a412177f0f8a5dca6ade085%3frik%3ddo2FGZaBYoejpQ%26pid%3dImgRaw%26r%3d0&exph=601&expw=1004&q=ovata+o%c5%99e%c5%a1%c3%a1k+odr%c5%afda&FORM=IRPRST&ck=6026BFA7E65F8F3BB5B92A31978E14F9&selectedIndex=29&itb=0
+      - list [ref=f51e879]:
+        - listitem [ref=f51e880]:
+          - generic [ref=f51e881]:
+            - link "Image result for ovata ořešák odrůda" [ref=f51e883] [cursor=pointer]:
+              - /url: /images/search?view=detailV2&ccid=Q6G5xtNp&id=4C820B6F1C8028C765BADF60BC0B83C72A646E53&thid=OIP.Q6G5xtNpZQ-_QdRc3jLgagHaE7&mediaurl=https%3a%2f%2fizahradkar.cz%2fwp-content%2fuploads%2f2023%2f10%2fPri-sklizni-vlasskych-orechu-je-treba-dbat-na-jejich-dokonale-vysuseni.-Jinak-zplesniveji.-Na-obrazku-odruda-Sychrov.-1100x732.jpg&cdnurl=https%3a%2f%2fth.bing.com%2fth%2fid%2fR.43a1b9c6d369650fbf41d45cde32e06a%3frik%3dU25kKseDC7xg3w%26pid%3dImgRaw%26r%3d0&exph=732&expw=1100&q=ovata+o%c5%99e%c5%a1%c3%a1k+odr%c5%afda&FORM=IRPRST&ck=EAB590AA4C18B8843830E6385937D082&selectedIndex=30&itb=0
+              - img "Image result for ovata ořešák odrůda" [ref=f51e885]
+            - generic [ref=f51e886]:
+              - link "Skořápkaté a jiné | Zahrádkář" [ref=f51e887] [cursor=pointer]:
+                - /url: /images/search?view=detailV2&ccid=Q6G5xtNp&id=4C820B6F1C8028C765BADF60BC0B83C72A646E53&thid=OIP.Q6G5xtNpZQ-_QdRc3jLgagHaE7&mediaurl=https%3a%2f%2fizahradkar.cz%2fwp-content%2fuploads%2f2023%2f10%2fPri-sklizni-vlasskych-orechu-je-treba-dbat-na-jejich-dokonale-vysuseni.-Jinak-zplesniveji.-Na-obrazku-odruda-Sychrov.-1100x732.jpg&cdnurl=https%3a%2f%2fth.bing.com%2fth%2fid%2fR.43a1b9c6d369650fbf41d45cde32e06a%3frik%3dU25kKseDC7xg3w%26pid%3dImgRaw%26r%3d0&exph=732&expw=1100&q=ovata+o%c5%99e%c5%a1%c3%a1k+odr%c5%afda&FORM=IRPRST&ck=EAB590AA4C18B8843830E6385937D082&selectedIndex=30&itb=0
+              - generic:
+                - generic:
+                  - list:
+                    - listitem:
+                      - link "Skořápkaté a jiné | Zahrádkář" [ref=f51e888] [cursor=pointer]:
+                        - /url: /images/search?view=detailV2&ccid=Q6G5xtNp&id=4C820B6F1C8028C765BADF60BC0B83C72A646E53&thid=OIP.Q6G5xtNpZQ-_QdRc3jLgagHaE7&mediaurl=https%3a%2f%2fizahradkar.cz%2fwp-content%2fuploads%2f2023%2f10%2fPri-sklizni-vlasskych-orechu-je-treba-dbat-na-jejich-dokonale-vysuseni.-Jinak-zplesniveji.-Na-obrazku-odruda-Sychrov.-1100x732.jpg&cdnurl=https%3a%2f%2fth.bing.com%2fth%2fid%2fR.43a1b9c6d369650fbf41d45cde32e06a%3frik%3dU25kKseDC7xg3w%26pid%3dImgRaw%26r%3d0&exph=732&expw=1100&q=ovata+o%c5%99e%c5%a1%c3%a1k+odr%c5%afda&FORM=IRPRST&ck=EAB590AA4C18B8843830E6385937D082&selectedIndex=30&itb=0
+        - listitem [ref=f51e889]:
+          - generic [ref=f51e890]:
+            - link "Image result for ovata ořešák odrůda" [ref=f51e892] [cursor=pointer]:
+              - /url: /images/search?view=detailV2&ccid=Seif%2fR4p&id=3A188BE608E1FEBC5DD9CA1A81064C467746F9D7&thid=OIP.Seif_R4p9ZdbHECpXiprwAHaLH&mediaurl=https%3a%2f%2fdam.production.vlm.nmheagle.sk%2fapi%2fimage%2f640x960%2f939%2f939a3fe9-9717-46a5-8355-c6275d4005b0.webp&cdnurl=https%3a%2f%2fth.bing.com%2fth%2fid%2fR.49e89ffd1e29f5975b1c40a95e2a6bc0%3frik%3d1%252flGd0ZMBoEayg%26pid%3dImgRaw%26r%3d0&exph=960&expw=640&q=ovata+o%c5%99e%c5%a1%c3%a1k+odr%c5%afda&FORM=IRPRST&ck=69F27F8C0D0AC8A2667F718CD5029540&selectedIndex=31&itb=0
+              - img "Image result for ovata ořešák odrůda" [ref=f51e894]
+            - generic [ref=f51e895]:
+              - 'link "Galerie: Encyklopedie rostlin: Vlašský ořech – Dumazahrada.cz" [ref=f51e896] [cursor=pointer]':
+                - /url: /images/search?view=detailV2&ccid=Seif%2fR4p&id=3A188BE608E1FEBC5DD9CA1A81064C467746F9D7&thid=OIP.Seif_R4p9ZdbHECpXiprwAHaLH&mediaurl=https%3a%2f%2fdam.production.vlm.nmheagle.sk%2fapi%2fimage%2f640x960%2f939%2f939a3fe9-9717-46a5-8355-c6275d4005b0.webp&cdnurl=https%3a%2f%2fth.bing.com%2fth%2fid%2fR.49e89ffd1e29f5975b1c40a95e2a6bc0%3frik%3d1%252flGd0ZMBoEayg%26pid%3dImgRaw%26r%3d0&exph=960&expw=640&q=ovata+o%c5%99e%c5%a1%c3%a1k+odr%c5%afda&FORM=IRPRST&ck=69F27F8C0D0AC8A2667F718CD5029540&selectedIndex=31&itb=0
+              - generic:
+                - generic:
+                  - list:
+                    - listitem:
+                      - 'link "Galerie: Encyklopedie r…" [ref=f51e897] [cursor=pointer]':
+                        - /url: /images/search?view=detailV2&ccid=Seif%2fR4p&id=3A188BE608E1FEBC5DD9CA1A81064C467746F9D7&thid=OIP.Seif_R4p9ZdbHECpXiprwAHaLH&mediaurl=https%3a%2f%2fdam.production.vlm.nmheagle.sk%2fapi%2fimage%2f640x960%2f939%2f939a3fe9-9717-46a5-8355-c6275d4005b0.webp&cdnurl=https%3a%2f%2fth.bing.com%2fth%2fid%2fR.49e89ffd1e29f5975b1c40a95e2a6bc0%3frik%3d1%252flGd0ZMBoEayg%26pid%3dImgRaw%26r%3d0&exph=960&expw=640&q=ovata+o%c5%99e%c5%a1%c3%a1k+odr%c5%afda&FORM=IRPRST&ck=69F27F8C0D0AC8A2667F718CD5029540&selectedIndex=31&itb=0
+        - listitem [ref=f51e898]:
+          - generic [ref=f51e899]:
+            - link "Image result for ovata ořešák odrůda" [ref=f51e901] [cursor=pointer]:
+              - /url: /images/search?view=detailV2&ccid=mZJAKeey&id=550CE952B31E7F77289ABCF76222EE24FCE95F7B&thid=OIP.mZJAKeeyYE7FZfV8JZdk2gHaE7&mediaurl=https%3a%2f%2fwww.ireceptar.cz%2fimages%2fapi%2fimage%2f1366x910%2fd6d%2fd6d69d5f-7bfe-49fd-bd81-782e183afb27.jpeg&cdnurl=https%3a%2f%2fth.bing.com%2fth%2fid%2fR.99924029e7b2604ec565f57c259764da%3frik%3de1%252fp%252fCTuImL3vA%26pid%3dImgRaw%26r%3d0&exph=910&expw=1366&q=ovata+o%c5%99e%c5%a1%c3%a1k+odr%c5%afda&FORM=IRPRST&ck=8FF05E1157437F33CD1E7FFF5DADB57E&selectedIndex=32&itb=0
+              - img "Image result for ovata ořešák odrůda" [ref=f51e903]
+            - generic [ref=f51e904]:
+              - 'link "Galerie: Ořešák můžete vysadit i na jaře. Jak jej správně vybrat a ..." [ref=f51e905] [cursor=pointer]':
+                - /url: /images/search?view=detailV2&ccid=mZJAKeey&id=550CE952B31E7F77289ABCF76222EE24FCE95F7B&thid=OIP.mZJAKeeyYE7FZfV8JZdk2gHaE7&mediaurl=https%3a%2f%2fwww.ireceptar.cz%2fimages%2fapi%2fimage%2f1366x910%2fd6d%2fd6d69d5f-7bfe-49fd-bd81-782e183afb27.jpeg&cdnurl=https%3a%2f%2fth.bing.com%2fth%2fid%2fR.99924029e7b2604ec565f57c259764da%3frik%3de1%252fp%252fCTuImL3vA%26pid%3dImgRaw%26r%3d0&exph=910&expw=1366&q=ovata+o%c5%99e%c5%a1%c3%a1k+odr%c5%afda&FORM=IRPRST&ck=8FF05E1157437F33CD1E7FFF5DADB57E&selectedIndex=32&itb=0
+              - generic:
+                - generic:
+                  - list:
+                    - listitem:
+                      - 'link "Galerie: Ořešák můžete vysadit i na jaře. Jak jej správně vybrat a ..." [ref=f51e906] [cursor=pointer]':
+                        - /url: /images/search?view=detailV2&ccid=mZJAKeey&id=550CE952B31E7F77289ABCF76222EE24FCE95F7B&thid=OIP.mZJAKeeyYE7FZfV8JZdk2gHaE7&mediaurl=https%3a%2f%2fwww.ireceptar.cz%2fimages%2fapi%2fimage%2f1366x910%2fd6d%2fd6d69d5f-7bfe-49fd-bd81-782e183afb27.jpeg&cdnurl=https%3a%2f%2fth.bing.com%2fth%2fid%2fR.99924029e7b2604ec565f57c259764da%3frik%3de1%252fp%252fCTuImL3vA%26pid%3dImgRaw%26r%3d0&exph=910&expw=1366&q=ovata+o%c5%99e%c5%a1%c3%a1k+odr%c5%afda&FORM=IRPRST&ck=8FF05E1157437F33CD1E7FFF5DADB57E&selectedIndex=32&itb=0
+        - listitem [ref=f51e907]:
+          - generic [ref=f51e908]:
+            - link "Image result for ovata ořešák odrůda" [ref=f51e910] [cursor=pointer]:
+              - /url: /images/search?view=detailV2&ccid=Pdzs1m0A&id=F3474D9FABEEB47E01EFACE167CB1540DB21CB43&thid=OIP.Pdzs1m0AVDxnIhohAKsjDwHaDs&mediaurl=https%3a%2f%2fwww.treesome.cz%2fuser%2farticles%2fimages%2f10.png&cdnurl=https%3a%2f%2fth.bing.com%2fth%2fid%2fR.3ddcecd66d00543c67221a2100ab230f%3frik%3dQ8sh20AVy2fhrA%26pid%3dImgRaw%26r%3d0&exph=710&expw=1422&q=ovata+o%c5%99e%c5%a1%c3%a1k+odr%c5%afda&FORM=IRPRST&ck=4C2B1CB3FB5200769475448C817839BA&selectedIndex=33&itb=0
+              - img "Image result for ovata ořešák odrůda" [ref=f51e912]
+            - generic [ref=f51e913]:
+              - link "10 zajímavostí o ořešáku - Treesome" [ref=f51e914] [cursor=pointer]:
+                - /url: /images/search?view=detailV2&ccid=Pdzs1m0A&id=F3474D9FABEEB47E01EFACE167CB1540DB21CB43&thid=OIP.Pdzs1m0AVDxnIhohAKsjDwHaDs&mediaurl=https%3a%2f%2fwww.treesome.cz%2fuser%2farticles%2fimages%2f10.png&cdnurl=https%3a%2f%2fth.bing.com%2fth%2fid%2fR.3ddcecd66d00543c67221a2100ab230f%3frik%3dQ8sh20AVy2fhrA%26pid%3dImgRaw%26r%3d0&exph=710&expw=1422&q=ovata+o%c5%99e%c5%a1%c3%a1k+odr%c5%afda&FORM=IRPRST&ck=4C2B1CB3FB5200769475448C817839BA&selectedIndex=33&itb=0
+              - generic:
+                - generic:
+                  - list:
+                    - listitem:
+                      - link "10 zajímavostí o ořešáku - Treesome" [ref=f51e915] [cursor=pointer]:
+                        - /url: /images/search?view=detailV2&ccid=Pdzs1m0A&id=F3474D9FABEEB47E01EFACE167CB1540DB21CB43&thid=OIP.Pdzs1m0AVDxnIhohAKsjDwHaDs&mediaurl=https%3a%2f%2fwww.treesome.cz%2fuser%2farticles%2fimages%2f10.png&cdnurl=https%3a%2f%2fth.bing.com%2fth%2fid%2fR.3ddcecd66d00543c67221a2100ab230f%3frik%3dQ8sh20AVy2fhrA%26pid%3dImgRaw%26r%3d0&exph=710&expw=1422&q=ovata+o%c5%99e%c5%a1%c3%a1k+odr%c5%afda&FORM=IRPRST&ck=4C2B1CB3FB5200769475448C817839BA&selectedIndex=33&itb=0
+        - listitem [ref=f51e916]:
+          - generic [ref=f51e917]:
+            - link "Image result for ovata ořešák odrůda" [ref=f51e919] [cursor=pointer]:
+              - /url: /images/search?view=detailV2&ccid=Gnw%2biOZP&id=534670CE457C7424F5859DFB99AE43652DC723F4&thid=OIP.Gnw-iOZPZAA8toX3iRqvTgHaE7&mediaurl=https%3a%2f%2fdam.production.vlm.nmheagle.sk%2fapi%2fimage%2f640x426%2f6e7%2f6e71f7cc-6365-41e1-bd34-f510b91b9dd9.webp&cdnurl=https%3a%2f%2fth.bing.com%2fth%2fid%2fR.1a7c3e88e64f64003cb685f7891aaf4e%3frik%3d9CPHLWVDrpn7nQ%26pid%3dImgRaw%26r%3d0&exph=426&expw=640&q=ovata+o%c5%99e%c5%a1%c3%a1k+odr%c5%afda&FORM=IRPRST&ck=0387E7AEE0CA61F0A07B55B289283F07&selectedIndex=34&itb=0
+              - img "Image result for ovata ořešák odrůda" [ref=f51e921]
+            - generic [ref=f51e922]:
+              - link "Listy ořešáku jsou zázrak i na hemoroidy. Použijte je správně, za pár ..." [ref=f51e923] [cursor=pointer]:
+                - /url: /images/search?view=detailV2&ccid=Gnw%2biOZP&id=534670CE457C7424F5859DFB99AE43652DC723F4&thid=OIP.Gnw-iOZPZAA8toX3iRqvTgHaE7&mediaurl=https%3a%2f%2fdam.production.vlm.nmheagle.sk%2fapi%2fimage%2f640x426%2f6e7%2f6e71f7cc-6365-41e1-bd34-f510b91b9dd9.webp&cdnurl=https%3a%2f%2fth.bing.com%2fth%2fid%2fR.1a7c3e88e64f64003cb685f7891aaf4e%3frik%3d9CPHLWVDrpn7nQ%26pid%3dImgRaw%26r%3d0&exph=426&expw=640&q=ovata+o%c5%99e%c5%a1%c3%a1k+odr%c5%afda&FORM=IRPRST&ck=0387E7AEE0CA61F0A07B55B289283F07&selectedIndex=34&itb=0
+              - generic:
+                - generic:
+                  - list:
+                    - listitem:
+                      - link "Listy ořešáku jsou zázrak i na hemoroidy. Použijte je správně, …" [ref=f51e924] [cursor=pointer]:
+                        - /url: /images/search?view=detailV2&ccid=Gnw%2biOZP&id=534670CE457C7424F5859DFB99AE43652DC723F4&thid=OIP.Gnw-iOZPZAA8toX3iRqvTgHaE7&mediaurl=https%3a%2f%2fdam.production.vlm.nmheagle.sk%2fapi%2fimage%2f640x426%2f6e7%2f6e71f7cc-6365-41e1-bd34-f510b91b9dd9.webp&cdnurl=https%3a%2f%2fth.bing.com%2fth%2fid%2fR.1a7c3e88e64f64003cb685f7891aaf4e%3frik%3d9CPHLWVDrpn7nQ%26pid%3dImgRaw%26r%3d0&exph=426&expw=640&q=ovata+o%c5%99e%c5%a1%c3%a1k+odr%c5%afda&FORM=IRPRST&ck=0387E7AEE0CA61F0A07B55B289283F07&selectedIndex=34&itb=0
+  - button "Feedback" [ref=f51e927] [cursor=pointer]
+  - contentinfo [ref=f51e929]:
+    - generic [ref=f51e930]:
+      - generic [ref=f51e931]: © 2026 Microsoft
+      - list:
+        - listitem [ref=f51e932]:
+          - link "Privacy" [ref=f51e933] [cursor=pointer]:
+            - /url: http://go.microsoft.com/fwlink/?LinkId=521839
+        - listitem [ref=f51e934]:
+          - link "Terms" [ref=f51e935] [cursor=pointer]:
+            - /url: http://go.microsoft.com/fwlink/?LinkID=246338
+        - listitem [ref=f51e936]:
+          - link "Advertise" [ref=f51e937] [cursor=pointer]:
+            - /url: https://go.microsoft.com/fwlink/?linkid=868922
+        - listitem [ref=f51e938]:
+          - link "Help" [ref=f51e939] [cursor=pointer]:
+            - /url: https://support.microsoft.com/topic/82d20721-2d6f-4012-a13d-d1910ccf203f
+        - listitem [ref=f51e940]:
+          - button "Feedback" [ref=f51e941] [cursor=pointer]
+  - dialog "Quick Search"
